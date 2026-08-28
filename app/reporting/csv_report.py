@@ -5,10 +5,15 @@ from app.models.crawl_result import TargetCrawlReport
 
 
 class CsvReportGenerator:
-    """Generates structured CSV matrix for data analytics and spreadsheet imports."""
+    """Generates structured CSV/PSV matrix for data analytics and spreadsheet imports."""
 
     @classmethod
-    def generate(cls, reports: List[TargetCrawlReport], output_path: str = "reports/retailer_matrix.csv") -> str:
+    def generate(
+        cls,
+        reports: List[TargetCrawlReport],
+        output_path: str = "reports/retailer_matrix.csv",
+        delimiter: str = ","
+    ) -> str:
         out_file = Path(output_path)
         out_file.parent.mkdir(parents=True, exist_ok=True)
 
@@ -61,8 +66,22 @@ class CsvReportGenerator:
             ])
 
         with open(out_file, "w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
+            writer = csv.writer(f, delimiter=delimiter, quoting=csv.QUOTE_MINIMAL)
             writer.writerow(headers)
             writer.writerows(rows)
 
         return str(out_file)
+
+
+class PsvReportGenerator(CsvReportGenerator):
+    """Specialized generator producing standard pipe-separated (PSV) reports."""
+
+    @classmethod
+    def generate(
+        cls,
+        reports: List[TargetCrawlReport],
+        output_path: str = "reports/retailer_matrix.psv",
+        delimiter: str = "|"
+    ) -> str:
+        return super().generate(reports, output_path=output_path, delimiter=delimiter)
+
