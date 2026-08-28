@@ -80,9 +80,15 @@ export const ScreenshotViewer: React.FC<ScreenshotViewerProps> = ({ screenshotIn
             >
               <div className="bg-slate-950 p-2 border-b border-slate-800 flex items-center justify-center min-h-[160px] relative overflow-hidden">
                 <img
-                  src={`/screenshots/${filename}`}
+                  src={item.file ? (item.file.startsWith('/') ? item.file : `/evidence/screenshots/${item.file}`) : `/screenshots/${filename}`}
                   alt={item.title}
                   className="w-full h-auto rounded-lg object-contain max-h-[180px] group-hover:scale-105 transition-transform duration-300"
+                  onError={(e: any) => {
+                    e.target.style.display = 'none';
+                    if (e.target.parentElement) {
+                      e.target.parentElement.innerHTML = '<div class="p-6 text-center text-xs text-slate-500 font-mono flex flex-col items-center gap-1"><span class="text-slate-400 font-bold">Screenshot Unavailable</span><span>Archive asset pending</span></div>';
+                    }
+                  }}
                 />
                 <div className="absolute inset-0 bg-intel-blue/20 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
                   <span className="px-3 py-1.5 rounded-xl bg-slate-900/90 text-intel-cyan text-xs font-bold flex items-center gap-1.5 shadow-xl">
@@ -127,9 +133,15 @@ export const ScreenshotViewer: React.FC<ScreenshotViewerProps> = ({ screenshotIn
             </div>
             <div className="p-6 overflow-y-auto bg-slate-950 flex items-center justify-center">
               <img
-                src={`/screenshots/${selectedImage.file?.split('/').pop()}`}
+                src={selectedImage.file ? (selectedImage.file.startsWith('/') ? selectedImage.file : `/evidence/screenshots/${selectedImage.file}`) : `/screenshots/${selectedImage.file?.split('/').pop()}`}
                 alt="Selected reference"
                 className="w-full h-auto max-h-[70vh] object-contain rounded-xl"
+                onError={(e: any) => {
+                  e.target.style.display = 'none';
+                  if (e.target.parentElement) {
+                    e.target.parentElement.innerHTML = '<div class="p-12 text-center text-sm text-slate-400 font-mono">Image asset unavailable on disk</div>';
+                  }
+                }}
               />
             </div>
           </div>

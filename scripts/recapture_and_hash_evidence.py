@@ -251,6 +251,7 @@ def main():
         # B. Screenshot Processing
         screenshot_rel_path = ""
         screenshot_sha256 = None
+        screenshot_available = False
 
         if matched_screen_path and os.path.exists(matched_screen_path):
             dest_screen_name = f"product_{sku_slug}.png"
@@ -266,6 +267,7 @@ def main():
 
             screenshot_rel_path = f"/evidence/screenshots/{account_slug}/{dest_screen_name}"
             screenshot_sha256 = compute_file_sha256(str(dest_file))
+            screenshot_available = True
             stats["screenshots_captured"] += 1
             stats["retailer_stats"][retailer]["screenshots"] += 1
 
@@ -296,8 +298,8 @@ def main():
             "provider_request_id": None, # Kept null truthfully
             "captured_at": sku.get("date") or sku.get("scraped_at") or "2026-08-27",
             "recorded_at": "2026-08-28T12:00:00Z",
-            "access_status": "SUCCESS" if (product_url and product_url.startswith("http")) else "CONTENT_NOT_PRESENT",
-            "artifact_sha256": screenshot_sha256 or raw_html_sha256 or compute_sha256(f"{sku_key}-{product_url}".encode()),
+            "access_status": "VERIFIED_ON_DISK" if screenshot_available else "EVIDENCE_UNAVAILABLE",
+            "artifact_sha256": screenshot_sha256 or raw_html_sha256 or None,
         }
         stats["complete_provenance"] += 1
 
@@ -305,6 +307,8 @@ def main():
         updated_sku["product_screenshot"] = screenshot_rel_path
         updated_sku["screenshot_path"] = screenshot_rel_path
         updated_sku["screenshot_sha256"] = screenshot_sha256
+        updated_sku["screenshot_url"] = screenshot_rel_path if screenshot_available else ""
+        updated_sku["screenshot_available"] = screenshot_available
         updated_sku["rich_media_evidence"] = rich_media
         updated_sku["provenance"] = provenance
 
