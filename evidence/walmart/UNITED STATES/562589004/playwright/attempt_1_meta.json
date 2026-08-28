@@ -1,0 +1,34 @@
+{
+  "attempt_number": 1,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 404,
+  "response_time_ms": 7383.54,
+  "browser_seconds": 7.466519639012404,
+  "bytes_received": 381254,
+  "success": false,
+  "evidence_path": "evidence/walmart/UNITED STATES/562589004/playwright/raw.html",
+  "screenshot_path": "evidence/walmart/UNITED STATES/562589004/playwright/screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "ACCESS",
+    "specific_reason": "CAPTCHA_CHALLENGE",
+    "stage": "CONTENT_AVAILABILITY",
+    "failure_reason_human": "Crawl halted by automated challenge (Akamai Bot Manager).",
+    "http_status": 404,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "PLAYWRIGHT",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": "Akamai Bot Manager",
+    "timestamp": "2026-08-23T16:07:12.819647+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "page_title_excerpt": "<!doctype html><html lang=\"en-us\"><head><meta charset=\"utf-8\"><meta property=\"fb:app_id\" content=\"105223049547814\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1",
+      "vendor": "Akamai Bot Manager"
+    }
+  },
+  "timestamp": "2026-08-23T16:07:12.819716+00:00"
+}

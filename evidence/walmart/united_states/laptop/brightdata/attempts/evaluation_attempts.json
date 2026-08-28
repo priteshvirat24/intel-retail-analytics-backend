@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.walmart.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 6231.3,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.walmart.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 21084.7,
+    "bytes": 1539038,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Moonstone-Purple/5113175776?classType=VARIANT&athbdg=L1600&from=/search",
+    "status_code": 200,
+    "latency_ms": 13948.4,
+    "product_title": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Moonstone Purple",
+    "brand": "ACER",
+    "price": 235.75,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "PerimeterX / HUMAN"
+  }
+]

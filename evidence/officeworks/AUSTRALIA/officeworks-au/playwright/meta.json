@@ -1,0 +1,16 @@
+{
+  "target_id": "officeworks-au",
+  "strategy": "PLAYWRIGHT",
+  "laptop_url": "https://www.officeworks.com.au/product/sku_0011",
+  "status_code": 405,
+  "latency_ms": 5116.99,
+  "bytes": 9519,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "CAPTCHA_PAGE",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

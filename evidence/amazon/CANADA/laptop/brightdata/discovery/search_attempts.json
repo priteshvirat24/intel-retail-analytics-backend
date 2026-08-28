@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.amazon.ca/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 7323.7,
+    "html_bytes": 2104885
+  }
+]

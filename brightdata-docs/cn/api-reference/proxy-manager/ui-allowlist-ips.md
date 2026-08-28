@@ -1,0 +1,109 @@
+> ## Documentation Index
+> Fetch the complete documentation index at: https://docs.brightdata.com/llms.txt
+> Use this file to discover all available pages before exploring further.
+
+# 建立访问用户界面的 IP 白名单
+
+**API 端点:** `PUT` `/api/add_whitelist_ip`
+
+<ParamField header="Authorization" type="string" required>
+  API 令牌
+
+  <Tip>
+    应通过“生成令牌 API”命令生成令牌
+
+    [Generate API Key](/cn/api-reference/proxy-manager/generate_token_for_token_based_authentication)
+  </Tip>
+</ParamField>
+
+## `PUT` body
+
+<ParamField body="ip" type="string" required>
+  要列入白名单的 IP，例如 `ip="1.2.1.2"`
+</ParamField>
+
+<RequestExample>
+  ```sh Shell theme={null}
+  curl -X PUT "http://127.0.0.1:22999/api/whitelist_ip" -H "Authorization: API key" -H "Content-Type: application/json" -d '{"ip":"1.2.1.2"}'
+  ```
+
+  ```js NodeJS theme={null}
+  #!/usr/bin/env node
+
+  require('request-promise')({
+    method: 'PUT',
+    url: 'http://127.0.0.1:22999/api/add_whitelist_ip',
+    json: {'ip':'1.2.1.2'},
+    headers: {'Authorization': 'API key'},
+  }).then(function(data){ console.log(data); },
+
+  function(err){ console.error(err); });
+  ```
+
+  ```java Java theme={null}
+  package example;
+
+  import org.apache.http.HttpHost;
+  import org.apache.http.client.fluent.\*;
+
+
+  public class Example {
+      public static void main(String[] args) throws Exception {
+      String body = "{\"ip\":\"1.2.1.2\"}";
+      String res = Executor.newInstance()
+        .addHeader("Authorization", "API key")
+        .execute(Request.Put("http://127.0.0.1:22999/api/add_whitelist_ip")
+        .bodyString(body, ContentType.APPLICATION_JSON))
+        .returnContent()
+        .asString();
+      
+      System.out.println(res)
+      }
+  }
+  ```
+
+  ```cs C# theme={null}
+  using System;
+  using System.Net;
+  using System.Net.Http;
+  using System.Net.Http.Headers;
+
+
+  public class Program {
+    public static async Task Main() {
+      var client = new HttpClient();
+      var requestMessage = new HttpRequestMessage {
+        Method = HttpMethod.Put,
+        RequestUri = new Uri("http://127.0.0.1:22999/api/add_whitelist_ip"),
+        Headers = {{"Authorization", "API key"}},
+        Content = new StringContent(JsonConvert.SerializeObject(new {
+          ip = "1.2.1.2"
+        }), Encoding.UTF8, "application/json")
+      };
+
+      var response = await client.SendAsync(requestMessage);
+      var responseString = await response.Content.ReadAsStringAsync();
+
+      Console.WriteLine(responseString);
+    }
+  }
+  ```
+
+  ```python Python theme={null}
+  #!/usr/bin/env python
+
+  import json
+  import requests
+
+  data = {'ip':'1.2.1.2'}
+  headers = {'Authorization': 'API key'}
+
+  r = requests.put(
+      'http://127.0.0.1:22999/api/add_whitelist_ip',
+      data=json.dumps(data)
+
+  )
+
+  print(r.content)
+  ```
+</RequestExample>

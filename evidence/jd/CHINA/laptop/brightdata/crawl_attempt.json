@@ -1,0 +1,17 @@
+{
+  "target_id": "jd-cn",
+  "retailer": "Jd",
+  "country": "China",
+  "country_iso": "cn",
+  "url": "https://www.jd.com",
+  "status_code": 200,
+  "response_time_ms": 4191.5,
+  "can_scrape": "NO",
+  "confidence_score": 0.3,
+  "product_name": "\u4eac\u4e1c\u5168\u7403\u7248-\u4e13\u4e1a\u7684\u7efc\u5408\u7f51\u4e0a\u8d2d\u7269\u5546\u57ce",
+  "brand": null,
+  "price": 7.0,
+  "currency": null,
+  "sku": null,
+  "reason": "Peripheral/Accessory SKU reached instead of standalone laptop computer"
+}

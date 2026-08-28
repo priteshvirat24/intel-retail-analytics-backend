@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.boulanger.com/s?k=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 29925.8,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.boulanger.com/recherche?q=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 27851.3,
+    "html_bytes": 72
+  }
+]

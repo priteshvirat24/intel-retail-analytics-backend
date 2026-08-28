@@ -1,0 +1,14 @@
+{
+  "target_id": "jd-cn",
+  "retailer": "JD",
+  "country": "China",
+  "domain": "jd.com",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_SERP_DISCOVERY",
+  "method": "SERP\u2192Direct",
+  "url": "https://www.jd.com/hprm/670d225b638ce3cbbda.html",
+  "title": "Lenovo ThinkPad - \u4eac\u4e1c",
+  "brand": "Lenovo",
+  "specs": {},
+  "timestamp": "2026-08-25T14:00:02.090094+00:00"
+}

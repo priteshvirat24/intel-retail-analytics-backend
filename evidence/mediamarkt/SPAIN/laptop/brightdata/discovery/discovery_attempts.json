@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.es/s?k=portatil",
+    "status_code": 200,
+    "latency_ms": 29009.5,
+    "bytes": 942365,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.es/search?q=portatil",
+    "status_code": 200,
+    "latency_ms": 11360.4,
+    "bytes": 651816,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.es/laptops",
+    "status_code": 200,
+    "latency_ms": 26002.8,
+    "bytes": 651087,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

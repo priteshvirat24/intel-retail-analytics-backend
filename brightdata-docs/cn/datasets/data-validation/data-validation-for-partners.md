@@ -1,0 +1,166 @@
+> ## Documentation Index
+> Fetch the complete documentation index at: https://docs.brightdata.com/llms.txt
+> Use this file to discover all available pages before exploring further.
+
+# 合作伙伴数据验证
+
+## 概述
+
+我们正在推出新的数据暂存流程，使开发人员和所有者都能在交付数据集之前验证和批准数据集。
+
+这一系统将便于错误处理、验证检查和客户定制，确保准确性和可靠性。
+
+它将协助每个人节省时间，减少开启工单的次数，并保持所需质量水平，以保持我们想要的品质水平。
+
+<img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/flowchart.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=ca4afc5308c479971452383206142d7b" alt="flowchart.png" width="1600" height="651" data-path="images/datasets/data-validation/data-validation-for-partners/flowchart.png" />
+
+## 运行机制：
+
+数据集快照准备就绪后，我们将运行其验证测试。
+
+<Tabs>
+  <Tab title="✅ 如果所有验证测试都没问题">
+    客户将获得数据集快照，并在 CP 上显示所有测试均已通过。
+  </Tab>
+
+  <Tab title="❌ 如果所有/部分验证测试失败">
+    合作方将审查问题并选择：
+
+    1. 修复失败的测试
+    2. 将快照按原样交付给客户（**并解释为什么该测试失败但仍被覆盖**）。
+
+    随后客户可以决定（针对每个失败测试或批量操作）：
+
+    1. 是否愿意按原样接受
+    2. 仅在此特定快照中按原样接受
+    3. 拒绝并将其退回给合作方，以修复需要修复的内容
+  </Tab>
+</Tabs>
+
+客户批准后，快照将进入交付阶段。
+
+## 验证测试
+
+<AccordionGroup>
+  <Accordion title="独特性">
+    确保数据集中唯一值的最小百分比。
+  </Accordion>
+
+  <Accordion title="填写率">
+    确保填写值的最低百分比。
+  </Accordion>
+
+  <Accordion title="持久性验证">
+    填写后将字段设为必填字段；如果之后留空，则会触发错误。
+  </Accordion>
+
+  <Accordion title="数据稳定性">
+    与先前的值相比，数值编号的变化幅度不得超过 X。
+  </Accordion>
+
+  <Accordion title="类型验证">
+    根据其字段类型（例如字符串、数字、日期）检查每个条目的数据类型，以确保完整性并在处理之前标记为不匹配以进行更正。
+  </Accordion>
+
+  <Accordion title="架构和字段自定义验证">
+    建立自定义规则以验证特定字段是否存在以及字段值是否有效，例如要求大小字符串为 “S”、“M” 或 “L”；任何其他值均视为错误。
+  </Accordion>
+
+  <Accordion title="最低记录阈值">
+    初始数据集需要至少 X 条记录（在特定 URL 中，应符合总网址输入中最少 X 条记录）
+  </Accordion>
+
+  <Accordion title="数据大小波动阈值">
+    验证 +/-X% 范围内的波动。
+  </Accordion>
+</AccordionGroup>
+
+## **主要组件和功能**
+
+<Frame caption="点击特定快照进行查看时">
+  <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/snapshots.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=044b29ea52c54f33f6abb035d18671d2" alt="snapshots.png" width="1093" height="398" data-path="images/datasets/data-validation/data-validation-for-partners/snapshots.png" />
+</Frame>
+
+<AccordionGroup>
+  <Accordion title="数据集测试视图">
+    数据集测试视图有三个筛选选项（“所有结果”、“通过”、“失败”）
+
+    <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/dataset-view.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=90a920477cfd89cb75d487059ad43c35" alt="dataset-view.png" width="1135" height="659" data-path="images/datasets/data-validation/data-validation-for-partners/dataset-view.png" />
+  </Accordion>
+
+  <Accordion title="“重新解析”按钮">
+    此操作让您可以重新解析缓存的数据
+
+    <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/reparse-button.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=fda2087b75569d42637cd438525cfa32" alt="reparse-button.png" width="965" height="422" data-path="images/datasets/data-validation/data-validation-for-partners/reparse-button.png" />
+  </Accordion>
+
+  <Accordion title="“忽略”按钮">
+    由于数据看起来很正常/或者特定数据集未达到阈值是合理的，则可以选择覆盖测试，（注意！ 如果需要进行覆盖，则需要向客户写一份解释）
+
+    <Frame>
+      <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/ignore-button.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=29b47e56f7600109932823441768a601" alt="ignore-button.png" width="683" height="326" data-path="images/datasets/data-validation/data-validation-for-partners/ignore-button.png" />
+
+      <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/undo-ignore.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=2f01caa2f98b7916d2764df5a890faf5" alt="undo-ignore.png" width="1052" height="248" data-path="images/datasets/data-validation/data-validation-for-partners/undo-ignore.png" />
+    </Frame>
+
+    <Frame>
+      <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/confirm-undo.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=74e92477a7aa2037955cda04616ac926" alt="confirm-undo.png" width="453" height="317" data-path="images/datasets/data-validation/data-validation-for-partners/confirm-undo.png" />
+    </Frame>
+  </Accordion>
+
+  <Accordion title="“显示相关记录”和“查看和编辑代码”">
+    如果测试失败，请点击“显示相关记录”以查看记录示例，然后点击“查看并编辑代码”进入 IDE 并开始修复问题
+
+    <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/view-edit-code.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=9db7adcadcb2d29133f0c142e5943101" alt="view-edit-code.png" width="683" height="326" data-path="images/datasets/data-validation/data-validation-for-partners/view-edit-code.png" />
+  </Accordion>
+
+  <Accordion title="“重新解析”或“重新爬取”按钮">
+    完成所需修复工作后，即可根据需要重新解析或重新爬取
+
+    <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/reparse-recrawl.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=b3f60cf4974f61bd360a791e9ac040f6" alt="reparse-recrawl.png" width="940" height="459" data-path="images/datasets/data-validation/data-validation-for-partners/reparse-recrawl.png" />
+  </Accordion>
+
+  <Accordion title="重新运行测试">
+    此操作可以让您在需要时再次运行验证测试
+
+    <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/rerun-tests.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=dbb307d62f28c47047908e220862e91f" alt="rerun-tests.png" width="1207" height="653" data-path="images/datasets/data-validation/data-validation-for-partners/rerun-tests.png" />
+  </Accordion>
+
+  <Accordion title="IDE 按钮">
+    此操作让您在需要编辑收集器并重新爬取（例如，如果根本没有记录）时，可以在上下文中重定向到 IDE
+
+    <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/ide-button.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=95f627d0351a37935dbb0d21360f71cb" alt="ide-button.png" width="1191" height="582" data-path="images/datasets/data-validation/data-validation-for-partners/ide-button.png" />
+  </Accordion>
+
+  <Accordion title="“交付数据集”按钮">
+    查看所需数据并修复/忽略问题后，您应该点击此按钮并将快照发送给所有者进行审查。 对于被忽略的测试，应提供理由来解释您为什么选择忽略测试
+
+    <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/deliver-dataset.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=037130d1c09c0600b90280ddf93ce02f" alt="deliver-dataset.png" width="693" height="219" data-path="images/datasets/data-validation/data-validation-for-partners/deliver-dataset.png" />
+  </Accordion>
+
+  <Accordion title="已拒绝的测试">
+    如果所有者未接受所有已拒绝的测试，则问题将发回给您，并将标有“已拒绝”标签以进行更多修复，然后重新发送给所有者审批
+
+    <img src="https://mintcdn.com/brightdata/0sd4eqxAli7ENzfc/images/datasets/data-validation/data-validation-for-partners/failed.png?fit=max&auto=format&n=0sd4eqxAli7ENzfc&q=85&s=d806269a35b2f0c99114d9bb6d7bc07e" alt="failed.png" width="1045" height="847" data-path="images/datasets/data-validation/data-validation-for-partners/failed.png" />
+  </Accordion>
+</AccordionGroup>
+
+## 通信和通知
+
+状态更改和其他通知将在 CP 上通过扩音器显示给您。
+
+## 工单和错误
+
+现在，我们引入暂存流程后，修复收集器并不是错误/问题的终点
+
+该过程包括两个步骤：
+
+1. 修复收集器
+2. 修复快照
+
+因此，将对错误处理工作流程进行修改，以便与新的两步流程保持一致。
+<Note>在快照交付给数据集所有者之前，不应允许将与验证问题相关的工单标记为“已解决”！</Note>
+
+## 对流程的更改：
+
+我们正在从工单上的选项中移除“解决”按钮

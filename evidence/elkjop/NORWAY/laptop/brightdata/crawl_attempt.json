@@ -1,0 +1,17 @@
+{
+  "target_id": "elkjop-no",
+  "retailer": "Elkjop",
+  "country": "Norway",
+  "country_iso": "no",
+  "url": "https://www.elkjop.no",
+  "status_code": 200,
+  "response_time_ms": 13371.4,
+  "can_scrape": "NO",
+  "confidence_score": 0.15,
+  "product_name": "Ukens deals",
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Peripheral/Accessory SKU reached instead of standalone laptop computer"
+}

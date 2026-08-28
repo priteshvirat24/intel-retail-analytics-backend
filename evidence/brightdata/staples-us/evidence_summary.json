@@ -1,0 +1,17 @@
+{
+  "target_id": "staples-us",
+  "retailer": "Staples",
+  "country": "United States",
+  "domain": "staples.com",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data Web Unlocker",
+  "url": "https://www.staples.com/hp-15-fd0083wm-15-6-laptop-intel-core-i3-n305-8gb-memory-256gb-ssd-windows-11-802k7ua-aba/product_24564883",
+  "title": "HP 15-fd0083wm 15.6\" Laptop, Intel Core i3-N305, 8GB Memory, 256GB SSD",
+  "brand": "HP",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:16:50.985513+00:00",
+  "failure_reason": null
+}

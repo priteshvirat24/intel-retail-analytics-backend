@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.bestbuy.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 4378.1,
+    "bytes": 499944,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.bestbuy.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 5236.1,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.bestbuy.com/laptops",
+    "status_code": 200,
+    "latency_ms": 8260.7,
+    "bytes": 909258,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.bestbuy.com/product/asus-proart-pz13-13-oled-3k-detachable-laptop-copilot-pc-snapdragon-x-plus-16gb-memory-1tb-ssd-nano-black/JJGGLQ6Z4X",
+    "status_code": 200,
+    "latency_ms": 39636.6,
+    "product_title": "ASUS - ProArt PZ13 13\" OLED 3K Detachable Laptop - Copilot+ PC - Snapdragon X Plus - 16GB Memory - 1TB SSD - Nano Black",
+    "brand": "ASUS",
+    "price": null,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "Google reCAPTCHA"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "target_id": "mediamarkt-es",
+  "retailer": "Mediamarkt",
+  "country": "Spain",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "mediamarkt.es",
+    "base_url": "https://www.mediamarkt.es",
+    "http_status": 403,
+    "redirect_chain": [],
+    "final_url": "https://www.mediamarkt.es",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 908.8
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediamarkt.es/search?q=laptop",
+      "status": 403,
+      "latency_ms": 861.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediamarkt.es/search?q=notebook",
+      "status": 403,
+      "latency_ms": 717.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediamarkt.es/s?k=laptop",
+      "status": 403,
+      "latency_ms": 807.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediamarkt.es/s?k=notebook",
+      "status": 403,
+      "latency_ms": 714.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.mediamarkt.es/laptops",
+      "status": 403,
+      "latency_ms": 696.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.mediamarkt.es",
+      "candidates_found": 0
+    }
+  ]
+}

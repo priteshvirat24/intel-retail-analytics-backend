@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.mediaexpert.pl/szukaj?q=laptop",
+    "status_code": 200,
+    "latency_ms": 13612.3,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mediaexpert.pl/laptopy",
+    "status_code": 200,
+    "latency_ms": 6057.7,
+    "html_bytes": 1149343
+  }
+]

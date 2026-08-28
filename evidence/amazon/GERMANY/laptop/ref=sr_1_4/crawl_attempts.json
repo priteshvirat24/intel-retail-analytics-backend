@@ -1,0 +1,34 @@
+{
+  "target_id": "amazon-de",
+  "laptop_url": "https://www.amazon.de/ASUS-FullHD-Notebook-Windows-8247/dp/B0FPD1G32N/ref=sr_1_4?dib=eyJ2IjoiMSJ9.CfjidRfJ8pMmDNKcmOSGrUG1zMWv8yeF-ufIYkXs_Go5WhNLONw2BtWGmryf5gFhud9RFTaLQ0q4BFt-LWfaBA4zyg-Jjazx164XsVQz0HKRS_J4fE6IOUsXRdMgqrTnzTPOJH8jZoOiQpgpex57IV7RC-SIGRXk4aod-HUFyhJ8g7i1BrYLNDLdndM0a0TcyDxiRh2wwf496AbrUmsvb9osL2-Q2QqzFEFMPk5CBJg.XVjgijIJFGlwfwrSoF02WX0bym-f1MzBNFINZJow36o&dib_tag=se&keywords=notebook&qid=1787559192&sr=8-4",
+  "http": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.55,
+    "failure_class": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "failure_vendor": null,
+    "latency_ms": 3309.2
+  },
+  "playwright": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.55,
+    "failure_class": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "failure_vendor": null,
+    "latency_ms": 12946.6
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "WAF_BOT_CHALLENGE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_RETAILER_BLOCK",
+    "latency_ms": 18891.5
+  },
+  "adapter": "NO",
+  "extracted_product": null
+}

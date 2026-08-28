@@ -1,0 +1,19 @@
+{
+  "target_id": "currys-gb",
+  "retailer": "Currys",
+  "country": "United Kingdom",
+  "domain": "currys.co.uk",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.currys.co.uk/products/hp-15fc0536sa-15.6-laptop-amd-ryzen-3-256-gb-jet-black-10282701.html",
+  "title": "HP 15-fc0536sa 15.6\" Laptop - AMD Ryzen 3, 256 GB, Jet ...",
+  "brand": "HP",
+  "specs": {
+    "screen_size": "15.6\"",
+    "cpu": "Ryzen 3",
+    "storage": "256 GB"
+  },
+  "timestamp": "2026-08-25T14:22:16.821472+00:00",
+  "failure_reason": null
+}

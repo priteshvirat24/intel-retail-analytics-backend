@@ -1,0 +1,35 @@
+{
+  "target_id": "bestbuy-us",
+  "laptop_url": "https://www.bestbuy.com/product/asus-proart-pz13-13-oled-3k-detachable-laptop-copilot-pc-snapdragon-x-plus-16gb-memory-1tb-ssd-nano-black/JJGGLQ6Z4X",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 212.1
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 2810.2
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 500,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_HTTP_ERROR",
+    "latency_ms": 4283.3
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

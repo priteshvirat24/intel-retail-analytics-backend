@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.jbhifi.com.au/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 10624.6,
+    "bytes": 1251268,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.jbhifi.com.au/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 3550.1,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.jbhifi.com.au/laptops",
+    "status_code": 200,
+    "latency_ms": 4926.8,
+    "bytes": 1251267,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

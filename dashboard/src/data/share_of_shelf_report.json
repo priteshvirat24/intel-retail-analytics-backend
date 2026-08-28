@@ -1,0 +1,169 @@
+{
+  "overall_sos": {
+    "total_skus": 19,
+    "intel_skus_count": 14,
+    "intel_sos_pct": 73.7,
+    "amd_skus_count": 3,
+    "amd_sos_pct": 15.8,
+    "apple_skus_count": 1,
+    "apple_sos_pct": 5.3,
+    "qualcomm_skus_count": 1,
+    "qualcomm_sos_pct": 5.3
+  },
+  "retailer_sos": {
+    "Amazon US": {
+      "retailer": "Amazon US",
+      "total_skus": 4,
+      "intel_count": 2,
+      "intel_sos_pct": 50.0,
+      "amd_count": 0,
+      "amd_sos_pct": 0.0,
+      "apple_count": 1,
+      "apple_sos_pct": 25.0,
+      "qualcomm_count": 1,
+      "qualcomm_sos_pct": 25.0
+    },
+    "Best Buy": {
+      "retailer": "Best Buy",
+      "total_skus": 4,
+      "intel_count": 3,
+      "intel_sos_pct": 75.0,
+      "amd_count": 1,
+      "amd_sos_pct": 25.0,
+      "apple_count": 0,
+      "apple_sos_pct": 0.0,
+      "qualcomm_count": 0,
+      "qualcomm_sos_pct": 0.0
+    },
+    "Costco": {
+      "retailer": "Costco",
+      "total_skus": 3,
+      "intel_count": 2,
+      "intel_sos_pct": 66.7,
+      "amd_count": 1,
+      "amd_sos_pct": 33.3,
+      "apple_count": 0,
+      "apple_sos_pct": 0.0,
+      "qualcomm_count": 0,
+      "qualcomm_sos_pct": 0.0
+    },
+    "Dell Technologies": {
+      "retailer": "Dell Technologies",
+      "total_skus": 3,
+      "intel_count": 3,
+      "intel_sos_pct": 100.0,
+      "amd_count": 0,
+      "amd_sos_pct": 0.0,
+      "apple_count": 0,
+      "apple_sos_pct": 0.0,
+      "qualcomm_count": 0,
+      "qualcomm_sos_pct": 0.0
+    },
+    "HP Direct": {
+      "retailer": "HP Direct",
+      "total_skus": 2,
+      "intel_count": 2,
+      "intel_sos_pct": 100.0,
+      "amd_count": 0,
+      "amd_sos_pct": 0.0,
+      "apple_count": 0,
+      "apple_sos_pct": 0.0,
+      "qualcomm_count": 0,
+      "qualcomm_sos_pct": 0.0
+    },
+    "Walmart": {
+      "retailer": "Walmart",
+      "total_skus": 3,
+      "intel_count": 2,
+      "intel_sos_pct": 66.7,
+      "amd_count": 1,
+      "amd_sos_pct": 33.3,
+      "apple_count": 0,
+      "apple_sos_pct": 0.0,
+      "qualcomm_count": 0,
+      "qualcomm_sos_pct": 0.0
+    }
+  },
+  "oem_sos_ranks": [
+    {
+      "oem": "Dell",
+      "total_skus": 5,
+      "intel_count": 5,
+      "intel_sos_pct": 100.0,
+      "amd_count": 0,
+      "apple_count": 0,
+      "qualcomm_count": 0,
+      "rank": 1
+    },
+    {
+      "oem": "HP",
+      "total_skus": 5,
+      "intel_count": 4,
+      "intel_sos_pct": 80.0,
+      "amd_count": 1,
+      "apple_count": 0,
+      "qualcomm_count": 0,
+      "rank": 2
+    },
+    {
+      "oem": "Lenovo",
+      "total_skus": 3,
+      "intel_count": 2,
+      "intel_sos_pct": 66.7,
+      "amd_count": 1,
+      "apple_count": 0,
+      "qualcomm_count": 0,
+      "rank": 3
+    },
+    {
+      "oem": "Acer",
+      "total_skus": 1,
+      "intel_count": 1,
+      "intel_sos_pct": 100.0,
+      "amd_count": 0,
+      "apple_count": 0,
+      "qualcomm_count": 0,
+      "rank": 4
+    },
+    {
+      "oem": "CyberPowerPC",
+      "total_skus": 1,
+      "intel_count": 1,
+      "intel_sos_pct": 100.0,
+      "amd_count": 0,
+      "apple_count": 0,
+      "qualcomm_count": 0,
+      "rank": 5
+    },
+    {
+      "oem": "ASUS",
+      "total_skus": 2,
+      "intel_count": 1,
+      "intel_sos_pct": 50.0,
+      "amd_count": 1,
+      "apple_count": 0,
+      "qualcomm_count": 0,
+      "rank": 6
+    },
+    {
+      "oem": "Apple",
+      "total_skus": 1,
+      "intel_count": 0,
+      "intel_sos_pct": 0.0,
+      "amd_count": 0,
+      "apple_count": 1,
+      "qualcomm_count": 0,
+      "rank": 7
+    },
+    {
+      "oem": "Microsoft",
+      "total_skus": 1,
+      "intel_count": 0,
+      "intel_sos_pct": 0.0,
+      "amd_count": 0,
+      "apple_count": 0,
+      "qualcomm_count": 1,
+      "rank": 8
+    }
+  ]
+}

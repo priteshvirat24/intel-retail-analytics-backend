@@ -1,0 +1,8 @@
+{
+  "target_id": "mercadolivre-br",
+  "retailer": "Mercadolibre",
+  "country": "Brazil",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "timestamp": "2026-08-24T07:32:07.422096+00:00"
+}

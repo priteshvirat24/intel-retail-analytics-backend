@@ -1,0 +1,14 @@
+{
+  "retailer": "Dell",
+  "country": "Global",
+  "product_url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=dell-chromebook-product-line",
+  "product_title": "Dell Chromebook Laptop Computers",
+  "brand": "DELL",
+  "model_or_sku": "dell-laptops",
+  "price": 489.0,
+  "currency": null,
+  "specs": {},
+  "validation_score": 1.0,
+  "source_strategy": "BRIGHTDATA_BROWSER_ESCALATION",
+  "timestamp": "2026-08-25T08:59:00.921351+00:00"
+}

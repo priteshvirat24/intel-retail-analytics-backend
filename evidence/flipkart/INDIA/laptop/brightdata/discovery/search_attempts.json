@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.flipkart.com/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 29540.4,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.flipkart.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 12486.9,
+    "html_bytes": 315
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.flipkart.com/laptops",
+    "status_code": 200,
+    "latency_ms": 15290.9,
+    "html_bytes": 72
+  }
+]

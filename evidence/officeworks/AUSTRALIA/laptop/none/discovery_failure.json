@@ -1,0 +1,60 @@
+{
+  "target_id": "officeworks-au",
+  "retailer": "Officeworks",
+  "country": "Australia",
+  "discovery_status": "NOT_DISCOVERED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "domain_validation": {
+    "domain": "officeworks.com.au",
+    "base_url": "https://www.officeworks.com.au",
+    "http_status": 405,
+    "redirect_chain": [],
+    "final_url": "https://www.officeworks.com.au",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 312.6
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.officeworks.com.au/search?q=laptop",
+      "status": 405,
+      "latency_ms": 257.0,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.officeworks.com.au/search?q=notebook",
+      "status": 405,
+      "latency_ms": 287.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.officeworks.com.au/s?k=laptop",
+      "status": 405,
+      "latency_ms": 266.0,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.officeworks.com.au/s?k=notebook",
+      "status": 405,
+      "latency_ms": 264.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.officeworks.com.au/laptops",
+      "status": 405,
+      "latency_ms": 279.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.officeworks.com.au",
+      "candidates_found": 0
+    }
+  ]
+}

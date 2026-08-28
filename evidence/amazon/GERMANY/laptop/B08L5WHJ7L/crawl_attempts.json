@@ -1,0 +1,35 @@
+{
+  "target_id": "amazon-de",
+  "laptop_url": "https://www.amazon.de/dp/B08L5WHJ7L",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 8007.3
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.3
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 500,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_HTTP_ERROR",
+    "latency_ms": 30024.9
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

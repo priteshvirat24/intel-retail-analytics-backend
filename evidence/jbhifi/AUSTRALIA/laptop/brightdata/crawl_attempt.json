@@ -1,0 +1,17 @@
+{
+  "target_id": "jbhifi-au",
+  "retailer": "Jbhifi",
+  "country": "Australia",
+  "country_iso": "au",
+  "url": "https://www.jbhifi.com.au",
+  "status_code": 200,
+  "response_time_ms": 18707.3,
+  "can_scrape": "NO",
+  "confidence_score": 0.3,
+  "product_name": "JB Hi-Fi - Australia's Largest Home Entertainment Retailer",
+  "brand": null,
+  "price": 10.0,
+  "currency": null,
+  "sku": null,
+  "reason": "Peripheral/Accessory SKU reached instead of standalone laptop computer"
+}

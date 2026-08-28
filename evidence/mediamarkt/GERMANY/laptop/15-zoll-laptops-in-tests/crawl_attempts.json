@@ -1,0 +1,35 @@
+{
+  "target_id": "mediamarkt-de",
+  "laptop_url": "https://www.mediamarkt.de/de/content/it-informatik/notebooks/15-zoll-laptops-in-tests",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 16885.7
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.3
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.6,
+    "failure_class": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_PRODUCT_NOT_VERIFIABLE",
+    "latency_ms": 18941.1
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

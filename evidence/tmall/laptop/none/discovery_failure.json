@@ -1,0 +1,8 @@
+{
+  "target_id": "tmall-cn",
+  "retailer": "Tmall",
+  "country": "China",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "timestamp": "2026-08-24T07:32:07.426068+00:00"
+}

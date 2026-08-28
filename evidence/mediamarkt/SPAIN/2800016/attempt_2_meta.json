@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 403,
+  "response_time_ms": 11806.72,
+  "browser_seconds": 13.95,
+  "bytes_received": 27416,
+  "success": false,
+  "evidence_path": "evidence/mediamarkt/SPAIN/2800016/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/mediamarkt/SPAIN/2800016/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:39:07.042250+00:00"
+}

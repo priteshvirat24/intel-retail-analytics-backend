@@ -1,0 +1,19 @@
+{
+  "retailer": "Amazon",
+  "country": "Italy",
+  "product_url": "https://www.amazon.it/Lenovo-IdeaPad-Notebook-1920x1200-Multitasking/dp/B0GQTHW81N/ref=sr_1_6?dib=eyJ2IjoiMSJ9.ikBC2M4VUEudbksqibZDl7AMJ8owQ8NcPVtclPJwdHsJHU5pNuTjXmkifPUBgsAP5jmn_NwRoZIa7XauJwyPA1E1eu5UTx25oabdRKXD4xNtPHlOpmFy_dnzYapCQXRJ04NlERq2dLbFTOsf6u-oHT7re_tfpg6V4Ar9lv2QCFN6J1wfuoaBv3AzKpSnm4MBXXl5M7XAiLW_pbEAPTktQFlOEN7Mp88gn4SdpQaGFpNlAtSlmRO8-puXKWfrVu-7Aa7jghu8UZNQBtZ1lUH9op68nAIcO4-oEZA4ww8cJsM.xiBAyau5RqRe9AwwtNgDmDRUk7Lc1Z618YLYI1EuMXc&dib_tag=se&keywords=notebook&qid=1787648004&sr=8-6",
+  "product_title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS (1920x1200) AMD Ryzen 5, RAM 8GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking - Caricatore non incluso",
+  "brand": "LENOVO",
+  "model_or_sku": "B0GQTHW81N",
+  "price": 47900.0,
+  "currency": null,
+  "specs": {
+    "screen_size": "15\"",
+    "cpu": "Ryzen 5",
+    "storage": "512GB SSD",
+    "os": "Windows 11"
+  },
+  "validation_score": 1.0,
+  "source_strategy": "Bright Data Web Unlocker (flags: country-it)",
+  "timestamp": "2026-08-25T08:53:47.526868+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "attempt_number": 1,
+  "strategy": "FIRECRAWL",
+  "status_code": 403,
+  "response_time_ms": 52.529153996147215,
+  "browser_seconds": 0.05329772300319746,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": "evidence/boulanger/France/sku_0005/firecrawl/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "ACCESS",
+    "specific_reason": "BOT_PROTECTION",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Request blocked by anti-bot protection (WAF/Edge Guard). HTTP 403.",
+    "http_status": 403,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "FIRECRAWL",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:08:54.390092+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "http_status": 403,
+      "blocked_detected": true,
+      "vendor": null
+    }
+  },
+  "timestamp": "2026-08-23T16:08:54.390151+00:00"
+}

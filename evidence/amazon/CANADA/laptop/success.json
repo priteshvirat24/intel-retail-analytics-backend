@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "Canada",
+  "product_url": "https://www.amazon.ca/Gateway-Acer-Chromebook-1920x1080-CBO314-1H-C3AX/dp/B0CY3H3LP4/ref=sr_1_6",
+  "title": "Gateway (by Acer) Chromebook Laptop | 14\" FHD 1920x1080 | TN Chromebook | Intel Celeron N4500 | 4GB LPDDR4X RAM | 64GB eMMC | Chrome OS | CBO314-1H-C3AX",
+  "brand": "Acer Store",
+  "model": "B0CY3H3LP4",
+  "sku": "B0CY3H3LP4",
+  "price": 319.95,
+  "currency": "CAD",
+  "availability": "InStock",
+  "cpu": "Celeron N4500",
+  "ram": "4GB",
+  "storage": "64GB EMMC",
+  "display": "14\"",
+  "gpu": null,
+  "operating_system": "Chrome Os",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:56:01.578729Z"
+}

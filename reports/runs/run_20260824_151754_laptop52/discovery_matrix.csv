@@ -1,0 +1,53 @@
+target_id,retailer,country,discovery_status,discovery_method,laptop_url,validation_score,failure_reason
+agres-id,Agres,Indonesia,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.agres.id/categories/laptops,0.55,PRODUCT_IDENTITY_MISSING
+acer-global,Acer,Global,PRODUCT_URL_FOUND,method_9_firecrawl_map,https://store.acer.com/en-us/laptops/gaming,0.0,NONE
+amazon-us,Amazon,United States,PRODUCT_URL_VALIDATED,method_4_website_search,https://www.amazon.com/HP-Laptop-Student-Business-Copilot/dp/B0GY16ZXZV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.B5Qg2mZ8Em9UgkHr7srZ3NCwogWwjsXpuvEqQtCl1_k_EU7GHXDG6lABX-x3DQpT-tQARBbqBZw6Cpy3tbQxm_eahsGyfqIqzXZNTAJQbH2o8rApuZIJuA_WWSnOIAg8jIy7B6m1vt5eEt2j9gN6mA4w-UQ50F3YuD2XVAODnpiPp3laM84uv3FlEMmrj2CkS02w1vHRB0RwUxtS0fp8ojU40CsqHD2FOFiFARbnehg.ycOixDO-MBSRQCf3Zb3iojz-YkO5NpJu_GEMC0cAYm0&dib_tag=se&keywords=laptop&qid=1787584879&sr=8-1,0.85,NONE
+amazon-in,Amazon,India,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.in/dp/B08L5WHJ7L,0.2,NOT_A_LAPTOP_PRODUCT
+amazon-gb,Amazon,United Kingdom,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.co.uk/dp/B08L5WHJ7L,0.2,NOT_A_LAPTOP_PRODUCT
+amazon-de,Amazon,Germany,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.de/dp/B08L5WHJ7L,0.2,NOT_A_LAPTOP_PRODUCT
+amazon-fr,Amazon,France,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.fr/dp/B08L5WHJ7L,0.2,NOT_A_LAPTOP_PRODUCT
+amazon-it,Amazon,Italy,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.it/dp/B08L5WHJ7L,0.2,NOT_A_LAPTOP_PRODUCT
+amazon-es,Amazon,Spain,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.es/dp/B08N5WRW88,0.2,NOT_A_LAPTOP_PRODUCT
+amazon-ca,Amazon,Canada,PRODUCT_URL_FOUND,method_5_category_nav,https://www.amazon.ca/Laptops/b/?ie=UTF8&node=677252011&ref_=sv_pc_2,0.45,LOW_CONFIDENCE_PRODUCT_PAGE
+amazon-mx,Amazon,Mexico,PRODUCT_URL_VALIDATED,method_4_website_search,https://www.amazon.com.mx/Hora-20000mAh-Incorporados-Compatible-USB-Negro/dp/B09NR5ML9Q/ref=sr_1_7?dib=eyJ2IjoiMSJ9.YVju2VL9Z36afz4wpJE9iNLMFGBV_63KB5uzwYKiwB2nOF8UO3DOLcvpb2pEbV54TeVLv4HWoKvM9A1fDhzSF2pUuk83UqVW7azCwHnkffzPhBqSVN9ZQJm5mHz9H_N4dYfvy7prM1vw3lm278KD0y_1o8Brae1n4mJHiuxcZr--_8G2FYLHGBLDWOZ50Z8d7guo8ZNT3IFXPhvSmq5liefqvRS4UukeBeo5xZQzMmmSVSe0OEieDUCBk9n8F2sMDrQsEE2mcQpDz9QJxN6mGTXdnM1pa-pvLw8RHV_FFiw.eo2trP8GYZEyxXFkE7atqJIXEXAsvciMlq9Jewga4F4&dib_tag=se&keywords=portatil&qid=1787585435&sr=8-7&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57,0.85,NONE
+amazon-br,Amazon,Brazil,PRODUCT_URL_VALIDATED,method_4_website_search,https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYVVRSSZ/ref=sr_1_5?dib=eyJ2IjoiMSJ9.H7KJzaDLIv8FkqiMZzmm8OKlvU5L9Ab8UZvJgZfn6XdcSwJoMR12jpOn3mWFxRYiK0x5Uomvs4GZacp--w2S4WNNDHHZN8e41mrm4EDh-7K4shkFZSBaDKo4uSW0-2-YOtefXosMheo9dU1VY9TR49UorZelNb1xBII0Ly0hQl77XwGhgC2cXHbcofhe381dnn4Xvf-0GwUFA6Rof38jXNw9yEF0vMV9dWA8MrDvXu2A8ywnx4hKprLEHrdQh8RYj0etHmzm1KR78L72LfhIr-wKUH9N2IU6i5O7_EYexH8.uz8uL6WyVkOPXOHb0SpTMB2BlpgUEgW7YIs68sgRXoM&dib_tag=se&keywords=notebook&qid=1787585479&sr=8-5&ufe=app_do%3Aamzn1.fos.9e6a115c-05b9-4b96-8e1c-b1f9ce2ac1a6,0.85,NONE
+bestbuy-us,Bestbuy,United States,PRODUCT_URL_FOUND,method_9_firecrawl_map,https://www.bestbuy.com/product/asus-proart-pz13-13-oled-3k-detachable-laptop-copilot-pc-snapdragon-x-plus-16gb-memory-1tb-ssd-nano-black/JJGGLQ6Z4X,0.0,NONE
+bestbuy-ca,Bestbuy,Canada,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+boulanger-fr,Boulanger,France,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+costco-us,Costco,United States,PRODUCT_URL_FOUND,method_9_firecrawl_map,https://www.costco.com/p/-/dell-156-touchscreen-laptop-intel-core-ultra-7-255u-fhd-1920x1080-16gb-ram-1tb-ssd-carbon-black-windows-11-home/4000449542,0.0,NONE
+coupang-kr,Coupang,South Korea,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Akamai Bot Manager)
+currys-gb,Currys,United Kingdom,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+dell-global,Dell,Global,PRODUCT_URL_VALIDATED,method_4_website_search,https://www.dell.com/en-us/shop/dell-laptops/scr/laptops,0.85,NONE
+elkjop-dk,Elkjop,Denmark,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+elkjop-no,Elkjop,Norway,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+elkjop-se,Elkjop,Sweden,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+euronics-it,Euronics,Italy,PRODUCT_URL_VALIDATED,method_1_homepage_nav,https://www.euronics.it/gaming/pc-gaming/notebook-gaming/,0.9,NONE
+expert-de,Expert,Germany,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+flipkart-in,Flipkart,India,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Google reCAPTCHA)
+fnac-fr,Fnac,France,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+gmarket-kr,Gmarket,South Korea,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+hp-global,Hp,Global,PRODUCT_URL_VALIDATED,method_1_homepage_nav,https://www.hp.com/in-en/laptops/home-laptops/omnipad.html,0.8,NONE
+jbhifi-au,Jbhifi,Australia,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+jd-cn,Jd,China,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+komputronik-pl,Komputronik,Poland,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.komputronik.pl/category/5803/laptopy-i-komputery.html,0.55,LOW_CONFIDENCE_PRODUCT_PAGE
+lenovo-global,Lenovo,Global,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.lenovo.com/laptop-buying-guide/,0.0,NONE
+magazineluiza-br,Magazineluiza,Brazil,PRODUCT_URL_FOUND,method_9_firecrawl_map,https://clube.magazineluiza.com.br/tudoazul/pasta-executiva-para-notebook-documentos-prime-inbox/p/agc1750dc6/md/peme,0.35,LOW_CONFIDENCE_PRODUCT_PAGE
+mediamarkt-de,Mediamarkt,Germany,PRODUCT_URL_FOUND,method_9_firecrawl_map,https://www.mediamarkt.de/de/content/it-informatik/notebooks/15-zoll-laptops-in-tests,0.0,NONE
+mediamarkt-es,Mediamarkt,Spain,PRODUCT_URL_FOUND,method_9_firecrawl_map,https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15iph11-copilot-pc-153-wuxga-intelr-coretm-ultra-7-355-49-tops-16gb-ram-512gb-ssd-hd-graphics-w11h-1623675.html,0.0,NONE
+mediamarkt-it,Mediamarkt,Italy,PRODUCT_URL_VALIDATED,method_9_firecrawl_map,https://ricondizionati.mediaworld.it/product/innoliving-condizionatore-portatile-innoliving-condizionatore-port.-198461.html,1.0,NONE
+mediamarkt-tr,Mediamarkt,Turkey,PRODUCT_URL_FOUND,method_9_firecrawl_map,https://www.mediamarkt.com.tr/tr/product/_dell-vostro-5471-i7-8550u-8gb-256gb-ssd-14fhd-linux-laptop-1195514.html,0.0,NONE
+mercadolibre-mx,Mercadolibre,Mexico,PRODUCT_URL_FOUND,method_1_homepage_nav,https://listado.mercadolibre.com.mx/electronica-audio-video/audio/audio-portatil-accesorios/#menu=categories,0.3,NOT_A_LAPTOP_PRODUCT
+mercadolibre-cl,Mercadolibre,Chile,PRODUCT_URL_FOUND,method_1_homepage_nav,https://listado.mercadolibre.cl/computacion/notebooks-accesorios/notebooks/#menu=categories,0.45,LOW_CONFIDENCE_PRODUCT_PAGE
+mercadolibre-co,Mercadolibre,Colombia,PRODUCT_URL_FOUND,method_1_homepage_nav,https://listado.mercadolibre.com.co/computacion/portatiles-accesorios/portatiles/#menu=categories,0.45,LOW_CONFIDENCE_PRODUCT_PAGE
+mercadolivre-br,Mercadolibre,Brazil,PRODUCT_URL_FOUND,method_1_homepage_nav,https://lista.mercadolivre.com.br/informatica/portateis-acessorios/acessorios-notebook/#menu=categories,0.3,LOW_CONFIDENCE_PRODUCT_PAGE
+thegioididong-vn,Thegioididong,Vietnam,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+monsternotebook-tr,Monsternotebook,Turkey,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+newegg-us,Newegg,United States,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.newegg.com/p/N82E16826197674?Item=N82E16826197674,0.05,NOT_A_LAPTOP_PRODUCT
+officeworks-au,Officeworks,Australia,PRODUCT_URL_FOUND,method_9_firecrawl_map,https://www.officeworks.com.au/shop/officeworks/c/technology/laptops/everyday-value-laptops,0.0,NONE
+reliancedigital-in,Reliancedigital,India,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Akamai Bot Manager)
+staples-us,Staples,United States,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+terg-pl,Terg,Poland,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+tmall-cn,Tmall,China,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+unieuro-it,Unieuro,Italy,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+walmart-us,Walmart,United States,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+yodobashi-jp,Yodobashi,Japan,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT

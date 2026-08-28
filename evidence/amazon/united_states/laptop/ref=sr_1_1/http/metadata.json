@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-us",
+  "retailer": "Amazon",
+  "country": "United States",
+  "url": "https://www.amazon.com/AKCHART-Laptop-Office-256GB-Laptops/dp/B0H94LG15F/ref=sr_1_1?dib=eyJ2IjoiMSJ9.LpbZJ_bx38FT33B_jRrWBwt6_FJK43Teon7pS3Dy3stzTqcUWqf9U0NBgW_Ja-QSjv8RRVaPQMpGFoJiltKGG5cEc9ZsaNEgvX21GKHlUJrgZ-LL08Cl8eV22gZm9HA_qI06soqR2n7DlzvxPmke4KmrVCMmFTV1XCd0JfSjfhpBhqIxsC71jnWYwbjNl3rrxobIh9EGXr3wvt6H2XulYz1GfSKbji_ZxWFU8MnSBCE.3hhdNiVrG6yVe-Yq3LHBJmwrWKeRxq28DqIZJGD2TJk&dib_tag=se&keywords=laptop&qid=1787557031&sr=8-1",
+  "strategy": "HTTP",
+  "status_code": 200,
+  "final_url": "https://www.amazon.com/AKCHART-Laptop-Office-256GB-Laptops/dp/B0H94LG15F/ref=sr_1_1?dib=eyJ2IjoiMSJ9.LpbZJ_bx38FT33B_jRrWBwt6_FJK43Teon7pS3Dy3stzTqcUWqf9U0NBgW_Ja-QSjv8RRVaPQMpGFoJiltKGG5cEc9ZsaNEgvX21GKHlUJrgZ-LL08Cl8eV22gZm9HA_qI06soqR2n7DlzvxPmke4KmrVCMmFTV1XCd0JfSjfhpBhqIxsC71jnWYwbjNl3rrxobIh9EGXr3wvt6H2XulYz1GfSKbji_ZxWFU8MnSBCE.3hhdNiVrG6yVe-Yq3LHBJmwrWKeRxq28DqIZJGD2TJk&dib_tag=se&keywords=laptop&qid=1787557031&sr=8-1",
+  "crawlable": true,
+  "failure_reason": null,
+  "anti_bot_vendor": null,
+  "latency_ms": 2687.85
+}

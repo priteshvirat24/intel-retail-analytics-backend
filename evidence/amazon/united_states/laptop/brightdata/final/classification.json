@@ -1,0 +1,19 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 0.85,
+  "detected_brand": "Lenovo",
+  "model_or_sku": "i5-13420h",
+  "extracted_specs": {
+    "ram": "16GB",
+    "storage": "512GB SSD"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'laptop'",
+    "Brand: 'Lenovo'",
+    "RAM: 16GB",
+    "Storage: 512GB SSD"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

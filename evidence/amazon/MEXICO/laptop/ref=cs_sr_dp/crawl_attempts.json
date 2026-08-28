@@ -1,0 +1,34 @@
+{
+  "target_id": "amazon-mx",
+  "laptop_url": "https://www.amazon.com.mx/INIU-20000mAh-Portatil-Powerbank-Compatible/dp/B0DCMW8SJV/ref=cs_sr_dp?dib=eyJ2IjoiMSJ9.YVju2VL9Z36afz4wpJE9iNLMFGBV_63KB5uzwYKiwB0Ph9Hvg1jRKGyOUflvb6vHD0Cn9_mb2_hU7JEJoECkg6Q3a88V_ZLi4D7t1rB-0WvPhBqSVN9ZQJm5mHz9H_N4dYfvy7prM1vw3lm278KD0y_1o8Brae1n4mJHiuxcZr--_8G2FYLHGBLDWOZ50Z8dYeckXnRV-rwI5OsQWcZ-XHI_HzT9eqp-Yez4dHvVDTFuAAXiK8El-2QI8FE98-8pCMPVe-GPnBdr9s-z_2AqpT__-OZO4q2U2cosiw_AtvM.HNqDoJAplvmA0n4GQRuZQGcyUQ3l1DcbdveOKE6OGC4&dib_tag=se&keywords=portatil&qid=1787579440&sr=8-5&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 8005.7
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.1
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 402,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_INVALID_CONTENT",
+    "latency_ms": 919.2
+  },
+  "adapter": "N/A",
+  "extracted_product": null
+}

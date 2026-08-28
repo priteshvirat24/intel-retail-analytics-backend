@@ -1,0 +1,35 @@
+{
+  "target_id": "dell-global",
+  "laptop_url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops",
+  "http": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.15,
+    "failure_class": "NOT_A_LAPTOP_PRODUCT",
+    "failure_vendor": "Akamai Bot Manager",
+    "latency_ms": 11724.8
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.3
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.75,
+    "failure_class": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "failure_vendor": "Google reCAPTCHA",
+    "classification_code": "FIRECRAWL_RETAILER_BLOCK",
+    "latency_ms": 37634.9
+  },
+  "brightdata": "NO",
+  "adapter": "NO",
+  "extracted_product": null
+}

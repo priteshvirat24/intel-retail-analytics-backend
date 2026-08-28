@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 1399.84,
+  "browser_seconds": 1.4135321080102585,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": "evidence/bestbuy/United States/6418600/playwright/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "CONTENT",
+    "specific_reason": "EMPTY_RESPONSE",
+    "stage": "CONTENT_AVAILABILITY",
+    "failure_reason_human": "Server returned an empty or zero-byte response body.",
+    "http_status": 0,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "Playwright navigation error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.bestbuy.com/product/sku_0001\nCall log:\n  - navigating to \"https://www.bestbuy.com/product/sku_0001\", waiting until \"domcontentloaded\"\n",
+    "source_strategy": "PLAYWRIGHT",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:06:09.680125+00:00",
+    "is_recoverable": true,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:06:09.680188+00:00"
+}

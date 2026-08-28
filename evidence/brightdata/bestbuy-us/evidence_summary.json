@@ -1,0 +1,17 @@
+{
+  "target_id": "bestbuy-us",
+  "retailer": "Bestbuy",
+  "country": "United States",
+  "domain": "bestbuy.com",
+  "can_scrape": "YES",
+  "strategy": "FIRECRAWL_RESCUE",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+  "title": "Laptops & Notebook Computers",
+  "brand": "Bestbuy",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:21:28.848142+00:00",
+  "failure_reason": null
+}

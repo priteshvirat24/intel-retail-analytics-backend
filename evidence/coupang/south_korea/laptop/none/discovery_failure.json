@@ -1,0 +1,60 @@
+{
+  "target_id": "coupang-kr",
+  "retailer": "Coupang",
+  "country": "South Korea",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+  "domain_validation": {
+    "domain": "coupang.com",
+    "base_url": "https://www.coupang.com",
+    "http_status": 403,
+    "redirect_chain": [],
+    "final_url": "https://www.coupang.com",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "Akamai Bot Manager",
+    "latency_ms": 373.8
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.coupang.com/search?q=laptop",
+      "status": 403,
+      "latency_ms": 418.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.coupang.com/search?q=notebook",
+      "status": 403,
+      "latency_ms": 305.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.coupang.com/s?k=laptop",
+      "status": 403,
+      "latency_ms": 290.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.coupang.com/s?k=notebook",
+      "status": 403,
+      "latency_ms": 294.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.coupang.com/laptops",
+      "status": 403,
+      "latency_ms": 291.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.coupang.com",
+      "candidates_found": 0
+    }
+  ]
+}

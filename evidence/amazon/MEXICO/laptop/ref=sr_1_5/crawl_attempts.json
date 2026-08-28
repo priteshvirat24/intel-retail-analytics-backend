@@ -1,0 +1,35 @@
+{
+  "target_id": "amazon-mx",
+  "laptop_url": "https://www.amazon.com.mx/Regadera-Portatil-Recargable-8000mAh-Camping/dp/B0GRGW1GTK/ref=sr_1_5?dib=eyJ2IjoiMSJ9.EfNacvqk5qMKr6mC3ozt2nknu7555Vy9_JSq5y_mzcwJkz3EjN6ctqOTU5TVqxWX57VRiVXDoBx5HQnxsEIUVTPXcsX2UZGo2sXoSDUnrJDPhBqSVN9ZQJm5mHz9H_N4dYfvy7prM1vw3lm278KD0y_1o8Brae1n4mJHiuxcZr--_8G2FYLHGBLDWOZ50Z8dYeckXnRV-rwI5OsQWcZ-XHI_HzT9eqp-Yez4dHvVDTF19Yh6wBBFModqUQZiKxJ0sRT1E_JsrASH8nL_63HGfDXdnM1pa-pvLw8RHV_FFiw.Dh_tKe2OPrcrS3aU_k6kVI2SckfMBn1bZvph_5iX1UA&dib_tag=se&keywords=portatil&qid=1787581958&sr=8-5&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 2510.2
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.3
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "WAF_BOT_CHALLENGE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_RETAILER_BLOCK",
+    "latency_ms": 16923.8
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

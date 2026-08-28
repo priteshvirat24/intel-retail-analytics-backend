@@ -1,0 +1,17 @@
+{
+  "target_id": "mercadolivre-br",
+  "retailer": "Mercadolibre",
+  "country": "Brazil",
+  "domain": "mercadolivre.com.br",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://produto.mercadolivre.com.br/MLB-7154129204-notebook-with-economical-loose-leaf-folders-with-envelopes-_JM",
+  "title": "Notebook With Economical Loose-leaf Folders With Envelopes",
+  "brand": "Mercadolibre",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:23:47.788735+00:00",
+  "failure_reason": null
+}

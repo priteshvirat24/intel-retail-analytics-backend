@@ -1,0 +1,34 @@
+{
+  "target_id": "terg-pl",
+  "laptop_url": "https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki",
+  "http": {
+    "reachable": true,
+    "status_code": 403,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CAPTCHA_CHALLENGE",
+    "failure_vendor": "Cloudflare WAF",
+    "latency_ms": 1349.3
+  },
+  "playwright": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "WAF_BOT_CHALLENGE",
+    "failure_vendor": "Cloudflare WAF",
+    "latency_ms": 13259.7
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 402,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_INVALID_CONTENT",
+    "latency_ms": 1268.6
+  },
+  "adapter": "NO",
+  "extracted_product": null
+}

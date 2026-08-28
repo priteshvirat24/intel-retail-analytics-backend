@@ -1,0 +1,1412 @@
+[
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/product/_dell-vostro-5471-i7-8550u-8gb-256gb-ssd-14fhd-linux-laptop-1195514.html",
+    "score": 0.95,
+    "anchor": "Verified Candidate Seed"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/laptop-504926.html",
+    "score": 0.8,
+    "anchor": "laptoplar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/lenovo-laptop-modelleri-875084.html",
+    "score": 0.8,
+    "anchor": "lenovo"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/asus-laptop-797524.html",
+    "score": 0.8,
+    "anchor": "asus"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/hp-laptop-797526.html",
+    "score": 0.8,
+    "anchor": "hp"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/huawei-laptop-797525.html",
+    "score": 0.8,
+    "anchor": "huawei"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/casper-laptop-822017.html",
+    "score": 0.8,
+    "anchor": "casper"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/acer-laptop-822018.html",
+    "score": 0.8,
+    "anchor": "acer"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyuncu-laptop-878043.html",
+    "score": 0.8,
+    "anchor": "oyuncu laptop"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/laptop-aksesuarlari-640533.html",
+    "score": 0.8,
+    "anchor": "laptop aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/laptop-sarj-aletleri-640542.html",
+    "score": 0.8,
+    "anchor": "laptop \u015farj aleti"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/laptop-sogutucu-675563.html",
+    "score": 0.8,
+    "anchor": "laptop so\u011futucu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/mac-645068.html",
+    "score": 0.7,
+    "anchor": "macbook"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/telefon-465595.html",
+    "score": 0.5,
+    "anchor": "telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bilgisayar-504925.html",
+    "score": 0.5,
+    "anchor": "bilgisayar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/beyaz-esya-465707.html",
+    "score": 0.5,
+    "anchor": "beyaz e\u015fya"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ev-aletleri-yasam-465737.html",
+    "score": 0.5,
+    "anchor": "ev aletleri & ya\u015fam"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kisisel-bakim-465820.html",
+    "score": 0.5,
+    "anchor": "ki\u015fisel bak\u0131m"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tv-goruntu-ve-ses-678536.html",
+    "score": 0.5,
+    "anchor": "tv, g\u00f6r\u00fcnt\u00fc ve ses"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-644527.html",
+    "score": 0.5,
+    "anchor": "apple telefonlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-16-903528.html",
+    "score": 0.5,
+    "anchor": "iphone 16"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-16-plus-903529.html",
+    "score": 0.5,
+    "anchor": "iphone 16 plus"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-16-pro-903530.html",
+    "score": 0.5,
+    "anchor": "iphone 16 pro"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-16-pro-max-903531.html",
+    "score": 0.5,
+    "anchor": "iphone 16 pro max"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-15-878045.html",
+    "score": 0.5,
+    "anchor": "iphone 15"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-14-828526.html",
+    "score": 0.5,
+    "anchor": "iphone 14"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-13-801528.html",
+    "score": 0.5,
+    "anchor": "iphone 13"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-12-781536.html",
+    "score": 0.5,
+    "anchor": "iphone 12"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/iphone-11-878044.html",
+    "score": 0.5,
+    "anchor": "iphone 11"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/android-telefonlar-675172.html",
+    "score": 0.5,
+    "anchor": "android telefonlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/xiaomi-telefon-796045.html",
+    "score": 0.5,
+    "anchor": "xiaomi telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/huawei-telefon-796046.html",
+    "score": 0.5,
+    "anchor": "huawei telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oppo-telefon-796044.html",
+    "score": 0.5,
+    "anchor": "oppo telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/realme-telefon-810539.html",
+    "score": 0.5,
+    "anchor": "realme telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/vivo-telefon-838510.html",
+    "score": 0.5,
+    "anchor": "vivo telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/casper-telefon-810537.html",
+    "score": 0.5,
+    "anchor": "casper telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tecno-telefon-858515.html",
+    "score": 0.5,
+    "anchor": "tecno telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/omix-telefon-858581.html",
+    "score": 0.5,
+    "anchor": "omix telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/infinix-telefon-858580.html",
+    "score": 0.5,
+    "anchor": "infinix telefon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/samsung-telefon-796041.html",
+    "score": 0.5,
+    "anchor": "samsung telefonlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/akilli-saatler-862018.html",
+    "score": 0.5,
+    "anchor": "ak\u0131ll\u0131 saat"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/apple-watch-644528.html",
+    "score": 0.5,
+    "anchor": "apple ak\u0131ll\u0131 saatler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/samsung-akilli-saatler-862022.html",
+    "score": 0.5,
+    "anchor": "samsung ak\u0131ll\u0131 saatler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/huawei-akilli-saatler-862019.html",
+    "score": 0.5,
+    "anchor": "huawei ak\u0131ll\u0131 saatler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/xiaomi-akilli-saatler-862023.html",
+    "score": 0.5,
+    "anchor": "xiaomi ak\u0131ll\u0131 saatler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/akilli-bileklik-644040.html",
+    "score": 0.5,
+    "anchor": "ak\u0131ll\u0131 bileklik"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kulakliklar-795538.html",
+    "score": 0.5,
+    "anchor": "kulakl\u0131klar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kulak-i\u0307ci-kulakliklar-795546.html",
+    "score": 0.5,
+    "anchor": "kulak i\u0307\u00e7i kulakl\u0131k"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kulak-ustu-kulaklik-795551.html",
+    "score": 0.5,
+    "anchor": "kulak \u00fcst\u00fc kulakl\u0131k"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bluetooth-kulakliklar-795539.html",
+    "score": 0.5,
+    "anchor": "bluetooth kulakl\u0131k"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/apple-kulaklik-791017.html",
+    "score": 0.5,
+    "anchor": "apple kulakl\u0131k"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/samsung-kulaklik-851511.html",
+    "score": 0.5,
+    "anchor": "samsung kulakl\u0131k"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/yapay-zeka-destekli-telefonlar-876008.html",
+    "score": 0.5,
+    "anchor": "yapay zeka destekli telefonlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/katlanabilir-telefonlar-903527.html",
+    "score": 0.5,
+    "anchor": "katlanabilir telefonlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/cep-telefonlari-504171.html?connectivity=5G",
+    "score": 0.5,
+    "anchor": "5g uyumlu telefonlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/telefon-aksesuarlari-640521.html",
+    "score": 0.5,
+    "anchor": "telefon aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/telefon-kilifi-640554.html",
+    "score": 0.5,
+    "anchor": "telefon k\u0131l\u0131f\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ekran-koruyucu-filmler-640615.html",
+    "score": 0.5,
+    "anchor": "ekran koruyucu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sarj-cihazlari-465614.html",
+    "score": 0.5,
+    "anchor": "\u015farj cihaz\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/arac-i\u0307ci-telefon-tutacaklari-747516.html",
+    "score": 0.5,
+    "anchor": "ara\u00e7 i\u0307\u00e7i telefon tutucu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ev-telefonu-465602.html",
+    "score": 0.5,
+    "anchor": "ev telefonu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/yenilenmis-cep-telefonu-840511.html",
+    "score": 0.5,
+    "anchor": "yenilenmi\u015f telefonlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/masaustu-bilgisayarlar-504957.html",
+    "score": 0.5,
+    "anchor": "masa\u00fcst\u00fc bilgisayarlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/imac-791008.html",
+    "score": 0.5,
+    "anchor": "imac"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/all-in-one-504959.html",
+    "score": 0.5,
+    "anchor": "all in one"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oem-hazir-sistemler-860020.html",
+    "score": 0.5,
+    "anchor": "oem haz\u0131r sistemler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bilgisayar-bilesenleri-641508.html",
+    "score": 0.5,
+    "anchor": "bilgisayar bile\u015fenleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/solid-state-disk-drive-ssd-798099.html",
+    "score": 0.5,
+    "anchor": "ssd"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/anakart-798063.html",
+    "score": 0.5,
+    "anchor": "anakart"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ram-798060.html",
+    "score": 0.5,
+    "anchor": "ram bellek"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/islemci-679036.html",
+    "score": 0.5,
+    "anchor": "i\u0307\u015flemci"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ekran-karti-679035.html",
+    "score": 0.5,
+    "anchor": "ekran kart\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bilgisayar-kasasi-798061.html",
+    "score": 0.5,
+    "anchor": "kasa"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tabletler-639520.html",
+    "score": 0.5,
+    "anchor": "tabletler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ipad-644526.html",
+    "score": 0.5,
+    "anchor": "apple ipad"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/samsung-tablet-797527.html",
+    "score": 0.5,
+    "anchor": "samsung"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/huawei-tablet-797530.html",
+    "score": 0.5,
+    "anchor": "huawei"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/lenovo-tablet-797528.html",
+    "score": 0.5,
+    "anchor": "lenovo"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/android-tabletler-639522.html?brand=HONOR",
+    "score": 0.5,
+    "anchor": "honor"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/cevre-birimleri-798009.html",
+    "score": 0.5,
+    "anchor": "\u00e7evre birimleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/klavye-798012.html",
+    "score": 0.5,
+    "anchor": "klavye"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/mousepad-798015.html",
+    "score": 0.5,
+    "anchor": "mousepad"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/network-urunleri-798016.html",
+    "score": 0.5,
+    "anchor": "network \u00fcr\u00fcnleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyuncu-monitoru-818180.html",
+    "score": 0.5,
+    "anchor": "oyuncu monit\u00f6r\u00fc"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/yazici-tarayici-797535.html",
+    "score": 0.5,
+    "anchor": "yaz\u0131c\u0131 & taray\u0131c\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kartuslar-504965.html",
+    "score": 0.5,
+    "anchor": "kartu\u015f"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tonerler-797558.html",
+    "score": 0.5,
+    "anchor": "tonerler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/hafiza-depolama-urunleri-504971.html",
+    "score": 0.5,
+    "anchor": "haf\u0131za ve depolama"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/harici-diskler-504973.html",
+    "score": 0.5,
+    "anchor": "harici harddisk"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/usb-bellekler-504972.html",
+    "score": 0.5,
+    "anchor": "usb bellek"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bilgisayar-tablet-aksesuarlari-640515.html",
+    "score": 0.5,
+    "anchor": "bilgisayar & tablet aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tablet-aksesuarlari-640535.html",
+    "score": 0.5,
+    "anchor": "tablet aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyuncu-aksesuarlari-798020.html",
+    "score": 0.5,
+    "anchor": "oyuncu aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyuncu-klavye-875086.html",
+    "score": 0.5,
+    "anchor": "oyuncu klavyesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyuncu-kulakliklari-837510.html",
+    "score": 0.5,
+    "anchor": "oyuncu kulakl\u0131\u011f\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyuncu-mousepad-798053.html",
+    "score": 0.5,
+    "anchor": "oyuncu mousepad"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/pc-joystick-ve-gamepad-798056.html",
+    "score": 0.5,
+    "anchor": "pc joystick ve gamepad"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/direksiyon-seti-786019.html",
+    "score": 0.5,
+    "anchor": "direksiyon seti"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/isitma-sogutma-465751.html",
+    "score": 0.5,
+    "anchor": "i\u0307klimlendirme"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/klimalar-465752.html",
+    "score": 0.5,
+    "anchor": "klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/daikin-klima-873044.html",
+    "score": 0.5,
+    "anchor": "daikin klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/baymak-klima-898010.html",
+    "score": 0.5,
+    "anchor": "baymak klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/lg-klima-898016.html",
+    "score": 0.5,
+    "anchor": "lg klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/samsung-klima-898014.html",
+    "score": 0.5,
+    "anchor": "samsung klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/altus-klima-898012.html",
+    "score": 0.5,
+    "anchor": "altus klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/9000-btu-klima-873050.html",
+    "score": 0.5,
+    "anchor": "9000 btu klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/12000-btu-klima-873049.html",
+    "score": 0.5,
+    "anchor": "12000 btu klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/18000-btu-klima-898013.html",
+    "score": 0.5,
+    "anchor": "18000 btu klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/24000-btu-klima-898015.html",
+    "score": 0.5,
+    "anchor": "24000 btu klima"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/vantilatorler-465753.html",
+    "score": 0.5,
+    "anchor": "vantilat\u00f6r"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/televizyon-465019.html",
+    "score": 0.5,
+    "anchor": "televizyon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/samsung-tv-793009.html",
+    "score": 0.5,
+    "anchor": "samsung"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/lg-tv-793010.html",
+    "score": 0.5,
+    "anchor": "lg"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/philips-tv-793011.html",
+    "score": 0.5,
+    "anchor": "philips"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/vestel-tv-793014.html",
+    "score": 0.5,
+    "anchor": "vestel"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/grundig-tv-793015.html",
+    "score": 0.5,
+    "anchor": "grundig"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tcl-tv-810024.html",
+    "score": 0.5,
+    "anchor": "tcl"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/onvo-tv-850011.html",
+    "score": 0.5,
+    "anchor": "onvo"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/peaq-tv-863120.html",
+    "score": 0.5,
+    "anchor": "peaq"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oled-tv-675550.html",
+    "score": 0.5,
+    "anchor": "oled tv"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/qled-tv-676010.html",
+    "score": 0.5,
+    "anchor": "qled tv"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tv-box-795021.html",
+    "score": 0.5,
+    "anchor": "tv box"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/apple-tv-644522.html",
+    "score": 0.5,
+    "anchor": "apple tv"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/xiaomi-tv-box-795023.html",
+    "score": 0.5,
+    "anchor": "xiaomi tv box"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ses-sistemleri-795517.html",
+    "score": 0.5,
+    "anchor": "ses sistemleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/soundbar-795536.html",
+    "score": 0.5,
+    "anchor": "soundbar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bluetooth-hoparlorler-795521.html",
+    "score": 0.5,
+    "anchor": "bluetooth hoparl\u00f6r"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/jbl-hoparlorler-796008.html",
+    "score": 0.5,
+    "anchor": "jbl"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/harman-kardon-hoparlorler-796009.html",
+    "score": 0.5,
+    "anchor": "harman kardon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/lg-hoparlorler-806560.html",
+    "score": 0.5,
+    "anchor": "lg"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/_grundig-hoparlorler-855518.html",
+    "score": 0.5,
+    "anchor": "grundig"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/marshall-hoparlorler-838508.html",
+    "score": 0.5,
+    "anchor": "marshall"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/mikrofon-795529.html",
+    "score": 0.5,
+    "anchor": "mikrofon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/projeksiyon-465020.html",
+    "score": 0.5,
+    "anchor": "projeksiyon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/uydu-alicilari-465022.html",
+    "score": 0.5,
+    "anchor": "uydu al\u0131c\u0131lar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tv-ses-aksesuarlari-640522.html",
+    "score": 0.5,
+    "anchor": "tv aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/aski-aparatlari-640638.html",
+    "score": 0.5,
+    "anchor": "ask\u0131 aparatlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/hdmi-kablo-675564.html",
+    "score": 0.5,
+    "anchor": "hdmi kablo"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/uydu-kablolari-602516.html",
+    "score": 0.5,
+    "anchor": "uydu kablolar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ses-kablolari-797510.html",
+    "score": 0.5,
+    "anchor": "ses kablosu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/akim-koruyucu-prizler-465772.html",
+    "score": 0.5,
+    "anchor": "ak\u0131m koruyucu prizler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/guvenlik-kamerasi-817508.html",
+    "score": 0.5,
+    "anchor": "g\u00fcvenlik kameras\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/aksesuar-640513.html",
+    "score": 0.5,
+    "anchor": "aksesuar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/telefon-koruyucular-640554.html",
+    "score": 0.5,
+    "anchor": "telefon k\u0131l\u0131f\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/arac-ici-telefon-tutacaklari-747516.html",
+    "score": 0.5,
+    "anchor": "ara\u00e7 i\u0307\u00e7i telefon tutucu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/playstation-4-aksesuarlari-744536.html",
+    "score": 0.5,
+    "anchor": "ps4 aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/playstation-5-aksesuarlari-781508.html",
+    "score": 0.5,
+    "anchor": "ps5 aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/xbox-aksesuarlari-715086.html",
+    "score": 0.5,
+    "anchor": "xbox aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/nintendo-aksesuarlari-640603.html",
+    "score": 0.5,
+    "anchor": "nintendo aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kablolar-donusturuculer-ve-prizler-602513.html",
+    "score": 0.5,
+    "anchor": "kablolar, d\u00f6n\u00fc\u015ft\u00fcr\u00fcc\u00fcler ve prizler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/vga-kablo-675576.html",
+    "score": 0.5,
+    "anchor": "vga kablosu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/foto-kamera-aksesuarlari-640519.html",
+    "score": 0.5,
+    "anchor": "foto kamera aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/lens-811048.html",
+    "score": 0.5,
+    "anchor": "kamera filtresi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tripod-811036.html",
+    "score": 0.5,
+    "anchor": "tripod"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/piller-ve-sarj-cihazlari-811062.html",
+    "score": 0.5,
+    "anchor": "pil & \u015farj aleti"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/giyilebilir-teknoloji-644036.html",
+    "score": 0.5,
+    "anchor": "giyilebilir teknoloji"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sanal-gerceklik-gozlukleri-818515.html",
+    "score": 0.5,
+    "anchor": "sanal ger\u00e7eklik g\u00f6zl\u00fc\u011f\u00fc"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/foto-kamera-drone-465682.html",
+    "score": 0.5,
+    "anchor": "foto & kamera & drone"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/fotograf-makineleri-811020.html",
+    "score": 0.5,
+    "anchor": "foto\u011fraf makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sipsak-fotograf-makineleri-811023.html",
+    "score": 0.5,
+    "anchor": "\u015fip\u015fak foto\u011fraf makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/dijital-kompakt-fotograf-makinesi-811022.html",
+    "score": 0.5,
+    "anchor": "dijital kompakt makineler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/aynasiz-fotograf-makineleri-811025.html",
+    "score": 0.5,
+    "anchor": "aynas\u0131z foto\u011fraf makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/profesyonel-dslr-fotograf-makineleri-811021.html",
+    "score": 0.5,
+    "anchor": "dslr foto\u011fraf makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/aksiyon-kamerasi-811039.html",
+    "score": 0.5,
+    "anchor": "aksiyon kameras\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/yayinci-ekipmanlari-829019.html",
+    "score": 0.5,
+    "anchor": "yay\u0131nc\u0131 ekipmanlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/yayinci-mikrofonu-829012.html",
+    "score": 0.5,
+    "anchor": "yay\u0131nc\u0131 mikrofonu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/yayinci-kamera-webcam-829013.html",
+    "score": 0.5,
+    "anchor": "yay\u0131nc\u0131 kamera & webcam"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/yayinci-aksesuarlari-829014.html",
+    "score": 0.5,
+    "anchor": "yay\u0131nc\u0131 aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/youtuber-halka-isik-811063.html",
+    "score": 0.5,
+    "anchor": "youtuber halka i\u015f\u0131k"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/drone-811034.html",
+    "score": 0.5,
+    "anchor": "drone"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/hafiza-kartlari-811061.html",
+    "score": 0.5,
+    "anchor": "haf\u0131za kartlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/aksiyon-kamera-aksesuarlari-640569.html",
+    "score": 0.5,
+    "anchor": "aksiyon kamera aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/fotograf-yazicilari-kagit-811045.html",
+    "score": 0.5,
+    "anchor": "foto\u011fraf yaz\u0131c\u0131lar\u0131 & ka\u011f\u0131t"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/fotograf-makinesi-lensleri-811048.html",
+    "score": 0.5,
+    "anchor": "foto\u011fraf makinesi lensleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/gimbal-811037.html",
+    "score": 0.5,
+    "anchor": "gimbal"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/durbun-teleskop-mikroskop-811041.html",
+    "score": 0.5,
+    "anchor": "d\u00fcrb\u00fcn & teleskop & mikroskop"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/buzdolabi-465709.html",
+    "score": 0.5,
+    "anchor": "buzdolab\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/alttan-donduruculu-buzdolabi-675155.html",
+    "score": 0.5,
+    "anchor": "alttan donduruculu buzdolab\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ustten-donduruculu-buzdolabi-842509.html",
+    "score": 0.5,
+    "anchor": "\u00fcstten donduruculu buzdolab\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/mini-buzdolabi-465711.html",
+    "score": 0.5,
+    "anchor": "mini buzdolab\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/no-frost-buzdolabi-675163.html",
+    "score": 0.5,
+    "anchor": "no frost buzdolab\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/cift-kapili-gardrop-tipi-buzdolabi-842510.html",
+    "score": 0.5,
+    "anchor": "\u00e7ift kap\u0131l\u0131 gardrop tipi buzdolab\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bulasik-makineleri-712509.html",
+    "score": 0.5,
+    "anchor": "bula\u015f\u0131k makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/samsung-bulasik-makinesi-901532.html",
+    "score": 0.5,
+    "anchor": "samsung bula\u015f\u0131k makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bosch-bulasik-makinesi-891523.html",
+    "score": 0.5,
+    "anchor": "bosch bula\u015f\u0131k makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/electrolux-bulasik-makinesi-902508.html",
+    "score": 0.5,
+    "anchor": "electrolux bula\u015f\u0131k makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/camasir-makineleri-809009.html",
+    "score": 0.5,
+    "anchor": "\u00e7ama\u015f\u0131r makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/bosch-camasir-makinesi-891521.html",
+    "score": 0.5,
+    "anchor": "bosch \u00e7ama\u015f\u0131r makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/electrolux-camasir-makinesi-902509.html",
+    "score": 0.5,
+    "anchor": "electrolux \u00e7ama\u015f\u0131r makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kurutma-makineleri-809010.html",
+    "score": 0.5,
+    "anchor": "kurutma makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/samsung-kurutma-makinesi-901529.html",
+    "score": 0.5,
+    "anchor": "samsung kurutma makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/grundig-kurutma-makinesi-902517.html",
+    "score": 0.5,
+    "anchor": "grundig kurutma makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/hoover-kurutma-makinesi-903534.html",
+    "score": 0.5,
+    "anchor": "hoover kurutma makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ankastre-465724.html",
+    "score": 0.5,
+    "anchor": "ankastre"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ankastre-firin-465726.html",
+    "score": 0.5,
+    "anchor": "ankastre f\u0131r\u0131n"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ankastre-ocaklar-465727.html",
+    "score": 0.5,
+    "anchor": "ankastre ocak"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/aspiratorler-465729.html",
+    "score": 0.5,
+    "anchor": "aspirat\u00f6r"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/davlumbazlar-465730.html",
+    "score": 0.5,
+    "anchor": "davlumbaz"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/firin-678525.html",
+    "score": 0.5,
+    "anchor": "f\u0131r\u0131nlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ocakli-firinlar-465720.html",
+    "score": 0.5,
+    "anchor": "ocakl\u0131 f\u0131r\u0131nlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/mikrodalga-465721.html",
+    "score": 0.5,
+    "anchor": "mikrodalga f\u0131r\u0131nlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/mini-midi-firinlar-465722.html",
+    "score": 0.5,
+    "anchor": "mini & midi f\u0131r\u0131nlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ocak-678526.html",
+    "score": 0.5,
+    "anchor": "ocaklar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/derin-dondurucular-678524.html",
+    "score": 0.5,
+    "anchor": "derin dondurucular"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/cekmeceli-derin-dondurucu-465710.html",
+    "score": 0.5,
+    "anchor": "\u00e7ekmeceli derin dondurucu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sandik-tipi-derin-dondurucu-675161.html",
+    "score": 0.5,
+    "anchor": "sand\u0131k tipi dondurucu"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kombiler-465754.html",
+    "score": 0.5,
+    "anchor": "kombiler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kahve-makinesi-806537.html",
+    "score": 0.5,
+    "anchor": "kahve makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/filtre-kahve-makineleri-806538.html",
+    "score": 0.5,
+    "anchor": "filtre kahve makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/turk-kahve-makineleri-cezveler-806539.html",
+    "score": 0.5,
+    "anchor": "t\u00fcrk kahve makineleri & cezveler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/espresso-kahve-makineleri-806540.html",
+    "score": 0.5,
+    "anchor": "espresso kahve makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kapsullu-kahve-makineleri-806541.html",
+    "score": 0.5,
+    "anchor": "kaps\u00fcll\u00fc kahve makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/cay-makineleri-806544.html",
+    "score": 0.5,
+    "anchor": "\u00e7ay makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/su-isiticilar-kettle-806584.html",
+    "score": 0.5,
+    "anchor": "su is\u0131t\u0131c\u0131lar & kettle"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kahveler-806542.html",
+    "score": 0.5,
+    "anchor": "kahveler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/termos-806545.html",
+    "score": 0.5,
+    "anchor": "termoslar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/supurgeler-465738.html",
+    "score": 0.5,
+    "anchor": "s\u00fcp\u00fcrgeler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/robot-supurge-465744.html",
+    "score": 0.5,
+    "anchor": "robot s\u00fcp\u00fcrge"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/dikey-supurge-465743.html",
+    "score": 0.5,
+    "anchor": "dikey s\u00fcp\u00fcrge"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/islak-kuru-supurgeler-841020.html",
+    "score": 0.5,
+    "anchor": "islak kuru s\u00fcp\u00fcrgeler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/toz-torbali-supurge-465739.html",
+    "score": 0.5,
+    "anchor": "toz torbal\u0131 s\u00fcp\u00fcrge"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/toz-torbasiz-supurge-465740.html",
+    "score": 0.5,
+    "anchor": "toz torbas\u0131z s\u00fcp\u00fcrge"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/mutfak-806547.html",
+    "score": 0.5,
+    "anchor": "mutfak"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/blender-806556.html",
+    "score": 0.5,
+    "anchor": "blender"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/dograyicilar-rondolar-806557.html",
+    "score": 0.5,
+    "anchor": "do\u011fray\u0131c\u0131 & rondo"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tost-makineleri-806549.html",
+    "score": 0.5,
+    "anchor": "tost makineleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/airfryer-806576.html",
+    "score": 0.5,
+    "anchor": "airfryer"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/meyve-sikacagi-806552.html",
+    "score": 0.5,
+    "anchor": "meyve s\u0131kaca\u011f\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/su-aritma-806586.html",
+    "score": 0.5,
+    "anchor": "su ar\u0131tma"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tavalar-806582.html",
+    "score": 0.5,
+    "anchor": "tavalar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tencereler-806581.html",
+    "score": 0.5,
+    "anchor": "tencereler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/akilli-ev-sistemleri-817013.html",
+    "score": 0.5,
+    "anchor": "ak\u0131ll\u0131 ev sistemleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/evcil-hayvan-urunleri-817509.html",
+    "score": 0.5,
+    "anchor": "evcil hayvan \u00fcr\u00fcnleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/utuler-465747.html",
+    "score": 0.5,
+    "anchor": "\u00fct\u00fcler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/buharli-utu-465748.html",
+    "score": 0.5,
+    "anchor": "buharl\u0131 \u00fct\u00fc"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/buhar-kazanli-utu-465749.html",
+    "score": 0.5,
+    "anchor": "buhar kazanl\u0131 \u00fct\u00fc"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/buharli-dikey-utu-878034.html",
+    "score": 0.5,
+    "anchor": "buharl\u0131 dikey \u00fct\u00fc"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sofben-termosifon-465755.html",
+    "score": 0.5,
+    "anchor": "\u015fofben & termosifon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/isiticilar-806516.html",
+    "score": 0.5,
+    "anchor": "is\u0131t\u0131c\u0131lar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/hava-nemlendirici-temizleyiciler-465759.html",
+    "score": 0.5,
+    "anchor": "hava nemlendirici & temizleyiciler"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/aydinlatma-urunleri-807010.html",
+    "score": 0.5,
+    "anchor": "ayd\u0131nlatma \u00fcr\u00fcnleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/masa-gece-lambalari-807014.html",
+    "score": 0.5,
+    "anchor": "masa & gece lambalar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sac-bakim-675547.html",
+    "score": 0.5,
+    "anchor": "sa\u00e7 bak\u0131m \u00fcr\u00fcnleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sac-duzlestirme-465830.html",
+    "score": 0.5,
+    "anchor": "sa\u00e7 d\u00fczle\u015ftirici"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sac-kurutma-465828.html",
+    "score": 0.5,
+    "anchor": "sa\u00e7 kurutma makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sac-sekillendirme-465829.html",
+    "score": 0.5,
+    "anchor": "sa\u00e7 \u015fekillendirme"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/agiz-bakim-urunleri-465839.html",
+    "score": 0.5,
+    "anchor": "a\u011f\u0131z bak\u0131m \u00fcr\u00fcnleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/sarjli-dis-fircasi-678528.html",
+    "score": 0.5,
+    "anchor": "\u015farjl\u0131 di\u015f f\u0131r\u00e7as\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/dis-fircasi-basliklari-465857.html",
+    "score": 0.5,
+    "anchor": "di\u015f f\u0131r\u00e7as\u0131 ba\u015fl\u0131klar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tiras-makinesi-465822.html",
+    "score": 0.5,
+    "anchor": "t\u0131ra\u015f makinesi"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/erkek-bakim-seti-465824.html",
+    "score": 0.5,
+    "anchor": "erkek bak\u0131m seti"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kulak-burun-kili-temizleme-makineleri-465825.html",
+    "score": 0.5,
+    "anchor": "kulak & burun k\u0131l\u0131 temizleme"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tiras-makinesi-yedek-basligi-465856.html",
+    "score": 0.5,
+    "anchor": "t\u0131ra\u015f makinesi yedek ba\u015fl\u0131\u011f\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/epilasyon-465827.html",
+    "score": 0.5,
+    "anchor": "epilasyon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/ipl-lazer-epilasyon-cihazi-582509.html",
+    "score": 0.5,
+    "anchor": "ipl lazer epilasyon cihaz\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/yuz-ve-tirnak-bakimi-807517.html",
+    "score": 0.5,
+    "anchor": "y\u00fcz ve t\u0131rnak bak\u0131m\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/saglik-urunleri-465833.html",
+    "score": 0.5,
+    "anchor": "sa\u011fl\u0131k \u00fcr\u00fcnleri"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/spor-outdoor-465862.html",
+    "score": 0.5,
+    "anchor": "spor & outdoor"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/fitness-kondisyon-575593.html",
+    "score": 0.5,
+    "anchor": "fitness kondisyon"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kondisyon-bisikleti-698537.html",
+    "score": 0.5,
+    "anchor": "kondisyon bisikleti"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/kosu-bandi-698540.html",
+    "score": 0.5,
+    "anchor": "ko\u015fu band\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/elektrikli-scooter-799010.html",
+    "score": 0.5,
+    "anchor": "elektrikli scooter"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/elektrikli-bisiklet-830020.html",
+    "score": 0.5,
+    "anchor": "elektrikli bisiklet"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/hoverboard-799011.html",
+    "score": 0.5,
+    "anchor": "hoverboard"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/tasinabilir-guc-kaynagi-903533.html",
+    "score": 0.5,
+    "anchor": "ta\u015f\u0131nabilir g\u00fc\u00e7 kayna\u011f\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyun-konsollari-465863.html",
+    "score": 0.5,
+    "anchor": "oyun konsollar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/playstation-5-799012.html",
+    "score": 0.5,
+    "anchor": "playstation 5"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/xbox-series-x-799015.html",
+    "score": 0.5,
+    "anchor": "xbox series x"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/xbox-series-s-799014.html",
+    "score": 0.5,
+    "anchor": "xbox series s"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/nintendo-465880.html",
+    "score": 0.5,
+    "anchor": "nintendo"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyun-konsolu-aksesuarlari-640601.html",
+    "score": 0.5,
+    "anchor": "oyun konsolu aksesuarlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyunlar-465881.html",
+    "score": 0.5,
+    "anchor": "oyunlar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/playstation-oyunlari-677024.html",
+    "score": 0.5,
+    "anchor": "playstation oyunlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/xbox-oyunlari-679085.html",
+    "score": 0.5,
+    "anchor": "xbox oyunlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/nintendo-oyunlari-465886.html",
+    "score": 0.5,
+    "anchor": "nintendo oyunlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/pc-oyunlari-465882.html",
+    "score": 0.5,
+    "anchor": "pc oyunlar\u0131"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/oyuncaklar-644543.html",
+    "score": 0.5,
+    "anchor": "oyuncaklar"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/puzzle-644555.html",
+    "score": 0.5,
+    "anchor": "puzzle"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/dyson-supurge-873030.html",
+    "score": 0.5,
+    "anchor": "dyson s\u00fcp\u00fcrge"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/philips-supurge-873036.html",
+    "score": 0.5,
+    "anchor": "philips s\u00fcp\u00fcrge"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/category/airpods-791012.html",
+    "score": 0.5,
+    "anchor": "apple airpods"
+  },
+  {
+    "url": "https://www.mediamarkt.com.tr/tr/product/_dyson-v15-detect-kablosuz-sarjli-dikey-supurge-sari-nikel-1232522.html",
+    "score": 0.5,
+    "anchor": "dyson v15"
+  }
+]

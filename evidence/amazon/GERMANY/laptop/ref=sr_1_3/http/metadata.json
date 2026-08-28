@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-de",
+  "retailer": "Amazon",
+  "country": "Germany",
+  "url": "https://www.amazon.de/Lenovo-IdeaPad-Display-Windows-Kameraschutzabdeckung/dp/B0FKC3X8X3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hFD8ZYAzyqV1lAlS5fAh7Mz75UEfUf_MEgsHGu_mq5_gP2wis3WPWtzX6GtX2AV3SsaHhIMT2rucFmR_XOIdCb7UN7hVuLaEs9w_baK7MymmA1bIQWd5czjbXgkfcPR58XOj_hFI2Snqwvj1w9V2UHbOBnzhXzhvfgdkbvbqa5vGsIBp3I7G1xTmYnr0b71sy_dY1beOtpqD4UGOPyvjzlgV0vUaHFEZJ7LU6F0JzBE.gLgbHpIRcQIXg6qPrYNYHsND5sXBB1RAR4sM1Ix7_ho&dib_tag=se&keywords=laptop&qid=1787557064&sr=8-3",
+  "strategy": "HTTP",
+  "status_code": 200,
+  "final_url": "https://www.amazon.de/Lenovo-IdeaPad-Display-Windows-Kameraschutzabdeckung/dp/B0FKC3X8X3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hFD8ZYAzyqV1lAlS5fAh7Mz75UEfUf_MEgsHGu_mq5_gP2wis3WPWtzX6GtX2AV3SsaHhIMT2rucFmR_XOIdCb7UN7hVuLaEs9w_baK7MymmA1bIQWd5czjbXgkfcPR58XOj_hFI2Snqwvj1w9V2UHbOBnzhXzhvfgdkbvbqa5vGsIBp3I7G1xTmYnr0b71sy_dY1beOtpqD4UGOPyvjzlgV0vUaHFEZJ7LU6F0JzBE.gLgbHpIRcQIXg6qPrYNYHsND5sXBB1RAR4sM1Ix7_ho&dib_tag=se&keywords=laptop&qid=1787557064&sr=8-3",
+  "crawlable": false,
+  "failure_reason": "BOT_CHALLENGE_PAGE",
+  "anti_bot_vendor": null,
+  "latency_ms": 2294.59
+}

@@ -1,0 +1,63 @@
+{
+  "target_id": "jbhifi-au",
+  "retailer": "Jbhifi",
+  "country": "Australia",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "jbhifi.com.au",
+    "base_url": "https://www.jbhifi.com.au",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.jbhifi.com.au",
+    "robots_txt_found": true,
+    "sitemaps_found": [
+      "https://www.jbhifi.com.au/sitemap.xml",
+      "http://www.jbhifi.com.au/sitemap-subcollections.xml"
+    ],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 1370.3
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.jbhifi.com.au/search?q=laptop",
+      "status": 200,
+      "latency_ms": 936.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.jbhifi.com.au/search?q=notebook",
+      "status": 200,
+      "latency_ms": 1143.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.jbhifi.com.au/s?k=laptop",
+      "status": 200,
+      "latency_ms": 964.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.jbhifi.com.au/s?k=notebook",
+      "status": 200,
+      "latency_ms": 1418.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.jbhifi.com.au/laptops",
+      "status": 200,
+      "latency_ms": 1098.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.jbhifi.com.au",
+      "candidates_found": 0
+    }
+  ]
+}

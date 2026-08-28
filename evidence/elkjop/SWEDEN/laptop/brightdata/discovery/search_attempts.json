@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.elgiganten.se/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 13168.8,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.elgiganten.se/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 15991.0,
+    "html_bytes": 462349
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.elgiganten.se/laptops",
+    "status_code": 200,
+    "latency_ms": 15029.4,
+    "html_bytes": 72
+  }
+]

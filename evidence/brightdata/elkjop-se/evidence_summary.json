@@ -1,0 +1,17 @@
+{
+  "target_id": "elkjop-se",
+  "retailer": "Elkjop",
+  "country": "Sweden",
+  "domain": "elgiganten.se",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data Web Unlocker",
+  "url": "https://www.elgiganten.se/product/datorer-kontor/datorer/barbar-dator/lenovo-ideapad-1-14-barbar-dator-platinum-grey/465223",
+  "title": "Lenovo Ideapad 1 14\" bärbar dator (platinum grey)",
+  "brand": "Lenovo",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:16:50.974895+00:00",
+  "failure_reason": null
+}

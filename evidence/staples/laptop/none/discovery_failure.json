@@ -1,0 +1,8 @@
+{
+  "target_id": "staples-us",
+  "retailer": "Staples",
+  "country": "United States",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+  "timestamp": "2026-08-24T07:32:07.425439+00:00"
+}

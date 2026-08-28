@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 403,
+  "response_time_ms": 10158.98,
+  "browser_seconds": 13.14,
+  "bytes_received": 1083,
+  "success": false,
+  "evidence_path": "evidence/magazineluiza/BRAZIL/sku_0011/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/magazineluiza/BRAZIL/sku_0011/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:38:51.136291+00:00"
+}

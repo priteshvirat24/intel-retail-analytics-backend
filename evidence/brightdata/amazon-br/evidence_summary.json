@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-br",
+  "retailer": "Amazon",
+  "country": "Brazil",
+  "domain": "amazon.com.br",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.amazon.com.br/dp/B098SS5YP2",
+  "title": "Moldura frontal de LCD (carcaça B) de reposição para ...",
+  "brand": "Amazon",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:20:43.391297+00:00",
+  "failure_reason": null
+}

@@ -1,0 +1,17 @@
+{
+  "target_id": "officeworks-au",
+  "retailer": "Officeworks",
+  "country": "Australia",
+  "domain": "officeworks.com.au",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.officeworks.com.au/shop/officeworks/p/hp-15-6-15-fd0943tu-n150-4-128gb-notebook-hpd90s3pa",
+  "title": "HP 15.6” N150 4/128GB Laptop",
+  "brand": "HP",
+  "specs": {
+    "storage": "128GB "
+  },
+  "timestamp": "2026-08-25T14:22:36.174231+00:00",
+  "failure_reason": null
+}

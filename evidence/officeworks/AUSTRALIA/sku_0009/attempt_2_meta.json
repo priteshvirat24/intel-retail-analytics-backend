@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 405,
+  "response_time_ms": 9310.57,
+  "browser_seconds": 11.45,
+  "bytes_received": 9563,
+  "success": false,
+  "evidence_path": "evidence/officeworks/AUSTRALIA/sku_0009/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/officeworks/AUSTRALIA/sku_0009/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:45:31.023008+00:00"
+}

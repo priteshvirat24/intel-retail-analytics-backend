@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.komputronik.pl/szukaj?q=laptop",
+    "status_code": 200,
+    "latency_ms": 9040.4,
+    "bytes": 1024408,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

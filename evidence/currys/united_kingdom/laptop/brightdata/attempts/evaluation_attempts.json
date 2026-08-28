@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.currys.co.uk/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 17813.5,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.currys.co.uk/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 9483.6,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.currys.co.uk/laptops",
+    "status_code": 200,
+    "latency_ms": 26713.2,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.currys.co.uk",
+    "status_code": 200,
+    "latency_ms": 7564.0,
+    "product_title": "Currys | Washing Machines, Laptops, TVs, Consoles",
+    "brand": null,
+    "price": 119.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.4,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.4 < 0.70)",
+    "waf_detected": "Cloudflare WAF"
+  }
+]

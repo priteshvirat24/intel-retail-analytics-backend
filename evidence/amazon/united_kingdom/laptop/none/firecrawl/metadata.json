@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-gb",
+  "retailer": "Amazon",
+  "country": "United Kingdom",
+  "url": "https://www.amazon.co.uk/laptops/b/?ie=UTF8&node=429886031&ref_=sv_computers_3",
+  "strategy": "FIRECRAWL",
+  "status_code": 200,
+  "final_url": "https://www.amazon.co.uk/laptops/b/?ie=UTF8&node=429886031&ref_=sv_computers_3",
+  "crawlable": true,
+  "failure_reason": null,
+  "anti_bot_vendor": null,
+  "latency_ms": 16690.86201799655
+}

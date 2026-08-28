@@ -1,0 +1,35 @@
+{
+  "target_id": "amazon-es",
+  "laptop_url": "https://www.amazon.es/dp/B08L5WHJ7L",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 2058.0
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.1
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 404,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "HTTP_404_NOT_FOUND",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_HTTP_ERROR",
+    "latency_ms": 4956.6
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

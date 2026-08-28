@@ -1,0 +1,17 @@
+{
+  "target_id": "monsternotebook-tr",
+  "retailer": "Monsternotebook",
+  "country": "Turkey",
+  "country_iso": "tr",
+  "url": "https://www.monsternotebook.com.tr/laptop-cantalari/",
+  "status_code": 200,
+  "response_time_ms": 3456.9,
+  "can_scrape": "NO",
+  "confidence_score": 0.6,
+  "product_name": "Laptop \u00c7antas\u0131",
+  "brand": null,
+  "price": 1.69,
+  "currency": null,
+  "sku": null,
+  "reason": "Catalog aggregation page reached: Multiple listing cards present without individual checkout schema"
+}

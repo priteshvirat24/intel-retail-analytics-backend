@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-mx",
+  "retailer": "Amazon",
+  "country": "Mexico",
+  "url": "https://www.amazon.com.mx/HP-15-fd1340la-Windows-Garant%C3%ADa-Plateado/dp/B0GR2PK79C/ref=sr_1_5?dib=eyJ2IjoiMSJ9.hbNRfpoyX3Pj-FPZHZT2EGFgqzzM8Up6GWvmWtm8VOg2jA0aXWKxEBONGCn2dEIXL0RS03oYCvG2YwtQmQQBYeQ7GhtExQOXp7U9dkEyILDr0VB2ViF6GACDRIiqO72OHhEMR8HGd41kYuxdsE7w4IqqUByfoDOV8ufRqi2LhhY1hVFFVwFDifAzVceXbVy73RL6e6YDb8HPOCo3TQASp2T32MWQ8hTUg_Rd2ETPBVY55juQufEffEF7XUwqUPpIR0dVjoFMG0C6sjGVSG1tCk5eCEbI0cb2OQGnO07jEPY.ubD2Iq3kKT9L005XEgRc9LUIR9xHIk9jaJJz36dVlJs&dib_tag=se&keywords=laptop&qid=1787557129&sr=8-5&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3",
+  "strategy": "PLAYWRIGHT",
+  "status_code": 200,
+  "final_url": "https://www.amazon.com.mx/HP-15-fd1340la-Windows-Garant%C3%ADa-Plateado/dp/B0GR2PK79C/ref=sr_1_5?dib=eyJ2IjoiMSJ9.hbNRfpoyX3Pj-FPZHZT2EGFgqzzM8Up6GWvmWtm8VOg2jA0aXWKxEBONGCn2dEIXL0RS03oYCvG2YwtQmQQBYeQ7GhtExQOXp7U9dkEyILDr0VB2ViF6GACDRIiqO72OHhEMR8HGd41kYuxdsE7w4IqqUByfoDOV8ufRqi2LhhY1hVFFVwFDifAzVceXbVy73RL6e6YDb8HPOCo3TQASp2T32MWQ8hTUg_Rd2ETPBVY55juQufEffEF7XUwqUPpIR0dVjoFMG0C6sjGVSG1tCk5eCEbI0cb2OQGnO07jEPY.ubD2Iq3kKT9L005XEgRc9LUIR9xHIk9jaJJz36dVlJs&dib_tag=se&keywords=laptop&qid=1787557129&sr=8-5&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3",
+  "crawlable": false,
+  "failure_reason": "CAPTCHA_PAGE",
+  "anti_bot_vendor": null,
+  "latency_ms": 3627.34
+}

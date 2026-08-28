@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-fr",
+  "retailer": "Amazon",
+  "country": "France",
+  "url": "https://www.amazon.fr/Informatique-ordinateur-portable-laptop/b/?ie=UTF8&node=429879031&ref_=sv_computers_3",
+  "strategy": "HTTP",
+  "status_code": 200,
+  "final_url": "https://www.amazon.fr/Informatique-ordinateur-portable-laptop/b/?ie=UTF8&node=429879031&ref_=sv_computers_3",
+  "crawlable": false,
+  "failure_reason": "PRODUCT_CONTENT_NOT_DETECTED",
+  "anti_bot_vendor": null,
+  "latency_ms": 3314.08
+}

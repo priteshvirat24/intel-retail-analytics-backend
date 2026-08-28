@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 13372.21,
+  "browser_seconds": 13.4,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright navigation error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigating to \"https://www.gmarket.co.kr/product/sku_0005\", waiting until \"domcontentloaded\"\n",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:33:18.052770+00:00"
+}

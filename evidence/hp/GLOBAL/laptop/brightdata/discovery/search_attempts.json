@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.hp.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 15009.9,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.hp.com/search?q=laptop",
+    "status_code": 0,
+    "latency_ms": 35738.1,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.hp.com/laptops",
+    "status_code": 200,
+    "latency_ms": 10516.2,
+    "html_bytes": 72
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.tmall.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 3772.1,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.tmall.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 2751.1,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.tmall.com/laptops",
+    "status_code": 0,
+    "latency_ms": 29252.3,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

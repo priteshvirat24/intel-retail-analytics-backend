@@ -1,0 +1,21 @@
+{
+  "retailer": "Officeworks",
+  "country": "Australia",
+  "product_url": "https://www.officeworks.com.au/shop/officeworks/p/hp-15-core-i7-16-512gb-notebook-hpfd0707tu",
+  "title": "HP 15\" Core i7 16/512GB Notebook",
+  "brand": "HP",
+  "model": "15-core",
+  "sku": "15-core",
+  "price": null,
+  "currency": "AUD",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": null,
+  "storage": "512GB ",
+  "display": "15\"",
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:20:54.944533Z"
+}

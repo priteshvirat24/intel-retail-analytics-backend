@@ -1,0 +1,19 @@
+{
+  "target_id": "mediamarkt-de",
+  "retailer": "MediaMarkt",
+  "country": "Germany",
+  "domain": "mediamarkt.de",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_SDK_SCRAPE",
+  "method": "Search\u2192Direct",
+  "url": "https://www.mediamarkt.de/de/product/_lenovo-ideapad-slim-3-15amn8-156-zoll-amd-ryzentm-5-40-8-gb-512-gb-amd-radeontm-610m-windows-11-home-3032675.html?srsltid=AfmBOooS3UhmIdbjhvGGixU9dwD7tvmcC_ErC-hrhLymKgxq56HzNHwX",
+  "title": "LENOVO IdeaPad Slim 3 15AMN8 - 15,6 Zoll - AMD Ryzen\u2122 5 40 - 8 GB - 512 GB - AMD Radeon\u2122 610M - Windows 11 Home",
+  "brand": "Lenovo",
+  "specs": {
+    "ram": "8GB",
+    "storage": "512 GB",
+    "os": "Windows 11"
+  },
+  "timestamp": "2026-08-25T13:49:43.660131+00:00",
+  "failure_reason": null
+}

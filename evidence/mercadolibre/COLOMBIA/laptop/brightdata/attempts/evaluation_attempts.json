@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mercadolibre.com.co/s?k=portatil",
+    "status_code": 0,
+    "latency_ms": 30045.9,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mercadolibre.com.co/search?q=portatil",
+    "status_code": 0,
+    "latency_ms": 29622.5,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mercadolibre.com.co/laptops",
+    "status_code": 0,
+    "latency_ms": 30465.5,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.mercadolibre.com.co",
+    "status_code": 200,
+    "latency_ms": 13552.5,
+    "product_title": "Mercado Libre",
+    "brand": null,
+    "price": 2.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  }
+]

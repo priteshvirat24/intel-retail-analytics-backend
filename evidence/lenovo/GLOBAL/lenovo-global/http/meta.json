@@ -1,0 +1,16 @@
+{
+  "target_id": "lenovo-global",
+  "strategy": "HTTP",
+  "laptop_url": "https://www.lenovo.com/product/sku_0011",
+  "status_code": 503,
+  "latency_ms": 459.64,
+  "bytes": 487,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "AKAMAI_BOT_MANAGER_BLOCK",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": "Akamai Bot Manager"
+}

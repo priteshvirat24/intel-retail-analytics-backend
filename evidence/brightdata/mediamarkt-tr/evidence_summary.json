@@ -1,0 +1,19 @@
+{
+  "target_id": "mediamarkt-tr",
+  "retailer": "Mediamarkt",
+  "country": "Turkey",
+  "domain": "mediamarkt.com.tr",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.mediamarkt.com.tr/tr/product/_hp-4g6g1ean60004gb-ram128gb-ssd14win10h-laptop-siyah-1217714.html",
+  "title": "HP 4G6G1EA/N6000/4GB RAM/128GB SSD/14''/Win10H ...",
+  "brand": "HP",
+  "specs": {
+    "screen_size": "14\"",
+    "ram": "4GB",
+    "storage": "128GB SSD"
+  },
+  "timestamp": "2026-08-25T14:23:21.407305+00:00",
+  "failure_reason": null
+}

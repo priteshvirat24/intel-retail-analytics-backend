@@ -1,0 +1,17 @@
+{
+  "title": "Lenovo Business Laptop, 16GB RAM, 512GB SSD, i5-13420H",
+  "brand": "LENOVO",
+  "price": 749.98,
+  "currency": null,
+  "sku": "B0GYXRJDKD",
+  "specs": {
+    "ram": "16GB",
+    "storage": "512GB SSD"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'laptop'",
+    "Brand: 'Lenovo'",
+    "RAM: 16GB",
+    "Storage: 512GB SSD"
+  ]
+}

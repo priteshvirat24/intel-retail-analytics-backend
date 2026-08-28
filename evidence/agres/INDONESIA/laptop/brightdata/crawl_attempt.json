@@ -1,0 +1,17 @@
+{
+  "target_id": "agres-id",
+  "retailer": "Agres",
+  "country": "Indonesia",
+  "country_iso": "id",
+  "url": "https://www.agres.id/categories/laptops/laptop-gaming",
+  "status_code": 200,
+  "response_time_ms": 11164.1,
+  "can_scrape": "YES",
+  "confidence_score": 0.7,
+  "product_name": "Laptop Gaming",
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (Laptop Gaming | Brand: \u2014 | Price: \u2014 | SKU: \u2014)"
+}

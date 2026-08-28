@@ -1,0 +1,54 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.officeworks.com.au/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 15761.0,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.officeworks.com.au/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 9142.6,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.officeworks.com.au/laptops",
+    "status_code": 200,
+    "latency_ms": 10956.1,
+    "bytes": 1184602,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.officeworks.com.au/shop/officeworks/c/technology/laptops/laptop-accessories",
+    "status_code": 200,
+    "latency_ms": 5015.8,
+    "product_title": "Laptop Accessories",
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.4,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.4 < 0.70)",
+    "waf_detected": "Cloudflare WAF"
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.officeworks.com.au/information/policies/latitude?cm_sp=all:footer::we-accept::latitude",
+    "status_code": 200,
+    "latency_ms": 12142.1,
+    "product_title": "Latitude",
+    "brand": null,
+    "price": 35.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.35,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.35 < 0.70)",
+    "waf_detected": null
+  }
+]

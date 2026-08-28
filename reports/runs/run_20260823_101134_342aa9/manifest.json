@@ -1,0 +1,17 @@
+{
+  "run_id": "run_20260823_101134_342aa9",
+  "timestamp": "2026-08-23T10:11:34.839263+00:00",
+  "git_commit": "unversioned",
+  "crawler_version": "1.2.0",
+  "target_count": 1,
+  "sku_limit": 2,
+  "targets": [
+    "boulanger-fr"
+  ],
+  "strategies_enabled": [
+    "HTTP",
+    "PLAYWRIGHT",
+    "ADAPTER"
+  ],
+  "configuration_hash": "a26341b18ad2d6adb5c23210e9c4ed4919797c0b874a590ef68532f54404e239"
+}

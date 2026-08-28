@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 10833.76,
+  "browser_seconds": 10.86,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright navigation error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mediamarkt.es/de/product/-2800003.html\nCall log:\n  - navigating to \"https://www.mediamarkt.es/de/product/-2800003.html\", waiting until \"domcontentloaded\"\n",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:37:45.581381+00:00"
+}

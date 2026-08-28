@@ -1,0 +1,75 @@
+{
+  "total_skus_sampled": 19,
+  "intel_overall_cpu_share_pct": 73.7,
+  "intel_overall_mom_delta_pct": 3.6,
+  "series_breakdown": [
+    {
+      "processor_series": "Intel Core Ultra",
+      "sku_count": 6,
+      "share_pct": 31.6,
+      "is_intel": true,
+      "mom_delta_pct": 4.8
+    },
+    {
+      "processor_series": "Intel Core i5",
+      "sku_count": 5,
+      "share_pct": 26.3,
+      "is_intel": true,
+      "mom_delta_pct": 0.0
+    },
+    {
+      "processor_series": "Intel Core i7",
+      "sku_count": 2,
+      "share_pct": 10.5,
+      "is_intel": true,
+      "mom_delta_pct": -1.2
+    },
+    {
+      "processor_series": "AMD Ryzen 7",
+      "sku_count": 2,
+      "share_pct": 10.5,
+      "is_intel": false,
+      "mom_delta_pct": 0.5
+    },
+    {
+      "processor_series": "AMD Ryzen 5",
+      "sku_count": 1,
+      "share_pct": 5.3,
+      "is_intel": false,
+      "mom_delta_pct": 0.5
+    },
+    {
+      "processor_series": "Apple M-Series",
+      "sku_count": 1,
+      "share_pct": 5.3,
+      "is_intel": false,
+      "mom_delta_pct": -0.3
+    },
+    {
+      "processor_series": "Snapdragon X Elite",
+      "sku_count": 1,
+      "share_pct": 5.3,
+      "is_intel": false,
+      "mom_delta_pct": 2.1
+    },
+    {
+      "processor_series": "Intel Core i9",
+      "sku_count": 1,
+      "share_pct": 5.3,
+      "is_intel": true,
+      "mom_delta_pct": -1.2
+    }
+  ],
+  "generation_breakdown": {
+    "Series 1 (Meteor Lake)": 6,
+    "14th Gen (Raptor Lake Refresh)": 5,
+    "7000 Series (Barcelo-R)": 1,
+    "13th Gen (Raptor Lake)": 1,
+    "13th Gen HX Series": 1,
+    "7000 Series": 1,
+    "8000 Series (Hawk Point)": 1,
+    "3rd Gen Apple Silicon": 1,
+    "1st Gen Oryon ARM": 1,
+    "13th Gen vPro": 1
+  }
+}

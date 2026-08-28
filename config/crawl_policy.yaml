@@ -1,0 +1,54 @@
+# Global Crawl Policy Configuration
+
+policies:
+  default:
+    max_concurrency: 3
+    requests_per_second: 2.0
+    download_delay_sec: 1.0
+    timeout_sec: 25.0
+    max_retries: 3
+    backoff_factor: 1.5
+    jitter_factor: 0.5
+    retry_statuses: [408, 429, 500, 502, 503, 504]
+    permanent_statuses: [400, 401, 403, 404, 410]
+    user_agents:
+      desktop: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+      mobile: "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+
+  strict_rate_limiting:
+    max_concurrency: 1
+    requests_per_second: 0.5
+    download_delay_sec: 2.5
+    timeout_sec: 35.0
+    max_retries: 2
+    backoff_factor: 2.0
+
+  fast_api:
+    max_concurrency: 5
+    requests_per_second: 5.0
+    download_delay_sec: 0.2
+    timeout_sec: 15.0
+    max_retries: 3
+    backoff_factor: 1.2
+
+strategies:
+  order: ["http", "playwright", "custom_adapter"]
+  escalation_triggers:
+    - "JAVASCRIPT_REQUIRED"
+    - "EMPTY_RESPONSE"
+    - "EXTRACTION_FAILURE"
+    - "BOT_PROTECTION"
+    - "PRICE_MISSING"
+
+browser:
+  headless: true
+  viewport:
+    width: 1440
+    height: 900
+  device_scale_factor: 1.0
+  navigation_timeout_ms: 30000
+  wait_for_selector_timeout_ms: 10000
+  block_media: true
+  block_stylesheets: false
+  block_fonts: false
+  stealth_mode: true

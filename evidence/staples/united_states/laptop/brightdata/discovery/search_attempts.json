@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.staples.com/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 32960.2,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.staples.com/search?q=laptop",
+    "status_code": 0,
+    "latency_ms": 32522.4,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.staples.com/laptops",
+    "status_code": 200,
+    "latency_ms": 35793.2,
+    "html_bytes": 2371819
+  }
+]

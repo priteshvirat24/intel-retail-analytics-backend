@@ -1,0 +1,202 @@
+[
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Smartphones & Mobile",
+    "sku_id": "B08L5WHJ7L",
+    "sku_url": "https://www.amazon.de/dp/B08L5WHJ7L",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859298+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Laptops & Notebooks",
+    "sku_id": "B08N5WRW88",
+    "sku_url": "https://www.amazon.de/dp/B08N5WRW88",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859320+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Audio & Headphones",
+    "sku_id": "B09BRF4N2V",
+    "sku_url": "https://www.amazon.de/dp/B09BRF4N2V",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859325+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Tablets & E-Readers",
+    "sku_id": "B09G91LXFP",
+    "sku_url": "https://www.amazon.de/dp/B09G91LXFP",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859359+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Smartwatches & Wearables",
+    "sku_id": "B0B7J4H2Y2",
+    "sku_url": "https://www.amazon.de/dp/B0B7J4H2Y2",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859361+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Monitors & Displays",
+    "sku_id": "B0BSHF7WHW",
+    "sku_url": "https://www.amazon.de/dp/B0BSHF7WHW",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859364+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Storage & Memory",
+    "sku_id": "B0C7678D3M",
+    "sku_url": "https://www.amazon.de/dp/B0C7678D3M",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859367+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Home & Electronics",
+    "sku_id": "B0CL6LMC9N",
+    "sku_url": "https://www.amazon.de/dp/B0CL6LMC9N",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859369+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Smartphones & Mobile",
+    "sku_id": "B09JQKQW89",
+    "sku_url": "https://www.amazon.de/dp/B09JQKQW89",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859371+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Laptops & Notebooks",
+    "sku_id": "B08N5WRWNW",
+    "sku_url": "https://www.amazon.de/dp/B08N5WRWNW",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859374+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Laptops & Notebooks",
+    "sku_id": "sku_0001",
+    "sku_url": "https://www.boulanger.com/product/sku_0001",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859407+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Smartphones & Mobile",
+    "sku_id": "sku_0002",
+    "sku_url": "https://www.boulanger.com/product/sku_0002",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859411+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Audio & Headphones",
+    "sku_id": "sku_0003",
+    "sku_url": "https://www.boulanger.com/product/sku_0003",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859413+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Monitors & Displays",
+    "sku_id": "sku_0004",
+    "sku_url": "https://www.boulanger.com/product/sku_0004",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859415+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Storage & Memory",
+    "sku_id": "sku_0005",
+    "sku_url": "https://www.boulanger.com/product/sku_0005",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859418+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Laptops & Notebooks",
+    "sku_id": "sku_0006",
+    "sku_url": "https://www.boulanger.com/product/sku_0006",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859420+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Smartphones & Mobile",
+    "sku_id": "sku_0007",
+    "sku_url": "https://www.boulanger.com/product/sku_0007",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859423+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Audio & Headphones",
+    "sku_id": "sku_0008",
+    "sku_url": "https://www.boulanger.com/product/sku_0008",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859425+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Monitors & Displays",
+    "sku_id": "sku_0009",
+    "sku_url": "https://www.boulanger.com/product/sku_0009",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859428+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Storage & Memory",
+    "sku_id": "sku_0010",
+    "sku_url": "https://www.boulanger.com/product/sku_0010",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:01:27.859430+00:00"
+  }
+]

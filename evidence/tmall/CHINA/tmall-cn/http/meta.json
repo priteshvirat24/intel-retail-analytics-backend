@@ -1,0 +1,20 @@
+{
+  "target_id": "tmall-cn",
+  "strategy": "HTTP",
+  "laptop_url": "https://www.tmall.com/product/sku_0011",
+  "status_code": 200,
+  "latency_ms": 8794.41,
+  "bytes": 14880,
+  "endpoint_reachable": true,
+  "product_page_detected": true,
+  "product_content_detected": true,
+  "crawlable": true,
+  "failure_reason": null,
+  "detected_title": "\u5929\u732bTmall.com",
+  "keywords": [
+    "14\"",
+    "16\"",
+    "ram"
+  ],
+  "anti_bot_vendor": null
+}

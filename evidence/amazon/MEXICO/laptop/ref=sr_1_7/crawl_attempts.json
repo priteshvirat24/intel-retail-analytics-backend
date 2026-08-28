@@ -1,0 +1,35 @@
+{
+  "target_id": "amazon-mx",
+  "laptop_url": "https://www.amazon.com.mx/Hora-20000mAh-Incorporados-Compatible-USB-Negro/dp/B09NR5ML9Q/ref=sr_1_7?dib=eyJ2IjoiMSJ9.YVju2VL9Z36afz4wpJE9iNLMFGBV_63KB5uzwYKiwB2nOF8UO3DOLcvpb2pEbV54TeVLv4HWoKvM9A1fDhzSF2pUuk83UqVW7azCwHnkffzPhBqSVN9ZQJm5mHz9H_N4dYfvy7prM1vw3lm278KD0y_1o8Brae1n4mJHiuxcZr--_8G2FYLHGBLDWOZ50Z8d7guo8ZNT3IFXPhvSmq5liefqvRS4UukeBeo5xZQzMmmSVSe0OEieDUCBk9n8F2sMDrQsEE2mcQpDz9QJxN6mGTXdnM1pa-pvLw8RHV_FFiw.eo2trP8GYZEyxXFkE7atqJIXEXAsvciMlq9Jewga4F4&dib_tag=se&keywords=portatil&qid=1787585435&sr=8-7&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 7293.5
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.1
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 500,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_HTTP_ERROR",
+    "latency_ms": 100.0
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

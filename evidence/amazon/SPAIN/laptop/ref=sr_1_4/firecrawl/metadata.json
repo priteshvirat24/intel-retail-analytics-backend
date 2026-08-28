@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-es",
+  "retailer": "Amazon",
+  "country": "Spain",
+  "url": "https://www.amazon.es/Bouzerara-Ordenador-Portatil-Convertible-Bluetooth/dp/B0H3PGGXKZ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UiNNSVu7n0JbqJ5NBVcdBbU58SYj27AGd6dxQIJKTGATdD-Mydw-Ef5IumGo_ee1FMbUHeRoR69YDZGaVS1uWvKWQ8EOnZKvbRX4v9GfaU4JOA6-O5IrW5U8V4zGBOLbfkKy9xPBFVw8m3NSFk5eoBBZjQI9aM_GHOKLDDNfoMAbi8S8YwJq9Zw6aKUwFIrPYqNRellOr74Jma77nyIjHgXcdQAZcTZl1oXI2_GT7W3gMu91_ZYDJgixAq3ISq-mqpeeAYWYdifAgRIkPD7HC5V1cdFt7PafNe8FKQOm9vg.93sShY9TTTs8zg6U-LVxPxq9WN5YsF3wNRCSR4dt-iU&dib_tag=se&keywords=laptop&qid=1787557108&sr=8-4",
+  "strategy": "FIRECRAWL",
+  "status_code": 500,
+  "final_url": "https://www.amazon.es/Bouzerara-Ordenador-Portatil-Convertible-Bluetooth/dp/B0H3PGGXKZ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UiNNSVu7n0JbqJ5NBVcdBbU58SYj27AGd6dxQIJKTGATdD-Mydw-Ef5IumGo_ee1FMbUHeRoR69YDZGaVS1uWvKWQ8EOnZKvbRX4v9GfaU4JOA6-O5IrW5U8V4zGBOLbfkKy9xPBFVw8m3NSFk5eoBBZjQI9aM_GHOKLDDNfoMAbi8S8YwJq9Zw6aKUwFIrPYqNRellOr74Jma77nyIjHgXcdQAZcTZl1oXI2_GT7W3gMu91_ZYDJgixAq3ISq-mqpeeAYWYdifAgRIkPD7HC5V1cdFt7PafNe8FKQOm9vg.93sShY9TTTs8zg6U-LVxPxq9WN5YsF3wNRCSR4dt-iU&dib_tag=se&keywords=laptop&qid=1787557108&sr=8-4",
+  "crawlable": false,
+  "failure_reason": "EMPTY_RESPONSE",
+  "anti_bot_vendor": null,
+  "latency_ms": 30929.966841998976
+}

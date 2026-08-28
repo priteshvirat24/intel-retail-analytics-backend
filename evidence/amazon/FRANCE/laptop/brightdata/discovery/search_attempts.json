@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.amazon.fr/s?k=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 11488.1,
+    "html_bytes": 1818627
+  }
+]

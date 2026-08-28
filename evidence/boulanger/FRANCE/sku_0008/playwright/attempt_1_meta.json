@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 400,
+  "response_time_ms": 3262.24,
+  "browser_seconds": 3.313664334011264,
+  "bytes_received": 248,
+  "success": false,
+  "evidence_path": "evidence/boulanger/FRANCE/sku_0008/playwright/raw.html",
+  "screenshot_path": "evidence/boulanger/FRANCE/sku_0008/playwright/screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "NETWORK",
+    "specific_reason": "UNKNOWN_FAILURE",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Unclassified failure with HTTP status 400.",
+    "http_status": 400,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "PLAYWRIGHT",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:03:45.949681+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": null,
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:03:45.949736+00:00"
+}

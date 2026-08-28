@@ -1,0 +1,21 @@
+{
+  "retailer": "Walmart",
+  "country": "United States",
+  "product_url": "https://www.walmart.com/ip/Acer-Chromebook-315-15-6-inch-Laptop-Intel-Processor-N4500-4GB-RAM-64GB-eMMC-Moonstone-Purple/5113175776?classType=VARIANT&athbdg=L1600&from=/search",
+  "title": "Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB eMMC Moonstone Purple",
+  "brand": "Acer",
+  "model": "inch-laptop",
+  "sku": "inch-laptop",
+  "price": null,
+  "currency": "USD",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": "4GB",
+  "storage": "64GB EMMC",
+  "display": "15.6\"",
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:23:54.570176Z"
+}

@@ -1,0 +1,6128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://docs.brightdata.com/ai/agents</loc>
+    <lastmod>2026-07-04T19:05:38.060Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/answer-engine</loc>
+    <lastmod>2026-07-04T19:05:38.058Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/cookbooks/data-enrichment</loc>
+    <lastmod>2026-07-04T10:15:04.648Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/cookbooks/haystack-sales-intelligence</loc>
+    <lastmod>2026-07-04T10:15:04.649Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/deep-research</loc>
+    <lastmod>2026-07-15T06:23:14.159Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/enrichment</loc>
+    <lastmod>2026-07-15T06:23:14.145Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/for-agents/docs-mcp</loc>
+    <lastmod>2026-08-07T15:38:42.137Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/for-agents/llm-references</loc>
+    <lastmod>2026-07-15T06:23:14.160Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/for-agents/overview</loc>
+    <lastmod>2026-08-07T15:38:42.139Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/for-agents/skills</loc>
+    <lastmod>2026-08-07T15:38:42.136Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/introduction</loc>
+    <lastmod>2026-07-15T06:23:14.162Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/llm-grounding</loc>
+    <lastmod>2026-07-15T06:23:14.161Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/faqs</loc>
+    <lastmod>2026-08-13T10:28:06.946Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/agent-builder</loc>
+    <lastmod>2026-08-07T15:38:42.142Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/chat-gpt</loc>
+    <lastmod>2026-07-04T10:15:04.681Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/claude</loc>
+    <lastmod>2026-07-04T10:15:04.676Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/claude-code</loc>
+    <lastmod>2026-07-04T10:15:04.681Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/cloudflare-agents</loc>
+    <lastmod>2026-08-07T15:38:42.137Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/codex</loc>
+    <lastmod>2026-07-13T06:36:47.102Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/crewai</loc>
+    <lastmod>2026-07-04T10:15:04.711Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/cursor</loc>
+    <lastmod>2026-07-04T10:15:04.709Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/google-adk</loc>
+    <lastmod>2026-07-04T10:15:04.708Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/langchain</loc>
+    <lastmod>2026-07-04T10:15:04.709Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/llamaindex</loc>
+    <lastmod>2026-07-04T10:15:04.707Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/n8n</loc>
+    <lastmod>2026-08-07T15:38:42.101Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/nvidia-nemo</loc>
+    <lastmod>2026-07-04T10:15:04.712Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/openai</loc>
+    <lastmod>2026-08-13T10:28:06.946Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/overview</loc>
+    <lastmod>2026-07-13T06:36:47.184Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/snowflake</loc>
+    <lastmod>2026-08-07T15:38:42.103Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/vapi</loc>
+    <lastmod>2026-07-04T10:15:04.738Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/integrations/vscode</loc>
+    <lastmod>2026-08-07T15:38:42.105Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/local/advanced</loc>
+    <lastmod>2026-06-07T13:33:48.573Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/local/quickstart</loc>
+    <lastmod>2026-08-13T15:15:58.662Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/overview</loc>
+    <lastmod>2026-07-04T14:03:26.097Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/remote/advanced</loc>
+    <lastmod>2026-06-07T13:33:48.568Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/remote/oauth</loc>
+    <lastmod>2026-08-24T15:21:50.440Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/remote/quickstart</loc>
+    <lastmod>2026-07-10T06:36:39.410Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/tools</loc>
+    <lastmod>2026-07-04T19:05:38.066Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/toon</loc>
+    <lastmod>2026-07-04T10:15:04.736Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/mcp-server/usage-examples</loc>
+    <lastmod>2026-07-04T10:15:04.766Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/ai/training</loc>
+    <lastmod>2026-07-15T06:23:14.162Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/SDK</loc>
+    <lastmod>2026-07-15T06:23:14.123Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/SDK-JS</loc>
+    <lastmod>2026-07-15T06:23:14.121Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Add_Static_Datacenter_ISP_IPs</loc>
+    <lastmod>2026-07-04T10:15:04.763Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Add_a_Zone</loc>
+    <lastmod>2026-07-10T06:16:19.576Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Change_account_status</loc>
+    <lastmod>2026-07-04T10:15:04.767Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Export_cost_breakdown</loc>
+    <lastmod>2026-06-07T13:33:48.613Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_Available_Countries</loc>
+    <lastmod>2026-06-07T13:33:48.611Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_Zone_Static_Datacenter_ISP_IPs</loc>
+    <lastmod>2026-07-04T10:15:04.765Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_Zone_info</loc>
+    <lastmod>2026-06-07T13:33:48.650Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_Zone_passwords</loc>
+    <lastmod>2026-07-04T10:15:04.793Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_Zone_permissions</loc>
+    <lastmod>2026-07-04T10:15:04.792Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_Zone_status</loc>
+    <lastmod>2026-06-07T13:33:48.658Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_account_status</loc>
+    <lastmod>2026-06-07T13:33:48.655Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_active_Zones</loc>
+    <lastmod>2026-07-04T10:15:04.784Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_all_available_dedicated_residential_IPs_per_Zone</loc>
+    <lastmod>2026-07-04T10:15:04.794Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_amount_of_available_Datacenter_and_ISP_IPs</loc>
+    <lastmod>2026-06-07T13:33:48.652Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_country_cities</loc>
+    <lastmod>2026-07-04T10:15:04.791Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_current_service_status</loc>
+    <lastmod>2026-06-07T13:33:48.693Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_list_of_available_cities_of_static_network_per_country</loc>
+    <lastmod>2026-06-07T13:33:48.694Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_live_status_of_Static_Datacenter_ISP_Zone_and_IPs_with_connectivity_problem</loc>
+    <lastmod>2026-07-04T10:15:04.817Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_recent_IPs_attempting_to_use_your_Zone</loc>
+    <lastmod>2026-07-04T10:15:04.818Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_the_available_Data_center_ISP_IPs_per_Zone</loc>
+    <lastmod>2026-07-04T10:15:04.816Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_the_bandwidth_stats_for_a_Zone</loc>
+    <lastmod>2026-06-07T13:33:48.686Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_the_bandwidth_stats_for_all_your_Zones</loc>
+    <lastmod>2026-06-07T13:33:48.686Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_the_total_cost_and_bandwidth_stats_for_a_Zone</loc>
+    <lastmod>2026-06-07T13:33:48.685Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Get_total_balance_through_API</loc>
+    <lastmod>2026-07-04T10:15:04.813Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Migrate_Static_Datacenter_ISP_IPs_between_zones</loc>
+    <lastmod>2026-07-04T10:15:04.814Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Refresh_Static_Datacenter_ISP_IPs</loc>
+    <lastmod>2026-07-04T10:15:04.815Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Refresh_dedicated_residential_IPs</loc>
+    <lastmod>2026-06-07T13:33:48.757Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Remove_Static_Datacenter_ISP_IPs</loc>
+    <lastmod>2026-07-04T10:15:04.838Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Remove_Zone</loc>
+    <lastmod>2026-07-04T10:15:04.839Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Remove_dedicated_residential_IPs</loc>
+    <lastmod>2026-06-07T13:33:48.755Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Switch_100_uptime_ON_OFF_in_a_Static_zone</loc>
+    <lastmod>2026-07-04T10:15:04.837Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/Turn_on_off_Zone</loc>
+    <lastmod>2026-07-04T10:15:04.836Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/add-zone-password</loc>
+    <lastmod>2026-07-04T10:15:04.841Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/allowlist-ip</loc>
+    <lastmod>2026-06-07T13:33:48.746Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/allowlist-or-denylist-domains</loc>
+    <lastmod>2026-07-04T10:15:04.838Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/denylist-ip</loc>
+    <lastmod>2026-06-07T13:33:48.796Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/domain-consumption</loc>
+    <lastmod>2026-07-04T10:15:04.863Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/get-all-zones</loc>
+    <lastmod>2026-07-04T10:15:04.861Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/get-proxies-pending-replacement</loc>
+    <lastmod>2026-07-04T10:15:04.864Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/remove-domain-from-zone-allowlist-or-denylist</loc>
+    <lastmod>2026-06-07T13:33:48.803Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/remove-ip-from-zone-allowlist</loc>
+    <lastmod>2026-07-04T10:15:04.862Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/remove-ip-from-zone-denylist</loc>
+    <lastmod>2026-07-04T10:15:04.863Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/remove-zone-password</loc>
+    <lastmod>2026-07-04T10:15:04.859Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/zone-ip-allowlist</loc>
+    <lastmod>2026-06-07T13:33:48.793Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/account-management-api/zone-ip-denylist</loc>
+    <lastmod>2026-06-07T13:33:48.857Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/archive-api/deliver-to-cloud</loc>
+    <lastmod>2026-08-12T13:58:45.954Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/archive-api/get-all-search-statuses</loc>
+    <lastmod>2026-07-04T10:15:04.907Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/archive-api/get-all-snapshots-statuses</loc>
+    <lastmod>2026-07-04T10:15:04.906Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/archive-api/get-search-status</loc>
+    <lastmod>2026-07-04T10:15:04.902Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/archive-api/get-snapshot-status</loc>
+    <lastmod>2026-07-04T10:15:04.907Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/archive-api/run-a-search</loc>
+    <lastmod>2026-08-17T09:44:13.397Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/authentication</loc>
+    <lastmod>2026-07-24T18:29:34.923Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/browser-api/get-session</loc>
+    <lastmod>2026-07-04T10:15:04.903Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/browser-api/get-sessions</loc>
+    <lastmod>2026-07-04T10:15:04.904Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/cancel-request</loc>
+    <lastmod>2026-07-04T10:15:04.904Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/create-preview</loc>
+    <lastmod>2026-07-04T10:15:04.902Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/download-results</loc>
+    <lastmod>2026-07-04T10:15:04.929Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/enhance-query</loc>
+    <lastmod>2026-07-04T10:15:04.927Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/enrich-column</loc>
+    <lastmod>2026-07-04T10:15:04.930Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/get-preview-data</loc>
+    <lastmod>2026-07-04T10:15:04.926Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/get-request-data</loc>
+    <lastmod>2026-07-04T10:15:04.929Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/get-request-status</loc>
+    <lastmod>2026-07-04T10:15:04.926Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/overview</loc>
+    <lastmod>2026-06-07T13:33:48.915Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/deep-lookup/trigger-full-request</loc>
+    <lastmod>2026-07-04T10:15:04.931Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/discover/overview</loc>
+    <lastmod>2026-07-04T19:05:38.062Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/discover/retrieve-results</loc>
+    <lastmod>2026-07-04T10:15:04.928Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/discover/sync</loc>
+    <lastmod>2026-07-02T14:14:18.519Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/bulk-update-view-delivery-settings</loc>
+    <lastmod>2026-06-07T13:33:48.964Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/deliver-snapshot</loc>
+    <lastmod>2026-07-04T10:15:04.953Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/download-the-file-by-snapshot_id</loc>
+    <lastmod>2026-07-04T10:15:04.951Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/filter-dataset</loc>
+    <lastmod>2026-07-04T10:15:04.974Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/filter-dataset-with-csv-json-files</loc>
+    <lastmod>2026-07-04T10:15:04.955Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/filter-syntax</loc>
+    <lastmod>2026-06-25T08:31:36.932Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-dataset-list</loc>
+    <lastmod>2026-06-07T13:33:49.003Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-dataset-metadata</loc>
+    <lastmod>2026-07-04T10:15:04.977Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-dataset-views</loc>
+    <lastmod>2026-06-07T13:33:49.012Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-delivery-options</loc>
+    <lastmod>2026-06-07T13:33:49.069Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-destination-type-schema</loc>
+    <lastmod>2026-08-12T13:15:04.255Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-snapshot-meta</loc>
+    <lastmod>2026-07-04T10:15:04.976Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-snapshot-parts</loc>
+    <lastmod>2026-07-04T10:15:04.976Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/get-view-delivery-settings</loc>
+    <lastmod>2026-06-07T13:33:49.006Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/overview</loc>
+    <lastmod>2026-07-04T10:15:04.997Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/search-dataset</loc>
+    <lastmod>2026-06-25T08:31:36.954Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/troubleshooting</loc>
+    <lastmod>2026-07-04T05:12:42.074Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/marketplace-dataset-api/update-view-delivery-settings</loc>
+    <lastmod>2026-06-07T13:33:49.127Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/postman-collection</loc>
+    <lastmod>2026-07-15T06:23:14.123Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/add_a_user</loc>
+    <lastmod>2026-07-04T10:15:04.998Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/allowlist-ips</loc>
+    <lastmod>2026-06-07T13:33:49.124Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/ban_an_ip_for_all_ports</loc>
+    <lastmod>2026-07-04T10:15:04.996Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/ban_an_ip_single_</loc>
+    <lastmod>2026-06-07T13:33:49.117Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/ban_ips_array_</loc>
+    <lastmod>2026-06-07T13:33:49.115Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/create_a_new_proxy_port</loc>
+    <lastmod>2026-07-04T10:15:05.018Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/delete_a_proxy_port</loc>
+    <lastmod>2026-07-04T10:15:05.019Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/delete_proxy_ports</loc>
+    <lastmod>2026-07-04T10:15:05.020Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/enable_ssl_analyzing_on_all_proxy_ports</loc>
+    <lastmod>2026-07-04T10:15:05.033Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/generate_token_for_token_based_authentication</loc>
+    <lastmod>2026-06-07T13:33:49.179Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_all_users</loc>
+    <lastmod>2026-06-07T13:33:49.169Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_allocated_gips_in_zone</loc>
+    <lastmod>2026-06-07T13:33:49.167Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_allocated_ips_in_zone</loc>
+    <lastmod>2026-06-07T13:33:49.166Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_banned_ips</loc>
+    <lastmod>2026-07-04T10:15:05.021Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_currently_running_nodejs_version</loc>
+    <lastmod>2026-06-07T13:33:49.168Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_effective_configuration_for_all_running_proxies</loc>
+    <lastmod>2026-06-07T13:33:49.208Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_enabled_zones_configuration</loc>
+    <lastmod>2026-07-04T10:15:05.055Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_explicit_configuration_of_all_or_specified_proxies</loc>
+    <lastmod>2026-07-24T18:29:34.867Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_general_settings</loc>
+    <lastmod>2026-06-07T13:33:49.209Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_har_logs</loc>
+    <lastmod>2026-07-04T10:15:05.052Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_proxy_manager_version</loc>
+    <lastmod>2026-06-07T13:33:49.205Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_proxy_port_status</loc>
+    <lastmod>2026-07-04T10:15:05.053Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_recent_stats</loc>
+    <lastmod>2026-07-04T10:15:05.053Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_tail_from_the_log_file</loc>
+    <lastmod>2026-07-04T10:15:05.056Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/get_the_latest_proxy_manager_versions</loc>
+    <lastmod>2026-06-07T13:33:49.206Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/refresh_ips_or_gips_in_zone</loc>
+    <lastmod>2026-06-07T13:33:49.257Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/refresh_proxy_manager_port_sessions</loc>
+    <lastmod>2026-07-04T10:15:05.076Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/restart_proxy_manager</loc>
+    <lastmod>2026-06-07T13:33:49.259Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/shutdown_proxy_manager</loc>
+    <lastmod>2026-06-07T13:33:49.252Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/ui-allowlist-ips</loc>
+    <lastmod>2026-07-04T10:15:05.079Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/unban_an_ip</loc>
+    <lastmod>2026-06-07T13:33:49.278Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/unban_ips</loc>
+    <lastmod>2026-06-07T13:33:49.251Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/update_a_proxy_port</loc>
+    <lastmod>2026-07-04T10:15:05.077Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/update_general_settings</loc>
+    <lastmod>2026-07-04T10:15:05.075Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy-manager/upgrade_proxy_manager</loc>
+    <lastmod>2026-06-07T13:33:49.287Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/c-tag</loc>
+    <lastmod>2026-07-24T18:29:34.792Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/configuring_dns_resolution</loc>
+    <lastmod>2026-07-24T18:29:34.817Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/geolocation-targeting</loc>
+    <lastmod>2026-07-29T12:51:14.828Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/keep_same_peer_in_session</loc>
+    <lastmod>2026-07-24T18:29:34.819Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/os_targeting</loc>
+    <lastmod>2026-07-24T18:29:34.790Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/request_error_handling</loc>
+    <lastmod>2026-07-24T18:29:34.820Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/rotate_ips</loc>
+    <lastmod>2026-07-24T18:29:34.793Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/select_a_specific_gip</loc>
+    <lastmod>2026-07-24T18:29:34.790Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/select_a_specific_ip</loc>
+    <lastmod>2026-07-24T18:29:34.793Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/select_super_proxy_in_specific_country</loc>
+    <lastmod>2026-07-24T18:29:34.817Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/proxy/send_requests_directly_from_super_proxy</loc>
+    <lastmod>2026-07-24T18:29:34.819Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/rest-api/scraper/asynchronous-requests</loc>
+    <lastmod>2026-07-15T06:23:14.124Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/rest-api/scraper/crawl-api</loc>
+    <lastmod>2026-08-24T11:58:01.115Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/rest-api/serp/get-results</loc>
+    <lastmod>2026-06-07T13:33:49.486Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/rest-api/serp/request</loc>
+    <lastmod>2026-06-07T13:33:49.484Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/rest-api/serp/serp-api</loc>
+    <lastmod>2026-07-04T05:12:42.247Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/rest-api/unlocker/get-results</loc>
+    <lastmod>2026-07-04T05:08:02.036Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/rest-api/unlocker/request</loc>
+    <lastmod>2026-07-04T05:08:02.034Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/rest-api/unlocker/unlock-website</loc>
+    <lastmod>2026-07-04T05:12:42.269Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/Choose_a_delivery_type_on_request_level</loc>
+    <lastmod>2026-08-18T08:39:49.073Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/Receive_batch_data</loc>
+    <lastmod>2026-06-26T04:36:43.862Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/Receive_data_from_real_time_work_scraper</loc>
+    <lastmod>2026-07-10T06:20:34.973Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/Trigger_a_scraper_for_batch_collection_method</loc>
+    <lastmod>2026-08-18T08:39:49.074Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/ai-flow/ai-job-progress</loc>
+    <lastmod>2026-07-04T10:15:05.261Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/ai-flow/create-scraper-template</loc>
+    <lastmod>2026-07-04T10:15:05.262Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/ai-flow/overview</loc>
+    <lastmod>2026-08-12T13:28:45.518Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/ai-flow/resume-self-healing-job</loc>
+    <lastmod>2026-06-07T13:33:49.528Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/ai-flow/self-healing-job-progress</loc>
+    <lastmod>2026-06-07T13:33:49.579Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/ai-flow/trigger-ai-flow</loc>
+    <lastmod>2026-06-07T13:33:49.577Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/ai-flow/trigger-self-healing</loc>
+    <lastmod>2026-06-07T13:33:49.576Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/cancel-job</loc>
+    <lastmod>2026-07-19T20:38:12.431Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/delete-scraper</loc>
+    <lastmod>2026-08-10T11:29:10.653Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/get-errors-for-job</loc>
+    <lastmod>2026-06-07T13:33:49.575Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/initiate-a-realtime-job/async-realtime-job</loc>
+    <lastmod>2026-07-20T11:01:56.167Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/initiate-a-realtime-job/sync-realtime-job</loc>
+    <lastmod>2026-06-26T04:36:43.867Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/job-data</loc>
+    <lastmod>2026-08-13T15:15:58.338Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/list-jobs</loc>
+    <lastmod>2026-07-15T11:33:07.860Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/list-scrapers</loc>
+    <lastmod>2026-07-15T12:00:26.965Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/pause-job</loc>
+    <lastmod>2026-07-19T20:38:12.434Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/rerun-job</loc>
+    <lastmod>2026-07-20T15:23:10.227Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraper-studio-api/resume-job</loc>
+    <lastmod>2026-07-19T20:38:12.435Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/ai-search-apis/chatgpt-search-by-prompt</loc>
+    <lastmod>2026-07-04T10:15:05.294Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/delivery-apis/deliver-snapshot</loc>
+    <lastmod>2026-06-07T13:33:49.567Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/delivery-apis/download-snapshot</loc>
+    <lastmod>2026-07-20T10:58:10.276Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.326Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-discover-by-best-sellers-url</loc>
+    <lastmod>2026-07-04T10:15:05.325Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-discover-by-category-url</loc>
+    <lastmod>2026-06-07T13:33:49.609Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-discover-by-keyword</loc>
+    <lastmod>2026-06-07T13:33:49.604Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-discover-by-upc</loc>
+    <lastmod>2026-07-20T11:01:56.169Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-global-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.326Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-global-discover-by-brand</loc>
+    <lastmod>2026-07-04T10:15:05.329Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-global-discover-by-category-url</loc>
+    <lastmod>2026-06-07T13:33:49.610Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-global-discover-by-keywords</loc>
+    <lastmod>2026-07-04T10:15:05.324Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-global-discover-by-seller</loc>
+    <lastmod>2026-07-04T10:15:05.351Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-products-search-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.350Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-reviews-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.348Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/e-commerce-apis/amazon-sellers-info-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.354Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/cancel-snapshot</loc>
+    <lastmod>2026-07-04T10:15:05.353Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/get-scrapers</loc>
+    <lastmod>2026-07-14T14:37:10.345Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/get-snapshot-delivery-parts</loc>
+    <lastmod>2026-08-18T08:39:49.070Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/get-snapshot-input</loc>
+    <lastmod>2026-07-04T10:15:05.348Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/get-snapshots</loc>
+    <lastmod>2026-07-04T10:15:05.351Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/monitor-delivery</loc>
+    <lastmod>2026-07-04T10:15:05.354Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/monitor-progress</loc>
+    <lastmod>2026-07-04T10:15:05.350Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/rerun-snapshot</loc>
+    <lastmod>2026-07-04T10:15:05.379Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/management-apis/snapshot-data</loc>
+    <lastmod>2026-08-24T03:47:19.279Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-ai-mode-search-collect-by-url</loc>
+    <lastmod>2026-07-29T09:49:59.444Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-flights-collect-by-url</loc>
+    <lastmod>2026-07-29T09:49:59.445Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-flights-discover-by-input-filters</loc>
+    <lastmod>2026-07-29T09:49:59.442Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-hotel-collect-by-url</loc>
+    <lastmod>2026-07-29T09:49:59.366Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-hotel-discover-by-filter-url</loc>
+    <lastmod>2026-07-29T09:49:59.363Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-hotel-discover-by-search</loc>
+    <lastmod>2026-07-29T09:49:59.362Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-maps-collect-by-url</loc>
+    <lastmod>2026-07-29T09:49:59.386Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-maps-discover-by-cid</loc>
+    <lastmod>2026-07-29T09:49:59.386Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-maps-discover-by-location</loc>
+    <lastmod>2026-07-29T09:49:59.383Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-maps-discover-by-place-id</loc>
+    <lastmod>2026-07-29T09:49:59.384Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-maps-reviews-collect-by-url</loc>
+    <lastmod>2026-07-29T09:49:59.385Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-serp-100-collect-by-url</loc>
+    <lastmod>2026-07-29T09:49:59.364Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-shopping-collect-by-url</loc>
+    <lastmod>2026-07-29T09:49:59.383Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-shopping-discover-by-keyword</loc>
+    <lastmod>2026-07-29T09:49:59.363Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/search-engines-apis/google-shopping-products-search-us-collect-by-url</loc>
+    <lastmod>2026-07-29T09:49:59.382Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-comments-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.707Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-company-reviews-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.377Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-events-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.376Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-events-discover-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.378Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-events-discover-by-venue</loc>
+    <lastmod>2026-07-04T10:15:05.373Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-marketplace-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.375Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-marketplace-discover-by-keyword</loc>
+    <lastmod>2026-07-04T10:15:05.374Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-marketplace-discover-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.374Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-pages-and-profiles-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.403Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-pages-posts-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.404Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-pages-posts-discover-by-username</loc>
+    <lastmod>2026-07-04T10:15:05.399Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-posts-by-group-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.400Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-posts-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.752Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-profiles-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.744Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/facebook-reels-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.398Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/instagram-comments-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.743Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/instagram-posts-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.746Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/instagram-posts-discover-by-url</loc>
+    <lastmod>2026-07-02T07:01:57.649Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/instagram-profiles-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.798Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/instagram-profiles-discover-by-username</loc>
+    <lastmod>2026-07-04T10:15:05.434Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/instagram-reels-collect-all</loc>
+    <lastmod>2026-07-04T10:15:05.431Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/instagram-reels-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.425Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/instagram-reels-discover-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.812Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-companies-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.427Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-jobs-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.426Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-jobs-discover-by-keyword</loc>
+    <lastmod>2026-07-04T10:15:05.425Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-jobs-discover-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.430Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-people-discover-new-profiles</loc>
+    <lastmod>2026-07-04T10:15:05.428Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-posts-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.459Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-posts-discover-by-company-url</loc>
+    <lastmod>2026-07-04T10:15:05.456Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-posts-discover-by-profile-url</loc>
+    <lastmod>2026-07-04T10:15:05.456Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-posts-discover-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.457Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/linkedin-profiles-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.454Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/overview</loc>
+    <lastmod>2026-08-13T15:12:56.420Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/pinterest</loc>
+    <lastmod>2026-07-15T06:23:14.125Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/quora</loc>
+    <lastmod>2026-07-15T06:23:14.124Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/reddit-comments-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.847Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/reddit-posts-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.859Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/reddit-posts-discover-by-keyword</loc>
+    <lastmod>2026-07-04T10:15:05.494Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/reddit-posts-discover-by-subreddit-url</loc>
+    <lastmod>2026-07-04T10:15:05.495Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-comments-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.895Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-posts-by-profile-fast-api-collect-by-url</loc>
+    <lastmod>2026-07-04T13:00:58.176Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-posts-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.914Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-posts-discover-by-keyword</loc>
+    <lastmod>2026-06-07T13:33:49.896Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-posts-discover-by-profile-url</loc>
+    <lastmod>2026-07-04T10:15:05.492Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-posts-discover-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.893Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-profiles-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.913Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-profiles-discover-by-search-url</loc>
+    <lastmod>2026-07-04T10:15:05.491Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-shop-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.948Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-shop-discover-by-category</loc>
+    <lastmod>2026-07-04T10:15:05.520Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-shop-discover-by-keyword</loc>
+    <lastmod>2026-06-07T13:33:49.946Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/tiktok-shop-discover-by-shop</loc>
+    <lastmod>2026-07-04T10:15:05.516Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/twitter-posts-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.943Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/twitter-posts-discover-by-profile-url</loc>
+    <lastmod>2026-07-04T10:15:05.517Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/twitter-posts-discover-by-profiles-array</loc>
+    <lastmod>2026-07-04T10:15:05.518Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/twitter-profiles-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.939Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/twitter-profiles-discover-by-username</loc>
+    <lastmod>2026-07-04T10:15:05.515Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/vimeo</loc>
+    <lastmod>2026-07-15T06:23:14.127Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-channels-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.545Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-channels-discover-by-keyword</loc>
+    <lastmod>2026-07-04T10:15:05.541Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-comments-collect-by-url</loc>
+    <lastmod>2026-06-07T13:33:49.977Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-videos-collect-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.543Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-videos-discover-by-explore</loc>
+    <lastmod>2026-07-04T10:15:05.544Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-videos-discover-by-hashtag</loc>
+    <lastmod>2026-07-04T10:15:05.540Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-videos-discover-by-keyword</loc>
+    <lastmod>2026-07-04T10:15:05.542Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-videos-discover-by-podcast-url</loc>
+    <lastmod>2026-07-04T10:15:05.542Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-videos-discover-by-search-filters</loc>
+    <lastmod>2026-07-04T10:15:05.546Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/social-media-apis/youtube-videos-discover-by-url</loc>
+    <lastmod>2026-07-04T10:15:05.601Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scrapers/synchronous-requests</loc>
+    <lastmod>2026-07-04T10:15:05.600Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraping-shield-api/all-classification-data</loc>
+    <lastmod>2026-07-04T10:15:05.598Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraping-shield-api/domains-by-classification-data</loc>
+    <lastmod>2026-07-04T10:15:05.597Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraping-shield-api/samples-by-classification-data</loc>
+    <lastmod>2026-07-04T10:15:05.596Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/scraping-shield-api/zones-by-classification-data</loc>
+    <lastmod>2026-07-04T10:15:05.599Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-flights/async</loc>
+    <lastmod>2026-06-07T13:33:50.022Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-flights/complex-search</loc>
+    <lastmod>2026-07-24T18:29:34.651Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-flights/currency</loc>
+    <lastmod>2026-07-24T18:29:34.660Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-flights/localization</loc>
+    <lastmod>2026-07-24T18:29:34.660Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-flights/text-search</loc>
+    <lastmod>2026-07-24T18:29:34.656Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/accommodation-type</loc>
+    <lastmod>2026-07-24T18:29:34.653Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/async</loc>
+    <lastmod>2026-06-07T13:33:50.086Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/currency</loc>
+    <lastmod>2026-07-24T18:29:34.654Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/dates</loc>
+    <lastmod>2026-07-24T18:29:34.656Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/device-type</loc>
+    <lastmod>2026-07-24T18:29:34.655Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/free-cancellation</loc>
+    <lastmod>2026-07-24T18:29:34.655Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/localization</loc>
+    <lastmod>2026-07-24T18:29:34.666Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/occupancy</loc>
+    <lastmod>2026-07-24T18:29:34.584Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/occupancy-children</loc>
+    <lastmod>2026-07-24T18:29:34.579Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/parsed-json</loc>
+    <lastmod>2026-07-24T18:29:34.584Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-hotels/text-search</loc>
+    <lastmod>2026-07-24T18:29:34.578Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/async</loc>
+    <lastmod>2026-06-07T13:33:50.136Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/exact-matches</loc>
+    <lastmod>2026-07-24T18:29:34.608Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/geo-location</loc>
+    <lastmod>2026-07-24T18:29:34.580Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/homework</loc>
+    <lastmod>2026-07-24T18:29:34.594Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/image-url</loc>
+    <lastmod>2026-07-24T18:29:34.585Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/localization</loc>
+    <lastmod>2026-07-24T18:29:34.589Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/parsed-json</loc>
+    <lastmod>2026-07-24T18:29:34.581Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/products</loc>
+    <lastmod>2026-07-24T18:29:34.582Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/upload-file</loc>
+    <lastmod>2026-07-24T18:29:34.597Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-lens/visual-matches</loc>
+    <lastmod>2026-07-24T18:29:34.590Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-maps/async</loc>
+    <lastmod>2026-06-07T13:33:50.192Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-maps/coordinates</loc>
+    <lastmod>2026-07-24T18:29:34.584Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-maps/filtering</loc>
+    <lastmod>2026-07-24T18:29:34.587Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-maps/localization</loc>
+    <lastmod>2026-07-24T18:29:34.596Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-maps/pagination</loc>
+    <lastmod>2026-07-24T18:29:34.598Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-maps/parsed-json</loc>
+    <lastmod>2026-07-24T18:29:34.587Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-maps/place-details</loc>
+    <lastmod>2026-07-24T18:29:34.586Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-maps/text-search</loc>
+    <lastmod>2026-07-24T18:29:34.598Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-reviews/async</loc>
+    <lastmod>2026-06-07T13:33:50.279Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-reviews/filter-keyword</loc>
+    <lastmod>2026-07-24T18:29:34.586Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-reviews/localization</loc>
+    <lastmod>2026-07-24T18:29:34.583Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-reviews/pagination</loc>
+    <lastmod>2026-07-24T18:29:34.597Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-reviews/sort-highest</loc>
+    <lastmod>2026-07-24T18:29:34.599Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-reviews/sort-lowest</loc>
+    <lastmod>2026-07-24T18:29:34.589Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-reviews/sort-newest</loc>
+    <lastmod>2026-07-24T18:29:34.590Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-reviews/text-search</loc>
+    <lastmod>2026-07-24T18:29:34.579Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/ai-overview</loc>
+    <lastmod>2026-07-24T18:29:34.588Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/browser</loc>
+    <lastmod>2026-07-24T18:29:34.575Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/device-ios</loc>
+    <lastmod>2026-07-24T18:29:34.577Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/device-mobile</loc>
+    <lastmod>2026-07-24T18:29:34.573Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/geo-location</loc>
+    <lastmod>2026-07-24T18:29:34.575Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/hotel</loc>
+    <lastmod>2026-07-24T18:29:34.574Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/images</loc>
+    <lastmod>2026-07-24T18:29:34.592Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/jobs</loc>
+    <lastmod>2026-07-24T18:29:34.592Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/localization</loc>
+    <lastmod>2026-07-24T18:29:34.577Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/multiple-requests</loc>
+    <lastmod>2026-06-07T13:33:50.309Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/news</loc>
+    <lastmod>2026-07-24T18:29:34.576Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/pagination</loc>
+    <lastmod>2026-07-24T18:29:34.583Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/parsed-json</loc>
+    <lastmod>2026-07-24T18:29:34.585Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/search-by-image</loc>
+    <lastmod>2026-07-24T18:29:34.588Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/shopping</loc>
+    <lastmod>2026-07-24T18:29:34.578Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/short-videos</loc>
+    <lastmod>2026-07-24T18:29:34.591Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/text-search</loc>
+    <lastmod>2026-07-24T18:29:34.574Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-search/videos</loc>
+    <lastmod>2026-07-24T18:29:34.582Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-trends/async</loc>
+    <lastmod>2026-06-07T13:33:50.336Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-trends/category</loc>
+    <lastmod>2026-07-24T18:29:34.518Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-trends/geo</loc>
+    <lastmod>2026-07-24T18:29:34.519Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-trends/localization</loc>
+    <lastmod>2026-07-24T18:29:34.516Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-trends/search-type</loc>
+    <lastmod>2026-07-24T18:29:34.515Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-trends/text-search</loc>
+    <lastmod>2026-07-24T18:29:34.522Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/serp/google-trends/time-range</loc>
+    <lastmod>2026-07-24T18:29:34.514Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/terminology</loc>
+    <lastmod>2026-07-15T06:23:14.126Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/api-reference/unlocker/sending_first_request</loc>
+    <lastmod>2026-07-24T18:29:34.513Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cli/commands</loc>
+    <lastmod>2026-07-04T10:15:05.801Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cli/examples</loc>
+    <lastmod>2026-07-15T06:23:13.549Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cli/faqs</loc>
+    <lastmod>2026-07-15T06:23:13.548Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cli/installation</loc>
+    <lastmod>2026-07-15T06:23:13.551Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cli/overview</loc>
+    <lastmod>2026-06-07T13:33:50.423Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/agents</loc>
+    <lastmod>2026-06-07T13:33:50.421Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/answer-engine</loc>
+    <lastmod>2026-06-07T13:33:50.422Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/cookbooks/data-enrichment</loc>
+    <lastmod>2026-07-04T05:12:42.787Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/cookbooks/haystack-sales-intelligence</loc>
+    <lastmod>2026-07-04T05:12:42.782Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/deep-research</loc>
+    <lastmod>2026-06-07T13:33:50.465Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/enrichment</loc>
+    <lastmod>2026-06-07T13:33:50.467Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/for-agents/docs-mcp</loc>
+    <lastmod>2026-08-07T15:38:41.635Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/for-agents/llm-references</loc>
+    <lastmod>2026-07-04T05:12:42.811Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/for-agents/overview</loc>
+    <lastmod>2026-08-07T15:38:41.640Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/for-agents/skills</loc>
+    <lastmod>2026-08-07T15:38:41.633Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/introduction</loc>
+    <lastmod>2026-06-07T13:33:50.463Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/llm-grounding</loc>
+    <lastmod>2026-06-07T13:33:50.461Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/faqs</loc>
+    <lastmod>2026-07-10T06:36:39.406Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/agent-builder</loc>
+    <lastmod>2026-08-07T15:38:41.641Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/chat-gpt</loc>
+    <lastmod>2026-06-07T13:36:16.649Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/claude</loc>
+    <lastmod>2026-06-07T13:33:50.521Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/claude-code</loc>
+    <lastmod>2026-06-07T13:33:50.519Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/cloudflare-agents</loc>
+    <lastmod>2026-08-07T15:38:41.642Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/codex</loc>
+    <lastmod>2026-07-13T06:36:48.009Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/crewai</loc>
+    <lastmod>2026-08-07T15:38:41.639Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/cursor</loc>
+    <lastmod>2026-06-07T13:36:16.636Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/google-adk</loc>
+    <lastmod>2026-08-07T15:38:41.635Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/langchain</loc>
+    <lastmod>2026-08-07T15:38:41.636Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/llamaindex</loc>
+    <lastmod>2026-08-07T15:38:41.645Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/n8n</loc>
+    <lastmod>2026-08-07T15:38:41.634Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/nvidia-nemo</loc>
+    <lastmod>2026-08-07T15:38:41.634Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/openai</loc>
+    <lastmod>2026-06-07T13:33:50.550Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/overview</loc>
+    <lastmod>2026-07-13T06:36:48.038Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/snowflake</loc>
+    <lastmod>2026-08-07T15:38:41.644Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/vapi</loc>
+    <lastmod>2026-06-07T13:36:16.680Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/integrations/vscode</loc>
+    <lastmod>2026-08-07T15:38:41.638Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/local/advanced</loc>
+    <lastmod>2026-06-07T13:33:50.560Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/local/quickstart</loc>
+    <lastmod>2026-07-10T06:36:39.406Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/overview</loc>
+    <lastmod>2026-07-04T18:58:21.206Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/remote/advanced</loc>
+    <lastmod>2026-06-07T13:33:50.608Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/remote/oauth</loc>
+    <lastmod>2026-08-24T15:21:49.961Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/remote/quickstart</loc>
+    <lastmod>2026-07-10T06:36:39.407Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/tools</loc>
+    <lastmod>2026-06-07T13:33:50.605Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/toon</loc>
+    <lastmod>2026-06-07T13:33:50.606Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/mcp-server/usage-examples</loc>
+    <lastmod>2026-06-07T13:33:50.615Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/ai/training</loc>
+    <lastmod>2026-07-04T05:12:42.890Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/SDK</loc>
+    <lastmod>2026-06-07T13:36:16.711Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/SDK-JS</loc>
+    <lastmod>2026-06-07T13:33:50.603Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Add_Static_Datacenter_ISP_IPs</loc>
+    <lastmod>2026-07-04T05:12:42.913Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Add_a_Zone</loc>
+    <lastmod>2026-07-08T08:24:39.905Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Change_account_status</loc>
+    <lastmod>2026-07-04T05:12:42.912Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Export_cost_breakdown</loc>
+    <lastmod>2026-07-04T05:12:42.918Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_Available_Countries</loc>
+    <lastmod>2026-07-04T05:12:42.912Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_Zone_Static_Datacenter_ISP_IPs</loc>
+    <lastmod>2026-07-04T05:12:42.916Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_Zone_info</loc>
+    <lastmod>2026-07-04T05:12:42.914Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_Zone_passwords</loc>
+    <lastmod>2026-07-04T05:12:42.914Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_Zone_permissions</loc>
+    <lastmod>2026-07-04T05:12:42.917Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_Zone_status</loc>
+    <lastmod>2026-07-04T05:12:42.918Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_account_status</loc>
+    <lastmod>2026-07-04T05:12:42.944Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_active_Zones</loc>
+    <lastmod>2026-07-04T05:12:42.943Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_all_available_dedicated_residential_IPs_per_Zone</loc>
+    <lastmod>2026-07-04T05:12:42.949Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_amount_of_available_Datacenter_and_ISP_IPs</loc>
+    <lastmod>2026-07-04T05:12:42.945Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_country_cities</loc>
+    <lastmod>2026-07-04T05:12:42.942Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_current_service_status</loc>
+    <lastmod>2026-08-25T07:03:19.933Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_list_of_available_cities_of_static_network_per_country</loc>
+    <lastmod>2026-07-04T05:12:42.950Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_live_status_of_Static_Datacenter_ISP_Zone_and_IPs_with_connectivity_problem</loc>
+    <lastmod>2026-07-04T05:12:42.948Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_recent_IPs_attempting_to_use_your_Zone</loc>
+    <lastmod>2026-07-04T05:12:42.948Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_the_available_Data_center_ISP_IPs_per_Zone</loc>
+    <lastmod>2026-07-04T05:12:42.947Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_the_bandwidth_stats_for_a_Zone</loc>
+    <lastmod>2026-07-04T05:12:42.979Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_the_bandwidth_stats_for_all_your_Zones</loc>
+    <lastmod>2026-07-04T05:12:42.975Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_the_total_cost_and_bandwidth_stats_for_a_Zone</loc>
+    <lastmod>2026-07-04T05:12:42.978Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Get_total_balance_through_API</loc>
+    <lastmod>2026-07-04T05:12:42.977Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Migrate_Static_Datacenter_ISP_IPs_between_zones</loc>
+    <lastmod>2026-07-04T05:12:42.977Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Refresh_Static_Datacenter_ISP_IPs</loc>
+    <lastmod>2026-07-04T05:12:42.980Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Refresh_dedicated_residential_IPs</loc>
+    <lastmod>2026-07-04T05:12:42.982Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Remove_Static_Datacenter_ISP_IPs</loc>
+    <lastmod>2026-07-04T05:12:42.981Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Remove_Zone</loc>
+    <lastmod>2026-08-25T07:03:19.950Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Remove_dedicated_residential_IPs</loc>
+    <lastmod>2026-08-25T07:03:19.932Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Switch_100_uptime_ON_OFF_in_a_Static_zone</loc>
+    <lastmod>2026-07-04T05:12:43.010Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/Turn_on_off_Zone</loc>
+    <lastmod>2026-07-04T05:12:43.009Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/allowlist-ip</loc>
+    <lastmod>2026-07-04T05:12:43.010Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/allowlist-or-denylist-domains</loc>
+    <lastmod>2026-06-07T13:33:50.778Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/denylist-ip</loc>
+    <lastmod>2026-06-07T13:33:50.775Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/get-proxies-pending-replacement</loc>
+    <lastmod>2026-06-07T13:33:50.776Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/remove-domain-from-zone-allowlist-or-denylist</loc>
+    <lastmod>2026-07-04T05:12:43.015Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/remove-ip-from-zone-allowlist</loc>
+    <lastmod>2026-08-25T07:03:19.930Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/remove-ip-from-zone-denylist</loc>
+    <lastmod>2026-08-25T07:03:19.928Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/zone-ip-allowlist</loc>
+    <lastmod>2026-07-04T05:12:43.050Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/account-management-api/zone-ip-denylist</loc>
+    <lastmod>2026-07-04T05:12:43.044Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/archive-api/deliver-to-cloud</loc>
+    <lastmod>2026-08-12T14:04:30.878Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/archive-api/get-all-search-statuses</loc>
+    <lastmod>2026-08-12T14:04:30.876Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/archive-api/get-all-snapshots-statuses</loc>
+    <lastmod>2026-08-12T14:04:30.874Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/archive-api/get-search-status</loc>
+    <lastmod>2026-08-12T14:04:30.879Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/archive-api/get-snapshot-status</loc>
+    <lastmod>2026-08-12T14:04:30.873Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/archive-api/run-a-search</loc>
+    <lastmod>2026-08-17T09:44:12.886Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/authentication</loc>
+    <lastmod>2026-07-24T18:29:34.399Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/cancel-request</loc>
+    <lastmod>2026-06-07T13:33:50.849Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/create-preview</loc>
+    <lastmod>2026-06-07T13:33:50.850Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/download-results</loc>
+    <lastmod>2026-06-07T13:33:50.855Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/enhance-query</loc>
+    <lastmod>2026-06-07T13:33:50.852Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/enrich-column</loc>
+    <lastmod>2026-06-07T13:33:50.851Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/get-preview-data</loc>
+    <lastmod>2026-06-07T13:33:50.893Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/get-request-data</loc>
+    <lastmod>2026-06-07T13:33:50.887Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/get-request-status</loc>
+    <lastmod>2026-06-07T13:33:50.888Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/overview</loc>
+    <lastmod>2026-06-07T13:33:50.894Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/deep-lookup/trigger-full-request</loc>
+    <lastmod>2026-06-07T13:33:50.885Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/deliver-snapshot</loc>
+    <lastmod>2026-06-07T13:33:50.919Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/download-the-file-by-snapshot_id</loc>
+    <lastmod>2026-06-07T13:33:50.924Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/filter-dataset</loc>
+    <lastmod>2026-06-25T14:43:00.900Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/filter-dataset-with-csv-json-files</loc>
+    <lastmod>2026-06-25T14:43:00.898Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/filter-syntax</loc>
+    <lastmod>2026-06-25T14:43:00.896Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/get-dataset-list</loc>
+    <lastmod>2026-06-07T13:33:50.936Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/get-dataset-metadata</loc>
+    <lastmod>2026-08-25T07:03:19.878Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/get-snapshot-meta</loc>
+    <lastmod>2026-06-07T13:33:50.963Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/get-snapshot-parts</loc>
+    <lastmod>2026-06-07T13:33:50.959Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/overview</loc>
+    <lastmod>2026-06-25T14:43:00.925Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/search-dataset</loc>
+    <lastmod>2026-06-25T14:43:00.922Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/marketplace-dataset-api/troubleshooting</loc>
+    <lastmod>2026-07-04T05:12:43.150Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/postman-collection</loc>
+    <lastmod>2026-07-04T05:12:43.176Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/add_a_user</loc>
+    <lastmod>2026-08-25T07:03:19.875Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/allowlist-ips</loc>
+    <lastmod>2026-08-25T07:03:19.891Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/ban_an_ip_for_all_ports</loc>
+    <lastmod>2026-06-07T13:33:50.998Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/ban_an_ip_single_</loc>
+    <lastmod>2026-06-07T13:33:50.996Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/ban_ips_array_</loc>
+    <lastmod>2026-06-07T13:33:50.993Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/create_a_new_proxy_port</loc>
+    <lastmod>2026-08-25T07:03:19.877Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/delete_a_proxy_port</loc>
+    <lastmod>2026-06-07T13:33:50.993Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/delete_proxy_ports</loc>
+    <lastmod>2026-06-07T13:33:50.994Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/enable_ssl_analyzing_on_all_proxy_ports</loc>
+    <lastmod>2026-06-07T13:33:50.995Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/generate_token_for_token_based_authentication</loc>
+    <lastmod>2026-06-07T13:33:50.992Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_all_users</loc>
+    <lastmod>2026-06-07T13:33:51.039Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_allocated_gips_in_zone</loc>
+    <lastmod>2026-06-07T13:33:51.037Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_allocated_ips_in_zone</loc>
+    <lastmod>2026-06-07T13:33:51.036Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_banned_ips</loc>
+    <lastmod>2026-06-07T13:33:51.041Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_currently_running_nodejs_version</loc>
+    <lastmod>2026-08-25T07:03:19.838Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_effective_configuration_for_all_running_proxies</loc>
+    <lastmod>2026-06-07T13:33:51.034Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_enabled_zones_configuration</loc>
+    <lastmod>2026-08-25T07:03:19.840Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_explicit_configuration_of_all_or_specified_proxies</loc>
+    <lastmod>2026-07-24T18:29:34.346Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_general_settings</loc>
+    <lastmod>2026-08-25T07:03:19.838Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_har_logs</loc>
+    <lastmod>2026-06-07T13:33:51.037Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_proxy_manager_version</loc>
+    <lastmod>2026-06-07T13:33:51.067Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_proxy_port_status</loc>
+    <lastmod>2026-06-07T13:33:51.067Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_recent_stats</loc>
+    <lastmod>2026-06-07T13:33:51.072Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_tail_from_the_log_file</loc>
+    <lastmod>2026-06-07T13:33:51.065Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/get_the_latest_proxy_manager_versions</loc>
+    <lastmod>2026-06-07T13:33:51.071Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/refresh_ips_or_gips_in_zone</loc>
+    <lastmod>2026-06-07T13:33:51.063Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/refresh_proxy_manager_port_sessions</loc>
+    <lastmod>2026-06-07T13:33:51.070Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/restart_proxy_manager</loc>
+    <lastmod>2026-06-07T13:33:51.064Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/shutdown_proxy_manager</loc>
+    <lastmod>2026-06-07T13:33:51.069Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/ui-allowlist-ips</loc>
+    <lastmod>2026-08-25T07:03:19.840Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/unban_an_ip</loc>
+    <lastmod>2026-06-07T13:33:51.102Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/unban_ips</loc>
+    <lastmod>2026-08-25T07:03:19.813Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/update_a_proxy_port</loc>
+    <lastmod>2026-08-25T07:03:19.837Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/update_general_settings</loc>
+    <lastmod>2026-08-25T07:03:19.839Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy-manager/upgrade_proxy_manager</loc>
+    <lastmod>2026-06-07T13:33:51.098Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/c-tag</loc>
+    <lastmod>2026-08-25T07:03:19.815Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/configuring_dns_resolution</loc>
+    <lastmod>2026-08-25T07:03:19.814Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/geolocation-targeting</loc>
+    <lastmod>2026-07-29T12:51:14.814Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/keep_same_peer_in_session</loc>
+    <lastmod>2026-08-25T07:03:19.816Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/os_targeting</loc>
+    <lastmod>2026-08-25T07:03:19.817Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/request_error_handling</loc>
+    <lastmod>2026-08-25T07:03:19.841Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/rotate_ips</loc>
+    <lastmod>2026-07-24T18:29:34.269Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/select_a_specific_gip</loc>
+    <lastmod>2026-07-24T18:29:34.270Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/select_a_specific_ip</loc>
+    <lastmod>2026-07-24T18:29:34.279Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/select_super_proxy_in_specific_country</loc>
+    <lastmod>2026-08-25T07:03:19.814Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/proxy/send_requests_directly_from_super_proxy</loc>
+    <lastmod>2026-07-24T18:29:34.265Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/rest-api/scraper/asynchronous-requests</loc>
+    <lastmod>2026-06-07T13:33:51.264Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/rest-api/scraper/crawl-api</loc>
+    <lastmod>2026-06-07T13:33:51.306Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/rest-api/unlocker/unlock-website</loc>
+    <lastmod>2026-07-04T05:12:43.389Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/Choose_a_delivery_type_on_request_level</loc>
+    <lastmod>2026-08-25T07:03:19.778Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/Receive_batch_data</loc>
+    <lastmod>2026-06-21T02:53:05.744Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/Receive_data_from_real_time_work_scraper</loc>
+    <lastmod>2026-08-25T07:03:19.761Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/Trigger_a_scraper_for_batch_collection_method</loc>
+    <lastmod>2026-07-27T16:11:19.035Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/ai-flow/ai-job-progress</loc>
+    <lastmod>2026-08-25T07:03:19.758Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/ai-flow/create-scraper-template</loc>
+    <lastmod>2026-08-25T07:03:19.762Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/ai-flow/overview</loc>
+    <lastmod>2026-08-25T07:03:19.761Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/ai-flow/resume-self-healing-job</loc>
+    <lastmod>2026-08-25T07:03:19.760Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/ai-flow/self-healing-job-progress</loc>
+    <lastmod>2026-08-25T07:03:19.763Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/ai-flow/trigger-ai-flow</loc>
+    <lastmod>2026-08-25T07:03:19.760Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/ai-flow/trigger-self-healing</loc>
+    <lastmod>2026-08-25T07:03:19.758Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/cancel-job</loc>
+    <lastmod>2026-07-20T08:28:10.669Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/delete-scraper</loc>
+    <lastmod>2026-08-10T11:29:10.155Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/get-errors-for-job</loc>
+    <lastmod>2026-08-25T07:03:19.759Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/initiate-a-realtime-job/async-realtime-job</loc>
+    <lastmod>2026-06-21T02:33:40.423Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/initiate-a-realtime-job/sync-realtime-job</loc>
+    <lastmod>2026-06-21T02:33:40.455Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/job-data</loc>
+    <lastmod>2026-08-25T07:03:19.777Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/list-jobs</loc>
+    <lastmod>2026-07-15T11:33:07.859Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/list-scrapers</loc>
+    <lastmod>2026-07-15T12:00:24.832Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/pause-job</loc>
+    <lastmod>2026-07-20T08:28:10.665Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/rerun-job</loc>
+    <lastmod>2026-07-20T15:23:08.984Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraper-studio-api/resume-job</loc>
+    <lastmod>2026-07-20T08:28:10.668Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/delivery-apis/deliver-snapshot</loc>
+    <lastmod>2026-06-07T13:33:51.369Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/delivery-apis/download-snapshot</loc>
+    <lastmod>2026-06-07T13:33:51.368Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/management-apis/cancel-snapshot</loc>
+    <lastmod>2026-06-07T13:33:51.443Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/management-apis/get-scrapers</loc>
+    <lastmod>2026-07-14T14:37:11.285Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/management-apis/get-snapshot-delivery-parts</loc>
+    <lastmod>2026-06-07T13:33:51.438Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/management-apis/get-snapshot-input</loc>
+    <lastmod>2026-06-07T13:33:51.444Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/management-apis/get-snapshots</loc>
+    <lastmod>2026-06-07T13:33:51.437Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/management-apis/monitor-delivery</loc>
+    <lastmod>2026-06-07T13:33:51.441Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/management-apis/monitor-progress</loc>
+    <lastmod>2026-06-07T13:33:51.442Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/management-apis/snapshot-data</loc>
+    <lastmod>2026-06-07T13:33:51.438Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/social-media-apis/overview</loc>
+    <lastmod>2026-06-07T13:33:51.577Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/social-media-apis/pinterest</loc>
+    <lastmod>2026-08-25T07:03:19.641Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/social-media-apis/quora</loc>
+    <lastmod>2026-08-25T07:03:19.646Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/social-media-apis/vimeo</loc>
+    <lastmod>2026-08-25T07:03:19.612Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scrapers/synchronous-requests</loc>
+    <lastmod>2026-06-07T13:33:51.739Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraping-shield-api/all-classification-data</loc>
+    <lastmod>2026-06-07T13:33:51.740Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraping-shield-api/domains-by-classification-data</loc>
+    <lastmod>2026-06-07T13:33:51.741Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraping-shield-api/samples-by-classification-data</loc>
+    <lastmod>2026-06-07T13:33:51.738Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/scraping-shield-api/zones-by-classification-data</loc>
+    <lastmod>2026-06-07T13:33:51.738Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/terminology</loc>
+    <lastmod>2026-08-25T07:03:19.480Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/api-reference/unlocker/sending_first_request</loc>
+    <lastmod>2026-08-25T07:03:19.485Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/cli/commands</loc>
+    <lastmod>2026-06-07T13:33:52.091Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/cli/examples</loc>
+    <lastmod>2026-06-07T13:33:52.090Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/cli/faqs</loc>
+    <lastmod>2026-06-07T13:33:52.090Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/cli/installation</loc>
+    <lastmod>2026-06-09T08:36:09.209Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/cli/overview</loc>
+    <lastmod>2026-06-07T13:33:52.086Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/archive/data-range-vs-delivery-time</loc>
+    <lastmod>2026-08-12T14:04:30.447Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/archive/faqs</loc>
+    <lastmod>2026-08-17T09:44:12.466Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/archive/overview</loc>
+    <lastmod>2026-08-12T14:04:30.445Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/data-validation/data-validation-for-customers</loc>
+    <lastmod>2026-08-25T07:03:19.446Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/data-validation/data-validation-for-partners</loc>
+    <lastmod>2026-08-25T07:03:19.477Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/deep-lookup/code-examples</loc>
+    <lastmod>2026-06-07T13:33:52.118Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/deep-lookup/errors</loc>
+    <lastmod>2026-08-25T07:03:19.479Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/deep-lookup/overview</loc>
+    <lastmod>2026-08-25T07:03:19.482Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/deep-lookup/pricing</loc>
+    <lastmod>2026-06-07T13:33:52.198Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/introduction</loc>
+    <lastmod>2026-07-15T06:23:13.549Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/marketplace/customization-and-filtering</loc>
+    <lastmod>2026-06-21T10:31:28.911Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/marketplace/data-delivery-and-export</loc>
+    <lastmod>2026-06-07T13:33:52.197Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/marketplace/dataset-view</loc>
+    <lastmod>2026-08-25T07:03:19.446Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/marketplace/faqs</loc>
+    <lastmod>2026-08-25T07:03:19.427Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/marketplace/fill-rates-and-statistics</loc>
+    <lastmod>2026-06-07T13:33:52.191Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/marketplace/overview</loc>
+    <lastmod>2026-06-07T13:33:52.163Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/marketplace/pricing</loc>
+    <lastmod>2026-06-07T13:33:52.231Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/marketplace/purchase-options</loc>
+    <lastmod>2026-08-25T07:03:19.425Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/ai-agent</loc>
+    <lastmod>2026-06-25T05:15:19.037Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/auto-self-healing</loc>
+    <lastmod>2026-08-25T07:03:19.427Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/basics-of-web-scraping</loc>
+    <lastmod>2026-06-07T13:33:52.242Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/best-practices</loc>
+    <lastmod>2026-06-07T13:33:52.243Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/build-with-the-cli</loc>
+    <lastmod>2026-06-09T08:36:09.208Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/coding-agent-prompts</loc>
+    <lastmod>2026-06-09T08:36:09.207Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/complete-examples</loc>
+    <lastmod>2026-06-07T13:36:18.040Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/develop-a-scraper</loc>
+    <lastmod>2026-06-07T13:33:52.239Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/error-codes</loc>
+    <lastmod>2026-08-25T07:03:19.426Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/faqs</loc>
+    <lastmod>2026-08-19T12:05:07.944Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/features</loc>
+    <lastmod>2026-07-15T06:23:13.547Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/functions</loc>
+    <lastmod>2026-07-20T08:28:10.369Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/initiate-collection-and-delivery-options</loc>
+    <lastmod>2026-06-07T13:47:38.950Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/input-and-output-schema</loc>
+    <lastmod>2026-07-08T08:04:04.204Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/introduction</loc>
+    <lastmod>2026-06-07T13:33:52.283Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/overview</loc>
+    <lastmod>2026-07-15T06:23:13.550Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/quickstart</loc>
+    <lastmod>2026-06-07T13:33:52.277Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/scraper-studio-ide-interface</loc>
+    <lastmod>2026-06-07T13:36:18.069Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/self-healing-tool</loc>
+    <lastmod>2026-08-25T07:03:19.423Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/specifications</loc>
+    <lastmod>2026-08-19T12:05:07.939Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/videos</loc>
+    <lastmod>2026-06-07T13:33:52.284Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/warc-ide</loc>
+    <lastmod>2026-06-07T13:36:18.068Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scraper-studio/worker-types</loc>
+    <lastmod>2026-06-07T13:33:52.346Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scrapers/overview</loc>
+    <lastmod>2026-07-20T10:58:10.272Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scrapers/scrapers-library/ai-scrapers</loc>
+    <lastmod>2026-06-15T06:39:06.631Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scrapers/scrapers-library/error-list-by-endpoint</loc>
+    <lastmod>2026-06-07T13:33:52.514Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scrapers/scrapers-library/faqs</loc>
+    <lastmod>2026-07-04T05:12:44.278Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scrapers/scrapers-library/integrations/clay</loc>
+    <lastmod>2026-08-25T07:03:19.354Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scrapers/scrapers-library/overview</loc>
+    <lastmod>2026-07-20T08:28:10.302Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/datasets/scrapers/scrapers-library/quickstart</loc>
+    <lastmod>2026-08-25T07:03:19.352Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/billing</loc>
+    <lastmod>2026-08-25T07:03:19.292Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/bright-rewards-program</loc>
+    <lastmod>2026-06-07T13:36:18.356Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/costs-explorer</loc>
+    <lastmod>2026-06-07T13:33:52.684Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/faqs</loc>
+    <lastmod>2026-08-25T07:03:19.294Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/free-tier</loc>
+    <lastmod>2026-08-19T18:49:09.488Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/payment</loc>
+    <lastmod>2026-08-25T07:03:19.289Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/payment-methods</loc>
+    <lastmod>2026-06-07T13:33:52.680Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/premium-ips</loc>
+    <lastmod>2026-06-07T13:33:52.677Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/billing-and-pricing/promo-codes</loc>
+    <lastmod>2026-08-25T07:03:19.292Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/faqs</loc>
+    <lastmod>2026-08-25T07:03:19.293Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/overview</loc>
+    <lastmod>2026-06-07T13:33:52.721Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/referral-program</loc>
+    <lastmod>2026-06-07T13:33:52.718Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/ssl-certificate</loc>
+    <lastmod>2026-07-27T12:02:22.414Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/ssl-certificate-migration</loc>
+    <lastmod>2026-07-30T10:51:21.861Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/ssl-certificate-windows-schannel</loc>
+    <lastmod>2026-07-27T12:02:22.416Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/account/users-management</loc>
+    <lastmod>2026-06-07T13:33:52.726Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/authentication/How_to_set_up_Azure_SSO_Entra_ID_with_Bright_Data</loc>
+    <lastmod>2026-08-25T07:03:19.289Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/authentication/How_to_set_up_SSO_with_Google_Workspace_in_Bright_Data</loc>
+    <lastmod>2026-06-18T07:40:23.327Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/authentication/How_to_set_up_SSO_with_Okta_in_Bright_Data</loc>
+    <lastmod>2026-08-25T07:03:19.287Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/cloud-providers/snowflake</loc>
+    <lastmod>2026-08-25T07:03:19.286Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/faqs</loc>
+    <lastmod>2026-07-24T19:40:09.573Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/policy/How_do_consumers_join_the_Bright_Data_network_of_peers_</loc>
+    <lastmod>2026-08-25T07:03:19.288Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/policy/What_is_Bright_Data_platform</loc>
+    <lastmod>2026-08-25T07:03:19.287Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/policy/acceptable-use-policy</loc>
+    <lastmod>2026-08-25T07:03:19.285Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/privacy/privacy-and-security-for-apps</loc>
+    <lastmod>2026-08-25T07:03:19.283Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/privacy/protect-end-users-resources</loc>
+    <lastmod>2026-08-25T07:03:19.286Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/security/abuse-report-handling</loc>
+    <lastmod>2026-08-25T07:03:19.294Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/security/allowlist-denylist-ips-domains</loc>
+    <lastmod>2026-08-25T07:03:19.285Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/security/network-security</loc>
+    <lastmod>2026-08-25T07:03:19.291Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/security/security-overview</loc>
+    <lastmod>2026-08-17T09:17:54.006Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/usage-monitoring/Event_log</loc>
+    <lastmod>2026-08-25T07:03:19.288Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/usage-monitoring/Monitoring_Residential_Network_Usage</loc>
+    <lastmod>2026-08-25T07:03:19.282Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/usage-monitoring/Usage</loc>
+    <lastmod>2026-08-25T07:03:19.295Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/usage-monitoring/bandwidth</loc>
+    <lastmod>2026-08-25T07:03:19.284Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/usage-monitoring/fair_use_allowance</loc>
+    <lastmod>2026-06-07T13:33:52.807Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/webhook_notifications</loc>
+    <lastmod>2026-08-25T07:03:19.229Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/webmaster-console</loc>
+    <lastmod>2026-06-07T13:33:52.810Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/general/websites</loc>
+    <lastmod>2026-07-04T05:12:44.447Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/adspower</loc>
+    <lastmod>2026-07-24T18:29:33.693Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/aezakmi</loc>
+    <lastmod>2026-07-24T18:29:33.694Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/agno</loc>
+    <lastmod>2026-08-25T07:03:19.230Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/ai-integrations</loc>
+    <lastmod>2026-06-07T13:36:18.512Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/android</loc>
+    <lastmod>2026-07-24T18:29:33.686Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/antik</loc>
+    <lastmod>2026-07-24T18:29:33.692Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/apify</loc>
+    <lastmod>2026-07-06T12:49:03.698Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/automation-integrations</loc>
+    <lastmod>2026-06-07T13:36:18.513Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/beautifulsoup</loc>
+    <lastmod>2026-07-24T18:29:33.687Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/bitbrowser</loc>
+    <lastmod>2026-07-24T18:29:33.654Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/boomi</loc>
+    <lastmod>2026-07-30T08:04:05.165Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/browser-integrations</loc>
+    <lastmod>2026-06-07T13:36:18.559Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/capsolver</loc>
+    <lastmod>2026-07-24T18:29:33.681Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/changedetection</loc>
+    <lastmod>2026-07-24T18:29:33.680Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/chrome</loc>
+    <lastmod>2026-07-24T18:29:33.655Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/clonbrowser</loc>
+    <lastmod>2026-07-24T18:29:33.689Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/crew-ai</loc>
+    <lastmod>2026-07-04T05:12:44.517Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/dicloak</loc>
+    <lastmod>2026-08-25T07:03:19.232Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/dify</loc>
+    <lastmod>2026-07-04T18:58:22.538Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/dolphin-anty</loc>
+    <lastmod>2026-07-24T18:29:33.680Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/easync</loc>
+    <lastmod>2026-07-06T12:49:03.768Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/firefox</loc>
+    <lastmod>2026-07-24T18:29:33.693Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/foxyproxy</loc>
+    <lastmod>2026-07-06T12:49:03.766Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/geelark</loc>
+    <lastmod>2026-07-24T18:29:33.682Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/genlogin</loc>
+    <lastmod>2026-07-24T18:29:33.685Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/ghost-browser</loc>
+    <lastmod>2026-07-24T18:29:33.692Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/gologin</loc>
+    <lastmod>2026-07-24T18:29:33.656Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/haystack</loc>
+    <lastmod>2026-08-25T07:03:19.228Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/helium-scraper</loc>
+    <lastmod>2026-07-06T12:49:03.804Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/hidemyacc</loc>
+    <lastmod>2026-07-24T18:29:33.653Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/hugging-face</loc>
+    <lastmod>2026-07-04T05:12:44.555Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/ibm-watsonx-orchestrate</loc>
+    <lastmod>2026-07-04T05:12:44.552Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/incogniton</loc>
+    <lastmod>2026-07-24T18:29:33.682Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/insomniac</loc>
+    <lastmod>2026-07-24T18:29:33.653Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/introduction</loc>
+    <lastmod>2026-07-04T05:12:44.548Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/ios</loc>
+    <lastmod>2026-07-06T12:49:03.800Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/ixbrowser</loc>
+    <lastmod>2026-07-24T18:29:33.683Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/kameleo</loc>
+    <lastmod>2026-07-24T18:29:33.683Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/lalicat</loc>
+    <lastmod>2026-07-24T18:29:33.579Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/langchain</loc>
+    <lastmod>2026-08-25T07:03:19.226Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/lindy-ai</loc>
+    <lastmod>2026-07-06T12:49:03.835Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/llama-index</loc>
+    <lastmod>2026-08-25T07:03:19.232Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/macos</loc>
+    <lastmod>2026-07-24T18:29:33.570Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/make</loc>
+    <lastmod>2026-07-04T05:12:44.607Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/marketerbrowser</loc>
+    <lastmod>2026-07-24T18:29:33.565Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/maskfog</loc>
+    <lastmod>2026-07-24T18:29:33.574Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/mastra</loc>
+    <lastmod>2026-08-25T07:03:19.165Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/morelogin</loc>
+    <lastmod>2026-07-24T18:29:33.567Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/mulogin</loc>
+    <lastmod>2026-07-24T18:29:33.602Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/multilogin</loc>
+    <lastmod>2026-07-24T18:29:33.567Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/n8n</loc>
+    <lastmod>2026-07-04T05:12:44.652Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/nginx</loc>
+    <lastmod>2026-07-06T12:49:04.249Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/octobrowser</loc>
+    <lastmod>2026-07-24T18:29:33.573Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/octoparse</loc>
+    <lastmod>2026-07-06T12:49:04.226Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/openbullet</loc>
+    <lastmod>2026-07-06T12:49:03.971Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/openclaw</loc>
+    <lastmod>2026-07-04T05:12:44.701Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/openclaw-railway</loc>
+    <lastmod>2026-06-07T13:33:53.083Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/parsehub</loc>
+    <lastmod>2026-07-24T18:29:33.596Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/phantombuster</loc>
+    <lastmod>2026-07-24T18:29:33.580Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/pica</loc>
+    <lastmod>2026-08-25T07:03:19.161Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/playwright</loc>
+    <lastmod>2026-07-24T18:29:33.576Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/postern</loc>
+    <lastmod>2026-07-06T12:49:04.806Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/postman</loc>
+    <lastmod>2026-07-06T12:49:04.805Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/proxifier</loc>
+    <lastmod>2026-07-06T12:49:04.804Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/proxy-manager-integrations</loc>
+    <lastmod>2026-06-07T13:36:18.771Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/puppeteer</loc>
+    <lastmod>2026-07-24T18:29:33.580Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/salefreaks</loc>
+    <lastmod>2026-08-25T07:03:19.162Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/scraping-tools-integrations</loc>
+    <lastmod>2026-06-07T13:36:18.771Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/scrapy</loc>
+    <lastmod>2026-07-06T12:49:04.900Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/screaming-frog</loc>
+    <lastmod>2026-07-06T12:49:04.899Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/selenium</loc>
+    <lastmod>2026-07-24T18:29:33.601Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/sessionbox</loc>
+    <lastmod>2026-07-24T18:29:33.602Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/shadowrocket</loc>
+    <lastmod>2026-07-24T18:29:33.562Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/smlogin</loc>
+    <lastmod>2026-07-27T12:02:21.513Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/sphere-browser</loc>
+    <lastmod>2026-07-24T18:29:33.569Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/stablersolo</loc>
+    <lastmod>2026-07-06T12:49:04.891Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/strands</loc>
+    <lastmod>2026-08-25T07:03:19.163Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/switchyomega</loc>
+    <lastmod>2026-07-24T18:29:33.576Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/systems-integrations</loc>
+    <lastmod>2026-06-07T13:36:18.861Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/testing-integrations</loc>
+    <lastmod>2026-06-07T13:36:18.857Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/texau</loc>
+    <lastmod>2026-07-24T18:29:33.579Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/ubuntu</loc>
+    <lastmod>2026-07-24T18:29:33.577Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/undetectable</loc>
+    <lastmod>2026-07-24T18:29:33.574Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/vercel-ai-sdk</loc>
+    <lastmod>2026-08-25T07:03:19.159Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/vmlogin</loc>
+    <lastmod>2026-07-24T18:29:33.566Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/webharvy</loc>
+    <lastmod>2026-07-06T12:49:04.947Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/webscraper</loc>
+    <lastmod>2026-07-06T12:49:04.954Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/windows</loc>
+    <lastmod>2026-07-24T18:29:33.571Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/xlogin</loc>
+    <lastmod>2026-07-24T18:29:33.483Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/xpander-ai</loc>
+    <lastmod>2026-08-25T07:03:19.159Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/integrations/zapier</loc>
+    <lastmod>2026-07-04T05:12:44.810Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/introduction</loc>
+    <lastmod>2026-07-15T06:23:13.554Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/browser-extension/configuration</loc>
+    <lastmod>2026-08-25T07:03:19.098Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/browser-extension/faqs</loc>
+    <lastmod>2026-07-24T19:27:16.720Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/browser-extension/features</loc>
+    <lastmod>2026-08-25T07:03:19.107Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/browser-extension/install</loc>
+    <lastmod>2026-06-07T13:33:53.352Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/browser-extension/introduction</loc>
+    <lastmod>2026-06-07T13:36:18.931Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/browser-extension/quickstart</loc>
+    <lastmod>2026-07-04T05:12:44.846Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/config-options</loc>
+    <lastmod>2026-08-25T07:03:19.105Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/data-center/configure-your-proxy</loc>
+    <lastmod>2026-07-04T05:12:44.873Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/data-center/faqs</loc>
+    <lastmod>2026-07-29T12:51:14.804Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/data-center/introduction</loc>
+    <lastmod>2026-07-04T05:08:05.479Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/data-center/quickstart</loc>
+    <lastmod>2026-07-04T05:12:44.874Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/data-center/send-your-first-request</loc>
+    <lastmod>2026-07-24T18:29:33.474Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/errorCatalog</loc>
+    <lastmod>2026-07-24T18:29:33.487Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/faqs</loc>
+    <lastmod>2026-07-29T12:51:14.830Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/introduction</loc>
+    <lastmod>2026-07-04T05:12:44.871Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/isp/configure-your-proxy</loc>
+    <lastmod>2026-07-04T05:12:44.903Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/isp/faqs</loc>
+    <lastmod>2026-06-07T13:33:53.391Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/isp/introduction</loc>
+    <lastmod>2026-07-04T05:08:05.521Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/isp/quickstart</loc>
+    <lastmod>2026-07-04T05:12:44.901Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/isp/send-your-first-request</loc>
+    <lastmod>2026-07-24T18:29:33.503Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/proxy-manager/configuration</loc>
+    <lastmod>2026-07-24T18:29:33.488Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/proxy-manager/faqs</loc>
+    <lastmod>2026-07-24T18:29:33.502Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/proxy-manager/integration</loc>
+    <lastmod>2026-06-07T13:36:19.001Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/proxy-manager/introduction</loc>
+    <lastmod>2026-06-07T13:33:53.426Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/proxy-manager/quickstart</loc>
+    <lastmod>2026-07-04T05:12:44.932Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/proxy-manager/security</loc>
+    <lastmod>2026-06-07T13:33:53.430Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/residential/configure-your-proxy</loc>
+    <lastmod>2026-07-24T18:29:33.483Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/residential/faqs</loc>
+    <lastmod>2026-07-24T18:29:33.480Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/residential/introduction</loc>
+    <lastmod>2026-07-24T18:29:33.486Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/residential/network-access</loc>
+    <lastmod>2026-07-22T12:32:19.298Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/residential/quickstart</loc>
+    <lastmod>2026-07-06T12:49:05.155Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/residential/send-your-first-request</loc>
+    <lastmod>2026-07-24T18:29:33.478Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/socks5</loc>
+    <lastmod>2026-07-24T18:29:33.500Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/proxy-networks/website-blocking</loc>
+    <lastmod>2026-07-04T05:12:44.969Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/release-notes</loc>
+    <lastmod>2026-08-19T12:05:07.942Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/bright-shield/asset-shield</loc>
+    <lastmod>2026-06-07T13:36:19.069Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/bright-shield/introduction</loc>
+    <lastmod>2026-08-25T07:03:19.096Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/bright-shield/scraping-shield</loc>
+    <lastmod>2026-08-25T07:03:19.097Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/crawl-api/overview</loc>
+    <lastmod>2026-07-20T08:28:09.956Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/crawl-api/quick-start</loc>
+    <lastmod>2026-08-25T07:03:19.039Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/easy-scraper/faqs</loc>
+    <lastmod>2026-08-25T07:03:19.043Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/easy-scraper/overview</loc>
+    <lastmod>2026-08-25T07:03:19.035Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/easy-scraper/quickstart</loc>
+    <lastmod>2026-08-25T07:03:19.038Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/faqs</loc>
+    <lastmod>2026-07-13T04:09:07.370Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/introduction</loc>
+    <lastmod>2026-07-04T05:12:45.050Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/cdp-functions/custom</loc>
+    <lastmod>2026-08-19T12:05:07.942Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/cdp-functions/standard</loc>
+    <lastmod>2026-06-07T13:33:53.542Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/code-examples</loc>
+    <lastmod>2026-06-07T13:33:53.588Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/configuration</loc>
+    <lastmod>2026-08-19T12:05:07.941Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/error-codes</loc>
+    <lastmod>2026-07-20T08:28:09.963Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/faqs</loc>
+    <lastmod>2026-08-19T12:05:07.923Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/features/captcha-solver</loc>
+    <lastmod>2026-06-07T13:36:19.126Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/features/playground</loc>
+    <lastmod>2026-06-07T13:36:19.127Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/features/premium-domains</loc>
+    <lastmod>2026-06-07T13:33:53.587Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/features/proxy-location</loc>
+    <lastmod>2026-07-20T08:28:09.962Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/features/troubleshooting</loc>
+    <lastmod>2026-07-20T08:28:09.952Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/introduction</loc>
+    <lastmod>2026-07-04T05:12:45.086Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/scraping-browser/quickstart</loc>
+    <lastmod>2026-07-04T05:12:45.087Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/asynchronous-requests</loc>
+    <lastmod>2026-07-04T05:12:45.082Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/configuration</loc>
+    <lastmod>2026-06-12T12:50:41.537Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/faqs</loc>
+    <lastmod>2026-07-24T18:29:33.397Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/fast-serp/images-search</loc>
+    <lastmod>2026-08-25T07:03:19.039Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/fast-serp/maps-search</loc>
+    <lastmod>2026-08-25T07:03:19.031Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/fast-serp/news-search</loc>
+    <lastmod>2026-08-25T07:03:19.032Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/fast-serp/quickstart</loc>
+    <lastmod>2026-08-25T07:03:19.032Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/fast-serp/shopping-search</loc>
+    <lastmod>2026-08-17T09:49:58.514Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/fast-serp/web-search</loc>
+    <lastmod>2026-08-25T07:03:19.036Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/get-started-bing-serp-api</loc>
+    <lastmod>2026-06-07T13:33:53.649Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/get-started-google-serp-api</loc>
+    <lastmod>2026-06-07T13:33:53.651Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/get-top-100-google-results</loc>
+    <lastmod>2026-06-14T01:40:53.656Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/introduction</loc>
+    <lastmod>2026-07-04T05:08:05.712Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/parsed-json-results/bing-to-bright-data-serp-migration-guide</loc>
+    <lastmod>2026-06-07T13:33:53.697Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/parsed-json-results/parsing-search-results</loc>
+    <lastmod>2026-07-24T18:29:33.425Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/pricing-and-billing</loc>
+    <lastmod>2026-06-07T13:33:53.696Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/query-parameters/bing</loc>
+    <lastmod>2026-07-24T18:29:33.422Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/query-parameters/duckduckgo</loc>
+    <lastmod>2026-07-24T18:29:33.417Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/query-parameters/google</loc>
+    <lastmod>2026-07-24T18:29:33.339Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/query-parameters/yandex</loc>
+    <lastmod>2026-07-24T18:29:33.341Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/quickstart</loc>
+    <lastmod>2026-06-08T22:30:52.306Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/serp-api/send-your-first-request</loc>
+    <lastmod>2026-07-24T18:29:33.342Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/web-unlocker/configuration</loc>
+    <lastmod>2026-07-04T05:12:45.168Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/web-unlocker/error-codes</loc>
+    <lastmod>2026-07-31T13:55:09.544Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/web-unlocker/features</loc>
+    <lastmod>2026-07-27T20:42:25.755Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/web-unlocker/introduction</loc>
+    <lastmod>2026-07-04T18:58:23.793Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/web-unlocker/quickstart</loc>
+    <lastmod>2026-07-04T05:08:05.735Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/cn/scraping-automation/web-unlocker/send-your-first-request</loc>
+    <lastmod>2026-07-24T18:29:33.340Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/archive/data-range-vs-delivery-time</loc>
+    <lastmod>2026-06-07T13:33:53.821Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/archive/faqs</loc>
+    <lastmod>2026-08-19T08:24:42.255Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/archive/overview</loc>
+    <lastmod>2026-08-09T15:59:50.901Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/data-validation/data-validation-for-customers</loc>
+    <lastmod>2026-07-04T10:15:07.929Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/data-validation/data-validation-for-partners</loc>
+    <lastmod>2026-07-04T10:15:07.934Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/deep-lookup/code-examples</loc>
+    <lastmod>2026-07-04T10:15:07.935Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/deep-lookup/errors</loc>
+    <lastmod>2026-07-04T10:15:07.932Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/deep-lookup/overview</loc>
+    <lastmod>2026-07-04T10:15:07.932Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/deep-lookup/pricing</loc>
+    <lastmod>2026-07-04T10:15:07.931Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/introduction</loc>
+    <lastmod>2026-07-15T06:23:13.552Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/marketplace/customization-and-filtering</loc>
+    <lastmod>2026-08-17T08:38:40.247Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/marketplace/data-delivery-and-export</loc>
+    <lastmod>2026-08-14T14:59:55.726Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/marketplace/dataset-view</loc>
+    <lastmod>2026-08-17T08:38:40.255Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/marketplace/faqs</loc>
+    <lastmod>2026-08-17T08:39:49.974Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/marketplace/fill-rates-and-statistics</loc>
+    <lastmod>2026-08-17T08:39:49.972Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/marketplace/overview</loc>
+    <lastmod>2026-07-04T10:15:07.956Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/marketplace/pricing</loc>
+    <lastmod>2026-06-07T13:33:53.846Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/marketplace/purchase-options</loc>
+    <lastmod>2026-08-17T08:38:40.248Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/ai-agent</loc>
+    <lastmod>2026-08-24T03:47:19.282Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/auto-self-healing</loc>
+    <lastmod>2026-08-24T18:22:47.033Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/basics-of-web-scraping</loc>
+    <lastmod>2026-07-04T05:12:45.292Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/best-practices</loc>
+    <lastmod>2026-08-12T13:28:45.519Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/build-with-the-cli</loc>
+    <lastmod>2026-07-04T19:05:38.061Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/coding-agent-prompts</loc>
+    <lastmod>2026-06-09T08:42:30.272Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/complete-examples</loc>
+    <lastmod>2026-06-11T06:41:15.711Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/develop-a-scraper</loc>
+    <lastmod>2026-08-18T08:39:49.072Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/error-codes</loc>
+    <lastmod>2026-08-24T18:19:36.506Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/faqs</loc>
+    <lastmod>2026-08-19T12:05:07.940Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/features</loc>
+    <lastmod>2026-08-12T13:15:04.258Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/functions</loc>
+    <lastmod>2026-08-17T09:23:31.454Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/initiate-collection-and-delivery-options</loc>
+    <lastmod>2026-08-24T03:47:19.282Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/input-and-output-schema</loc>
+    <lastmod>2026-07-10T06:29:09.344Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/introduction</loc>
+    <lastmod>2026-06-07T21:36:55.398Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/overview</loc>
+    <lastmod>2026-07-15T06:23:12.851Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/quickstart</loc>
+    <lastmod>2026-08-12T13:15:04.259Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/scraper-studio-ide-interface</loc>
+    <lastmod>2026-08-13T08:17:58.323Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/self-healing-tool</loc>
+    <lastmod>2026-08-24T04:05:25.112Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/specifications</loc>
+    <lastmod>2026-08-19T12:05:07.940Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/videos</loc>
+    <lastmod>2026-08-10T07:19:06.333Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/warc-ide</loc>
+    <lastmod>2026-08-10T07:16:19.880Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scraper-studio/worker-types</loc>
+    <lastmod>2026-08-13T15:11:47.168Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/amazon/async-requests</loc>
+    <lastmod>2026-07-04T10:15:08.067Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/amazon/data-delivery/amazon-s3</loc>
+    <lastmod>2026-07-04T10:15:08.063Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/amazon/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.792Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/amazon/introduction</loc>
+    <lastmod>2026-07-22T08:27:46.586Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/amazon/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.979Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/amazon/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.066Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/chatgpt/async-requests</loc>
+    <lastmod>2026-07-04T10:15:08.061Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/chatgpt/data-delivery/amazon-s3</loc>
+    <lastmod>2026-07-04T10:15:08.062Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/chatgpt/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.796Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/chatgpt/introduction</loc>
+    <lastmod>2026-07-22T08:27:46.589Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/chatgpt/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.978Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/chatgpt/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.089Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/concepts/query-fan-out</loc>
+    <lastmod>2026-06-07T13:33:54.045Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/concepts/sync-vs-async</loc>
+    <lastmod>2026-06-07T13:33:54.040Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/concepts/web-scraper-api-vs-diy</loc>
+    <lastmod>2026-07-15T06:23:12.848Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/facebook/async-requests</loc>
+    <lastmod>2026-07-04T10:15:08.090Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/facebook/data-delivery/amazon-s3</loc>
+    <lastmod>2026-07-04T10:15:08.094Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/facebook/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.791Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/facebook/introduction</loc>
+    <lastmod>2026-08-25T11:28:55.976Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/facebook/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.975Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/facebook/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.119Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/google/async-requests</loc>
+    <lastmod>2026-06-15T06:47:56.440Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/google/data-delivery/amazon-s3</loc>
+    <lastmod>2026-06-07T13:33:54.078Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/google/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.793Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/google/introduction</loc>
+    <lastmod>2026-08-25T11:28:55.972Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/google/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.991Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/google/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.124Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/instagram/async-requests</loc>
+    <lastmod>2026-06-15T06:47:56.438Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/instagram/data-delivery/amazon-s3</loc>
+    <lastmod>2026-07-04T10:15:08.120Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/instagram/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.793Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/instagram/introduction</loc>
+    <lastmod>2026-08-25T11:28:55.990Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/instagram/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.989Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/instagram/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.145Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/linkedin/async-requests</loc>
+    <lastmod>2026-08-09T10:40:47.260Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/linkedin/data-delivery/amazon-s3</loc>
+    <lastmod>2026-06-07T13:33:54.112Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/linkedin/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.797Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/linkedin/introduction</loc>
+    <lastmod>2026-08-25T11:28:55.982Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/linkedin/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.986Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/linkedin/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.149Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/managed-services</loc>
+    <lastmod>2026-07-04T19:05:39.620Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/overview</loc>
+    <lastmod>2026-08-18T08:42:29.992Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/reddit/async-requests</loc>
+    <lastmod>2026-06-15T06:48:03.262Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/reddit/data-delivery/amazon-s3</loc>
+    <lastmod>2026-06-07T13:33:54.151Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/reddit/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.798Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/reddit/introduction</loc>
+    <lastmod>2026-08-25T11:28:55.985Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/reddit/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.965Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/reddit/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.172Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/ai-scrapers</loc>
+    <lastmod>2026-07-04T19:05:39.618Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/custom-inputs</loc>
+    <lastmod>2026-07-15T06:23:12.851Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/deadline-feature</loc>
+    <lastmod>2026-07-15T06:23:12.853Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/delivery-options</loc>
+    <lastmod>2026-08-18T08:42:29.993Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/error-list-by-endpoint</loc>
+    <lastmod>2026-08-09T10:39:32.313Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/faqs</loc>
+    <lastmod>2026-08-25T11:28:55.977Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/integrations/clay</loc>
+    <lastmod>2026-07-15T06:23:12.849Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/overview</loc>
+    <lastmod>2026-07-16T12:17:45.364Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/quickstart</loc>
+    <lastmod>2026-08-17T09:27:47.377Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/stream-and-file-delivery</loc>
+    <lastmod>2026-07-15T06:23:12.853Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/success-rate</loc>
+    <lastmod>2026-08-13T15:12:56.418Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/scrapers-library/working-with-sources</loc>
+    <lastmod>2026-07-04T10:15:08.223Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tiktok/async-requests</loc>
+    <lastmod>2026-07-04T10:15:08.221Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tiktok/data-delivery/amazon-s3</loc>
+    <lastmod>2026-07-04T10:15:08.220Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tiktok/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.797Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tiktok/introduction</loc>
+    <lastmod>2026-08-25T11:28:55.963Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tiktok/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.962Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tiktok/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.219Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tutorials/amazon-price-monitor</loc>
+    <lastmod>2026-06-07T13:33:54.208Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tutorials/linkedin-to-crm</loc>
+    <lastmod>2026-06-15T06:48:03.268Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/tutorials/social-listener</loc>
+    <lastmod>2026-06-07T13:33:54.266Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/twitter/async-requests</loc>
+    <lastmod>2026-07-04T10:15:08.245Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/twitter/data-delivery/amazon-s3</loc>
+    <lastmod>2026-07-04T10:15:08.247Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/twitter/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.800Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/twitter/introduction</loc>
+    <lastmod>2026-08-25T11:28:55.939Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/twitter/quickstart</loc>
+    <lastmod>2026-08-25T11:28:56.032Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/twitter/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.248Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/youtube/async-requests</loc>
+    <lastmod>2026-07-04T10:15:08.245Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/youtube/data-delivery/amazon-s3</loc>
+    <lastmod>2026-07-04T10:15:08.249Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/youtube/data-delivery/webhooks</loc>
+    <lastmod>2026-08-09T10:53:40.800Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/youtube/introduction</loc>
+    <lastmod>2026-08-25T11:28:56.031Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/youtube/quickstart</loc>
+    <lastmod>2026-08-25T11:28:55.987Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/datasets/scrapers/youtube/send-first-request</loc>
+    <lastmod>2026-07-04T10:15:08.278Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/billing</loc>
+    <lastmod>2026-06-07T13:36:19.664Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/bright-rewards-program</loc>
+    <lastmod>2026-07-04T10:15:08.280Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/costs-explorer</loc>
+    <lastmod>2026-07-04T10:15:08.276Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/faqs</loc>
+    <lastmod>2026-07-04T05:12:45.532Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/free-tier</loc>
+    <lastmod>2026-08-19T18:49:09.490Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/payment</loc>
+    <lastmod>2026-06-07T13:33:54.340Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/payment-methods</loc>
+    <lastmod>2026-07-04T10:15:08.277Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/payment-verification</loc>
+    <lastmod>2026-07-04T10:15:08.306Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/premium-ips</loc>
+    <lastmod>2026-06-07T13:33:54.338Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/billing-and-pricing/promo-codes</loc>
+    <lastmod>2026-07-04T10:15:08.301Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/faqs</loc>
+    <lastmod>2026-07-04T10:15:08.303Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/limited-trial-restrictions</loc>
+    <lastmod>2026-07-29T07:10:55.740Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/overview</loc>
+    <lastmod>2026-07-04T10:15:08.302Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/referral-program</loc>
+    <lastmod>2026-07-04T10:15:08.304Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/ssl-certificate</loc>
+    <lastmod>2026-07-27T12:02:21.096Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/ssl-certificate-migration</loc>
+    <lastmod>2026-07-30T10:51:21.859Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/ssl-certificate-windows-schannel</loc>
+    <lastmod>2026-07-27T12:02:21.075Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/account/users-management</loc>
+    <lastmod>2026-07-04T19:05:39.616Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/authentication/How_to_set_up_Azure_SSO_Entra_ID_with_Bright_Data</loc>
+    <lastmod>2026-07-04T10:15:08.362Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/authentication/How_to_set_up_SSO_with_Google_Workspace_in_Bright_Data</loc>
+    <lastmod>2026-07-04T10:15:08.363Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/authentication/How_to_set_up_SSO_with_Okta_in_Bright_Data</loc>
+    <lastmod>2026-07-04T10:15:08.334Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/cloud-providers/snowflake</loc>
+    <lastmod>2026-07-04T10:15:08.331Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/faqs</loc>
+    <lastmod>2026-07-24T19:40:09.578Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/policy/How_do_consumers_join_the_Bright_Data_network_of_peers_</loc>
+    <lastmod>2026-07-04T10:15:08.329Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/policy/What_is_Bright_Data_platform</loc>
+    <lastmod>2026-07-04T10:15:08.331Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/policy/acceptable-use-policy</loc>
+    <lastmod>2026-07-04T10:15:08.332Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/privacy/privacy-and-security-for-apps</loc>
+    <lastmod>2026-07-04T10:15:08.330Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/privacy/protect-end-users-resources</loc>
+    <lastmod>2026-07-04T10:15:08.389Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/security/abuse-report-handling</loc>
+    <lastmod>2026-07-04T10:15:08.387Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/security/allowlist-denylist-ips-domains</loc>
+    <lastmod>2026-07-24T18:29:33.160Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/security/network-security</loc>
+    <lastmod>2026-07-04T10:15:08.383Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/security/security-overview</loc>
+    <lastmod>2026-08-17T09:17:54.005Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/usage-monitoring/Event_log</loc>
+    <lastmod>2026-07-04T10:15:08.388Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/usage-monitoring/Monitoring_Residential_Network_Usage</loc>
+    <lastmod>2026-07-04T10:15:08.384Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/usage-monitoring/Usage</loc>
+    <lastmod>2026-06-07T13:36:19.797Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/usage-monitoring/bandwidth</loc>
+    <lastmod>2026-06-07T13:33:54.449Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/usage-monitoring/fair_use_allowance</loc>
+    <lastmod>2026-07-04T10:15:08.382Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/usage-monitoring/serp-rate-limit</loc>
+    <lastmod>2026-08-17T09:49:58.516Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/webhook_notifications</loc>
+    <lastmod>2026-07-04T10:15:08.412Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/webmaster-console</loc>
+    <lastmod>2026-07-04T10:15:08.416Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/general/websites</loc>
+    <lastmod>2026-07-04T05:12:45.622Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/adspower</loc>
+    <lastmod>2026-07-24T18:29:33.166Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/aezakmi</loc>
+    <lastmod>2026-07-24T18:29:33.158Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/agno</loc>
+    <lastmod>2026-07-04T10:15:08.413Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/ai-integrations</loc>
+    <lastmod>2026-07-15T06:23:12.280Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/android</loc>
+    <lastmod>2026-07-24T18:29:33.159Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/antik</loc>
+    <lastmod>2026-07-24T18:29:33.160Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/apify</loc>
+    <lastmod>2026-07-06T12:49:05.654Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/automation-integrations</loc>
+    <lastmod>2026-07-04T10:15:08.440Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/beautifulsoup</loc>
+    <lastmod>2026-07-24T18:29:33.162Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/bitbrowser</loc>
+    <lastmod>2026-07-24T18:29:33.091Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/boomi</loc>
+    <lastmod>2026-07-30T08:04:05.167Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/browser-integrations</loc>
+    <lastmod>2026-07-04T10:15:08.442Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/capsolver</loc>
+    <lastmod>2026-07-24T18:29:33.090Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/changedetection</loc>
+    <lastmod>2026-07-24T18:29:33.091Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/chrome</loc>
+    <lastmod>2026-07-24T18:29:33.096Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/clonbrowser</loc>
+    <lastmod>2026-07-06T12:49:05.680Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/crew-ai</loc>
+    <lastmod>2026-07-15T06:23:12.282Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/dicloak</loc>
+    <lastmod>2026-07-24T18:29:33.092Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/dify</loc>
+    <lastmod>2026-07-04T14:03:26.102Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/dolphin-anty</loc>
+    <lastmod>2026-07-06T12:49:05.683Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/easync</loc>
+    <lastmod>2026-07-24T18:29:33.089Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/firefox</loc>
+    <lastmod>2026-07-24T18:29:33.099Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/foxyproxy</loc>
+    <lastmod>2026-07-24T18:29:33.100Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/geelark</loc>
+    <lastmod>2026-07-06T12:49:05.709Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/genlogin</loc>
+    <lastmod>2026-07-06T12:49:05.707Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/ghost-browser</loc>
+    <lastmod>2026-07-06T12:49:05.711Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/gologin</loc>
+    <lastmod>2026-07-06T12:49:05.710Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/haystack</loc>
+    <lastmod>2026-07-04T10:15:08.509Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/helium-scraper</loc>
+    <lastmod>2026-07-06T12:49:05.706Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/hidemyacc</loc>
+    <lastmod>2026-07-06T12:49:05.709Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/hugging-face</loc>
+    <lastmod>2026-07-15T06:23:12.283Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/ibm-watsonx-orchestrate</loc>
+    <lastmod>2026-07-04T19:05:39.614Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/incogniton</loc>
+    <lastmod>2026-07-06T12:49:05.740Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/insomniac</loc>
+    <lastmod>2026-07-08T08:24:41.994Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/introduction</loc>
+    <lastmod>2026-06-07T13:33:54.609Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/ios</loc>
+    <lastmod>2026-07-06T12:49:05.736Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/ixbrowser</loc>
+    <lastmod>2026-07-06T12:49:05.735Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/kameleo</loc>
+    <lastmod>2026-07-06T12:49:05.734Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/lalicat</loc>
+    <lastmod>2026-07-06T12:49:05.741Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/langchain</loc>
+    <lastmod>2026-07-04T10:15:08.551Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/lindy-ai</loc>
+    <lastmod>2026-07-15T09:54:48.586Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/llama-index</loc>
+    <lastmod>2026-07-04T10:15:08.551Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/macos</loc>
+    <lastmod>2026-07-24T18:29:33.089Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/make</loc>
+    <lastmod>2026-07-15T06:23:12.284Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/marketerbrowser</loc>
+    <lastmod>2026-07-06T12:49:05.769Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/maskfog</loc>
+    <lastmod>2026-07-06T12:49:05.770Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/mastra</loc>
+    <lastmod>2026-07-04T10:15:08.583Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/morelogin</loc>
+    <lastmod>2026-07-06T12:49:05.768Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/mulogin</loc>
+    <lastmod>2026-07-06T12:49:05.767Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/multilogin</loc>
+    <lastmod>2026-07-06T12:49:05.766Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/n8n</loc>
+    <lastmod>2026-07-04T10:15:08.582Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/nginx</loc>
+    <lastmod>2026-07-06T12:49:05.798Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/octobrowser</loc>
+    <lastmod>2026-07-06T12:49:05.799Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/octoparse</loc>
+    <lastmod>2026-07-06T12:49:05.796Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/openbullet</loc>
+    <lastmod>2026-07-24T18:29:33.095Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/openclaw</loc>
+    <lastmod>2026-07-04T10:15:08.615Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/openclaw-railway</loc>
+    <lastmod>2026-06-07T13:33:54.695Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/parsehub</loc>
+    <lastmod>2026-07-24T18:29:33.103Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/phantombuster</loc>
+    <lastmod>2026-07-27T12:02:20.960Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/pica</loc>
+    <lastmod>2026-07-04T10:15:08.612Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/playwright</loc>
+    <lastmod>2026-07-24T18:29:33.007Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/postern</loc>
+    <lastmod>2026-07-06T12:49:05.794Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/postman</loc>
+    <lastmod>2026-07-24T18:29:33.019Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/proxifier</loc>
+    <lastmod>2026-07-06T12:49:05.828Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/proxy-manager-integrations</loc>
+    <lastmod>2026-07-04T10:15:08.611Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/puppeteer</loc>
+    <lastmod>2026-07-24T18:29:33.001Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/salefreaks</loc>
+    <lastmod>2026-07-24T18:29:33.017Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/scraping-tools-integrations</loc>
+    <lastmod>2026-07-04T10:15:08.645Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/scrapy</loc>
+    <lastmod>2026-07-24T18:29:33.018Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/screaming-frog</loc>
+    <lastmod>2026-07-06T12:49:05.827Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/selenium</loc>
+    <lastmod>2026-07-24T18:29:33.003Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/sessionbox</loc>
+    <lastmod>2026-07-24T18:29:33.005Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/shadowrocket</loc>
+    <lastmod>2026-07-06T12:49:05.859Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/smlogin</loc>
+    <lastmod>2026-07-24T18:29:33.021Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/sphere-browser</loc>
+    <lastmod>2026-07-06T12:49:05.858Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/stablersolo</loc>
+    <lastmod>2026-07-06T12:49:05.855Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/strands</loc>
+    <lastmod>2026-07-04T19:05:39.615Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/switchyomega</loc>
+    <lastmod>2026-07-24T18:29:33.001Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/systems-integrations</loc>
+    <lastmod>2026-07-04T10:15:08.698Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/testing-integrations</loc>
+    <lastmod>2026-07-04T10:15:08.696Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/texau</loc>
+    <lastmod>2026-07-24T18:29:33.006Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/ubuntu</loc>
+    <lastmod>2026-07-24T18:29:33.008Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/undetectable</loc>
+    <lastmod>2026-07-06T12:49:05.890Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/vercel-ai-sdk</loc>
+    <lastmod>2026-07-04T19:05:39.615Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/vmlogin</loc>
+    <lastmod>2026-07-06T12:49:05.889Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/webharvy</loc>
+    <lastmod>2026-07-06T12:49:05.885Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/webscraper</loc>
+    <lastmod>2026-07-06T12:49:05.886Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/windows</loc>
+    <lastmod>2026-07-24T18:29:33.007Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/xlogin</loc>
+    <lastmod>2026-07-06T12:49:05.885Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/xpander-ai</loc>
+    <lastmod>2026-07-04T10:15:08.729Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/integrations/zapier</loc>
+    <lastmod>2026-07-15T06:23:12.288Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/introduction</loc>
+    <lastmod>2026-07-15T06:23:12.279Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/browser-extension/configuration</loc>
+    <lastmod>2026-07-04T10:15:08.752Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/browser-extension/faqs</loc>
+    <lastmod>2026-08-18T08:46:01.345Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/browser-extension/features</loc>
+    <lastmod>2026-07-04T10:15:08.751Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/browser-extension/install</loc>
+    <lastmod>2026-08-24T03:06:08.610Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/browser-extension/introduction</loc>
+    <lastmod>2026-06-07T13:36:20.260Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/browser-extension/quickstart</loc>
+    <lastmod>2026-08-24T03:07:29.920Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/config-options</loc>
+    <lastmod>2026-07-04T05:12:46.268Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/data-center/configure-your-proxy</loc>
+    <lastmod>2026-08-24T03:20:12.598Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/data-center/faqs</loc>
+    <lastmod>2026-08-24T03:36:40.103Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/data-center/introduction</loc>
+    <lastmod>2026-07-04T10:15:08.781Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/data-center/quickstart</loc>
+    <lastmod>2026-08-24T03:41:42.171Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/data-center/send-your-first-request</loc>
+    <lastmod>2026-08-24T03:40:36.226Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/dns-location-mismatch</loc>
+    <lastmod>2026-07-24T18:29:32.936Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/errorCatalog</loc>
+    <lastmod>2026-07-24T18:29:32.940Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/faqs</loc>
+    <lastmod>2026-08-24T03:58:26.497Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/introduction</loc>
+    <lastmod>2026-07-04T10:15:08.779Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/isp/configure-your-proxy</loc>
+    <lastmod>2026-08-24T03:40:36.228Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/isp/faqs</loc>
+    <lastmod>2026-08-24T03:39:01.413Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/isp/introduction</loc>
+    <lastmod>2026-07-04T10:15:08.805Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/isp/quickstart</loc>
+    <lastmod>2026-08-24T03:40:36.227Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/isp/send-your-first-request</loc>
+    <lastmod>2026-08-24T03:40:36.228Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/proxy-manager/configuration</loc>
+    <lastmod>2026-08-24T03:07:29.921Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/proxy-manager/faqs</loc>
+    <lastmod>2026-08-24T03:08:39.024Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/proxy-manager/integration</loc>
+    <lastmod>2026-07-04T10:15:08.806Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/proxy-manager/introduction</loc>
+    <lastmod>2026-06-07T13:33:55.037Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/proxy-manager/quickstart</loc>
+    <lastmod>2026-07-04T10:15:08.803Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/proxy-manager/security</loc>
+    <lastmod>2026-07-04T10:15:08.835Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/residential/configure-your-proxy</loc>
+    <lastmod>2026-08-12T13:09:31.272Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/residential/faqs</loc>
+    <lastmod>2026-08-18T08:46:01.343Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/residential/introduction</loc>
+    <lastmod>2026-07-24T18:29:32.932Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/residential/network-access</loc>
+    <lastmod>2026-08-24T03:17:11.878Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/residential/quickstart</loc>
+    <lastmod>2026-08-13T15:15:55.811Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/residential/send-your-first-request</loc>
+    <lastmod>2026-08-18T08:46:01.340Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/socks5</loc>
+    <lastmod>2026-07-24T18:29:32.934Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/proxy-networks/website-blocking</loc>
+    <lastmod>2026-07-04T05:12:46.352Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/release-notes</loc>
+    <lastmod>2026-08-07T15:38:40.176Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/bright-shield/asset-shield</loc>
+    <lastmod>2026-06-07T13:36:20.357Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/bright-shield/introduction</loc>
+    <lastmod>2026-06-07T13:33:55.069Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/bright-shield/scraping-shield</loc>
+    <lastmod>2026-06-07T13:36:20.391Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/concepts/ethical-web-scraping</loc>
+    <lastmod>2026-06-07T13:33:55.098Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/concepts/how-bright-data-handles-blocking</loc>
+    <lastmod>2026-06-07T13:33:55.104Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/concepts/modern-scraping-operations</loc>
+    <lastmod>2026-06-07T13:36:20.389Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/concepts/reducing-scraping-costs</loc>
+    <lastmod>2026-06-07T13:33:55.105Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/concepts/understanding-async-requests</loc>
+    <lastmod>2026-06-07T13:36:20.393Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/crawl-api/overview</loc>
+    <lastmod>2026-07-16T12:30:29.344Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/crawl-api/quick-start</loc>
+    <lastmod>2026-07-04T10:15:08.885Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/easy-scraper/faqs</loc>
+    <lastmod>2026-06-07T13:36:20.386Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/easy-scraper/five-minute-how-to</loc>
+    <lastmod>2026-07-04T10:15:08.881Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/easy-scraper/overview</loc>
+    <lastmod>2026-07-04T10:15:08.880Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/easy-scraper/quickstart</loc>
+    <lastmod>2026-07-04T10:15:08.883Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/faqs</loc>
+    <lastmod>2026-07-15T06:23:12.283Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/introduction</loc>
+    <lastmod>2026-07-15T06:23:12.285Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/cdp-functions/custom</loc>
+    <lastmod>2026-08-18T08:46:01.344Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/cdp-functions/standard</loc>
+    <lastmod>2026-08-17T09:22:24.985Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/code-examples</loc>
+    <lastmod>2026-07-04T10:15:08.910Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/configuration</loc>
+    <lastmod>2026-07-04T10:15:08.910Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/error-codes</loc>
+    <lastmod>2026-07-13T13:17:12.969Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/faqs</loc>
+    <lastmod>2026-08-17T08:24:23.469Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/features/captcha-solver</loc>
+    <lastmod>2026-08-05T09:32:31.504Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/features/playground</loc>
+    <lastmod>2026-07-04T10:15:08.908Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/features/premium-domains</loc>
+    <lastmod>2026-07-04T10:15:08.911Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/features/proxy-location</loc>
+    <lastmod>2026-08-05T09:32:31.505Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/features/troubleshooting</loc>
+    <lastmod>2026-07-28T14:43:25.964Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/five-minute-how-to</loc>
+    <lastmod>2026-07-28T14:43:25.962Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/introduction</loc>
+    <lastmod>2026-08-17T09:22:24.987Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/kyc-and-access</loc>
+    <lastmod>2026-08-24T03:58:26.440Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/scraping-browser/quickstart</loc>
+    <lastmod>2026-08-05T09:32:31.502Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/asynchronous-requests</loc>
+    <lastmod>2026-07-20T11:01:56.173Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/configuration</loc>
+    <lastmod>2026-08-18T08:46:01.345Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/debugging</loc>
+    <lastmod>2026-08-11T11:17:49.321Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/faqs</loc>
+    <lastmod>2026-08-05T15:03:08.538Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/fast-serp/images-search</loc>
+    <lastmod>2026-07-24T18:29:32.755Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/fast-serp/maps-search</loc>
+    <lastmod>2026-07-24T18:29:32.756Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/fast-serp/news-search</loc>
+    <lastmod>2026-07-24T18:29:32.751Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/fast-serp/quickstart</loc>
+    <lastmod>2026-06-07T13:33:55.257Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/fast-serp/shopping-search</loc>
+    <lastmod>2026-08-17T09:49:58.517Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/fast-serp/web-search</loc>
+    <lastmod>2026-07-27T20:30:25.359Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/features</loc>
+    <lastmod>2026-08-05T15:01:52.421Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/get-started-bing-serp-api</loc>
+    <lastmod>2026-06-07T13:33:55.262Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/get-started-google-serp-api</loc>
+    <lastmod>2026-06-07T13:33:55.310Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/get-top-100-google-results</loc>
+    <lastmod>2026-07-04T10:15:08.961Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/guidelines-for-getting-more-google-ads</loc>
+    <lastmod>2026-06-07T13:33:55.305Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/introduction</loc>
+    <lastmod>2026-08-05T15:03:08.541Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/parsed-json-results/bing-to-bright-data-serp-migration-guide</loc>
+    <lastmod>2026-07-04T10:15:08.961Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/parsed-json-results/parsing-search-results</loc>
+    <lastmod>2026-07-27T20:30:25.410Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/pricing-and-billing</loc>
+    <lastmod>2026-08-05T15:04:21.231Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/query-parameters/bing</loc>
+    <lastmod>2026-07-24T18:29:32.762Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/query-parameters/duckduckgo</loc>
+    <lastmod>2026-07-24T18:29:32.768Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/query-parameters/google</loc>
+    <lastmod>2026-08-05T15:03:08.544Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/query-parameters/yandex</loc>
+    <lastmod>2026-07-24T18:29:32.750Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/quickstart</loc>
+    <lastmod>2026-08-12T13:08:11.162Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/send-your-first-request</loc>
+    <lastmod>2026-08-05T15:04:21.235Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/serp-api/your-first-async-request</loc>
+    <lastmod>2026-08-05T15:03:08.540Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/bestpractices</loc>
+    <lastmod>2026-07-04T05:12:47.275Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/configuration</loc>
+    <lastmod>2026-08-11T09:38:16.830Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/error-codes</loc>
+    <lastmod>2026-07-29T07:10:55.499Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/features</loc>
+    <lastmod>2026-08-12T13:10:46.645Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/five-minute-how-to</loc>
+    <lastmod>2026-07-04T10:15:09.018Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/introduction</loc>
+    <lastmod>2026-08-11T09:38:16.834Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/kyc-and-access</loc>
+    <lastmod>2026-08-24T03:58:26.436Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/quickstart</loc>
+    <lastmod>2026-08-11T09:38:16.829Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/send-your-first-request</loc>
+    <lastmod>2026-08-11T09:38:16.838Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/setup-webhooks</loc>
+    <lastmod>2026-08-18T08:42:29.719Z</lastmod>
+  </url>
+
+  <url>
+    <loc>https://docs.brightdata.com/scraping-automation/web-unlocker/your-first-async-request</loc>
+    <lastmod>2026-08-11T09:38:16.830Z</lastmod>
+  </url>
+</urlset>

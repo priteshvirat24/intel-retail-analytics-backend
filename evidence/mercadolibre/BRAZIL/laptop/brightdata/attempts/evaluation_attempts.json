@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mercadolivre.com.br/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 3472.3,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mercadolivre.com.br/busca?q=notebook",
+    "status_code": 200,
+    "latency_ms": 2968.1,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://lista.mercadolivre.com.br/informatica/portateis-acessorios/acessorios-notebook/#menu=categories",
+    "status_code": 200,
+    "latency_ms": 26771.0,
+    "product_title": "Acess\u00f3rios para Notebook",
+    "brand": null,
+    "price": 3490.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.5,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.5 < 0.70)",
+    "waf_detected": null
+  }
+]

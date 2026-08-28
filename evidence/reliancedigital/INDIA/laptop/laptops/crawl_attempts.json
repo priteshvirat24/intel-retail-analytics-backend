@@ -1,0 +1,34 @@
+{
+  "target_id": "reliancedigital-in",
+  "laptop_url": "https://www.reliancedigital.in/sections/laptops",
+  "http": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CAPTCHA_CHALLENGE",
+    "failure_vendor": "Akamai Bot Manager",
+    "latency_ms": 873.9
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 14079.9
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 402,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_INVALID_CONTENT",
+    "latency_ms": 1444.8
+  },
+  "adapter": "NO",
+  "extracted_product": null
+}

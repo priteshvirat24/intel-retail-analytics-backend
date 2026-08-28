@@ -1,0 +1,111 @@
+{
+  "sku_id": "sku_0018",
+  "target_id": "fnac-fr",
+  "retailer": "fnac",
+  "country": "France",
+  "source_url": "https://www.fnac.com/product/sku_0018",
+  "final_url": "https://www.fnac.com/product/sku_0018",
+  "category": "Audio & Headphones",
+  "product_template_id": null,
+  "status": "FAILED",
+  "stage_statuses": {
+    "DISCOVERY": "SUCCESS",
+    "URL_REACHABILITY": "SUCCESS",
+    "CONTENT_AVAILABILITY": "FAILED",
+    "PRODUCT_IDENTIFICATION": "FAILED",
+    "EXTRACTION": "FAILED",
+    "FIELD_VALIDATION": "FAILED",
+    "PRODUCT_VALIDATION": "FAILED"
+  },
+  "primary_strategy": "HTTP",
+  "effective_strategy": null,
+  "escalation_reason": "Escalating from HTTP to PLAYWRIGHT due to EMPTY_RESPONSE.",
+  "discovery_success": true,
+  "http_success": false,
+  "browser_success": false,
+  "extraction_success": false,
+  "validation_success": false,
+  "attempts": [
+    {
+      "attempt_number": 1,
+      "strategy": "HTTP",
+      "status_code": 0,
+      "response_time_ms": 1.13,
+      "browser_seconds": 0.0,
+      "bytes_received": 0,
+      "success": false,
+      "evidence_path": null,
+      "screenshot_path": null,
+      "headers": {},
+      "error_message": "HTTP Connection Error: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`.",
+      "failure_diagnosis": {
+        "category": "CONTENT",
+        "specific_reason": "EMPTY_RESPONSE",
+        "stage": "CONTENT_AVAILABILITY",
+        "failure_reason_human": "Server returned an empty or nearly blank HTML response.",
+        "http_status": 0,
+        "exception_type": null,
+        "retry_count": 0,
+        "last_error": null,
+        "timestamp": "2026-08-23T08:38:56.644153+00:00",
+        "is_recoverable": true,
+        "recommended_escalation": "PLAYWRIGHT",
+        "details": {}
+      },
+      "timestamp": "2026-08-23T08:38:56.642878+00:00"
+    },
+    {
+      "attempt_number": 2,
+      "strategy": "PLAYWRIGHT",
+      "status_code": 403,
+      "response_time_ms": 9338.75,
+      "browser_seconds": 9.46,
+      "bytes_received": 65467,
+      "success": false,
+      "evidence_path": "evidence/fnac/FRANCE/sku_0018/attempt_2_snapshot.html",
+      "screenshot_path": "evidence/fnac/FRANCE/sku_0018/attempt_2_screenshot.png",
+      "headers": {},
+      "error_message": null,
+      "failure_diagnosis": {
+        "category": "ACCESS",
+        "specific_reason": "BOT_PROTECTION",
+        "stage": "URL_REACHABILITY",
+        "failure_reason_human": "Request blocked by anti-bot protection / rate limiter (HTTP 403).",
+        "http_status": 403,
+        "exception_type": null,
+        "retry_count": 1,
+        "last_error": "",
+        "timestamp": "2026-08-23T09:33:35.306826+00:00",
+        "is_recoverable": false,
+        "recommended_escalation": "STRICT_THROTTLE",
+        "details": {
+          "http_status": 403,
+          "blocked_detected": true
+        }
+      },
+      "timestamp": "2026-08-23T09:33:35.302866+00:00"
+    }
+  ],
+  "total_latency_ms": 3310889.39,
+  "browser_seconds_total": 9.46,
+  "bytes_received_total": 65467,
+  "product": null,
+  "failure": {
+    "category": "ACCESS",
+    "specific_reason": "BOT_PROTECTION",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Request blocked by anti-bot protection / rate limiter (HTTP 403).",
+    "http_status": 403,
+    "exception_type": null,
+    "retry_count": 1,
+    "last_error": "",
+    "timestamp": "2026-08-23T09:33:35.306826+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "STRICT_THROTTLE",
+    "details": {
+      "http_status": 403,
+      "blocked_detected": true
+    }
+  },
+  "evidence_dir": "evidence/fnac/FRANCE/sku_0018"
+}

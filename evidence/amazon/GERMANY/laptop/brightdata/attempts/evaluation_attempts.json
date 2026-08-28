@@ -1,0 +1,66 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.de/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 6164.3,
+    "bytes": 1562019,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.amazon.de/dp/B08L5WHJ7L",
+    "status_code": 200,
+    "latency_ms": 5801.1,
+    "product_title": null,
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.amazon.de/Lenovo-ThinkPad-L590-Graphics-General%C3%BCberholt/dp/B0H26BWG32/ref=sr_1_4?dib=eyJ2IjoiMSJ9.jOU0svlDkU7uibGkf_JtWixhuva2_XKVursQu4kMaIHP1EXYICj3cXNrXcAk1qA1ED0JlvUBe9gJIiPOOO5BWB-1TjwpxacpDzuF9bIzy3bsm7ddIyDGbSJXkekQi2PwOHppIAZhvV9bTmT_7TzycTHb6PwQ3kNKmM7GAUVOaQwzZBMKtk1hBl_0ycZamAuoBUQ9Znst5tGjZhY2r2eUgrmEF9XIVtqDKT4xlX7YP-g.Ml8LYrpfILw3n16wfyR4WLQptQDsobDSS21OTK9P2es&dib_tag=se&keywords=laptop&qid=1787647960&sbo=GW1QB%2BmqAsHTPf1jTZRSDA%3D%3D&sr=8-4",
+    "status_code": 200,
+    "latency_ms": 4972.6,
+    "product_title": "Lenovo ThinkPad L590, 15,6 Zoll IPS FHD Display, Intel Core i3 8145U, 2 x 3.90 GHz, 8 GB RAM, 256 GB SSD, Intel UHD Graphics, LTE, Norton 360, Windows 11 (General\u00fcberholt)",
+    "brand": "LENOVO",
+    "price": 22084.0,
+    "product_class": "MONITOR",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Rejected as MONITOR: Standalone Monitor / Display",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 3,
+    "url": "https://www.amazon.de/Lenovo-ThinkPad-L590-Graphics-General%C3%BCberholt/dp/B0H26BWG32/ref=sr_1_4_so_NOTEBOOK_COMPUTER?dib=eyJ2IjoiMSJ9.jOU0svlDkU7uibGkf_JtWixhuva2_XKVursQu4kMaIHP1EXYICj3cXNrXcAk1qA1ED0JlvUBe9gJIiPOOO5BWB-1TjwpxacpDzuF9bIzy3bsm7ddIyDGbSJXkekQi2PwOHppIAZhvV9bTmT_7TzycTHb6PwQ3kNKmM7GAUVOaQwzZBMKtk1hBl_0ycZamAuoBUQ9Znst5tGjZhY2r2eUgrmEF9XIVtqDKT4xlX7YP-g.Ml8LYrpfILw3n16wfyR4WLQptQDsobDSS21OTK9P2es&dib_tag=se&keywords=laptop&qid=1787647960&sbo=GW1QB%2BmqAsHTPf1jTZRSDA%3D%3D&sr=8-4",
+    "status_code": 200,
+    "latency_ms": 9501.9,
+    "product_title": "Lenovo ThinkPad L590, 15,6 Zoll IPS FHD Display, Intel Core i3 8145U, 2 x 3.90 GHz, 8 GB RAM, 256 GB SSD, Intel UHD Graphics, LTE, Norton 360, Windows 11 (General\u00fcberholt)",
+    "brand": "LENOVO",
+    "price": 44.68,
+    "product_class": "MONITOR",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Rejected as MONITOR: Standalone Monitor / Display",
+    "waf_detected": "Akamai Bot Manager"
+  },
+  {
+    "candidate_index": 4,
+    "url": "https://www.amazon.de/Dell-Latitude-i5-1135G7-Antiviren-Software-General%C3%BCberholt/dp/B0H7JDLNCR/ref=sr_1_6?dib=eyJ2IjoiMSJ9.jOU0svlDkU7uibGkf_JtWixhuva2_XKVursQu4kMaIHP1EXYICj3cXNrXcAk1qA1ED0JlvUBe9gJIiPOOO5BWB-1TjwpxacpDzuF9bIzy3bsm7ddIyDGbSJXkekQi2PwOHppIAZhvV9bTmT_7TzycTHb6PwQ3kNKmM7GAUVOaQwzZBMKtk1hBl_0ycZamAuoBUQ9Znst5tGjZhY2r2eUgrmEF9XIVtqDKT4xlX7YP-g.Ml8LYrpfILw3n16wfyR4WLQptQDsobDSS21OTK9P2es&dib_tag=se&keywords=laptop&qid=1787647960&sbo=GW1QB%2BmqAsHTPf1jTZRSDA%3D%3D&sr=8-6",
+    "status_code": 200,
+    "latency_ms": 7804.4,
+    "product_title": "Dell Latitude 5320 2-in-1 13,3 Zoll Full HD Laptop Intel Core i5-1135G7@ bis zu 4,2 GHz 16 GB 512 GB SSD mit Windows 11 Pro & GRATIS Antiviren-Software inkl. 12 Monate Garantie (General\u00fcberholt)",
+    "brand": "DELL",
+    "price": 44269.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": null
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "Italy",
+  "product_url": "https://www.amazon.it/HP-255-G8-portatile-DDR4-SDRAM/dp/B08T9V1FG9/ref=sr_1_6",
+  "title": "HP 255 G8 Computer Portatile 39,6 cm (15.6\") 1366 x 768 Pixel Intel N4500 8Gb DDR4-SDRAM 256Gb SSD Wi-Fi, Win 11 Pro",
+  "brand": "HP",
+  "model": "B08T9V1FG9",
+  "sku": "B08T9V1FG9",
+  "price": 32990.0,
+  "currency": "EUR",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": "8GB",
+  "storage": "256GB SSD",
+  "display": "15.6\"",
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:55:55.944039Z"
+}

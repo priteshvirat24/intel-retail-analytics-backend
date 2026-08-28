@@ -1,0 +1,18 @@
+{
+  "retailer": "Amazon",
+  "country": "Germany",
+  "product_url": "https://www.amazon.de/Dell-Latitude-i5-1135G7-Antiviren-Software-General%C3%BCberholt/dp/B0H7JDLNCR/ref=sr_1_6?dib=eyJ2IjoiMSJ9.jOU0svlDkU7uibGkf_JtWixhuva2_XKVursQu4kMaIHP1EXYICj3cXNrXcAk1qA1ED0JlvUBe9gJIiPOOO5BWB-1TjwpxacpDzuF9bIzy3bsm7ddIyDGbSJXkekQi2PwOHppIAZhvV9bTmT_7TzycTHb6PwQ3kNKmM7GAUVOaQwzZBMKtk1hBl_0ycZamAuoBUQ9Znst5tGjZhY2r2eUgrmEF9XIVtqDKT4xlX7YP-g.Ml8LYrpfILw3n16wfyR4WLQptQDsobDSS21OTK9P2es&dib_tag=se&keywords=laptop&qid=1787647960&sbo=GW1QB%2BmqAsHTPf1jTZRSDA%3D%3D&sr=8-6",
+  "product_title": "Dell Latitude 5320 2-in-1 13,3 Zoll Full HD Laptop Intel Core i5-1135G7@ bis zu 4,2 GHz 16 GB 512 GB SSD mit Windows 11 Pro & GRATIS Antiviren-Software inkl. 12 Monate Garantie (General\u00fcberholt)",
+  "brand": "DELL",
+  "model_or_sku": "B0H7JDLNCR",
+  "price": 44269.0,
+  "currency": null,
+  "specs": {
+    "cpu": "Intel Core I5",
+    "storage": "512 GB SSD",
+    "os": "Windows 11"
+  },
+  "validation_score": 1.0,
+  "source_strategy": "BRIGHTDATA_BROWSER_ESCALATION",
+  "timestamp": "2026-08-25T08:53:22.037247+00:00"
+}

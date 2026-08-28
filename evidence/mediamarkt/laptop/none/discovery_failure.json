@@ -1,0 +1,8 @@
+{
+  "target_id": "mediamarkt-tr",
+  "retailer": "Mediamarkt",
+  "country": "Turkey",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED",
+  "timestamp": "2026-08-24T07:32:07.420344+00:00"
+}

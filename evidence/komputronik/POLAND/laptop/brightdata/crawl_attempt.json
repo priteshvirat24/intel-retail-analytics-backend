@@ -1,0 +1,17 @@
+{
+  "target_id": "komputronik-pl",
+  "retailer": "Komputronik",
+  "country": "Poland",
+  "country_iso": "pl",
+  "url": "https://www.komputronik.pl/category/5803/laptopy-i-komputery.html",
+  "status_code": 200,
+  "response_time_ms": 9885.4,
+  "can_scrape": "NO",
+  "confidence_score": 0.55,
+  "product_name": "Laptopy i komputery",
+  "brand": null,
+  "price": 88.0,
+  "currency": null,
+  "sku": null,
+  "reason": "Catalog aggregation page reached: Multiple listing cards present without individual checkout schema"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.co.uk/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 8380.8,
+    "bytes": 1549067,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.amazon.co.uk/dp/B08L5WHJ7L",
+    "status_code": 200,
+    "latency_ms": 4502.6,
+    "product_title": null,
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.amazon.co.uk/Lenovo-IdeaPad-Slim-Chromebook-Laptop/dp/B0C9LZFN32/ref=sr_1_2?dib=eyJ2IjoiMSJ9.GsoNJJPp6jX3lFbljcjkVq8yfUegTx6pG1VPYkPN73_YMZY_1kRYsUmc8OS8qdLsECkFr3gaToTqqFT38EG18yejfNYyTnyULkUqJ4YlJecJCzmJ4HUlYpGGiXclgjL_tELd6UusZ4FyxxhYHj5sb6wvjtqxHd52QLGkt3OPv3CD53QkM1w0f3C4BxGrH4A4Ae3nfCnZ6pAi1gLSF6JRK7DEu7lo5EvPDfB5K3pinGQ.avYEA17oLfgV5cI_x9MHgTx14WvfGqESy1U9QL5sf9Q&dib_tag=se&keywords=laptop&qid=1787647914&sr=8-2",
+    "status_code": 200,
+    "latency_ms": 21882.1,
+    "product_title": "Lenovo IdeaPad Slim 3 Chromebook | 14 Inch FHD Laptop | MediaTek Kompanio 520 | 4GB RAM | 64GB eMMC | Chrome OS | Abyss Blue",
+    "brand": "LENOVO",
+    "price": 2607.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "Akamai Bot Manager"
+  }
+]

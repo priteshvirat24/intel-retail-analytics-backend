@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 7645.53,
+  "browser_seconds": 7.69,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright navigation error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.staples.com/product/sku_0002\nCall log:\n  - navigating to \"https://www.staples.com/product/sku_0002\", waiting until \"domcontentloaded\"\n",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:47:12.890770+00:00"
+}

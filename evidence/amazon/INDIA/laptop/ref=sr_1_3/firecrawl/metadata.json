@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-in",
+  "retailer": "Amazon",
+  "country": "India",
+  "url": "https://www.amazon.in/ASUS-Vivobook-i5-13420H-Keyboard-X1605VA-SH1952WS/dp/B0FN9WN6XD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.YCD62Cm6YiAsNErT-6-DiISaPQvy3ePlUAfeo1TL337UbKwVM_vAi1-onOkc7-XCIgqtPHhIAyZwdkfl3ZbWDvSzD03vwM0gr1KhOLbjp88n_aiqTixndAJIkzJIZ72bDmX5Cx0WxApU6RyHmHEP-RfqDBg-42HkPPl_eLYdudDNnHiNNhQ1Wm3FFx2KYacvKsFw0L3rkf2bJUoOFUEJTnHbsPxxZuwewp-hjetLbf8.evknooEOLXmpBApXCfrxpIsFP6nJqdDtD5WywYgWK_s&dib_tag=se&keywords=laptop&qid=1787557040&sr=8-3",
+  "strategy": "FIRECRAWL",
+  "status_code": 200,
+  "final_url": "https://www.amazon.in/ASUS-Vivobook-i5-13420H-Keyboard-X1605VA-SH1952WS/dp/B0FN9WN6XD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.YCD62Cm6YiAsNErT-6-DiISaPQvy3ePlUAfeo1TL337UbKwVM_vAi1-onOkc7-XCIgqtPHhIAyZwdkfl3ZbWDvSzD03vwM0gr1KhOLbjp88n_aiqTixndAJIkzJIZ72bDmX5Cx0WxApU6RyHmHEP-RfqDBg-42HkPPl_eLYdudDNnHiNNhQ1Wm3FFx2KYacvKsFw0L3rkf2bJUoOFUEJTnHbsPxxZuwewp-hjetLbf8.evknooEOLXmpBApXCfrxpIsFP6nJqdDtD5WywYgWK_s&dib_tag=se&keywords=laptop&qid=1787557040&sr=8-3",
+  "crawlable": false,
+  "failure_reason": "BOT_CHALLENGE_PAGE",
+  "anti_bot_vendor": null,
+  "latency_ms": 19878.76093899831
+}

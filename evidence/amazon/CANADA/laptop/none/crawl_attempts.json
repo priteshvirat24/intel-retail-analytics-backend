@@ -1,0 +1,35 @@
+{
+  "target_id": "amazon-ca",
+  "laptop_url": "https://www.amazon.ca/Laptops/b/?ie=UTF8&node=677252011&ref_=sv_pc_2",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 8004.8
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.2
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 500,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_HTTP_ERROR",
+    "latency_ms": 372.9
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

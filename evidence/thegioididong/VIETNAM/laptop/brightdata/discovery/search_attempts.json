@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.thegioididong.com/laptop",
+    "status_code": 200,
+    "latency_ms": 9937.4,
+    "html_bytes": 651855
+  }
+]

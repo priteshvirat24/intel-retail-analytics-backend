@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.flipkart.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 6827.8,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.flipkart.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 2689.8,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.flipkart.com/laptops",
+    "status_code": 200,
+    "latency_ms": 5253.2,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.flipkart.com",
+    "status_code": 200,
+    "latency_ms": 8658.0,
+    "product_title": "Flipkart: India's Ultimate One-Stop Online Shopping Destination",
+    "brand": null,
+    "price": 7.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": "PerimeterX / HUMAN"
+  }
+]

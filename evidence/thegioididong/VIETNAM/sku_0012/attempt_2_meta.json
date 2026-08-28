@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 404,
+  "response_time_ms": 6783.66,
+  "browser_seconds": 13.79,
+  "bytes_received": 1306,
+  "success": false,
+  "evidence_path": "evidence/thegioididong/VIETNAM/sku_0012/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/thegioididong/VIETNAM/sku_0012/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:45:28.488531+00:00"
+}

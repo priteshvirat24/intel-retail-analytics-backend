@@ -1,0 +1,17 @@
+{
+  "target_id": "bestbuy-us",
+  "retailer": "Bestbuy",
+  "country": "United States",
+  "country_iso": "us",
+  "url": "https://www.bestbuy.com/product/asus-proart-pz13-13-oled-3k-detachable-laptop-copilot-pc-snapdragon-x-plus-16gb-memory-1tb-ssd-nano-black/JJGGLQ6Z4X",
+  "status_code": 200,
+  "response_time_ms": 35694.6,
+  "can_scrape": "YES",
+  "confidence_score": 1.0,
+  "product_name": "ASUS - ProArt PZ13 13\" OLED 3K Detachable Laptop - Copilot+ PC - Snapdragon X Plus - 16GB Memory - 1TB SSD - Nano Black",
+  "brand": "ASUS",
+  "price": null,
+  "currency": null,
+  "sku": "12906756",
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (ASUS - ProArt PZ13 13\" OLED 3K Detachable Laptop - Copilot+ PC - Snapdragon X Plus - 16GB Memory - 1TB SSD - Nano Black | Brand: ASUS | Price: \u2014 | SKU: 12906756)"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mediaexpert.pl/szukaj?q=laptop",
+    "status_code": 200,
+    "latency_ms": 3424.6,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mediaexpert.pl/laptopy",
+    "status_code": 200,
+    "latency_ms": 3770.5,
+    "bytes": 1133286,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-hp-victus-15-fa2090nw-15-6-ips-144hz-core-7-240h-24gb-ram-512gb-ssd-geforce-rtx5060-dlss-4-windows-11-home",
+    "status_code": 200,
+    "latency_ms": 36072.6,
+    "product_title": "Laptop HP Victus 15-FA2090NW 15.6\" IPS 144Hz Core 7-240H 24GB RAM 512GB SSD GeForce RTX5060 DLSS 4 Windows 11 Home",
+    "brand": "HP",
+    "price": 4899.99,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "Cloudflare WAF"
+  }
+]

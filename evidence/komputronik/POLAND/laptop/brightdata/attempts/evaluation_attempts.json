@@ -1,0 +1,24 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.komputronik.pl/szukaj?q=laptop",
+    "status_code": 200,
+    "latency_ms": 9040.4,
+    "bytes": 1024408,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.komputronik.pl/product/1022453/msi-katana-17-b14wfk-400xpl-i7-14650hx-17-3-16gb-512gb-w11home-rtx-5060-czarny.html",
+    "status_code": 200,
+    "latency_ms": 17154.7,
+    "product_title": "MSI Katana 17 B14WFK-400XPL - i7-14650HX | 17,3'' | 16GB | 512GB | W11Home | RTX 5060 | Czarny",
+    "brand": "MSI",
+    "price": 5290.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 0.7,
+    "rejection_reason": null,
+    "waf_detected": "Cloudflare WAF"
+  }
+]

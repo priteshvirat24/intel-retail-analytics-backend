@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "Brazil",
+  "product_url": "https://www.amazon.com.br/dp/B0FPL3ZXTV",
+  "title": "Notebook Intel Celeron 8gb Ram 256 Gb Ssd Laptop 1920x1080 FHD 14in",
+  "brand": "Marca: VSAP",
+  "model": "B0FPL3ZXTV",
+  "sku": "B0FPL3ZXTV",
+  "price": 1.899,
+  "currency": "BRL",
+  "availability": "InStock",
+  "cpu": "Celeron 8Gb",
+  "ram": "8GB",
+  "storage": "256 GB SSD",
+  "display": null,
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:56:15.078004Z"
+}

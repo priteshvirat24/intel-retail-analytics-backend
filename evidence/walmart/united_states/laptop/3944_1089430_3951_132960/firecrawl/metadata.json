@@ -1,0 +1,13 @@
+{
+  "target_id": "walmart-us",
+  "retailer": "Walmart",
+  "country": "United States",
+  "url": "https://www.walmart.com/browse/electronics/all-laptop-computers/3944_1089430_3951_132960?povid=ETS_computingcp_hubspoke_Laptopsbrowse_WEB",
+  "strategy": "FIRECRAWL",
+  "status_code": 200,
+  "final_url": "https://www.walmart.com/browse/electronics/all-laptop-computers/3944_1089430_3951_132960?povid=ETS_computingcp_hubspoke_Laptopsbrowse_WEB",
+  "crawlable": false,
+  "failure_reason": "PERIMETERX_/_HUMAN_CHALLENGE",
+  "anti_bot_vendor": "PerimeterX / HUMAN",
+  "latency_ms": 17505.404628995166
+}

@@ -1,0 +1,21 @@
+{
+  "retailer": "Dell",
+  "country": "Global",
+  "product_url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=dell-chromebook-product-line",
+  "title": "Dell Chromebook Laptop Computers",
+  "brand": "Dell",
+  "model": "dell-laptops",
+  "sku": "dell-laptops",
+  "price": null,
+  "currency": "USD",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": null,
+  "storage": null,
+  "display": null,
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:02:14.198731Z"
+}

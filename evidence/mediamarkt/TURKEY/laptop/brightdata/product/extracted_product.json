@@ -1,0 +1,18 @@
+{
+  "retailer": "Mediamarkt",
+  "country": "Turkey",
+  "product_url": "https://www.mediamarkt.com.tr/tr/product/_dell-vostro-5471-i7-8550u-8gb-256gb-ssd-14fhd-linux-laptop-1195514.html",
+  "product_title": "DELL Vostro 5471 i7-8550U 8GB 256GB SSD 14\"FHD Linux Laptop",
+  "brand": "DELL",
+  "model_or_sku": "i7-8550u",
+  "price": 6.34,
+  "currency": null,
+  "specs": {
+    "screen_size": "14\"",
+    "storage": "256GB SSD",
+    "os": "Linux"
+  },
+  "validation_score": 1.0,
+  "source_strategy": "Bright Data Web Unlocker (flags: country-tr)",
+  "timestamp": "2026-08-25T09:04:28.817201+00:00"
+}

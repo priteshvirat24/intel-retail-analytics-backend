@@ -1,0 +1,16 @@
+{
+  "retailer": "Agres",
+  "country": "Indonesia",
+  "product_url": "https://www.agres.id/products/asus-rog-strix-g16-g615jhr-i7-14650hx-rtx5050-8gb-16gb-512gb-w11ohsm365b-160-rog-nebula-wqxga-240hz-box-mou-gry--i7n55c6g-hm",
+  "product_title": "ASUS ROG STRIX G16 G615JHR I7 14650HX RTX5050 8GB/ 16GB 512GB W11+OHS+M365B 16.0 ROG NEBULA WQXGA 240HZ (BOX MOU) GRY -I7N55C6G-HM",
+  "brand": "Laptop",
+  "model_or_sku": "BZ197",
+  "price": 31100000.0,
+  "currency": "IDR",
+  "specs": {
+    "storage": "512GB "
+  },
+  "validation_score": 0.7,
+  "source_strategy": "Bright Data Web Unlocker (flags: country-id)",
+  "timestamp": "2026-08-25T08:51:50.956916+00:00"
+}

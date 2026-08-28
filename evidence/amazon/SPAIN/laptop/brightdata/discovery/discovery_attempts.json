@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.es/s?k=portatil",
+    "status_code": 200,
+    "latency_ms": 7094.3,
+    "bytes": 1986296,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

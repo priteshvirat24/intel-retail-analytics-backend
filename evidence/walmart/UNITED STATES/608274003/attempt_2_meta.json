@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 11718.73,
+  "browser_seconds": 11.77,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright navigation error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.walmart.com/ip/electronics-product/608274003\nCall log:\n  - navigating to \"https://www.walmart.com/ip/electronics-product/608274003\", waiting until \"domcontentloaded\"\n",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:53:38.565940+00:00"
+}

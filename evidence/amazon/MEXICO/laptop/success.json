@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "Mexico",
+  "product_url": "https://www.amazon.com.mx/HP-15-fd1340la-Windows-Garant%C3%ADa-Plateado/dp/B0GR2PK79C/ref=sr_1_1",
+  "title": "HP Laptop 15-fd1340la, Intel Core 3, 8 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Espa\u00f1ol, Garant\u00eda M\u00e9xico, Plateado",
+  "brand": "Visita la tienda de HP",
+  "model": "B0GR2PK79C",
+  "sku": "B0GR2PK79C",
+  "price": 10999.0,
+  "currency": "MXN",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": "8GB",
+  "storage": "512 GB SSD",
+  "display": "15.6\"",
+  "gpu": null,
+  "operating_system": "Windows 11",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:56:14.479036Z"
+}

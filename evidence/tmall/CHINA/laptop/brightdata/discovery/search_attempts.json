@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.tmall.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 4462.5,
+    "html_bytes": 315
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.tmall.com/search?q=laptop",
+    "status_code": 0,
+    "latency_ms": 31975.9,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.tmall.com/laptops",
+    "status_code": 0,
+    "latency_ms": 30534.4,
+    "html_bytes": 0
+  }
+]

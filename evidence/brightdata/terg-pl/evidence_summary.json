@@ -1,0 +1,17 @@
+{
+  "target_id": "terg-pl",
+  "retailer": "Terg",
+  "country": "Poland",
+  "domain": "mediaexpert.pl",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/chuwi?srsltid=AfmBOoqPtUP8hLv439M33Zr-2kmRC2WQOzHCvAylb4Dz3_fjIafQpyfe",
+  "title": "Laptopy CHUWI - niskie ceny i setki opinii w Media Expert",
+  "brand": "Terg",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:24:04.288418+00:00",
+  "failure_reason": null
+}

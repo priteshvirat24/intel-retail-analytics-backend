@@ -1,0 +1,20 @@
+{
+  "attempt_number": 1,
+  "strategy": "HTTP",
+  "status_code": 200,
+  "response_time_ms": 9.99,
+  "browser_seconds": 0.0,
+  "bytes_received": 1034,
+  "success": true,
+  "evidence_path": "evidence/boulanger/FRANCE/sku_0002/attempt_1_snapshot.html",
+  "screenshot_path": null,
+  "headers": {
+    "date": "Sun, 23 Aug 2026 10:12:08 GMT",
+    "server": "uvicorn",
+    "content-length": "1034",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T10:12:08.749809+00:00"
+}

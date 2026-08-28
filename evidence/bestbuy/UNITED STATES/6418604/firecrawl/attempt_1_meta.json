@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "FIRECRAWL",
+  "status_code": 500,
+  "response_time_ms": 509.6696870168671,
+  "browser_seconds": 0.5102081480144989,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": "evidence/bestbuy/United States/6418604/firecrawl/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "HTTP_STATUS",
+    "specific_reason": "HTTP_5XX_SERVER_ERROR",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Retailer server returned HTTP 500 Server Error.",
+    "http_status": 500,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "Firecrawl API returned HTTP 500: An error occurred while fetching the page.",
+    "source_strategy": "FIRECRAWL",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:06:31.349754+00:00",
+    "is_recoverable": true,
+    "recommended_escalation": "RETRY_WITH_BACKOFF",
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:06:31.349812+00:00"
+}

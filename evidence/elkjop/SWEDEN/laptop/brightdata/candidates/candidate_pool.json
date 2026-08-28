@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://www.elgiganten.se/search?q=laptop",
+    "score": 25.0,
+    "anchor": "Privatkund"
+  },
+  {
+    "url": "https://www.elgiganten.se/foretag/search?q=laptop",
+    "score": 25.0,
+    "anchor": "F\u00f6retagskund"
+  }
+]

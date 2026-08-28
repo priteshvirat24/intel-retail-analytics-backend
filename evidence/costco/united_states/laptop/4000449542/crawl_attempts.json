@@ -1,0 +1,42 @@
+{
+  "target_id": "costco-us",
+  "laptop_url": "https://www.costco.com/p/-/dell-156-touchscreen-laptop-intel-core-ultra-7-255u-fhd-1920x1080-16gb-ram-1tb-ssd-carbon-black-windows-11-home/4000449542",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 831.5
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 2003.9
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": true,
+    "confidence_score": 0.8,
+    "failure_class": "NONE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_PRODUCT_SUCCESS",
+    "latency_ms": 21224.9
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": {
+    "name": "Dell 15.6\" Touchscreen Laptop - Intel Core Ultra 7 255U - FHD (1920x1080) - 16GB RAM - 1TB SSD - Carbon Black - Windows 11 Home",
+    "brand": "DELL",
+    "model_or_sku": null,
+    "price": null,
+    "currency": null,
+    "product_url": "https://www.costco.com/p/-/dell-156-touchscreen-laptop-intel-core-ultra-7-255u-fhd-1920x1080-16gb-ram-1tb-ssd-carbon-black-windows-11-home/4000449542"
+  }
+}

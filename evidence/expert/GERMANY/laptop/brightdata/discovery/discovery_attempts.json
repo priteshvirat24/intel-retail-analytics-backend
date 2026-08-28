@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.expert.de/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 12286.9,
+    "bytes": 935219,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

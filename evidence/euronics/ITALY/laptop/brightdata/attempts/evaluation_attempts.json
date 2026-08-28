@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.euronics.it/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 4023.8,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.euronics.it/ricerca?q=notebook",
+    "status_code": 200,
+    "latency_ms": 6038.1,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.euronics.it/gaming/pc-gaming/notebook-gaming/",
+    "status_code": 200,
+    "latency_ms": 15535.1,
+    "product_title": "Notebook Gaming",
+    "brand": null,
+    "price": 30.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.4,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.4 < 0.70)",
+    "waf_detected": "Cloudflare WAF"
+  }
+]

@@ -1,0 +1,150 @@
+{
+  "total_banners": 6,
+  "intel_banners_count": 5,
+  "intel_banner_share_pct": 83.3,
+  "destination_link_compliance_pct": 100.0,
+  "flag_breakdown": {
+    "evo_banners": 3,
+    "evo_banners_pct": 50.0,
+    "gaming_banners": 3,
+    "gaming_banners_pct": 50.0,
+    "premier_sku_banners": 5,
+    "premier_sku_banners_pct": 83.3,
+    "ai_pc_banners": 4,
+    "ai_pc_banners_pct": 66.7
+  },
+  "brand_breakdown": {
+    "Intel Core Ultra": 3,
+    "Intel": 1,
+    "PC Mix": 1,
+    "AMD / Intel Mix": 1
+  },
+  "banner_records": [
+    {
+      "banner_id": "ban_bestbuy_01",
+      "site_id": "bestbuy-us",
+      "retailer": "Best Buy",
+      "site_type": "1P_RETAILER",
+      "brand": "Intel Core Ultra",
+      "headline": "Next-Gen AI PCs Powered by Intel Core Ultra",
+      "subheadline": "Experience built-in AI acceleration, all-day battery life, and peak gaming performance.",
+      "discount_text": "Save up to $300 on select Intel Core Ultra Laptops",
+      "destination_link": "https://www.bestbuy.com/site/clp-computers-pcs/intel-core-ultra/pcmcat1704383408037.c",
+      "has_destination_link": true,
+      "flags": {
+        "evo_flag": true,
+        "gaming_flag": true,
+        "premier_sku_flag": true,
+        "ai_pc_flag": true
+      },
+      "position": "HERO_CAROUSEL_SLIDE_1",
+      "screenshot_file": "banner_bestbuy_intel_ultra.png",
+      "screenshot_svg_path": "poc_data/screenshots/banner_bestbuy_intel_ultra.svg"
+    },
+    {
+      "banner_id": "ban_walmart_01",
+      "site_id": "walmart-us",
+      "retailer": "Walmart",
+      "site_type": "1P_RETAILER",
+      "brand": "Intel",
+      "headline": "Intel Core Powered Everyday Laptops for Back-to-School",
+      "subheadline": "HP, Lenovo, and ASUS laptops starting under $499.",
+      "discount_text": "Rollback: $150 Off HP Pavilion Intel Core i5",
+      "destination_link": "https://www.walmart.com/browse/electronics/laptops/3944_3951_1089430?facet=processor_type%3AIntel+Core",
+      "has_destination_link": true,
+      "flags": {
+        "evo_flag": false,
+        "gaming_flag": false,
+        "premier_sku_flag": false,
+        "ai_pc_flag": false
+      },
+      "position": "DEPT_BANNER_ROW_1",
+      "screenshot_file": "banner_walmart_intel_rollback.png",
+      "screenshot_svg_path": "poc_data/screenshots/banner_walmart_intel_rollback.svg"
+    },
+    {
+      "banner_id": "ban_costco_01",
+      "site_id": "costco-us",
+      "retailer": "Costco",
+      "site_type": "1P_RETAILER",
+      "brand": "Intel Core Ultra",
+      "headline": "Costco Members Exclusive: Intel Core Ultra Dell XPS & HP Envy Bundles",
+      "subheadline": "Includes 2-Year Warranty + 32GB RAM Upgrade.",
+      "discount_text": "$350 OFF Dell XPS 14 Intel Core Ultra 7",
+      "destination_link": "https://www.costco.com/laptops.html?processor-type=intel-core-ultra",
+      "has_destination_link": true,
+      "flags": {
+        "evo_flag": true,
+        "gaming_flag": false,
+        "premier_sku_flag": true,
+        "ai_pc_flag": true
+      },
+      "position": "HOMEPAGE_OFFER_SLIDE_2",
+      "screenshot_file": "banner_costco_xps_ultra.png",
+      "screenshot_svg_path": "poc_data/screenshots/banner_costco_xps_ultra.svg"
+    },
+    {
+      "banner_id": "ban_amazon_01",
+      "site_id": "amazon-us",
+      "retailer": "Amazon US",
+      "site_type": "MARKETPLACE",
+      "brand": "PC Mix",
+      "headline": "Amazon PC Store — Top Brand Gaming & AI Laptops",
+      "subheadline": "Shop ASUS ROG, Lenovo Legion, and Acer Predator with Intel & NVIDIA.",
+      "discount_text": "Up to 25% Off Prime Deals on Gaming PCs",
+      "destination_link": "https://www.amazon.com/b?node=565108",
+      "has_destination_link": true,
+      "flags": {
+        "evo_flag": false,
+        "gaming_flag": true,
+        "premier_sku_flag": true,
+        "ai_pc_flag": true
+      },
+      "position": "TOP_SPONSORED_STRIP",
+      "screenshot_file": "banner_amazon_pc_store.png",
+      "screenshot_svg_path": "poc_data/screenshots/banner_amazon_pc_store.svg"
+    },
+    {
+      "banner_id": "ban_dell_01",
+      "site_id": "dell-us",
+      "retailer": "Dell Technologies",
+      "site_type": "OEM_DIRECT",
+      "brand": "Intel Core Ultra",
+      "headline": "New XPS 13 & 16 with Intel Core Ultra Series",
+      "subheadline": "Smarter, faster AI experiences with dedicated Intel AI Boost NPU.",
+      "discount_text": "Save $200 + Free Express Shipping",
+      "destination_link": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/xps",
+      "has_destination_link": true,
+      "flags": {
+        "evo_flag": true,
+        "gaming_flag": false,
+        "premier_sku_flag": true,
+        "ai_pc_flag": true
+      },
+      "position": "HERO_BANNER_DELL_MAIN",
+      "screenshot_file": "banner_dell_xps_ultra.png",
+      "screenshot_svg_path": "poc_data/screenshots/banner_dell_xps_ultra.svg"
+    },
+    {
+      "banner_id": "ban_hp_01",
+      "site_id": "hp-us",
+      "retailer": "HP Direct",
+      "site_type": "OEM_DIRECT",
+      "brand": "AMD / Intel Mix",
+      "headline": "HP OMEN & Envy — Creators & Gaming Powerhouses",
+      "subheadline": "Custom configurable desktop towers and OLED laptops.",
+      "discount_text": "Save up to $450 with code HPCOMMERCE",
+      "destination_link": "https://www.hp.com/us-en/shop/vwa/laptops",
+      "has_destination_link": true,
+      "flags": {
+        "evo_flag": false,
+        "gaming_flag": true,
+        "premier_sku_flag": true,
+        "ai_pc_flag": false
+      },
+      "position": "HOMEPAGE_FEATURE_SLIDE_1",
+      "screenshot_file": "banner_hp_omen_envy.png",
+      "screenshot_svg_path": "poc_data/screenshots/banner_hp_omen_envy.svg"
+    }
+  ]
+}

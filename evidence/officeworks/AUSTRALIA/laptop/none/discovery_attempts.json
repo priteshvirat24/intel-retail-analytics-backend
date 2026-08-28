@@ -1,0 +1,71 @@
+{
+  "target_id": "officeworks-au",
+  "retailer": "Officeworks",
+  "country": "Australia",
+  "discovery_status": "NO_PRODUCT_FOUND",
+  "failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "domain_validation": {
+    "domain": "officeworks.com.au",
+    "base_url": "https://www.officeworks.com.au",
+    "http_status": 405,
+    "final_url": "https://www.officeworks.com.au",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 3321.9
+  },
+  "discovery_attempts": [
+    {
+      "method": "METHOD_1_HOMEPAGE",
+      "status": "HTTP_ERROR",
+      "http_status": 405,
+      "latency_ms": 3321.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_2_ROBOTS_TXT",
+      "status": "ERROR",
+      "error": ""
+    },
+    {
+      "method": "METHOD_3_XML_SITEMAP",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_4_WEBSITE_SEARCH",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_5_CATEGORY_NAV",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_6_JSONLD_EXTRACTION",
+      "status": "NO_LINKS",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_7_KNOWN_PATTERNS",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_8_SEARCH_ENGINE",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+      "status": "FAILED",
+      "candidates_found": 0
+    }
+  ]
+}

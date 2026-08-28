@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 2088.28,
+  "browser_seconds": 2.13,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright navigation error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.jd.com/product/sku_0002\nCall log:\n  - navigating to \"https://www.jd.com/product/sku_0002\", waiting until \"domcontentloaded\"\n",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:34:27.167092+00:00"
+}

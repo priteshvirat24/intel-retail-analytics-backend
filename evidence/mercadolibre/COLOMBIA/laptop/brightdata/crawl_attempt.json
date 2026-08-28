@@ -1,0 +1,17 @@
+{
+  "target_id": "mercadolibre-co",
+  "retailer": "Mercadolibre",
+  "country": "Colombia",
+  "country_iso": "co",
+  "url": "https://listado.mercadolibre.com.co/computacion/portatiles-accesorios/portatiles/#menu=categories",
+  "status_code": 0,
+  "response_time_ms": 40793.8,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Bright Data Connection Timeout: Unlocker async polling timed out after 35s"
+}

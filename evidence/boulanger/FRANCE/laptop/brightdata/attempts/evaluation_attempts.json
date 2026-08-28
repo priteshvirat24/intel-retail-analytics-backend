@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.boulanger.com/s?k=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 18364.5,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.boulanger.com/recherche?q=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 11503.9,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.boulanger.com",
+    "status_code": 200,
+    "latency_ms": 23201.5,
+    "product_title": "Boulanger",
+    "brand": null,
+    "price": 69999.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.1,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.1 < 0.70)",
+    "waf_detected": "Akamai Bot Manager"
+  }
+]

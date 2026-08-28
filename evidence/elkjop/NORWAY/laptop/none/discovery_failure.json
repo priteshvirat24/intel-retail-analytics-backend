@@ -1,0 +1,60 @@
+{
+  "target_id": "elkjop-no",
+  "retailer": "Elkjop",
+  "country": "Norway",
+  "discovery_status": "NOT_DISCOVERED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "domain_validation": {
+    "domain": "elkjop.no",
+    "base_url": "https://www.elkjop.no",
+    "http_status": 429,
+    "redirect_chain": [],
+    "final_url": "https://www.elkjop.no",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 322.3
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.elkjop.no/search?q=laptop",
+      "status": 429,
+      "latency_ms": 321.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.elkjop.no/search?q=notebook",
+      "status": 429,
+      "latency_ms": 318.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.elkjop.no/s?k=laptop",
+      "status": 429,
+      "latency_ms": 327.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.elkjop.no/s?k=notebook",
+      "status": 429,
+      "latency_ms": 314.0,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.elkjop.no/laptops",
+      "status": 429,
+      "latency_ms": 361.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.elkjop.no",
+      "candidates_found": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+Retailer,Country,Laptop URL,URL Discovered,HTTP,Playwright,Firecrawl,Final Status,Failure Reason,Evidence Path
+Agres,Indonesia,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/agres/laptop/none/
+Acer,Global,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_TIMEOUT,evidence/acer/laptop/none/
+Amazon,United States,https://www.amazon.com/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,India,https://www.amazon.in/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,United Kingdom,https://www.amazon.co.uk/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,Germany,https://www.amazon.de/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,France,https://www.amazon.fr/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,Italy,https://www.amazon.it/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,Spain,https://www.amazon.es/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,Canada,https://www.amazon.ca/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,Mexico,https://www.amazon.com.mx/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Amazon,Brazil,https://www.amazon.com.br/dp/B08N5WRW88,YES,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND,evidence/amazon/laptop/B08N5WRW88/
+Bestbuy,United States,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_TIMEOUT,evidence/bestbuy/laptop/none/
+Bestbuy,Canada,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_TIMEOUT,evidence/bestbuy/laptop/none/
+Boulanger,France,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/boulanger/laptop/none/
+Costco,United States,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/costco/laptop/none/
+Coupang,South Korea,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/coupang/laptop/none/
+Currys,United Kingdom,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/currys/laptop/none/
+Dell,Global,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/dell/laptop/none/
+Elkjop,Denmark,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/elkjop/laptop/none/
+Elkjop,Norway,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/elkjop/laptop/none/
+Elkjop,Sweden,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/elkjop/laptop/none/
+Euronics,Italy,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/euronics/laptop/none/
+Expert,Germany,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/expert/laptop/none/
+Flipkart,India,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/flipkart/laptop/none/
+Fnac,France,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/fnac/laptop/none/
+Gmarket,South Korea,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/gmarket/laptop/none/
+Hp,Global,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/hp/laptop/none/
+Jbhifi,Australia,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/jbhifi/laptop/none/
+Jd,China,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/jd/laptop/none/
+Komputronik,Poland,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/komputronik/laptop/none/
+Lenovo,Global,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/lenovo/laptop/none/
+Magazineluiza,Brazil,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/magazineluiza/laptop/none/
+Mediamarkt,Germany,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/mediamarkt/laptop/none/
+Mediamarkt,Spain,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/mediamarkt/laptop/none/
+Mediamarkt,Italy,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/mediamarkt/laptop/none/
+Mediamarkt,Turkey,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/mediamarkt/laptop/none/
+Mercadolibre,Mexico,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/mercadolibre/laptop/none/
+Mercadolibre,Chile,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/mercadolibre/laptop/none/
+Mercadolibre,Colombia,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/mercadolibre/laptop/none/
+Mercadolibre,Brazil,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/mercadolibre/laptop/none/
+Thegioididong,Vietnam,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_TIMEOUT,evidence/thegioididong/laptop/none/
+Monsternotebook,Turkey,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_BLOCKED,evidence/monsternotebook/laptop/none/
+Newegg,United States,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/newegg/laptop/none/
+Officeworks,Australia,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/officeworks/laptop/none/
+Reliancedigital,India,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/reliancedigital/laptop/none/
+Staples,United States,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_TIMEOUT,evidence/staples/laptop/none/
+Terg,Poland,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/terg/laptop/none/
+Tmall,China,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/tmall/laptop/none/
+Unieuro,Italy,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/unieuro/laptop/none/
+Walmart,United States,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,NO_LAPTOP_URL_DISCOVERED,evidence/walmart/laptop/none/
+Yodobashi,Japan,NONE,NO,N/A,N/A,N/A,NOT_TESTABLE,DISCOVERY_TIMEOUT,evidence/yodobashi/laptop/none/

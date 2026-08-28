@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "United States",
+  "product_url": "https://www.amazon.com/HP-OmniBook-Touchscreen-Windows-16-by0199nr/dp/B0GQB1C381/ref=sr_1_1",
+  "title": "HP OmniBook 3 16 inch Laptop PC, 2K Touchscreen, AMD Ryzen 3 30, 8 GB RAM, 256 GB SSD, AMD Radeon 610M GPU, Windows 11 Home, Mica Silver, 16-by0199nr",
+  "brand": "HP",
+  "model": "B0GQB1C381",
+  "sku": "B0GQB1C381",
+  "price": 449.99,
+  "currency": "USD",
+  "availability": "InStock",
+  "cpu": "Ryzen 3",
+  "ram": "8GB",
+  "storage": "256 GB SSD",
+  "display": "16\"",
+  "gpu": null,
+  "operating_system": "Windows 11",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:55:27.251198Z"
+}

@@ -1,0 +1,17 @@
+{
+  "target_id": "flipkart-in",
+  "retailer": "Flipkart",
+  "country": "India",
+  "country_iso": "in",
+  "url": "https://www.flipkart.com",
+  "status_code": 200,
+  "response_time_ms": 9431.9,
+  "can_scrape": "NO",
+  "confidence_score": 0.3,
+  "product_name": "Flipkart: India's Ultimate One-Stop Online Shopping Destination",
+  "brand": null,
+  "price": 7.0,
+  "currency": null,
+  "sku": null,
+  "reason": "Peripheral/Accessory SKU reached instead of standalone laptop computer"
+}

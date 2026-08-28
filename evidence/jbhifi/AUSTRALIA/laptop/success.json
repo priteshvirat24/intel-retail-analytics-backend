@@ -1,0 +1,21 @@
+{
+  "retailer": "Jbhifi",
+  "country": "Australia",
+  "product_url": "https://www.jbhifi.com.au/products/hp-laptop-14s-dq6002tu-14-hd-laptop-intel-n-series128gb",
+  "title": "HP Laptop 14s-dq6002TU 14\" HD laptop (Intel N-Series)[128GB]",
+  "brand": "HP",
+  "model": "14s-dq6002tu",
+  "sku": "14s-dq6002tu",
+  "price": null,
+  "currency": "AUD",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": null,
+  "storage": "128GB",
+  "display": "14\"",
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:08:10.846740Z"
+}

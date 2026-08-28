@@ -1,0 +1,42 @@
+{
+  "target_id": "mediamarkt-es",
+  "laptop_url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15iph11-copilot-pc-153-wuxga-intelr-coretm-ultra-7-355-49-tops-16gb-ram-512gb-ssd-hd-graphics-w11h-1623675.html",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 12820.8
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.3
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": true,
+    "confidence_score": 0.8,
+    "failure_class": "NONE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_PRODUCT_SUCCESS",
+    "latency_ms": 16721.7
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": {
+    "name": "Port\u00e1til - Lenovo IdeaPad Slim 3 15IPH11 Copilot+ PC, 15.3\" WUXGA, Intel\u00ae Core\u2122 Ultra 7 355, 49 TOPS, 16GB RAM, 512GB SSD, HD Graphics, W11H",
+    "brand": "LENOVO",
+    "model_or_sku": null,
+    "price": 899.0,
+    "currency": null,
+    "product_url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15iph11-copilot-pc-153-wuxga-intelr-coretm-ultra-7-355-49-tops-16gb-ram-512gb-ssd-hd-graphics-w11h-1623675.html"
+  }
+}

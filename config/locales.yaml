@@ -1,0 +1,147 @@
+# Supported Locales and Currencies Configuration
+
+locales:
+  US:
+    name: United States
+    locale: en-US
+    currency: USD
+    currency_symbol: "$"
+    timezone: America/New_York
+  CA:
+    name: Canada
+    locale: en-CA
+    currency: CAD
+    currency_symbol: "CA$"
+    timezone: America/Toronto
+  GB:
+    name: United Kingdom
+    locale: en-GB
+    currency: GBP
+    currency_symbol: "£"
+    timezone: Europe/London
+  DE:
+    name: Germany
+    locale: de-DE
+    currency: EUR
+    currency_symbol: "€"
+    timezone: Europe/Berlin
+  FR:
+    name: France
+    locale: fr-FR
+    currency: EUR
+    currency_symbol: "€"
+    timezone: Europe/Paris
+  ES:
+    name: Spain
+    locale: es-ES
+    currency: EUR
+    currency_symbol: "€"
+    timezone: Europe/Madrid
+  IT:
+    name: Italy
+    locale: it-IT
+    currency: EUR
+    currency_symbol: "€"
+    timezone: Europe/Rome
+  BR:
+    name: Brazil
+    locale: pt-BR
+    currency: BRL
+    currency_symbol: "R$"
+    timezone: America/Sao_Paulo
+  MX:
+    name: Mexico
+    locale: es-MX
+    currency: MXN
+    currency_symbol: "MX$"
+    timezone: America/Mexico_City
+  IN:
+    name: India
+    locale: en-IN
+    currency: INR
+    currency_symbol: "₹"
+    timezone: Asia/Kolkata
+  JP:
+    name: Japan
+    locale: ja-JP
+    currency: JPY
+    currency_symbol: "¥"
+    timezone: Asia/Tokyo
+  KR:
+    name: South Korea
+    locale: ko-KR
+    currency: KRW
+    currency_symbol: "₩"
+    timezone: Asia/Seoul
+  CN:
+    name: China
+    locale: zh-CN
+    currency: CNY
+    currency_symbol: "¥"
+    timezone: Asia/Shanghai
+  AU:
+    name: Australia
+    locale: en-AU
+    currency: AUD
+    currency_symbol: "AU$"
+    timezone: Australia/Sydney
+  ID:
+    name: Indonesia
+    locale: id-ID
+    currency: IDR
+    currency_symbol: "Rp"
+    timezone: Asia/Jakarta
+  PL:
+    name: Poland
+    locale: pl-PL
+    currency: PLN
+    currency_symbol: "zł"
+    timezone: Europe/Warsaw
+  TR:
+    name: Turkey
+    locale: tr-TR
+    currency: TRY
+    currency_symbol: "₺"
+    timezone: Europe/Istanbul
+  VN:
+    name: Vietnam
+    locale: vi-VN
+    currency: VND
+    currency_symbol: "₫"
+    timezone: Asia/Ho_Chi_Minh
+  DK:
+    name: Denmark
+    locale: da-DK
+    currency: DKK
+    currency_symbol: "kr."
+    timezone: Europe/Copenhagen
+  NO:
+    name: Norway
+    locale: nb-NO
+    currency: NOK
+    currency_symbol: "kr"
+    timezone: Europe/Oslo
+  SE:
+    name: Sweden
+    locale: sv-SE
+    currency: SEK
+    currency_symbol: "kr"
+    timezone: Europe/Stockholm
+  CL:
+    name: Chile
+    locale: es-CL
+    currency: CLP
+    currency_symbol: "CLP$"
+    timezone: America/Santiago
+  CO:
+    name: Colombia
+    locale: es-CO
+    currency: COP
+    currency_symbol: "COL$"
+    timezone: America/Bogota
+  GLOBAL:
+    name: Global
+    locale: en-US
+    currency: USD
+    currency_symbol: "$"
+    timezone: UTC

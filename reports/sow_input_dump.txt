@@ -1,0 +1,434 @@
+<USER_REQUEST>
+4. DELIVERABLES, SERVICE LEVEL AGREEMENTS, AND KEY PERFORMANCE 
+INDICATORS
+Summary
+Key Outcomes Details 
+In Season Category 
+Management & Segment Pricing 
+Strategies
+Real-time Intel & Competitor pricing & promotion tracking of comparable 
+Configs across Retailers, OEMs, SKUs/CPUs/GPUs
+Retailer Audits As per the scoring (S1, S2, P1, P2, P3, P4, P5) and audit rules listed below 
+and detailed in the scoring rules guide maintained as controlled 
+Banner Tracking document with inputs from Intel teams. 
+Intel EVO Badge Tracking
+Share of Shelf Across Intel, AMD, Qualcomm & Apple based products in Laptop & 
+Desktop Categories
+Share of Voice (Search) Defined set of 80 Keywords as per the lists of keywork provided by Intel 
+corresponding to different retailers and countries. 
+Product Data Attributes OEM, Product Description, Model & Series, Product ID, Processor Series, 
+Number & Generation, Graphic Cards, Prices (original, trend over time & 
+currently selling – both in local currency and USD), Form factor, Screen 
+Size, Screen Type, RAM, Storage, Storage Type, Operating System 
+In Season Category Management & Segment Pricing Strategies
+Particulars Volume/Frequency Detail
+Frequency 3 times daily the websites listed below
+1P Retailer websites 173 – see Excel sheet. Websites in scope included in this 
+document
+3P Marketplace websites 14 Marketplaces in scope included in this 
+document
+OEM.com websites 6 (Key country level) Dell, HP, Lenovo, Asus, Acer, Samsung
+Key Countries 23 BR, FR, DE, IN, PL, GB, US, CA, IN, AU, 
+KR, JP, CN
+Number of products All consumer PC device SKUs listed on the 
+websites in scope.
+Segment focus: AI PC, Premium, 
+Gaming, Mainstream, Entry
+Form factors Desktops, Notebooks, Workstations, Tablets, 
+Component CPUs, Component GPUs
+PC accessories to be excluded 
+(Monitors, Cameras, Keyboards, Gift 
+cards, etc.)
+OEMs All major, specialty (Gaming/Creator) & local 
+OEM devices to be included
+Eg. Dell, HP, Lenovo, etc. 
+Competitors Apple, AMD, Qualcomm, Mediatek, NVIDIA, 
+Samsung
+Reporting platform Online Dashboard with advanced analytics & AI 
+capabilities (near real-time)
+Search, Attribute Filters, Drilldown
+options, Links to web content, Current 
+& Historical Pricing Trends, Like-4-Like 
+device configuration comparisons
+Data Data feed (once daily) sFTP
+Licenses Included and unlimited users. 
+Training & user support Included and unlimited users. 
+Details – Retailer Audits & Scoring
+Particulars Volume/Frequency Audit Area Audit Point Check 
+Number of 
+Websites 
+50 retailers (Hybrid Model) Listing Page Product Title Audit [S1] Presence of: Intel | Core | 
+Intel Core Ultra | 
+Competitors 
+Number of SKU’s All valid SKUs listed on the 
+website
+Badge Presence Audit [S2] Presence of Badge
+Audit Frequency 50 retailers – once a month Product 
+Details 
+Page 
+Product Title Audit [P1] Presence of: Intel | Core | 
+Gen| Intel Core Ultra | 
+Competitors 
+Badge Presence Audit [P2] Presence of Intel Badge | 
+Competitors
+Product Specification 
+Audit [P3] 
+Presence of: Intel | Core | 
+Intel Core Ultra | 
+Competitors 
+Intel led Rich Media [P4] Presence of: 
+Images | HTML text 
+OEM Rich Media [P5] Presence of: 
+Images | Videos | HTML 
+text 
+Product Classification Form Factor 
+(Laptop/Desktop) | 
+Gaming/Non-gaming |Evo, 
+VPro | Exception Flags, 
+Premium Flag 
+Details – Banner Tracking
+Particulars Volume/Frequency Audit Area Audit Point Check 
+Number of Websites 50 retailers (Hybrid 
+Model) 
+Landing Page for 
+each URL 
+Banners on the page Intel Banner |Intel Core | AMD 
+|Qualcomm| Apple | PC Mix 
+Number of URLs 145 Does the banner 
+have a destination 
+link? 
+Include screen shots 
+Presence of destination link, 
+Banner brand, 
+Dollar-off discount, 
+EVO, 
+Gaming, Premier SKUs Flag. Audit Frequency Daily (Work 
+weekday)
+TWICE Daily (Work 
+weekday) for 
+refreshing banners 
+for 10 retailers
+Share of Shelf
+Particulars Volume/Frequency Applicable Pages KPIs
+Number of Websites 50 retailers (Hybrid 
+Model) 
+Listing Page 
+Share of Shelf per OEM & retailer Site (% Intel 
+Core SKUs / Total SKUs) 
+• Share of Shelf per OEM brand in each 
+retailer 
+• Share of Shelf trend per retailer & OEM (% 
+Intel SKUs compared to competitor SKUs along 
+with the ranks) 
+• Brand compliance score: 
+1. S1, P1, S2, P2, P3, P4, P5 (85% Laptop-15% 
+Desktop) 
+Number of Products As listed on 
+websites 
+Data Collection 
+Reporting Frequency 
+22 retailers – once a 
+month 
+6 retailers – once in 
+2 months 
+22 retailers – once 
+in quarter 
+Share of Voice (Search)
+Particulars Volume/Frequency Applicable Pages KPIs 
+Number of Websites 50 retailers (Hybrid Model) Home Page & Search 
+Results Pages 
+• Share of Voice for 80 
+Keywords as defined to 
+Intel, up to 4x annually. 
+• Keywords with highest 
+share (ranked from highest 
+to lowest) 
+• Brand Compliance 
+Scores for: 
+• S1, P1, S2, P2, P3, P4, P5 
+for products on the top 2 
+pages for top 20 keywords 
+Number of Products As listed on websites 
+Data Collection Reporting 
+Frequency
+22 retailers – once a month 
+6 retailers – once in 2 months 
+22 retailers – once in quarter 
+# of Keywords 80 per country List of keywords to be 
+provided by Intel per 
+country and the keywords 
+can be replaced with new 
+keywords monthly. 
+Report & Data Availability Schedule 
+Retailer Audit
+Deliverables Description Frequency & Format 
+Brand Benchmarking (Score) Data Includes SKU level scores for each 
+cycle of data capture across all 
+retailers and OEM websites with 
+product attributes and relevant flags. 
+PSV or MS Excel file in agreed format 
+To be made available every month 
+Banner Tracking
+Deliverables Description Frequency & Format 
+Banner Tracking reports Report on count of Intel Banners and 
+Link available in the banners
+1. Daily report with audit data (single 
+refresh retailers and multiple refresh 
+retailers) data uploaded in the agreed 
+format in the Google data spreadsheet 
+2. Monthly consolidated report upload for 
+DB upload 
+Share of Shelf
+Deliverables Description Frequency & Format 
+Share of Shelf Report Reports on % share of shelf for Intel 
+and competition products and other 
+data slices 
+PSV or MS Excel file in agreed format 
+To be made available every month 
+Intel EVO Badge Tracking
+Deliverables Description Frequency & Format 
+Share of Voice (Search) Report Report on the count of SKUs with Intel 
+Evo mention and categorization 
+PSV or MS Excel file in agreed format 
+every month 
+Additional Data & Reports 
+Deliverables Description Frequency & Format 
+Processor Comparison Report Report on % share of Intel processor 
+shares across retailers and the monthon-month changes of share for SOS 
+and SOV. 
+PSV or MS Excel file in agreed format 
+every month 
+Additional Reports US region specific report [ data related 
+to US retailers only] 
+LATAM region specific report [ data 
+related to LATAM retailers only] 
+PSV or MS Excel file in agreed format 
+every month 
+Reference Screenshot Images Retailer tracking - Screenshots for the 
+product detail pages (PDP) for the 
+products that scored as part of SOS 
+and SOV report for cross checking and 
+reference during the discussions with 
+retailers and partners. 
+Retailer tracking - Image files hosted on 
+a cloud storage and web path (URL) of 
+the screenshot image file in the SOS 
+and SOV report every month. 
+Delivery Schedule
+Deliverables
+Scope Item MultiDaily
+Daily Weekly Monthly 
+Price & Promotion updates V
+Price & Promotion data feed V
+Brand Benchmark - SOS, SOV V
+Banner Audit V
+Qualcomm Tracking V
+Intel Core Ultra Series Scoring for All Pages V
+Marketing deliverables reporting 50
+Monthly Breakdown
+Every month Intel will have the flexibility to choose from a list of 63 accounts and the specified accounts will be scored 
+based on the assigned frequency. If no change request is shared by Intel for scoring, the previous month’s list will 
+continue to be followed until further changes are communicated.
+Assumptions
+Overall Retailer Audits + Intel 
+Evo Categorization 
+Non-English Websites Share of Voice 
+Set-up time of 5 weeks, 
+after proposal approval for 
+any new retailer/OEM. 
+Only the Laptop & Desktop 
+categories will be tracked 
+for the Retailer sites. 
+List of URLs for banner 
+audits to be provided by 
+Intel. 
+Revision on the reporting 
+format and site-specific 
+scope for each workstream to be agreed in the 
+first 4 weeks of 
+onboarding. 
+Intel will provision a POC 
+to finalize on the site wise 
+scoring methodology and 
+manage on-going changes 
+that may be required from 
+time to time. 
+Addition of new website or 
+replacing an existing 
+website may add 
+incremental fees and the 
+impact will be discussed 
+and finalized mutually 
+Website pages for nonEnglish websites will be 
+translated to English for 
+audit and categorization 
+purposes. 
+The audit points illustrated 
+above are overall, the 
+actual may be lesser 
+depending on website 
+structure. 
+Additional or change to 
+existing data points if any 
+required will have to be 
+scoped and agreed 
+mutually. 
+Addition of new website or 
+replacing an existing 
+website may add 
+incremental fees and to 
+will need be discussed 
+and finalized mutually. 
+Audits for products will be 
+done using EVO guidelines 
+only if EVO is mentioned in 
+the product data 
+Website Pages for nonEnglish websites will be 
+translated to English for 
+audit and categorization 
+purposes. 
+Additions or changes to 
+existing data points if any 
+required will have to be 
+scoped and agreed 
+mutually 
+Website Pages for NonEnglish websites will be 
+translated to English for 
+Audit purposes. 
+Additional or change to 
+existing data points if any 
+required will have to be 
+scoped and agreed 
+mutually. 
+SOV will only be 
+calculated for SKUs 
+harvested using all 80 
+keywords. 
+Count of SOV SKUs will 
+vary based on the search 
+output against every 
+keyword. 
+Duplication of SKUs may 
+occur if the website lists 
+them on multiple pages or 
+as an output for different 
+keywords. 
+Intel will provide the list of 
+keywords specific to the 
+retailers across all regions 
+on a timely manner 
+whenever there are 
+changes. 
+
+
+I'm attaching/pasting a signed Statement of Work (SOW) that defines contractual deliverables,
+scope, and SLAs for this retail intelligence system. I need a rigorous, line-by-line gap
+analysis of the CURRENT codebase against EVERY requirement in this SOW. Do not fix anything in
+this pass — diagnosis only. Go section by section and for each requirement, report one of:
+FULLY MET / PARTIALLY MET / NOT MET / CANNOT DETERMINE (with reason), backed by actual code,
+config, or schema evidence — not assumption.
+
+=== SOW TEXT ===
+[paste the full SOW document here]
+=== END SOW TEXT ===
+
+Check EVERY one of the following against the actual codebase (scope.yaml, retailers.yaml,
+oems.yaml, schema.ts, crawler-service, analytics-engine, report-service, and any cron/schedule
+config):
+
+1. SCOPE & VOLUME
+   - Retailer count: SOW requires 173 1P retailer websites + 14 3P marketplaces + 6 OEM.com
+     sites (50 in the "hybrid model" audit tier). Current retailers.yaml/scope.yaml supports
+     how many, and which?
+   - Country count: SOW requires 23 countries (BR, FR, DE, IN, PL, GB, US, CA, AU, KR, JP, CN,
+     etc). Current scope.yaml supports which countries?
+   - Competitor set: SOW requires Apple, AMD, Qualcomm, Mediatek, NVIDIA, Samsung as tracked
+     competitors. Current scope.yaml/schema only tracks which brands? (System doc indicates
+     AMD only — confirm.)
+   - Form factors: SOW requires Desktops, Notebooks, Workstations, Tablets, Component CPUs,
+     Component GPUs, explicitly excluding accessories (monitors, cameras, keyboards, gift
+     cards). Does current product_types config match this, and is there an explicit exclusion
+     list enforced in productIsInScope()?
+   - Product data attributes: SOW lists OEM, Product Description, Model & Series, Product ID,
+     Processor Series/Number/Generation, Graphics Cards, Prices (original/trend/current, local
+     currency AND USD), Form factor, Screen Size, Screen Type, RAM, Storage, Storage Type, OS.
+     Check canonical_products and price_snapshots schema for which of these fields actually
+     exist and are populated vs. missing.
+
+2. AUDIT SCORING (S1, S2, P1-P5)
+   - SOW defines: S1=Listing page title audit, S2=Listing page badge audit, P1=PDP title,
+     P2=PDP badge, P3=PDP spec audit, P4=Intel-led rich media (images/HTML), P5=OEM rich media
+     (images/videos/HTML). Compare this exact definition against audit-rules.yaml and
+     compliance-plugin.ts's actual S1/S2/P1-P5 implementation — do the check definitions match
+     word-for-word in intent, or has the implementation drifted from this spec?
+   - SOW requires monthly audit frequency for 50 retailers on PDP checks. Does a scheduling
+     config exist for monthly PDP audits distinct from the 3x/daily category-page crawls, or
+     is everything currently on the same 3x/daily cadence?
+   - Product classification requirement: Form factor, Gaming/Non-gaming, Evo/VPro flags,
+     Exception flags, Premium flag — check schema for which classification fields exist.
+
+3. BANNER TRACKING
+   - SOW requires: banner brand detection (Intel/AMD/Qualcomm/Apple/PC Mix), destination link
+     presence, screenshot capture, dollar-off discount detection, EVO/Gaming/Premier SKU flags.
+   - Frequency: daily for standard retailers, 2x/day for 10 specific "refresh" retailers, 145
+     URLs total. Check banner_snapshots schema and crawler scheduling against this — does the
+     schema capture destination link and discount amount, and does scheduling support a
+     10-retailer 2x/day subset distinct from the rest?
+
+4. SHARE OF SHELF
+   - SOW requires Share of Shelf denominator across Intel, AMD, Qualcomm, AND Apple — not just
+     Intel+AMD. Cross-reference directly against system doc's stated shelf-share formula
+     (Intel+AMD only, explicitly documented as intentional in Rule 7 of the Analytical
+     Integrity Contract). This is likely a genuine, documented scope conflict — confirm and
+     flag it clearly rather than silently reconciling it.
+   - Brand compliance score weighting: SOW specifies 85% Laptop / 15% Desktop weighting for
+     the S1/P1/S2/P2/P3/P4/P5 composite. Check compliance-plugin.ts for whether this specific
+     weighting exists anywhere, or if compliance is currently unweighted/category-agnostic.
+
+5. SHARE OF VOICE (SEARCH)
+   - SOW requires tracking 80 Intel-specified keywords per country, on Home Page and Search
+     Results Pages, ranking keywords by share, with S1/P1/S2/P2/P3/P4/P5 compliance scores for
+     top 2 pages of top 20 keywords. Search the entire codebase for any keyword-based search
+     tracking, SOV logic, or "share of voice" implementation. I expect this to be
+     CANNOT DETERMINE or NOT MET — confirm which, and if any trace of it exists at all.
+
+6. DATA DELIVERY & REPORTING FORMAT
+   - SOW requires: daily sFTP data feed, monthly PSV/MS Excel deliverables per workstream
+     (Brand Benchmarking, Banner Tracking, Share of Shelf, Intel Evo/SOV, Processor Comparison,
+     US-region report, LATAM-region report), reference screenshot images hosted with URL paths
+     in the SOS/SOV report. Check report-service for: sFTP delivery capability (vs. just
+     HMAC-signed download links), PSV export format support (vs. just CSV/XLSX/PDF per system
+     doc §10.4), and whether region-specific (US-only, LATAM-only) report generation exists.
+
+7. ACCOUNT FLEXIBILITY
+   - SOW requires: monthly ability for Intel to choose from a list of 63 accounts with
+     assigned scoring frequency, persisting previous month's list if no change request is
+     received. Check schema/config for any "account list" or "scoring frequency assignment"
+     mechanism — I expect NOT MET, confirm.
+
+8. SET-UP & OPERATIONAL ASSUMPTIONS
+   - 5-week setup time for new retailer/OEM — not a code check, note as operational/process
+     only.
+   - Non-English site translation for audit/categorization — check if any translation step
+     exists in the parser pipeline.
+
+Produce a single structured gap report as a table: SOW Requirement | Current Status
+(FULLY MET/PARTIALLY MET/NOT MET/CANNOT DETERMINE) | Evidence (file/line or "no evidence
+found") | Severity if gap (CRITICAL = contractual breach risk, HIGH, MEDIUM, LOW).
+
+Do not propose fixes yet. I will review this gap report and send a follow-up prompt to
+prioritize and implement fixes.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-08-28T12:48:52+05:30.
+
+The user's current state is as follows:
+Other open documents:
+- /Users/priteshhome/convert to excel/find_missing.py (LANGUAGE_PYTHON)
+- /Users/priteshhome/convert to excel/generate_excel.py (LANGUAGE_PYTHON)
+- /Users/priteshhome/convert to excel/Billing_Register_2019.csv (LANGUAGE_UNSPECIFIED)
+- /Users/priteshhome/convert to excel/build_all_registers.py (LANGUAGE_PYTHON)
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from Gemini 3.7 Flash (High) to Claude Opus 4.6 (Thinking). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>

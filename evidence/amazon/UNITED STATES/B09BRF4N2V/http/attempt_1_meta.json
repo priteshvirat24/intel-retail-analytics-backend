@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "HTTP",
+  "status_code": 404,
+  "response_time_ms": 1553.31,
+  "browser_seconds": 0.0,
+  "bytes_received": 2296,
+  "success": false,
+  "evidence_path": "evidence/amazon/UNITED STATES/B09BRF4N2V/http/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "HTTP_STATUS",
+    "specific_reason": "HTTP_404_NOT_FOUND",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Product URL returned HTTP 404 Not Found.",
+    "http_status": 404,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "HTTP",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:05:37.350942+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": null,
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:05:37.351001+00:00"
+}

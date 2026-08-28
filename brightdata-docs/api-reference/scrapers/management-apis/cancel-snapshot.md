@@ -1,0 +1,76 @@
+> ## Documentation Index
+> Fetch the complete documentation index at: https://docs.brightdata.com/llms.txt
+> Use this file to discover all available pages before exploring further.
+
+# Cancel snapshot
+
+> Use Bright Data Web Scraper API management endpoints to cancel Snapshot. POST /datasets/v3/snapshot/{id}/cancel returns snapshot or job status as JSON.
+
+
+
+## OpenAPI
+
+````yaml api-reference/dca-api post /datasets/v3/snapshot/{snapshot_id}/cancel
+openapi: 3.1.0
+info:
+  title: Brightdata API
+  description: API for interaction with datasets marketplace
+  version: 1.0.0
+servers:
+  - url: https://api.brightdata.com
+security:
+  - bearerAuth: []
+paths:
+  /datasets/v3/snapshot/{snapshot_id}/cancel:
+    post:
+      description: Cancel the running collection
+      parameters:
+        - name: snapshot_id
+          in: path
+          required: true
+          schema:
+            type: string
+            example: s_m4x7enmven8djfqak
+            description: The ID that was returned when the collection was triggered
+      responses:
+        '200':
+          description: OK
+          content:
+            text/plain:
+              schema:
+                type: string
+                example: OK
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      description: >-
+        Use your Bright Data API Key as a Bearer token in the Authorization
+        header.
+
+
+        **How to authenticate:**
+
+        1. Obtain your API Key from the Bright Data account settings at
+        https://brightdata.com/cp/setting/users
+
+        2. Include the API Key in the Authorization header of your requests
+
+        3. Format: `Authorization: Bearer YOUR_API_KEY`
+
+
+        **Example:**
+
+        ```
+
+        Authorization: Bearer YOUR_API_KEY
+
+        ```
+
+
+        Learn how to get your Bright Data API key:
+        https://docs.brightdata.com/api-reference/authentication
+      bearerFormat: API Key
+
+````

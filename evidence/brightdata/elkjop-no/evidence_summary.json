@@ -1,0 +1,17 @@
+{
+  "target_id": "elkjop-no",
+  "retailer": "Elkj\u00f8p",
+  "country": "Norway",
+  "domain": "elkjop.no",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_SDK_SCRAPE",
+  "method": "Search\u2192Direct",
+  "url": "https://www.elkjop.no/product/pc-datautstyr-og-kontor/pc/barbar-pc/hp-pavilion-x360-14-ba083no-14-2-i-1-barbar-pc-solv/HP14BA083NO",
+  "title": "HP Pavilion x360 14-ba083no 14\" 2-i-1 b\u00e6rbar PC (s\u00f8lv)",
+  "brand": "HP",
+  "specs": {
+    "screen_size": "14\""
+  },
+  "timestamp": "2026-08-25T13:36:28.517725+00:00",
+  "failure_reason": null
+}

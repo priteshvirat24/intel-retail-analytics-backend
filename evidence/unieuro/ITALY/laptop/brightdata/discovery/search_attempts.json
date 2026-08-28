@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.unieuro.it/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 4728.6,
+    "html_bytes": 321757
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.unieuro.it/ricerca?q=notebook",
+    "status_code": 200,
+    "latency_ms": 3987.0,
+    "html_bytes": 321768
+  }
+]

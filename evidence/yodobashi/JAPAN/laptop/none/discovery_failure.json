@@ -1,0 +1,60 @@
+{
+  "target_id": "yodobashi-jp",
+  "retailer": "Yodobashi",
+  "country": "Japan",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+  "domain_validation": {
+    "domain": "yodobashi.com",
+    "base_url": "https://www.yodobashi.com",
+    "http_status": 0,
+    "redirect_chain": [],
+    "final_url": "https://www.yodobashi.com",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "TIMEOUT",
+    "latency_ms": 0.0
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.yodobashi.com/search?q=laptop",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.yodobashi.com/search?q=notebook",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.yodobashi.com/s?k=laptop",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.yodobashi.com/s?k=notebook",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.yodobashi.com/laptops",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.yodobashi.com",
+      "candidates_found": 0
+    }
+  ]
+}

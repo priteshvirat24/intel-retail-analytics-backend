@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.amazon.es/s?k=portatil",
+    "status_code": 200,
+    "latency_ms": 9009.0,
+    "html_bytes": 1997134
+  }
+]

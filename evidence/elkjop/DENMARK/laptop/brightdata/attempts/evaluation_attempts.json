@@ -1,0 +1,54 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.elgiganten.dk/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 3317.5,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.elgiganten.dk/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 3160.0,
+    "bytes": 454861,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.elgiganten.dk/laptops",
+    "status_code": 200,
+    "latency_ms": 6426.9,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.elgiganten.dk/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 4004.7,
+    "product_title": "S\u00f8g efter produkt, kategori, brand eller artikel",
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": "Google reCAPTCHA"
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.elgiganten.dk/erhverv/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 5497.9,
+    "product_title": "S\u00f8g efter produkt, kategori, brand eller artikel",
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": "Google reCAPTCHA"
+  }
+]

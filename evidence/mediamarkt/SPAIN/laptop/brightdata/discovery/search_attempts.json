@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.mediamarkt.es/s?k=portatil",
+    "status_code": 200,
+    "latency_ms": 56002.7,
+    "html_bytes": 775061
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mediamarkt.es/search?q=portatil",
+    "status_code": 200,
+    "latency_ms": 63254.9,
+    "html_bytes": 650718
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mediamarkt.es/laptops",
+    "status_code": 200,
+    "latency_ms": 52431.1,
+    "html_bytes": 684478
+  }
+]

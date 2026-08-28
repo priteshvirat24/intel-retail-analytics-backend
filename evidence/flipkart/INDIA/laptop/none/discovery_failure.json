@@ -1,0 +1,70 @@
+{
+  "target_id": "flipkart-in",
+  "retailer": "Flipkart",
+  "country": "India",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Google reCAPTCHA)",
+  "domain_validation": {
+    "domain": "flipkart.com",
+    "base_url": "https://www.flipkart.com",
+    "http_status": 403,
+    "redirect_chain": [],
+    "final_url": "https://www.flipkart.com",
+    "robots_txt_found": true,
+    "sitemaps_found": [
+      "https://www.flipkart.com/sitemap_v_view-browse.xml.gz",
+      "https://www.flipkart.com/sitemap_s_store-browse.xml.gz",
+      "https://www.flipkart.com/sitemap_q_query-browse.xml.gz",
+      "https://www.flipkart.com/sitemap_pi_product_index_v2_1.xml",
+      "https://www.flipkart.com/sitemap_pi_product_index_v2_2.xml",
+      "https://www.flipkart.com/sitemap_pi_product_index_v2_3.xml",
+      "https://www.flipkart.com/sitemap_pi_product_index_v2_4.xml",
+      "https://www.flipkart.com/sitemap_pi_product_index_v2_5.xml",
+      "https://www.flipkart.com/sitemap_pi_product_index_v2_6.xml"
+    ],
+    "waf_detected": "Google reCAPTCHA",
+    "latency_ms": 263.9
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.flipkart.com/search?q=laptop",
+      "status": 403,
+      "latency_ms": 292.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.flipkart.com/search?q=notebook",
+      "status": 403,
+      "latency_ms": 268.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.flipkart.com/s?k=laptop",
+      "status": 403,
+      "latency_ms": 332.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.flipkart.com/s?k=notebook",
+      "status": 403,
+      "latency_ms": 277.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.flipkart.com/laptops",
+      "status": 403,
+      "latency_ms": 347.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.flipkart.com",
+      "candidates_found": 0
+    }
+  ]
+}

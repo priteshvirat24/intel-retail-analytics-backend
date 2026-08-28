@@ -1,0 +1,35 @@
+{
+  "target_id": "mercadolivre-br",
+  "laptop_url": "https://lista.mercadolivre.com.br/informatica/portateis-acessorios/acessorios-notebook/#menu=categories",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 12012.1
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.4
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.15,
+    "failure_class": "PRODUCT_IDENTITY_MISSING",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_PRODUCT_NOT_VERIFIABLE",
+    "latency_ms": 12909.6
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

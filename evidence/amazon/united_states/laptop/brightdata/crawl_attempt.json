@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-us",
+  "retailer": "Amazon",
+  "country": "United States",
+  "country_iso": "us",
+  "url": "https://www.amazon.com/HP-Laptop-Student-Business-Copilot/dp/B0GY16ZXZV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.B5Qg2mZ8Em9UgkHr7srZ3NCwogWwjsXpuvEqQtCl1_k_EU7GHXDG6lABX-x3DQpT-tQARBbqBZw6Cpy3tbQxm_eahsGyfqIqzXZNTAJQbH2o8rApuZIJuA_WWSnOIAg8jIy7B6m1vt5eEt2j9gN6mA4w-UQ50F3YuD2XVAODnpiPp3laM84uv3FlEMmrj2CkS02w1vHRB0RwUxtS0fp8ojU40CsqHD2FOFiFARbnehg.ycOixDO-MBSRQCf3Zb3iojz-YkO5NpJu_GEMC0cAYm0&dib_tag=se&keywords=laptop&qid=1787584879&sr=8-1",
+  "status_code": 200,
+  "response_time_ms": 11951.5,
+  "can_scrape": "YES",
+  "confidence_score": 0.85,
+  "product_name": "HP Laptop 2026 Student Business, Copilot AI, Office 365, 128GB SSD, AMD CPU",
+  "brand": "HP",
+  "price": 279.0,
+  "currency": null,
+  "sku": "B0GY16ZXZV",
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (HP Laptop 2026 Student Business, Copilot AI, Office 365, 128GB SSD, AMD CPU | Brand: HP | Price: 279.0 USD | SKU: B0GY16ZXZV)"
+}

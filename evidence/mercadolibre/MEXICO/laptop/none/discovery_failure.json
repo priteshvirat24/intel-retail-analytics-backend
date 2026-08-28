@@ -1,0 +1,60 @@
+{
+  "target_id": "mercadolibre-mx",
+  "retailer": "Mercadolibre",
+  "country": "Mexico",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+  "domain_validation": {
+    "domain": "mercadolibre.com.mx",
+    "base_url": "https://www.mercadolibre.com.mx",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.mercadolibre.com.mx",
+    "robots_txt_found": true,
+    "sitemaps_found": [],
+    "waf_detected": "Akamai Bot Manager",
+    "latency_ms": 1298.4
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.mercadolibre.com.mx/search?q=laptop",
+      "status": 404,
+      "latency_ms": 1071.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mercadolibre.com.mx/search?q=notebook",
+      "status": 404,
+      "latency_ms": 1313.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mercadolibre.com.mx/s?k=laptop",
+      "status": 404,
+      "latency_ms": 909.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mercadolibre.com.mx/s?k=notebook",
+      "status": 404,
+      "latency_ms": 1019.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.mercadolibre.com.mx/laptops",
+      "status": 404,
+      "latency_ms": 976.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.mercadolibre.com.mx",
+      "candidates_found": 0
+    }
+  ]
+}

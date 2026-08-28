@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 403,
+  "response_time_ms": 9423.88,
+  "browser_seconds": 9.72,
+  "bytes_received": 18900,
+  "success": false,
+  "evidence_path": "evidence/gmarket/SOUTH KOREA/sku_0008/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/gmarket/SOUTH KOREA/sku_0008/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:33:30.015331+00:00"
+}

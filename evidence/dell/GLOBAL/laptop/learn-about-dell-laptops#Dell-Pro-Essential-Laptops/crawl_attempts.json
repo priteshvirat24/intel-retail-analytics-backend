@@ -1,0 +1,34 @@
+{
+  "target_id": "dell-global",
+  "laptop_url": "https://www.dell.com/en-in/lp/learn-about-dell-laptops#Dell-Pro-Essential-Laptops",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 8125.5
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.1
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 429,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_RATE_LIMITED",
+    "latency_ms": 945.0
+  },
+  "adapter": "N/A",
+  "extracted_product": null
+}

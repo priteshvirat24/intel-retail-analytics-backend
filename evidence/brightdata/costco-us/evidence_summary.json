@@ -1,0 +1,17 @@
+{
+  "target_id": "costco-us",
+  "retailer": "Costco",
+  "country": "United States",
+  "domain": "costco.com",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.costco.com/laptops.html",
+  "title": "Laptops",
+  "brand": "Costco",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:21:22.407357+00:00",
+  "failure_reason": null
+}

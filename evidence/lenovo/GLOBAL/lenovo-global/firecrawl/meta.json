@@ -1,0 +1,16 @@
+{
+  "target_id": "lenovo-global",
+  "strategy": "FIRECRAWL",
+  "laptop_url": "https://www.lenovo.com/product/sku_0011",
+  "status_code": 403,
+  "latency_ms": 2271.114229981322,
+  "bytes": 0,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "EMPTY_RESPONSE",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

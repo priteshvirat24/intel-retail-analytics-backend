@@ -1,0 +1,14 @@
+target_id,retailer,country,sku_id,url,status_code,content_length,is_spa_shell,is_bot_challenge,is_captcha,has_jsonld,has_product_dom,has_embedded_state,has_price_text,has_title,has_brand,has_sku,has_gtin,diagnosis
+amazon-br,amazon,Brazil,B09G9FPHY6,https://www.amazon.com.br/dp/B09G9FPHY6,0,615769,False,False,False,False,True,False,True,True,True,True,False,UNKNOWN
+amazon-es,amazon,Spain,B0CL6LMC9N,https://www.amazon.es/dp/B0CL6LMC9N,0,1045898,False,False,False,False,True,False,True,True,True,True,False,UNKNOWN
+amazon-de,amazon,Germany,B0CL6LMC9N,https://www.amazon.de/dp/B0CL6LMC9N,0,878102,False,False,False,False,True,False,True,True,True,True,False,UNKNOWN
+amazon-de,amazon,Germany,B09G91LXFP,https://www.amazon.de/dp/B09G91LXFP,0,1065464,False,False,False,False,True,False,True,True,True,True,False,UNKNOWN
+reliancedigital-in,reliancedigital,India,sku_0012,https://www.reliancedigital.in/product/sku_0012,0,63701,True,True,False,True,False,False,False,False,False,True,False,BOT_CHALLENGE
+tmall-cn,tmall,China,sku_0020,https://www.tmall.com/product/sku_0020,0,161727,False,False,False,False,False,False,True,False,False,False,False,PRODUCT_NOT_FOUND
+tmall-cn,tmall,China,sku_0016,https://www.tmall.com/product/sku_0016,0,162014,False,False,False,False,False,False,True,False,False,True,False,PRODUCT_NOT_FOUND
+tmall-cn,tmall,China,sku_0015,https://www.tmall.com/product/sku_0015,0,162013,False,False,False,False,False,False,True,False,False,True,False,PRODUCT_NOT_FOUND
+amazon-es,amazon,Spain,B09BRF4N2V,https://www.amazon.es/dp/B09BRF4N2V,0,468417,True,False,False,False,False,False,True,False,False,True,False,SPA_ROOT_SHELL
+flipkart-in,flipkart,India,itm00000005,https://www.flipkart.com/electronics-item/p/itm00000005,0,354419,False,False,False,False,False,False,True,True,False,True,False,UNKNOWN
+flipkart-in,flipkart,India,itm00000003,https://www.flipkart.com/electronics-item/p/itm00000003,0,354419,False,False,False,False,False,False,True,True,False,True,False,UNKNOWN
+flipkart-in,flipkart,India,itm00000020,https://www.flipkart.com/electronics-item/p/itm00000020,0,354818,False,False,False,False,False,False,True,True,False,True,False,UNKNOWN
+flipkart-in,flipkart,India,itm00000018,https://www.flipkart.com/electronics-item/p/itm00000018,0,354818,False,False,False,False,False,False,True,True,False,True,False,UNKNOWN

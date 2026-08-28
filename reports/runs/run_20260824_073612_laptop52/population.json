@@ -1,0 +1,3441 @@
+[
+  {
+    "target_id": "agres-id",
+    "retailer": "Agres",
+    "country": "Indonesia",
+    "iso_country": "ID",
+    "laptop_url": "https://www.agres.id/categories/laptops",
+    "product_id": "laptops",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "agres.id",
+      "base_url": "https://www.agres.id",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.agres.id",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://agres.id/sitemap.xml",
+        "https://agres.id/products-sitemap.xml",
+        "https://agres.id/categories-sitemap.xml",
+        "https://agres.id/blog-sitemap.xml"
+      ],
+      "waf_detected": null,
+      "latency_ms": 752.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.agres.id/search?q=laptop",
+        "status": 200,
+        "latency_ms": 545.0,
+        "candidates_found": 8
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.agres.id/laptops",
+        "status": 404,
+        "latency_ms": 416.0,
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:36:15.259738+00:00"
+  },
+  {
+    "target_id": "acer-global",
+    "retailer": "Acer",
+    "country": "Global",
+    "iso_country": "US",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+    "domain_validation": {
+      "domain": "store.acer.com",
+      "base_url": "https://store.acer.com",
+      "http_status": 0,
+      "redirect_chain": [],
+      "final_url": "https://store.acer.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "TIMEOUT",
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://store.acer.com/search?q=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://store.acer.com/search?q=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://store.acer.com/s?k=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://store.acer.com/s?k=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://store.acer.com/laptops",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://store.acer.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:37:08.839488+00:00"
+  },
+  {
+    "target_id": "amazon-us",
+    "retailer": "Amazon",
+    "country": "United States",
+    "iso_country": "US",
+    "laptop_url": "https://www.amazon.com/AKCHART-Laptop-Office-256GB-Laptops/dp/B0H94LG15F/ref=sr_1_1?dib=eyJ2IjoiMSJ9.LpbZJ_bx38FT33B_jRrWBwt6_FJK43Teon7pS3Dy3stzTqcUWqf9U0NBgW_Ja-QSjv8RRVaPQMpGFoJiltKGG5cEc9ZsaNEgvX21GKHlUJrgZ-LL08Cl8eV22gZm9HA_qI06soqR2n7DlzvxPmke4KmrVCMmFTV1XCd0JfSjfhpBhqIxsC71jnWYwbjNl3rrxobIh9EGXr3wvt6H2XulYz1GfSKbji_ZxWFU8MnSBCE.3hhdNiVrG6yVe-Yq3LHBJmwrWKeRxq28DqIZJGD2TJk&dib_tag=se&keywords=laptop&qid=1787557031&sr=8-1",
+    "product_id": "ref=sr_1_1",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.com",
+      "base_url": "https://www.amazon.com",
+      "http_status": 202,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 290.1
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com/search?q=laptop",
+        "status": 404,
+        "latency_ms": 1005.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com/search?q=notebook",
+        "status": 404,
+        "latency_ms": 780.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1346.3,
+        "candidates_found": 48
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.com/laptops",
+        "status": 200,
+        "latency_ms": 1907.0,
+        "candidates_found": 14
+      }
+    ],
+    "discovered_at": "2026-08-24T07:37:17.760115+00:00"
+  },
+  {
+    "target_id": "amazon-in",
+    "retailer": "Amazon",
+    "country": "India",
+    "iso_country": "IN",
+    "laptop_url": "https://www.amazon.in/ASUS-Vivobook-i5-13420H-Keyboard-X1605VA-SH1952WS/dp/B0FN9WN6XD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.YCD62Cm6YiAsNErT-6-DiISaPQvy3ePlUAfeo1TL337UbKwVM_vAi1-onOkc7-XCIgqtPHhIAyZwdkfl3ZbWDvSzD03vwM0gr1KhOLbjp88n_aiqTixndAJIkzJIZ72bDmX5Cx0WxApU6RyHmHEP-RfqDBg-42HkPPl_eLYdudDNnHiNNhQ1Wm3FFx2KYacvKsFw0L3rkf2bJUoOFUEJTnHbsPxxZuwewp-hjetLbf8.evknooEOLXmpBApXCfrxpIsFP6nJqdDtD5WywYgWK_s&dib_tag=se&keywords=laptop&qid=1787557040&sr=8-3",
+    "product_id": "ref=sr_1_3",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.in",
+      "base_url": "https://www.amazon.in",
+      "http_status": 202,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.in",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 376.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.in/search?q=laptop",
+        "status": 404,
+        "latency_ms": 690.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.in/search?q=notebook",
+        "status": 404,
+        "latency_ms": 632.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.in/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1679.7,
+        "candidates_found": 35
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.in/laptops",
+        "status": 200,
+        "latency_ms": 2052.6,
+        "candidates_found": 8
+      }
+    ],
+    "discovered_at": "2026-08-24T07:37:36.985168+00:00"
+  },
+  {
+    "target_id": "amazon-gb",
+    "retailer": "Amazon",
+    "country": "United Kingdom",
+    "iso_country": "GB",
+    "laptop_url": "https://www.amazon.co.uk/laptops/b/?ie=UTF8&node=429886031&ref_=sv_computers_3",
+    "product_id": "",
+    "discovery_method": "category_listing",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.co.uk",
+      "base_url": "https://www.amazon.co.uk",
+      "http_status": 202,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.co.uk",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 244.1
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.co.uk/search?q=laptop",
+        "status": 202,
+        "latency_ms": 254.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.co.uk/search?q=notebook",
+        "status": 202,
+        "latency_ms": 249.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.co.uk/s?k=laptop",
+        "status": 202,
+        "latency_ms": 261.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.co.uk/s?k=notebook",
+        "status": 202,
+        "latency_ms": 240.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.co.uk/laptops",
+        "status": 200,
+        "latency_ms": 2055.1,
+        "candidates_found": 39
+      }
+    ],
+    "discovered_at": "2026-08-24T07:37:42.953011+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "Amazon",
+    "country": "Germany",
+    "iso_country": "DE",
+    "laptop_url": "https://www.amazon.de/Lenovo-IdeaPad-Display-Windows-Kameraschutzabdeckung/dp/B0FKC3X8X3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hFD8ZYAzyqV1lAlS5fAh7Mz75UEfUf_MEgsHGu_mq5_gP2wis3WPWtzX6GtX2AV3SsaHhIMT2rucFmR_XOIdCb7UN7hVuLaEs9w_baK7MymmA1bIQWd5czjbXgkfcPR58XOj_hFI2Snqwvj1w9V2UHbOBnzhXzhvfgdkbvbqa5vGsIBp3I7G1xTmYnr0b71sy_dY1beOtpqD4UGOPyvjzlgV0vUaHFEZJ7LU6F0JzBE.gLgbHpIRcQIXg6qPrYNYHsND5sXBB1RAR4sM1Ix7_ho&dib_tag=se&keywords=laptop&qid=1787557064&sr=8-3",
+    "product_id": "ref=sr_1_3",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.de",
+      "base_url": "https://www.amazon.de",
+      "http_status": 202,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.de",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 276.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.de/search?q=laptop",
+        "status": 404,
+        "latency_ms": 491.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.de/search?q=notebook",
+        "status": 404,
+        "latency_ms": 485.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.de/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1380.7,
+        "candidates_found": 29
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.de/laptops",
+        "status": 200,
+        "latency_ms": 1782.3,
+        "candidates_found": 22
+      }
+    ],
+    "discovered_at": "2026-08-24T07:37:50.626606+00:00"
+  },
+  {
+    "target_id": "amazon-fr",
+    "retailer": "Amazon",
+    "country": "France",
+    "iso_country": "FR",
+    "laptop_url": "https://www.amazon.fr/Informatique-ordinateur-portable-laptop/b/?ie=UTF8&node=429879031&ref_=sv_computers_3",
+    "product_id": "",
+    "discovery_method": "category_listing",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.fr",
+      "base_url": "https://www.amazon.fr",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.fr",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 399.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.fr/search?q=laptop",
+        "status": 404,
+        "latency_ms": 487.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.fr/search?q=notebook",
+        "status": 404,
+        "latency_ms": 592.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.fr/s?k=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.fr/s?k=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.fr/laptops",
+        "status": 200,
+        "latency_ms": 2165.8,
+        "candidates_found": 19
+      }
+    ],
+    "discovered_at": "2026-08-24T07:38:08.950352+00:00"
+  },
+  {
+    "target_id": "amazon-it",
+    "retailer": "Amazon",
+    "country": "Italy",
+    "iso_country": "IT",
+    "laptop_url": "https://www.amazon.it/dp/B0D8KH4LNB/ref=sspa_dk_browse_4/?_encoding=UTF8&ie=UTF8&psc=1&spc=MTo0OTkzNzU3NDU1NDE5MjIzOjE5NDUyMzcwOTg6c3BfYnJvd3NlX3RoZW1hdGljOjMwMDU0NDc4MTM2MTgzMjowOjQ6Og%3D%3D&sp_csd=d2lkZ2V0TmFtZT1zcF9icm93c2VfdGhlbWF0aWM%3D&sp_cr=ZAZ&aref=V2HceE4elb&pd_rd_w=Zl9SB&content-id=amzn1.sym.a30bf1aa-2765-4ad3-8c9f-469a10e9b606&pf_rd_p=a30bf1aa-2765-4ad3-8c9f-469a10e9b606&pf_rd_r=NYVCNBWPVKTHKNNEGMTQ&pd_rd_wg=Ll4VL&pd_rd_r=03931ae1-c228-4c80-8908-ce0ab82ba2a5&ref_=sspa_dk_browse",
+    "product_id": "",
+    "discovery_method": "category_listing",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.it",
+      "base_url": "https://www.amazon.it",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.it",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 472.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.it/search?q=laptop",
+        "status": 404,
+        "latency_ms": 721.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.it/search?q=notebook",
+        "status": 404,
+        "latency_ms": 655.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.it/s?k=laptop",
+        "status": 200,
+        "latency_ms": 383.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.it/s?k=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.it/laptops",
+        "status": 200,
+        "latency_ms": 1652.0,
+        "candidates_found": 49
+      }
+    ],
+    "discovered_at": "2026-08-24T07:38:26.087626+00:00"
+  },
+  {
+    "target_id": "amazon-es",
+    "retailer": "Amazon",
+    "country": "Spain",
+    "iso_country": "ES",
+    "laptop_url": "https://www.amazon.es/Bouzerara-Ordenador-Portatil-Convertible-Bluetooth/dp/B0H3PGGXKZ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UiNNSVu7n0JbqJ5NBVcdBbU58SYj27AGd6dxQIJKTGATdD-Mydw-Ef5IumGo_ee1FMbUHeRoR69YDZGaVS1uWvKWQ8EOnZKvbRX4v9GfaU4JOA6-O5IrW5U8V4zGBOLbfkKy9xPBFVw8m3NSFk5eoBBZjQI9aM_GHOKLDDNfoMAbi8S8YwJq9Zw6aKUwFIrPYqNRellOr74Jma77nyIjHgXcdQAZcTZl1oXI2_GT7W3gMu91_ZYDJgixAq3ISq-mqpeeAYWYdifAgRIkPD7HC5V1cdFt7PafNe8FKQOm9vg.93sShY9TTTs8zg6U-LVxPxq9WN5YsF3wNRCSR4dt-iU&dib_tag=se&keywords=laptop&qid=1787557108&sr=8-4",
+    "product_id": "ref=sr_1_4",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.es",
+      "base_url": "https://www.amazon.es",
+      "http_status": 202,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.es",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 270.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.es/search?q=laptop",
+        "status": 404,
+        "latency_ms": 643.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.es/search?q=notebook",
+        "status": 404,
+        "latency_ms": 651.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.es/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1302.0,
+        "candidates_found": 74
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.es/laptops",
+        "status": 200,
+        "latency_ms": 1955.1,
+        "candidates_found": 42
+      }
+    ],
+    "discovered_at": "2026-08-24T07:38:34.558027+00:00"
+  },
+  {
+    "target_id": "amazon-ca",
+    "retailer": "Amazon",
+    "country": "Canada",
+    "iso_country": "CA",
+    "laptop_url": "https://www.amazon.ca/HP-Processor-Storage-Graphics-15-fd0016ca/dp/B0DVD5RQ86/ref=sr_1_5?dib=eyJ2IjoiMSJ9.5d93cHZmg-O2ODg3S2SZi66Ex4MhYxUWsyx_nxvazCfDJe4M3C0z_tiKrZ2PVT7wWuI4UtGT3paB4EX7ofnzalb2AHNp2qHxmbbRpBISpiKOeG-AsTufBTtYQQ1uwp175WerIjpN5z64UAy8qj3hV5tDfBsFZ5wiKqfFX6ZwweLefyxoByjF4CAaKgJ6uxB7VRTd6j_wkeFx2uKsjeHQRJjXe9J4K-n9uZBzXg449JUlO11Jv0WGOAtStDKzoDMtx1dfD66ebJb_l3_CenQELZw6ivUD8Er4jtVwOl09jJ4.zpvgV2JTIssALcr28GwLkvwuapDe4LL1KjcUVoGv2vo&dib_tag=se&keywords=laptop&qid=1787557118&sr=8-5",
+    "product_id": "ref=sr_1_5",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.ca",
+      "base_url": "https://www.amazon.ca",
+      "http_status": 202,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.ca",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 258.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.ca/search?q=laptop",
+        "status": 404,
+        "latency_ms": 951.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.ca/search?q=notebook",
+        "status": 404,
+        "latency_ms": 1003.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.ca/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1767.1,
+        "candidates_found": 112
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.ca/laptops",
+        "status": 200,
+        "latency_ms": 2496.5,
+        "candidates_found": 56
+      }
+    ],
+    "discovered_at": "2026-08-24T07:38:45.160641+00:00"
+  },
+  {
+    "target_id": "amazon-mx",
+    "retailer": "Amazon",
+    "country": "Mexico",
+    "iso_country": "MX",
+    "laptop_url": "https://www.amazon.com.mx/HP-15-fd1340la-Windows-Garant%C3%ADa-Plateado/dp/B0GR2PK79C/ref=sr_1_5?dib=eyJ2IjoiMSJ9.hbNRfpoyX3Pj-FPZHZT2EGFgqzzM8Up6GWvmWtm8VOg2jA0aXWKxEBONGCn2dEIXL0RS03oYCvG2YwtQmQQBYeQ7GhtExQOXp7U9dkEyILDr0VB2ViF6GACDRIiqO72OHhEMR8HGd41kYuxdsE7w4IqqUByfoDOV8ufRqi2LhhY1hVFFVwFDifAzVceXbVy73RL6e6YDb8HPOCo3TQASp2T32MWQ8hTUg_Rd2ETPBVY55juQufEffEF7XUwqUPpIR0dVjoFMG0C6sjGVSG1tCk5eCEbI0cb2OQGnO07jEPY.ubD2Iq3kKT9L005XEgRc9LUIR9xHIk9jaJJz36dVlJs&dib_tag=se&keywords=laptop&qid=1787557129&sr=8-5&ufe=app_do%3Aamzn1.fos.e9c905c0-296e-4852-9ea7-c9f4c88300d3",
+    "product_id": "ref=sr_1_5",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.com.mx",
+      "base_url": "https://www.amazon.com.mx",
+      "http_status": 202,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.com.mx",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 482.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com.mx/search?q=laptop",
+        "status": 404,
+        "latency_ms": 1119.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com.mx/search?q=notebook",
+        "status": 404,
+        "latency_ms": 1085.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com.mx/s?k=laptop",
+        "status": 200,
+        "latency_ms": 2189.2,
+        "candidates_found": 94
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.com.mx/laptops",
+        "status": 200,
+        "latency_ms": 3416.6,
+        "candidates_found": 44
+      }
+    ],
+    "discovered_at": "2026-08-24T07:38:57.963923+00:00"
+  },
+  {
+    "target_id": "amazon-br",
+    "retailer": "Amazon",
+    "country": "Brazil",
+    "iso_country": "BR",
+    "laptop_url": "https://www.amazon.com.br/Notebook-Positivo-Celeron-Armazenamento-capacitiva/dp/B0FPGHQMRY/ref=sr_1_5?dib=eyJ2IjoiMSJ9.mYICUB7xWsc8_Q3de5BODPxcByOTGJDK0ImfgICTXIAerC5tM2wrRQdjnIIEwZO9K0x5Uomvs4GZacp--w2S4a6ecw6TG4gvpSzCkdOscGm-mseXP_mx_T7wf6kQP_IDpf-ijO2CIWFoCBlnV6IxOuxiJ8qwFP4XbvVYZ-ZnUVjMD9ejn_CRSSr_w4C0y1FB5fAOK_htAwdHhkR7uXEIvDWCrFWKAqQqVWHQ5LOI1fH6GBg-blLHB79_J8RtodoNhqGwwICZuwGqEQRm7egsoyzXJC3-9LuPKAzl7dhh4kI.jdQh9AQqziAmh5tmcMhopMZsmSBL_cL76AsE9Ya2Bdk&dib_tag=se&keywords=laptop&qid=1787557141&sr=8-5&ufe=app_do%3Aamzn1.fos.38059ce3-943c-48af-9fc9-22d85542b02c",
+    "product_id": "ref=sr_1_5",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "amazon.com.br",
+      "base_url": "https://www.amazon.com.br",
+      "http_status": 202,
+      "redirect_chain": [],
+      "final_url": "https://www.amazon.com.br",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 305.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com.br/search?q=laptop",
+        "status": 404,
+        "latency_ms": 967.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com.br/search?q=notebook",
+        "status": 404,
+        "latency_ms": 920.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.amazon.com.br/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1725.9,
+        "candidates_found": 112
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.amazon.com.br/laptops",
+        "status": 404,
+        "latency_ms": 945.7,
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:39:06.272821+00:00"
+  },
+  {
+    "target_id": "bestbuy-us",
+    "retailer": "Bestbuy",
+    "country": "United States",
+    "iso_country": "US",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+    "domain_validation": {
+      "domain": "bestbuy.com",
+      "base_url": "https://www.bestbuy.com",
+      "http_status": 0,
+      "redirect_chain": [],
+      "final_url": "https://www.bestbuy.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "TIMEOUT",
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.bestbuy.com/search?q=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.bestbuy.com/search?q=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.bestbuy.com/s?k=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.bestbuy.com/s?k=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.bestbuy.com/laptops",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.bestbuy.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:40:00.225510+00:00"
+  },
+  {
+    "target_id": "bestbuy-ca",
+    "retailer": "Bestbuy",
+    "country": "Canada",
+    "iso_country": "CA",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+    "domain_validation": {
+      "domain": "bestbuy.ca",
+      "base_url": "https://www.bestbuy.ca",
+      "http_status": 0,
+      "redirect_chain": [],
+      "final_url": "https://www.bestbuy.ca",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "TIMEOUT",
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.bestbuy.ca/search?q=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.bestbuy.ca/search?q=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.bestbuy.ca/s?k=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.bestbuy.ca/s?k=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.bestbuy.ca/laptops",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.bestbuy.ca",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:40:53.736669+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "Boulanger",
+    "country": "France",
+    "iso_country": "FR",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+    "domain_validation": {
+      "domain": "boulanger.com",
+      "base_url": "https://www.boulanger.com",
+      "http_status": 0,
+      "redirect_chain": [],
+      "final_url": "https://www.boulanger.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "TIMEOUT",
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.boulanger.com/search?q=laptop",
+        "status": 404,
+        "latency_ms": 906.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.boulanger.com/search?q=notebook",
+        "status": 404,
+        "latency_ms": 1157.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.boulanger.com/s?k=laptop",
+        "status": 404,
+        "latency_ms": 997.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.boulanger.com/s?k=notebook",
+        "status": 404,
+        "latency_ms": 1631.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.boulanger.com/laptops",
+        "status": 404,
+        "latency_ms": 1202.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.boulanger.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:10.020426+00:00"
+  },
+  {
+    "target_id": "costco-us",
+    "retailer": "Costco",
+    "country": "United States",
+    "iso_country": "US",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "costco.com",
+      "base_url": "https://www.costco.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.costco.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.costco.com/sitemap_lw_index.xml"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 973.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.costco.com/search?q=laptop",
+        "status": 404,
+        "latency_ms": 1346.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.costco.com/search?q=notebook",
+        "status": 404,
+        "latency_ms": 1374.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.costco.com/s?k=laptop",
+        "status": 403,
+        "latency_ms": 293.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.costco.com/s?k=notebook",
+        "status": 403,
+        "latency_ms": 302.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.costco.com/laptops",
+        "status": 404,
+        "latency_ms": 1567.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.costco.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:18.502621+00:00"
+  },
+  {
+    "target_id": "coupang-kr",
+    "retailer": "Coupang",
+    "country": "South Korea",
+    "iso_country": "KR",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "coupang.com",
+      "base_url": "https://www.coupang.com",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.coupang.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 373.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.coupang.com/search?q=laptop",
+        "status": 403,
+        "latency_ms": 418.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.coupang.com/search?q=notebook",
+        "status": 403,
+        "latency_ms": 305.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.coupang.com/s?k=laptop",
+        "status": 403,
+        "latency_ms": 290.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.coupang.com/s?k=notebook",
+        "status": 403,
+        "latency_ms": 294.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.coupang.com/laptops",
+        "status": 403,
+        "latency_ms": 291.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.coupang.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:22.560219+00:00"
+  },
+  {
+    "target_id": "currys-gb",
+    "retailer": "Currys",
+    "country": "United Kingdom",
+    "iso_country": "GB",
+    "laptop_url": "https://www.currys.co.uk/products/standivarius-oryx-pro-notebook-stand-10301525.html",
+    "product_id": "standivarius-oryx-pro-notebook-stand-10301525.html",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "currys.co.uk",
+      "base_url": "https://www.currys.co.uk",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.currys.co.uk",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.currys.co.uk/sitemap_index.xml"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 1167.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.currys.co.uk/search?q=laptop",
+        "status": 403,
+        "latency_ms": 1389.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.currys.co.uk/search?q=notebook",
+        "status": 200,
+        "latency_ms": 1345.8,
+        "candidates_found": 4
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.currys.co.uk/laptops",
+        "status": 403,
+        "latency_ms": 618.0,
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:28.521068+00:00"
+  },
+  {
+    "target_id": "dell-global",
+    "retailer": "Dell",
+    "country": "Global",
+    "iso_country": "US",
+    "laptop_url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops",
+    "product_id": "laptops",
+    "discovery_method": "retailer_search",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "dell.com",
+      "base_url": "https://www.dell.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.dell.com/en-in",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.dell.com/index-sr-sitemap.xml.gz",
+        "https://www.dell.com/index-deals-href-sitemap.xml.gz",
+        "https://www.dell.com/index-product-pages-hreflang-sitemap.xml.gz",
+        "https://www.dell.com/index-sitemap.xml.gz",
+        "https://www.dell.com/index-snp-apj-sitemap.xml.gz",
+        "https://www.dell.com/index-support-href-sitemap.xml.gz",
+        "https://www.dell.com/index-video-xml-sitemap.xml.gz",
+        "https://www.dell.com/index-downloads-dell-pdfs-sitemap.xml.gz",
+        "https://www.dell.com/index-dt-sitemap.xml.gz"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1527.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.dell.com/search?q=laptop",
+        "status": 403,
+        "latency_ms": 1566.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.dell.com/search?q=notebook",
+        "status": 403,
+        "latency_ms": 1031.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.dell.com/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1936.3,
+        "candidates_found": 56
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.dell.com/laptops",
+        "status": 200,
+        "latency_ms": 3371.3,
+        "candidates_found": 228
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:41.043370+00:00"
+  },
+  {
+    "target_id": "elkjop-dk",
+    "retailer": "Elkjop",
+    "country": "Denmark",
+    "iso_country": "DK",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NOT_DISCOVERED",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "domain_validation": {
+      "domain": "elgiganten.dk",
+      "base_url": "https://www.elgiganten.dk",
+      "http_status": 429,
+      "redirect_chain": [],
+      "final_url": "https://www.elgiganten.dk",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 319.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.elgiganten.dk/search?q=laptop",
+        "status": 429,
+        "latency_ms": 322.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elgiganten.dk/search?q=notebook",
+        "status": 429,
+        "latency_ms": 326.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elgiganten.dk/s?k=laptop",
+        "status": 429,
+        "latency_ms": 330.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elgiganten.dk/s?k=notebook",
+        "status": 429,
+        "latency_ms": 384.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.elgiganten.dk/laptops",
+        "status": 429,
+        "latency_ms": 426.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.elgiganten.dk",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:44.242631+00:00"
+  },
+  {
+    "target_id": "elkjop-no",
+    "retailer": "Elkjop",
+    "country": "Norway",
+    "iso_country": "NO",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NOT_DISCOVERED",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "domain_validation": {
+      "domain": "elkjop.no",
+      "base_url": "https://www.elkjop.no",
+      "http_status": 429,
+      "redirect_chain": [],
+      "final_url": "https://www.elkjop.no",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 322.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.elkjop.no/search?q=laptop",
+        "status": 429,
+        "latency_ms": 321.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elkjop.no/search?q=notebook",
+        "status": 429,
+        "latency_ms": 318.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elkjop.no/s?k=laptop",
+        "status": 429,
+        "latency_ms": 327.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elkjop.no/s?k=notebook",
+        "status": 429,
+        "latency_ms": 314.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.elkjop.no/laptops",
+        "status": 429,
+        "latency_ms": 361.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.elkjop.no",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:47.472964+00:00"
+  },
+  {
+    "target_id": "elkjop-se",
+    "retailer": "Elkjop",
+    "country": "Sweden",
+    "iso_country": "SE",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NOT_DISCOVERED",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "domain_validation": {
+      "domain": "elgiganten.se",
+      "base_url": "https://www.elgiganten.se",
+      "http_status": 429,
+      "redirect_chain": [],
+      "final_url": "https://www.elgiganten.se",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 388.7
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.elgiganten.se/search?q=laptop",
+        "status": 429,
+        "latency_ms": 408.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elgiganten.se/search?q=notebook",
+        "status": 429,
+        "latency_ms": 401.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elgiganten.se/s?k=laptop",
+        "status": 429,
+        "latency_ms": 322.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.elgiganten.se/s?k=notebook",
+        "status": 429,
+        "latency_ms": 315.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.elgiganten.se/laptops",
+        "status": 429,
+        "latency_ms": 320.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.elgiganten.se",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:50.897032+00:00"
+  },
+  {
+    "target_id": "euronics-it",
+    "retailer": "Euronics",
+    "country": "Italy",
+    "iso_country": "IT",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "euronics.it",
+      "base_url": "https://www.euronics.it",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.euronics.it",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.euronics.it/sitemap_index.xml"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 1848.6
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.euronics.it/search?q=laptop",
+        "status": 403,
+        "latency_ms": 286.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.euronics.it/search?q=notebook",
+        "status": 403,
+        "latency_ms": 284.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.euronics.it/s?k=laptop",
+        "status": 404,
+        "latency_ms": 1863.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.euronics.it/s?k=notebook",
+        "status": 404,
+        "latency_ms": 590.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.euronics.it/laptops",
+        "status": 404,
+        "latency_ms": 632.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.euronics.it",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:41:57.706120+00:00"
+  },
+  {
+    "target_id": "expert-de",
+    "retailer": "Expert",
+    "country": "Germany",
+    "iso_country": "DE",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "expert.de",
+      "base_url": "https://www.expert.de",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.expert.de",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 312.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.expert.de/search?q=laptop",
+        "status": 403,
+        "latency_ms": 359.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.expert.de/search?q=notebook",
+        "status": 403,
+        "latency_ms": 398.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.expert.de/s?k=laptop",
+        "status": 403,
+        "latency_ms": 310.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.expert.de/s?k=notebook",
+        "status": 403,
+        "latency_ms": 318.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.expert.de/laptops",
+        "status": 403,
+        "latency_ms": 381.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.expert.de",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:42:01.099918+00:00"
+  },
+  {
+    "target_id": "flipkart-in",
+    "retailer": "Flipkart",
+    "country": "India",
+    "iso_country": "IN",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Google reCAPTCHA)",
+    "domain_validation": {
+      "domain": "flipkart.com",
+      "base_url": "https://www.flipkart.com",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.flipkart.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.flipkart.com/sitemap_v_view-browse.xml.gz",
+        "https://www.flipkart.com/sitemap_s_store-browse.xml.gz",
+        "https://www.flipkart.com/sitemap_q_query-browse.xml.gz",
+        "https://www.flipkart.com/sitemap_pi_product_index_v2_1.xml",
+        "https://www.flipkart.com/sitemap_pi_product_index_v2_2.xml",
+        "https://www.flipkart.com/sitemap_pi_product_index_v2_3.xml",
+        "https://www.flipkart.com/sitemap_pi_product_index_v2_4.xml",
+        "https://www.flipkart.com/sitemap_pi_product_index_v2_5.xml",
+        "https://www.flipkart.com/sitemap_pi_product_index_v2_6.xml"
+      ],
+      "waf_detected": "Google reCAPTCHA",
+      "latency_ms": 263.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.flipkart.com/search?q=laptop",
+        "status": 403,
+        "latency_ms": 292.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.flipkart.com/search?q=notebook",
+        "status": 403,
+        "latency_ms": 268.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.flipkart.com/s?k=laptop",
+        "status": 403,
+        "latency_ms": 332.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.flipkart.com/s?k=notebook",
+        "status": 403,
+        "latency_ms": 277.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.flipkart.com/laptops",
+        "status": 403,
+        "latency_ms": 347.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.flipkart.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:42:03.788947+00:00"
+  },
+  {
+    "target_id": "fnac-fr",
+    "retailer": "Fnac",
+    "country": "France",
+    "iso_country": "FR",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NOT_DISCOVERED",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "domain_validation": {
+      "domain": "fnac.com",
+      "base_url": "https://www.fnac.com",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.fnac.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 617.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.fnac.com/search?q=laptop",
+        "status": 403,
+        "latency_ms": 364.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.fnac.com/search?q=notebook",
+        "status": 403,
+        "latency_ms": 331.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.fnac.com/s?k=laptop",
+        "status": 403,
+        "latency_ms": 322.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.fnac.com/s?k=notebook",
+        "status": 403,
+        "latency_ms": 368.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.fnac.com/laptops",
+        "status": 403,
+        "latency_ms": 349.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.fnac.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:42:07.623362+00:00"
+  },
+  {
+    "target_id": "gmarket-kr",
+    "retailer": "Gmarket",
+    "country": "South Korea",
+    "iso_country": "KR",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "gmarket.co.kr",
+      "base_url": "https://www.gmarket.co.kr",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.gmarket.co.kr",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 624.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.gmarket.co.kr/search?q=laptop",
+        "status": 403,
+        "latency_ms": 314.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.gmarket.co.kr/search?q=notebook",
+        "status": 403,
+        "latency_ms": 297.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.gmarket.co.kr/s?k=laptop",
+        "status": 403,
+        "latency_ms": 356.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.gmarket.co.kr/s?k=notebook",
+        "status": 403,
+        "latency_ms": 304.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.gmarket.co.kr/laptops",
+        "status": 403,
+        "latency_ms": 337.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.gmarket.co.kr",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:42:11.207472+00:00"
+  },
+  {
+    "target_id": "hp-global",
+    "retailer": "Hp",
+    "country": "Global",
+    "iso_country": "US",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "hp.com",
+      "base_url": "https://www.hp.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.hp.com/in-en/home.html",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.hp.com/sitemap-gb-en-mag.xml",
+        "https://www.hp.com/gb-en/shop/media/facets_url/products_url_gb_en.txt",
+        "https://www.hp.com/gb-en/shop/media/facets_url/facets_url_gb_en.txt",
+        "https://www.hp.com/gb-en/shop/media/facets_url/sitemap-gb-en-legacy.txt",
+        "https://www.hp.com/sitemap-ca-en-mag.xml",
+        "https://www.hp.com/sitemap-ca-fr-mag.xml",
+        "https://www.hp.com/sitemap-de-de-isc.xml",
+        "https://www.hp.com/sitemap-es-es-isc.xml",
+        "https://www.hp.com/fr-fr/shop/media/facets_url/products_url_fr_fr.txt",
+        "https://www.hp.com/fr-fr/shop/media/facets_url/facets_url_fr_fr.txt",
+        "https://www.hp.com/fr-fr/shop/media/facets_url/sitemap-fr-fr-legacy.txt",
+        "https://www.hp.com/sitemap-fr-fr-mag.xml",
+        "https://www.hp.com/sitemap-ch-de-mag.xml",
+        "https://www.hp.com/ch-de/shop/media/facets_url/products_url_ch_fr.txt",
+        "https://www.hp.com/ch-de/shop/media/facets_url/facets_url_ch_fr.txt",
+        "https://www.hp.com/ch-de/shop/media/facets_url/sitemap-ch-fr-legacy.txt",
+        "https://www.hp.com/sitemap-ch-en-mag.xml",
+        "https://www.hp.com/ch-en/shop/media/facets_url/products_url_ch_fr.txt",
+        "https://www.hp.com/ch-en/shop/media/facets_url/facets_url_ch_fr.txt",
+        "https://www.hp.com/ch-en/shop/media/facets_url/sitemap-ch-fr-legacy.txt",
+        "https://www.hp.com/sitemap-ch-fr-mag.xml",
+        "https://www.hp.com/ch-fr/shop/media/facets_url/products_url_ch_fr.txt",
+        "https://www.hp.com/ch-fr/shop/media/facets_url/facets_url_ch_fr.txt",
+        "https://www.hp.com/ch-fr/shop/media/facets_url/sitemap-ch-fr-legacy.txt",
+        "https://www.hp.com/sitemap-it-it-mag.xml",
+        "https://www.hp.com/it-it/shop/media/facets_url/product_url_it_it.txt",
+        "https://www.hp.com/it-it/shop/media/facets_url/facets_url_it_it.txt",
+        "https://www.hp.com/it-it/shop/media/facets_url/sitemap-it-it-legacy.txt",
+        "https://www.hp.com/sitemap-pl-pl-mag.xml",
+        "https://www.hp.com/sitemap-nl-nl-mag.xml",
+        "https://www.hp.com/nl-nl/shop/media/sitemap-nl-nl.xml",
+        "https://www.hp.com/nl-nl/shop/media/sitemap-nl-nl-4-2.xml",
+        "https://www.hp.com/nl-nl/shop/media/facets_url/facets_url_nl_nl.txt",
+        "https://www.hp.com/sitemap-be-nl-mag.xml",
+        "https://www.hp.com/sitemap-be-fr-mag.xml",
+        "https://www.hp.com/sitemap-se-sv-mag.xml",
+        "https://www.hp.com/se-sv/shop/media/sitemap-se-sv.xml",
+        "https://www.hp.com/se-sv/shop/media/facets_url/sitemap-se-sv-legacy.txt",
+        "https://www.hp.com/se-sv/shop/media/facets_url/facets_url_se_sv.txt",
+        "https://www.hp.com/es-es/shop/media/facets_url/products_url_es_es.txt",
+        "https://www.hp.com/es-es/shop/media/facets_url/facets_url_es_es.txt",
+        "https://www.hp.com/es-es/shop/media/facets_url/sitemap-es-es-legacy.txt",
+        "https://www.hp.com/sitemap-es-es-mag.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-archives.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-categories.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-months.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-tags.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-years.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-articles.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-home.xml",
+        "https://www.hp.com/ca-en/shop/media/facets_url/sitemap-ca-en-legacy.txt",
+        "https://www.hp.com/ca-en/shop/media/facets_url/facets_url_ca_en.txt",
+        "https://www.hp.com/ca-en/shop/media/facets_url/products_url_ca_en.txt",
+        "https://www.hp.com/ca-fr/shop/media/facets_url/sitemap-ca-fr-legacy.txt",
+        "https://www.hp.com/ca-fr/shop/media/facets_url/facets_url_ca_fr.txt",
+        "https://www.hp.com/ca-fr/shop/media/facets_url/products_url_ca_fr.txt",
+        "https://www.hp.com/sitemap-sg-en-mag.xml",
+        "https://www.hp.com/sitemap-my-en-mag.xml",
+        "https://www.hp.com/sitemap-in-en-mag.xml",
+        "https://www.hp.com/in-en/shop/media/facets_url/products_url_in_en.txt",
+        "https://www.hp.com/in-en/shop/media/facets_url/facets_url_in_en.txt",
+        "https://www.hp.com/in-en/shop/media/facets_url/ink_url_in_en.txt",
+        "https://www.hp.com/sitemap-th-th-mag.xml",
+        "https://www.hp.com/sitemap-th-en-mag.xml",
+        "https://www.hp.com/sitemap-id-en-mag.xml",
+        "https://www.hp.com/sitemap-id-id-mag.xml",
+        "https://www.hp.com/sitemap-hk-zh-mag.xml",
+        "https://www.hp.com/sitemap-hk-en-mag.xml",
+        "https://www.hp.com/sitemap-kr-ko-mag.xml",
+        "https://www.hp.com/sitemap-au-en-mag.xml",
+        "https://www.hp.com/sitemap-nz-en-mag.xml",
+        "https://www.hp.com/sa-ar/shop/sitemap.xml",
+        "https://www.hp.com/sa-en/shop/sitemap.xml",
+        "https://www.hp.com/sitemap-br-pt-mag.xml",
+        "https://www.hp.com/sitemap-co-es-mag.xml",
+        "https://www.hp.com/sitemap-cl-es-mag.xml",
+        "https://www.hp.com/sitemap-mx-es-mag.xml",
+        "https://www.hp.com/sitemap-pe-es-mag.xml",
+        "https://www.hp.com/sitemap-ar-es-mag.xml",
+        "https://www.hp.com/sitemap_index.xml",
+        "https://www.hp.com/us-en/parts-store/media/sitemap/sitemap-us.xml",
+        "https://www.hp.com/sitemap",
+        "https://www.hp.com/sitemap-index-store-global-hreflang-non-pdp.xml",
+        "https://www.hp.com/sitemap-index-store-global-hreflang-pdp.xml",
+        "https://www.hp.com/sitemap-index-store-global-hreflang-tech-takes.xml",
+        "https://www.hp.com/sitemap-index-store-us-en.xml"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 2144.6
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.hp.com/search?q=laptop",
+        "status": 0,
+        "error": "[Errno 8] nodename nor servname provided, or not known",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.hp.com/search?q=notebook",
+        "status": 0,
+        "error": "[Errno 8] nodename nor servname provided, or not known",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.hp.com/s?k=laptop",
+        "status": 404,
+        "latency_ms": 843.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.hp.com/s?k=notebook",
+        "status": 404,
+        "latency_ms": 1455.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.hp.com/laptops",
+        "status": 404,
+        "latency_ms": 1149.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.hp.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:42:20.860253+00:00"
+  },
+  {
+    "target_id": "jbhifi-au",
+    "retailer": "Jbhifi",
+    "country": "Australia",
+    "iso_country": "AU",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "jbhifi.com.au",
+      "base_url": "https://www.jbhifi.com.au",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.jbhifi.com.au",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.jbhifi.com.au/sitemap.xml",
+        "http://www.jbhifi.com.au/sitemap-subcollections.xml"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 1370.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.jbhifi.com.au/search?q=laptop",
+        "status": 200,
+        "latency_ms": 936.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.jbhifi.com.au/search?q=notebook",
+        "status": 200,
+        "latency_ms": 1143.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.jbhifi.com.au/s?k=laptop",
+        "status": 200,
+        "latency_ms": 964.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.jbhifi.com.au/s?k=notebook",
+        "status": 200,
+        "latency_ms": 1418.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.jbhifi.com.au/laptops",
+        "status": 200,
+        "latency_ms": 1098.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.jbhifi.com.au",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:42:29.702140+00:00"
+  },
+  {
+    "target_id": "jd-cn",
+    "retailer": "Jd",
+    "country": "China",
+    "iso_country": "CN",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NOT_DISCOVERED",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "domain_validation": {
+      "domain": "jd.com",
+      "base_url": "https://www.jd.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://global.jd.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 1310.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.jd.com/search?q=laptop",
+        "status": 200,
+        "latency_ms": 1072.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.jd.com/search?q=notebook",
+        "status": 200,
+        "latency_ms": 1006.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.jd.com/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1286.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.jd.com/s?k=notebook",
+        "status": 200,
+        "latency_ms": 1368.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.jd.com/laptops",
+        "status": 200,
+        "latency_ms": 1472.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.jd.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:42:40.900034+00:00"
+  },
+  {
+    "target_id": "komputronik-pl",
+    "retailer": "Komputronik",
+    "country": "Poland",
+    "iso_country": "PL",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "komputronik.pl",
+      "base_url": "https://www.komputronik.pl",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.komputronik.pl",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 3069.7
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.komputronik.pl/search?q=laptop",
+        "status": 404,
+        "latency_ms": 3309.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.komputronik.pl/search?q=notebook",
+        "status": 404,
+        "latency_ms": 3469.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.komputronik.pl/s?k=laptop",
+        "status": 404,
+        "latency_ms": 3085.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.komputronik.pl/s?k=notebook",
+        "status": 404,
+        "latency_ms": 2643.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.komputronik.pl/laptops",
+        "status": 404,
+        "latency_ms": 3461.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.komputronik.pl",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:43:08.140615+00:00"
+  },
+  {
+    "target_id": "lenovo-global",
+    "retailer": "Lenovo",
+    "country": "Global",
+    "iso_country": "US",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "lenovo.com",
+      "base_url": "https://www.lenovo.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.lenovo.com/in/en/",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.lenovo.com/sitemap.xml",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-us.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ca.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-au.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-nz.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-uk.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ie.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-in.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-my.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-sg.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ph.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-be-fr.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-at.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-be-nl.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-es.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-nl.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-pt.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ch-fr.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-fr.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-fi.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-no.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-it.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ch-de.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-se.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-de.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ch-en.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-dk.txt",
+        "https://www.lenovo.com/sitemap-auto/Articletop-sitemap-JP.txt"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 952.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.lenovo.com/search?q=laptop",
+        "status": 503,
+        "latency_ms": 1356.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.lenovo.com/search?q=notebook",
+        "status": 503,
+        "latency_ms": 534.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.lenovo.com/s?k=laptop",
+        "status": 503,
+        "latency_ms": 457.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.lenovo.com/s?k=notebook",
+        "status": 503,
+        "latency_ms": 482.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.lenovo.com/laptops",
+        "status": 503,
+        "latency_ms": 577.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.lenovo.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:43:15.535226+00:00"
+  },
+  {
+    "target_id": "magazineluiza-br",
+    "retailer": "Magazineluiza",
+    "country": "Brazil",
+    "iso_country": "BR",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "magazineluiza.com.br",
+      "base_url": "https://www.magazineluiza.com.br",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.magazineluiza.com.br",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 451.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.magazineluiza.com.br/search?q=laptop",
+        "status": 403,
+        "latency_ms": 386.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.magazineluiza.com.br/search?q=notebook",
+        "status": 403,
+        "latency_ms": 329.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.magazineluiza.com.br/s?k=laptop",
+        "status": 403,
+        "latency_ms": 343.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.magazineluiza.com.br/s?k=notebook",
+        "status": 403,
+        "latency_ms": 353.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.magazineluiza.com.br/laptops",
+        "status": 403,
+        "latency_ms": 355.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.magazineluiza.com.br",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:43:19.734467+00:00"
+  },
+  {
+    "target_id": "mediamarkt-de",
+    "retailer": "Mediamarkt",
+    "country": "Germany",
+    "iso_country": "DE",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "mediamarkt.de",
+      "base_url": "https://www.mediamarkt.de",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.mediamarkt.de",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 768.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.de/search?q=laptop",
+        "status": 403,
+        "latency_ms": 793.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.de/search?q=notebook",
+        "status": 403,
+        "latency_ms": 851.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.de/s?k=laptop",
+        "status": 403,
+        "latency_ms": 750.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.de/s?k=notebook",
+        "status": 403,
+        "latency_ms": 699.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mediamarkt.de/laptops",
+        "status": 403,
+        "latency_ms": 689.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mediamarkt.de",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:43:27.017315+00:00"
+  },
+  {
+    "target_id": "mediamarkt-es",
+    "retailer": "Mediamarkt",
+    "country": "Spain",
+    "iso_country": "ES",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "mediamarkt.es",
+      "base_url": "https://www.mediamarkt.es",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.mediamarkt.es",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 908.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.es/search?q=laptop",
+        "status": 403,
+        "latency_ms": 861.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.es/search?q=notebook",
+        "status": 403,
+        "latency_ms": 717.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.es/s?k=laptop",
+        "status": 403,
+        "latency_ms": 807.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.es/s?k=notebook",
+        "status": 403,
+        "latency_ms": 714.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mediamarkt.es/laptops",
+        "status": 403,
+        "latency_ms": 696.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mediamarkt.es",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:43:34.121350+00:00"
+  },
+  {
+    "target_id": "mediamarkt-it",
+    "retailer": "Mediamarkt",
+    "country": "Italy",
+    "iso_country": "IT",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "mediaworld.it",
+      "base_url": "https://www.mediaworld.it",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.mediaworld.it",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 765.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediaworld.it/search?q=laptop",
+        "status": 403,
+        "latency_ms": 684.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediaworld.it/search?q=notebook",
+        "status": 403,
+        "latency_ms": 715.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediaworld.it/s?k=laptop",
+        "status": 403,
+        "latency_ms": 696.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediaworld.it/s?k=notebook",
+        "status": 403,
+        "latency_ms": 683.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mediaworld.it/laptops",
+        "status": 403,
+        "latency_ms": 725.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mediaworld.it",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:43:41.181590+00:00"
+  },
+  {
+    "target_id": "mediamarkt-tr",
+    "retailer": "Mediamarkt",
+    "country": "Turkey",
+    "iso_country": "TR",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "mediamarkt.com.tr",
+      "base_url": "https://www.mediamarkt.com.tr",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.mediamarkt.com.tr",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 730.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.com.tr/search?q=laptop",
+        "status": 403,
+        "latency_ms": 647.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.com.tr/search?q=notebook",
+        "status": 403,
+        "latency_ms": 687.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.com.tr/s?k=laptop",
+        "status": 403,
+        "latency_ms": 716.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediamarkt.com.tr/s?k=notebook",
+        "status": 403,
+        "latency_ms": 694.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mediamarkt.com.tr/laptops",
+        "status": 403,
+        "latency_ms": 663.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mediamarkt.com.tr",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:43:47.869597+00:00"
+  },
+  {
+    "target_id": "mercadolibre-mx",
+    "retailer": "Mercadolibre",
+    "country": "Mexico",
+    "iso_country": "MX",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "mercadolibre.com.mx",
+      "base_url": "https://www.mercadolibre.com.mx",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.mercadolibre.com.mx",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1298.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.com.mx/search?q=laptop",
+        "status": 404,
+        "latency_ms": 1071.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.com.mx/search?q=notebook",
+        "status": 404,
+        "latency_ms": 1313.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.com.mx/s?k=laptop",
+        "status": 404,
+        "latency_ms": 909.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.com.mx/s?k=notebook",
+        "status": 404,
+        "latency_ms": 1019.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mercadolibre.com.mx/laptops",
+        "status": 404,
+        "latency_ms": 976.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mercadolibre.com.mx",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:43:57.136375+00:00"
+  },
+  {
+    "target_id": "mercadolibre-cl",
+    "retailer": "Mercadolibre",
+    "country": "Chile",
+    "iso_country": "CL",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "mercadolibre.cl",
+      "base_url": "https://www.mercadolibre.cl",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.mercadolibre.cl",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1584.1
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.cl/search?q=laptop",
+        "status": 404,
+        "latency_ms": 1131.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.cl/search?q=notebook",
+        "status": 404,
+        "latency_ms": 489.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.cl/s?k=laptop",
+        "status": 404,
+        "latency_ms": 632.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.cl/s?k=notebook",
+        "status": 404,
+        "latency_ms": 526.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mercadolibre.cl/laptops",
+        "status": 404,
+        "latency_ms": 1012.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mercadolibre.cl",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:44:04.985688+00:00"
+  },
+  {
+    "target_id": "mercadolibre-co",
+    "retailer": "Mercadolibre",
+    "country": "Colombia",
+    "iso_country": "CO",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "mercadolibre.com.co",
+      "base_url": "https://www.mercadolibre.com.co",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.mercadolibre.com.co",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1081.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.com.co/search?q=laptop",
+        "status": 404,
+        "latency_ms": 698.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.com.co/search?q=notebook",
+        "status": 404,
+        "latency_ms": 1320.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.com.co/s?k=laptop",
+        "status": 404,
+        "latency_ms": 665.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolibre.com.co/s?k=notebook",
+        "status": 404,
+        "latency_ms": 856.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mercadolibre.com.co/laptops",
+        "status": 404,
+        "latency_ms": 657.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mercadolibre.com.co",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:44:12.726729+00:00"
+  },
+  {
+    "target_id": "mercadolivre-br",
+    "retailer": "Mercadolibre",
+    "country": "Brazil",
+    "iso_country": "BR",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "mercadolivre.com.br",
+      "base_url": "https://www.mercadolivre.com.br",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.mercadolivre.com.br",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 3185.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolivre.com.br/search?q=laptop",
+        "status": 404,
+        "latency_ms": 4808.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolivre.com.br/search?q=notebook",
+        "status": 404,
+        "latency_ms": 1171.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolivre.com.br/s?k=laptop",
+        "status": 404,
+        "latency_ms": 1363.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mercadolivre.com.br/s?k=notebook",
+        "status": 404,
+        "latency_ms": 880.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mercadolivre.com.br/laptops",
+        "status": 404,
+        "latency_ms": 1087.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mercadolivre.com.br",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:44:28.165024+00:00"
+  },
+  {
+    "target_id": "thegioididong-vn",
+    "retailer": "Thegioididong",
+    "country": "Vietnam",
+    "iso_country": "VN",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+    "domain_validation": {
+      "domain": "thegioididong.com",
+      "base_url": "https://www.thegioididong.com",
+      "http_status": 0,
+      "redirect_chain": [],
+      "final_url": "https://www.thegioididong.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "TIMEOUT",
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.thegioididong.com/search?q=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.thegioididong.com/search?q=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.thegioididong.com/s?k=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.thegioididong.com/s?k=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.thegioididong.com/laptops",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.thegioididong.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:45:19.673420+00:00"
+  },
+  {
+    "target_id": "monsternotebook-tr",
+    "retailer": "Monsternotebook",
+    "country": "Turkey",
+    "iso_country": "TR",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "monsternotebook.com.tr",
+      "base_url": "https://www.monsternotebook.com.tr",
+      "http_status": 403,
+      "redirect_chain": [],
+      "final_url": "https://www.monsternotebook.com.tr",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 335.1
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.monsternotebook.com.tr/search?q=laptop",
+        "status": 403,
+        "latency_ms": 258.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.monsternotebook.com.tr/search?q=notebook",
+        "status": 403,
+        "latency_ms": 369.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.monsternotebook.com.tr/s?k=laptop",
+        "status": 403,
+        "latency_ms": 367.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.monsternotebook.com.tr/s?k=notebook",
+        "status": 403,
+        "latency_ms": 339.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.monsternotebook.com.tr/laptops",
+        "status": 403,
+        "latency_ms": 262.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.monsternotebook.com.tr/smartphones",
+        "status": 403,
+        "latency_ms": 329.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.monsternotebook.com.tr/audio",
+        "status": 403,
+        "latency_ms": 468.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.monsternotebook.com.tr",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:45:23.703144+00:00"
+  },
+  {
+    "target_id": "newegg-us",
+    "retailer": "Newegg",
+    "country": "United States",
+    "iso_country": "US",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "newegg.com",
+      "base_url": "https://www.newegg.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.newegg.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.newegg.com/xmlsitemap/2019_Updated_Confidential_siteindex_USA.xml",
+        "https://www.newegg.com/xmlsitemap/2019_Updated_Confidential_siteindex_USA_Seller.xml",
+        "https://www.newegg.com/xmlsitemap/ProductListKeywords_USA.xml",
+        "https://www.newegg.com/insider/sitemap_index.xml",
+        "https://www.newegg.com/Shopping-Tools-USA.xml",
+        "https://www.newegg.com/xmlsitemap/sitemaps_promos_USA.xml",
+        "https://www.newegg.com/gamer/community/sitemap.xml",
+        "https://www.newegg.com/xmlsitemap/sitemaps_qa_USA.xml"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 1243.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.newegg.com/search?q=laptop",
+        "status": 200,
+        "latency_ms": 1242.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.newegg.com/search?q=notebook",
+        "status": 200,
+        "latency_ms": 1079.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.newegg.com/s?k=laptop",
+        "status": 200,
+        "latency_ms": 1351.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.newegg.com/s?k=notebook",
+        "status": 200,
+        "latency_ms": 1315.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.newegg.com/laptops",
+        "status": 200,
+        "latency_ms": 1137.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.newegg.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:45:33.791636+00:00"
+  },
+  {
+    "target_id": "officeworks-au",
+    "retailer": "Officeworks",
+    "country": "Australia",
+    "iso_country": "AU",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NOT_DISCOVERED",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "domain_validation": {
+      "domain": "officeworks.com.au",
+      "base_url": "https://www.officeworks.com.au",
+      "http_status": 405,
+      "redirect_chain": [],
+      "final_url": "https://www.officeworks.com.au",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 312.6
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.officeworks.com.au/search?q=laptop",
+        "status": 405,
+        "latency_ms": 257.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.officeworks.com.au/search?q=notebook",
+        "status": 405,
+        "latency_ms": 287.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.officeworks.com.au/s?k=laptop",
+        "status": 405,
+        "latency_ms": 266.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.officeworks.com.au/s?k=notebook",
+        "status": 405,
+        "latency_ms": 264.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.officeworks.com.au/laptops",
+        "status": 405,
+        "latency_ms": 279.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.officeworks.com.au",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:45:36.603455+00:00"
+  },
+  {
+    "target_id": "reliancedigital-in",
+    "retailer": "Reliancedigital",
+    "country": "India",
+    "iso_country": "IN",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "domain_validation": {
+      "domain": "reliancedigital.in",
+      "base_url": "https://www.reliancedigital.in",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.reliancedigital.in",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.reliancedigital.in/sitemap.xml"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 512.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.reliancedigital.in/search?q=laptop",
+        "status": 200,
+        "latency_ms": 776.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.reliancedigital.in/search?q=notebook",
+        "status": 200,
+        "latency_ms": 782.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.reliancedigital.in/s?k=laptop",
+        "status": 200,
+        "latency_ms": 771.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.reliancedigital.in/s?k=notebook",
+        "status": 200,
+        "latency_ms": 1471.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.reliancedigital.in/laptops",
+        "status": 200,
+        "latency_ms": 663.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.reliancedigital.in",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:45:42.762033+00:00"
+  },
+  {
+    "target_id": "staples-us",
+    "retailer": "Staples",
+    "country": "United States",
+    "iso_country": "US",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "staples.com",
+      "base_url": "https://www.staples.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.staples.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.staples.com/sitemap/sitemap_index-www-staples-com-en_us.xml",
+        "https://sitemap.staples.com/sitemap-index-print.xml.gz",
+        "https://sitemap.staples.com/sitemap-index.xml.gz",
+        "https://sitemap.staples.com/sitemap-index-stores.xml.gz",
+        "https://sitemap.staples.com/sitemap-index-CL.xml.gz",
+        "https://sitemap.staples.com/sitemap-index-sku.xml.gz",
+        "https://www.staples.com/sitemap/staples-custom-sitemap-seo-content-test.xml.gz"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 2292.1
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.staples.com/search?q=laptop",
+        "status": 404,
+        "latency_ms": 626.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.staples.com/search?q=notebook",
+        "status": 404,
+        "latency_ms": 647.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.staples.com/s?k=laptop",
+        "status": 404,
+        "latency_ms": 639.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.staples.com/s?k=notebook",
+        "status": 404,
+        "latency_ms": 676.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.staples.com/laptops",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.staples.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:45:57.816223+00:00"
+  },
+  {
+    "target_id": "terg-pl",
+    "retailer": "Terg",
+    "country": "Poland",
+    "iso_country": "PL",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "domain_validation": {
+      "domain": "mediaexpert.pl",
+      "base_url": "https://www.mediaexpert.pl",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.mediaexpert.pl",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 1937.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediaexpert.pl/search?q=laptop",
+        "status": 403,
+        "latency_ms": 675.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediaexpert.pl/search?q=notebook",
+        "status": 404,
+        "latency_ms": 1339.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediaexpert.pl/s?k=laptop",
+        "status": 404,
+        "latency_ms": 892.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.mediaexpert.pl/s?k=notebook",
+        "status": 404,
+        "latency_ms": 931.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.mediaexpert.pl/laptops",
+        "status": 403,
+        "latency_ms": 644.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.mediaexpert.pl",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:46:07.435613+00:00"
+  },
+  {
+    "target_id": "tmall-cn",
+    "retailer": "Tmall",
+    "country": "China",
+    "iso_country": "CN",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NOT_DISCOVERED",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "domain_validation": {
+      "domain": "tmall.com",
+      "base_url": "https://www.tmall.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.tmall.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 766.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.tmall.com/search?q=laptop",
+        "status": 200,
+        "latency_ms": 1466.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.tmall.com/search?q=notebook",
+        "status": 200,
+        "latency_ms": 874.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.tmall.com/s?k=laptop",
+        "status": 200,
+        "latency_ms": 956.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.tmall.com/s?k=notebook",
+        "status": 200,
+        "latency_ms": 1003.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.tmall.com/laptops",
+        "status": 200,
+        "latency_ms": 1001.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.tmall.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:46:16.418677+00:00"
+  },
+  {
+    "target_id": "unieuro-it",
+    "retailer": "Unieuro",
+    "country": "Italy",
+    "iso_country": "IT",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Google reCAPTCHA)",
+    "domain_validation": {
+      "domain": "unieuro.it",
+      "base_url": "https://www.unieuro.it",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.unieuro.it/online/",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.unieuro.it/sitemap.xml"
+      ],
+      "waf_detected": "Google reCAPTCHA",
+      "latency_ms": 2396.1
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.unieuro.it/search?q=laptop",
+        "status": 200,
+        "latency_ms": 3427.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.unieuro.it/search?q=notebook",
+        "status": 200,
+        "latency_ms": 4572.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.unieuro.it/s?k=laptop",
+        "status": 200,
+        "latency_ms": 3576.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.unieuro.it/s?k=notebook",
+        "status": 200,
+        "latency_ms": 4880.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.unieuro.it/laptops",
+        "status": 200,
+        "latency_ms": 4151.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.unieuro.it",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:46:41.646833+00:00"
+  },
+  {
+    "target_id": "walmart-us",
+    "retailer": "Walmart",
+    "country": "United States",
+    "iso_country": "US",
+    "laptop_url": "https://www.walmart.com/browse/electronics/all-laptop-computers/3944_1089430_3951_132960?povid=ETS_computingcp_hubspoke_Laptopsbrowse_WEB",
+    "product_id": "3944_1089430_3951_132960",
+    "discovery_method": "category_listing",
+    "discovery_status": "DISCOVERED",
+    "discovery_failure_reason": null,
+    "domain_validation": {
+      "domain": "walmart.com",
+      "base_url": "https://www.walmart.com",
+      "http_status": 200,
+      "redirect_chain": [],
+      "final_url": "https://www.walmart.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.walmart.com/sitemap_category.xml",
+        "https://www.walmart.com/sitemap_store_main.xml",
+        "https://www.walmart.com/help/sitemap_gm.xml",
+        "https://www.walmart.com/sitemap_browse_fst.xml",
+        "https://www.walmart.com/sitemap_store_dept.xml",
+        "https://www.walmart.com/sitemap_tp_legacy.xml",
+        "https://www.walmart.com/sitemap_tp_at.xml",
+        "https://www.walmart.com/sitemap_tp_br.xml",
+        "https://www.walmart.com/sitemap_tp_kp.xml",
+        "https://www.walmart.com/sitemap_brp_02.xml",
+        "https://www.walmart.com/sitemap_brp_03.xml",
+        "https://www.walmart.com/sitemap_brp_04.xml",
+        "https://www.walmart.com/sitemap_brp_05.xml",
+        "https://www.walmart.com/sitemap_brp_06.xml",
+        "https://www.walmart.com/sitemap_brp_07.xml",
+        "https://www.walmart.com/sitemap_brp_08.xml",
+        "https://www.walmart.com/sitemap_brp_09.xml",
+        "https://www.walmart.com/sitemap_itp_01.xml",
+        "https://www.walmart.com/sitemap_itp_02.xml",
+        "https://www.walmart.com/sitemap_product_03.xml",
+        "https://www.walmart.com/sitemap_rp_01.xml",
+        "https://www.walmart.com/sitemap_rp_02.xml",
+        "https://www.walmart.com/sitemap_rp_03.xml",
+        "https://www.walmart.com/sitemap_rp_04.xml",
+        "https://www.walmart.com/sitemap_rp_05.xml",
+        "https://www.walmart.com/sitemap_slp_01.xml",
+        "https://www.walmart.com/sitemap_slp_02.xml",
+        "https://www.walmart.com/sitemap_auto_dir.xml",
+        "https://www.walmart.com/sitemap_brndshp_brand.xml",
+        "https://www.walmart.com/sitemap_sp.xml",
+        "https://www.walmart.com/sitemap_hi_ip.xml",
+        "https://www.walmart.com/sitemap_hi_tp.xml",
+        "https://www.walmart.com/sitemap_hi_bp.xml",
+        "https://www.walmart.com/sitemap_hi_mp.xml"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 611.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.walmart.com/search?q=laptop",
+        "status": 200,
+        "latency_ms": 762.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.walmart.com/search?q=notebook",
+        "status": 200,
+        "latency_ms": 1200.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.walmart.com/s?k=laptop",
+        "status": 404,
+        "latency_ms": 954.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.walmart.com/s?k=notebook",
+        "status": 404,
+        "latency_ms": 816.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.walmart.com/laptops",
+        "status": 200,
+        "latency_ms": 4243.5,
+        "candidates_found": 1
+      }
+    ],
+    "discovered_at": "2026-08-24T07:46:53.463500+00:00"
+  },
+  {
+    "target_id": "yodobashi-jp",
+    "retailer": "Yodobashi",
+    "country": "Japan",
+    "iso_country": "JP",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+    "domain_validation": {
+      "domain": "yodobashi.com",
+      "base_url": "https://www.yodobashi.com",
+      "http_status": 0,
+      "redirect_chain": [],
+      "final_url": "https://www.yodobashi.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "TIMEOUT",
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "retailer_search",
+        "url": "https://www.yodobashi.com/search?q=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.yodobashi.com/search?q=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.yodobashi.com/s?k=laptop",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "retailer_search",
+        "url": "https://www.yodobashi.com/s?k=notebook",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "category_listing",
+        "url": "https://www.yodobashi.com/laptops",
+        "status": 0,
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "firecrawl_map",
+        "url": "https://www.yodobashi.com",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T07:47:47.514042+00:00"
+  }
+]

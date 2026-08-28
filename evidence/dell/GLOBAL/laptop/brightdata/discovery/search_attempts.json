@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.dell.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 19139.5,
+    "html_bytes": 338471
+  }
+]

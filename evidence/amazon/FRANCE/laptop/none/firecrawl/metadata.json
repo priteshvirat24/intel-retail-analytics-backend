@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-fr",
+  "retailer": "Amazon",
+  "country": "France",
+  "url": "https://www.amazon.fr/Informatique-ordinateur-portable-laptop/b/?ie=UTF8&node=429879031&ref_=sv_computers_3",
+  "strategy": "FIRECRAWL",
+  "status_code": 200,
+  "final_url": "https://www.amazon.fr/Informatique-ordinateur-portable-laptop/b/?ie=UTF8&node=429879031&ref_=sv_computers_3",
+  "crawlable": false,
+  "failure_reason": "AKAMAI_BOT_MANAGER_BLOCK",
+  "anti_bot_vendor": "Akamai Bot Manager",
+  "latency_ms": 6266.474320997077
+}

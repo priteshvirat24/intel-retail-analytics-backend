@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.reliancedigital.in/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 3520.9,
+    "html_bytes": 315
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.reliancedigital.in/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 3667.5,
+    "html_bytes": 694387
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.reliancedigital.in/laptops",
+    "status_code": 200,
+    "latency_ms": 3532.5,
+    "html_bytes": 650865
+  }
+]

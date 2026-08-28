@@ -1,0 +1,14 @@
+{
+  "category": "VALIDATION",
+  "specific_reason": "REQUIRED_FIELD_MISSING",
+  "stage": "PRODUCT_VALIDATION",
+  "failure_reason_human": "Product data was partially extracted but failed composite valid SKU requirements.",
+  "http_status": null,
+  "exception_type": null,
+  "retry_count": 0,
+  "last_error": null,
+  "timestamp": "2026-08-23T09:51:00.931604+00:00",
+  "is_recoverable": true,
+  "recommended_escalation": null,
+  "details": {}
+}

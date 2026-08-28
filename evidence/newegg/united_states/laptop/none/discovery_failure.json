@@ -1,0 +1,69 @@
+{
+  "target_id": "newegg-us",
+  "retailer": "Newegg",
+  "country": "United States",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "newegg.com",
+    "base_url": "https://www.newegg.com",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.newegg.com",
+    "robots_txt_found": true,
+    "sitemaps_found": [
+      "https://www.newegg.com/xmlsitemap/2019_Updated_Confidential_siteindex_USA.xml",
+      "https://www.newegg.com/xmlsitemap/2019_Updated_Confidential_siteindex_USA_Seller.xml",
+      "https://www.newegg.com/xmlsitemap/ProductListKeywords_USA.xml",
+      "https://www.newegg.com/insider/sitemap_index.xml",
+      "https://www.newegg.com/Shopping-Tools-USA.xml",
+      "https://www.newegg.com/xmlsitemap/sitemaps_promos_USA.xml",
+      "https://www.newegg.com/gamer/community/sitemap.xml",
+      "https://www.newegg.com/xmlsitemap/sitemaps_qa_USA.xml"
+    ],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 1243.2
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.newegg.com/search?q=laptop",
+      "status": 200,
+      "latency_ms": 1242.0,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.newegg.com/search?q=notebook",
+      "status": 200,
+      "latency_ms": 1079.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.newegg.com/s?k=laptop",
+      "status": 200,
+      "latency_ms": 1351.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.newegg.com/s?k=notebook",
+      "status": 200,
+      "latency_ms": 1315.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.newegg.com/laptops",
+      "status": 200,
+      "latency_ms": 1137.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.newegg.com",
+      "candidates_found": 0
+    }
+  ]
+}

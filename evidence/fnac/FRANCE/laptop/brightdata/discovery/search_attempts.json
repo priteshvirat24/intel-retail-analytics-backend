@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.fnac.com/s?k=ordinateur+portable",
+    "status_code": 0,
+    "latency_ms": 29928.8,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.fnac.com/recherche?q=ordinateur+portable",
+    "status_code": 0,
+    "latency_ms": 29207.7,
+    "html_bytes": 0
+  }
+]

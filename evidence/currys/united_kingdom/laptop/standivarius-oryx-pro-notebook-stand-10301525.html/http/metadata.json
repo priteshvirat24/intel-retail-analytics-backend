@@ -1,0 +1,13 @@
+{
+  "target_id": "currys-gb",
+  "retailer": "Currys",
+  "country": "United Kingdom",
+  "url": "https://www.currys.co.uk/products/standivarius-oryx-pro-notebook-stand-10301525.html",
+  "strategy": "HTTP",
+  "status_code": 403,
+  "final_url": "https://www.currys.co.uk/products/standivarius-oryx-pro-notebook-stand-10301525.html",
+  "crawlable": false,
+  "failure_reason": "CLOUDFLARE_WAF_CHALLENGE",
+  "anti_bot_vendor": "Cloudflare WAF",
+  "latency_ms": 407.48
+}

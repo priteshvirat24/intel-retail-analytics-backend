@@ -1,0 +1,21 @@
+{
+  "retailer": "Currys",
+  "country": "United Kingdom",
+  "product_url": "https://business.currys.co.uk/catalogue/computing/laptops/windows-laptop/dell-inspiron-15-3000-15-6-laptop-amd-ryzen-5-256-gb-ssd-black/N681540W",
+  "title": "DELL Inspiron 15 3000 15.6\" Laptop - AMD Ryzen 5, 256 GB SSD, Black - 210-AWZV - Currys Business",
+  "brand": "Dell",
+  "model": "210-awzv",
+  "sku": "210-awzv",
+  "price": null,
+  "currency": "GBP",
+  "availability": "InStock",
+  "cpu": "Ryzen 5",
+  "ram": null,
+  "storage": "256 GB SSD",
+  "display": "15.6\"",
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:01:34.913015Z"
+}

@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "United Kingdom",
+  "product_url": "https://www.amazon.co.uk/Lenovo-IdeaPad-Slim-Chromebook-Laptop/dp/B0C9LZFN32/ref=sr_1_2",
+  "title": "Lenovo IdeaPad Slim 3 Chromebook | 14 Inch FHD Laptop | MediaTek Kompanio 520 | 4GB RAM | 64GB eMMC | Chrome OS | Abyss Blue",
+  "brand": "Lenovo",
+  "model": "B0C9LZFN32",
+  "sku": "B0C9LZFN32",
+  "price": 149.97,
+  "currency": "GBP",
+  "availability": "InStock",
+  "cpu": "Mediatek Kompanio 520",
+  "ram": "4GB",
+  "storage": "64GB EMMC",
+  "display": "14\"",
+  "gpu": null,
+  "operating_system": "Chrome Os",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:55:41.369302Z"
+}

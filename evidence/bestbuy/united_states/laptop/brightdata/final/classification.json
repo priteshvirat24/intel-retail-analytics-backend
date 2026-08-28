@@ -1,0 +1,24 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 1.0,
+  "detected_brand": "ASUS",
+  "model_or_sku": "asus-proart",
+  "extracted_specs": {
+    "screen_size": "13\"",
+    "cpu": "Snapdragon X Plus",
+    "ram": "16GB",
+    "storage": "1TB SSD"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'laptop'",
+    "Laptop family: 'proart'",
+    "Brand: 'ASUS'",
+    "Screen size: 13\"",
+    "CPU: Snapdragon X Plus",
+    "RAM: 16GB",
+    "Storage: 1TB SSD"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

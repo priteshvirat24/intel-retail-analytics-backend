@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.reliancedigital.in/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 5227.8,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.reliancedigital.in/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 2855.8,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.reliancedigital.in/laptops",
+    "status_code": 200,
+    "latency_ms": 5355.0,
+    "bytes": 656488,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

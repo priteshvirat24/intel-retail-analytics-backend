@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-br",
+  "retailer": "Amazon",
+  "country": "Brazil",
+  "url": "https://www.amazon.com.br/Notebook-Positivo-Celeron-Armazenamento-capacitiva/dp/B0FPGHQMRY/ref=sr_1_5?dib=eyJ2IjoiMSJ9.mYICUB7xWsc8_Q3de5BODPxcByOTGJDK0ImfgICTXIAerC5tM2wrRQdjnIIEwZO9K0x5Uomvs4GZacp--w2S4a6ecw6TG4gvpSzCkdOscGm-mseXP_mx_T7wf6kQP_IDpf-ijO2CIWFoCBlnV6IxOuxiJ8qwFP4XbvVYZ-ZnUVjMD9ejn_CRSSr_w4C0y1FB5fAOK_htAwdHhkR7uXEIvDWCrFWKAqQqVWHQ5LOI1fH6GBg-blLHB79_J8RtodoNhqGwwICZuwGqEQRm7egsoyzXJC3-9LuPKAzl7dhh4kI.jdQh9AQqziAmh5tmcMhopMZsmSBL_cL76AsE9Ya2Bdk&dib_tag=se&keywords=laptop&qid=1787557141&sr=8-5&ufe=app_do%3Aamzn1.fos.38059ce3-943c-48af-9fc9-22d85542b02c",
+  "strategy": "HTTP",
+  "status_code": 200,
+  "final_url": "https://www.amazon.com.br/Notebook-Positivo-Celeron-Armazenamento-capacitiva/dp/B0FPGHQMRY/ref=sr_1_5?dib=eyJ2IjoiMSJ9.mYICUB7xWsc8_Q3de5BODPxcByOTGJDK0ImfgICTXIAerC5tM2wrRQdjnIIEwZO9K0x5Uomvs4GZacp--w2S4a6ecw6TG4gvpSzCkdOscGm-mseXP_mx_T7wf6kQP_IDpf-ijO2CIWFoCBlnV6IxOuxiJ8qwFP4XbvVYZ-ZnUVjMD9ejn_CRSSr_w4C0y1FB5fAOK_htAwdHhkR7uXEIvDWCrFWKAqQqVWHQ5LOI1fH6GBg-blLHB79_J8RtodoNhqGwwICZuwGqEQRm7egsoyzXJC3-9LuPKAzl7dhh4kI.jdQh9AQqziAmh5tmcMhopMZsmSBL_cL76AsE9Ya2Bdk&dib_tag=se&keywords=laptop&qid=1787557141&sr=8-5&ufe=app_do%3Aamzn1.fos.38059ce3-943c-48af-9fc9-22d85542b02c",
+  "crawlable": false,
+  "failure_reason": "BOT_CHALLENGE_PAGE",
+  "anti_bot_vendor": null,
+  "latency_ms": 2202.4
+}

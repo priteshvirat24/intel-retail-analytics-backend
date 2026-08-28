@@ -1,0 +1,35 @@
+{
+  "target_id": "mercadolibre-mx",
+  "laptop_url": "https://listado.mercadolibre.com.mx/electronica-audio-video/audio/audio-portatil-accesorios/#menu=categories",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 16089.0
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.3
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "NOT_A_LAPTOP_PRODUCT",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_PRODUCT_NOT_VERIFIABLE",
+    "latency_ms": 7518.5
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

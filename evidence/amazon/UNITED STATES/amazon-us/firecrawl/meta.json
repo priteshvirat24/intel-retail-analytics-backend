@@ -1,0 +1,16 @@
+{
+  "target_id": "amazon-us",
+  "strategy": "FIRECRAWL",
+  "laptop_url": "https://www.amazon.com/dp/B08N5WRW88",
+  "status_code": 200,
+  "latency_ms": 18697.15798899415,
+  "bytes": 3649,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "CAPTCHA_PAGE",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

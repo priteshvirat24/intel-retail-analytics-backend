@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "HTTP",
+  "status_code": 404,
+  "response_time_ms": 1084.07,
+  "browser_seconds": 0.0,
+  "bytes_received": 159284,
+  "success": false,
+  "evidence_path": "evidence/boulanger/FRANCE/sku_0007/http/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "HTTP_STATUS",
+    "specific_reason": "HTTP_404_NOT_FOUND",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Product URL returned HTTP 404 Not Found.",
+    "http_status": 404,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "HTTP",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:03:36.169803+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": null,
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:03:36.169871+00:00"
+}

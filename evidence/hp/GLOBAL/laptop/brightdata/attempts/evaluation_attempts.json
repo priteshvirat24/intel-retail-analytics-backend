@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.hp.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 7441.2,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.hp.com/search?q=laptop",
+    "status_code": 0,
+    "latency_ms": 45090.2,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.hp.com/laptops",
+    "status_code": 200,
+    "latency_ms": 8056.7,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.hp.com",
+    "status_code": 200,
+    "latency_ms": 9264.1,
+    "product_title": "Laptop Computers, Desktops, Printers, Ink & Toner  | HP\u00ae Official Site",
+    "brand": "HP",
+    "price": null,
+    "product_class": "PERIPHERAL",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Rejected as PERIPHERAL: Printer / Scanner",
+    "waf_detected": null
+  }
+]

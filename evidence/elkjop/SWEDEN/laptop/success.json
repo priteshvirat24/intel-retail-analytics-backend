@@ -1,0 +1,21 @@
+{
+  "retailer": "Elkjop",
+  "country": "Sweden",
+  "product_url": "https://www.elgiganten.se/product/datorer-kontor/datorer/laptop/msi-modern-14-i5-138512-14-barbar-dator/797150",
+  "title": "MSI Modern 14 i5-13/8/512 14\" b\u00e4rbar dator",
+  "brand": "MSI",
+  "model": "msi-modern",
+  "sku": "msi-modern",
+  "price": null,
+  "currency": "SEK",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": null,
+  "storage": null,
+  "display": "14\"",
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:04:01.386885Z"
+}

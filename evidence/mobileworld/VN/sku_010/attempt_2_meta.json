@@ -1,0 +1,13 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 0.0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright Chromium is not available in the current environment.",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T05:41:35.369533+00:00"
+}

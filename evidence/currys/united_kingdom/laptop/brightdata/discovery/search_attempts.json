@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.currys.co.uk/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 37550.4,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.currys.co.uk/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 18983.2,
+    "html_bytes": 2010953
+  }
+]

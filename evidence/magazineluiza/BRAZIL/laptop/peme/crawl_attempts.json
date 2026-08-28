@@ -1,0 +1,42 @@
+{
+  "target_id": "magazineluiza-br",
+  "laptop_url": "https://clube.magazineluiza.com.br/tudoazul/pasta-executiva-para-notebook-documentos-prime-inbox/p/agc1750dc6/md/peme",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 13886.1
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.2
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": true,
+    "confidence_score": 0.8,
+    "failure_class": "NONE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_PRODUCT_SUCCESS",
+    "latency_ms": 13954.4
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": {
+    "name": "Pasta executiva para Notebook Documentos",
+    "brand": null,
+    "model_or_sku": "agc1750dc6",
+    "price": 9499.0,
+    "currency": null,
+    "product_url": "https://clube.magazineluiza.com.br/tudoazul/pasta-executiva-para-notebook-documentos-prime-inbox/p/agc1750dc6/md/peme"
+  }
+}

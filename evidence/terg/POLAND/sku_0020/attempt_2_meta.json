@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 404,
+  "response_time_ms": 12194.95,
+  "browser_seconds": 12.56,
+  "bytes_received": 397383,
+  "success": false,
+  "evidence_path": "evidence/terg/POLAND/sku_0020/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/terg/POLAND/sku_0020/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:51:47.915208+00:00"
+}

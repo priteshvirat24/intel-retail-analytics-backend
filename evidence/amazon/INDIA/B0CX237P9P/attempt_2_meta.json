@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 404,
+  "response_time_ms": 5555.88,
+  "browser_seconds": 9.87,
+  "bytes_received": 2130,
+  "success": false,
+  "evidence_path": "evidence/amazon/INDIA/B0CX237P9P/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/amazon/INDIA/B0CX237P9P/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:24:22.301335+00:00"
+}

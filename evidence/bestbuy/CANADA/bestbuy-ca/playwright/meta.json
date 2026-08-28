@@ -1,0 +1,16 @@
+{
+  "target_id": "bestbuy-ca",
+  "strategy": "PLAYWRIGHT",
+  "laptop_url": "https://www.bestbuy.ca/product/sku_0011",
+  "status_code": 0,
+  "latency_ms": 0.0,
+  "bytes": 0,
+  "endpoint_reachable": false,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "CONNECTION_RESET",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

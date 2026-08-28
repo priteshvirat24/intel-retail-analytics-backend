@@ -1,0 +1,60 @@
+{
+  "target_id": "terg-pl",
+  "retailer": "Terg",
+  "country": "Poland",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "mediaexpert.pl",
+    "base_url": "https://www.mediaexpert.pl",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.mediaexpert.pl",
+    "robots_txt_found": true,
+    "sitemaps_found": [],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 1937.8
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediaexpert.pl/search?q=laptop",
+      "status": 403,
+      "latency_ms": 675.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediaexpert.pl/search?q=notebook",
+      "status": 404,
+      "latency_ms": 1339.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediaexpert.pl/s?k=laptop",
+      "status": 404,
+      "latency_ms": 892.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediaexpert.pl/s?k=notebook",
+      "status": 404,
+      "latency_ms": 931.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.mediaexpert.pl/laptops",
+      "status": 403,
+      "latency_ms": 644.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.mediaexpert.pl",
+      "candidates_found": 0
+    }
+  ]
+}

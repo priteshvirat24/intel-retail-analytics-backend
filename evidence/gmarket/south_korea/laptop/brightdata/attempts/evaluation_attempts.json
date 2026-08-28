@@ -1,0 +1,24 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.gmarket.co.kr/search?q=\ub178\ud2b8\ubd81",
+    "status_code": 0,
+    "latency_ms": 41627.5,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.gmarket.co.kr",
+    "status_code": 200,
+    "latency_ms": 56332.3,
+    "product_title": "G\ub9c8\ucf13 - \uc9c0\uae08\ubd80\ud130\uc758 \ub9c8\ucf13",
+    "brand": null,
+    "price": 6790.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.1,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.1 < 0.70)",
+    "waf_detected": "Cloudflare WAF"
+  }
+]

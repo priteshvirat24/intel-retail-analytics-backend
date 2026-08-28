@@ -1,0 +1,28 @@
+target_id,retailer,country,laptop_url,http,playwright,firecrawl,adapter,final_status,failure_reason
+agres-id,Agres,Indonesia,https://www.agres.id/categories/laptops,NO,NO,NO,NO,FAILED,PRODUCT_IDENTITY_MISSING
+amazon-us,Amazon,United States,https://www.amazon.com/AKCHART-Laptop-Office-256GB-Laptops/dp/B0H94LG15F/ref=sr_1_1?dib=eyJ2IjoiMSJ9.p3ydhHkWHYvoLVn3p8tVdoTGaWNDUVOAQSL8r7by9Vzd1DJTRvutSw_4wwJKwCqdDw_IUFIGQDpVb-GTV8lYYHQ5PgirmpVurod74zEraZVf9-U9o40dtYjb7OnszAypk4ZI6f3qOWoeHxyIPMBkSbQ_Dz2LMlszmyoL5lRMNKmqdtgfkGDJ7iDU5Zhh8QE8V5iftFgaZGJKatmvE718uiv3ToCGCNLPmgmqCCb9kRc.iyVVTyQaun4-j7z9ff-FUQ_tFR0WnJslaU70RMB_ZNY&dib_tag=se&keywords=laptop&qid=1787559111&sr=8-1,NO,NO,NO,NO,FAILED,LOW_CONFIDENCE_PRODUCT_PAGE
+amazon-gb,Amazon,United Kingdom,https://www.amazon.co.uk/laptops/b/?ie=UTF8&node=429886031&ref_=sv_computers_3,NO,NO,NO,NO,FAILED,PRODUCT_IDENTITY_MISSING
+amazon-in,Amazon,India,https://www.amazon.in/ASUS-Vivobook-i5-13420H-Keyboard-X1605VA-SH1952WS/dp/B0FN9WN6XD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.YCD62Cm6YiAsNErT-6-DiISaPQvy3ePlUAfeo1TL337UbKwVM_vAi1-onOkc7-XCIgqtPHhIAyZwdkfl3ZbWDvSzD03vwM0gr1KhOLbjp88n_aiqTixndAJIkzJIZ72bDmX5Cx0WxApU6RyHmHEP-cmJTKwE1B6aOga_wqStXxlLpm1q4GjWnAelhxfqUQlY3EugSXLkqlTd1Pdm0zgyE6GZGUICpMpJueILBBgf-PI.7Eo-_Lia2Rkv7UyTJPCio6gYRxku78a-n8q9fpRZWZ8&dib_tag=se&keywords=laptop&qid=1787559140&sr=8-3,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+amazon-fr,Amazon,France,https://www.amazon.fr/dp/B08L5WHJ7L,NO,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND
+amazon-it,Amazon,Italy,https://www.amazon.it/dp/B08L5WHJ7L,NO,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND
+amazon-es,Amazon,Spain,https://www.amazon.es/dp/B08L5WHJ7L,NO,NO,NO,NO,FAILED,HTTP_404_NOT_FOUND
+amazon-de,Amazon,Germany,https://www.amazon.de/ASUS-FullHD-Notebook-Windows-8247/dp/B0FPD1G32N/ref=sr_1_4?dib=eyJ2IjoiMSJ9.CfjidRfJ8pMmDNKcmOSGrUG1zMWv8yeF-ufIYkXs_Go5WhNLONw2BtWGmryf5gFhud9RFTaLQ0q4BFt-LWfaBA4zyg-Jjazx164XsVQz0HKRS_J4fE6IOUsXRdMgqrTnzTPOJH8jZoOiQpgpex57IV7RC-SIGRXk4aod-HUFyhJ8g7i1BrYLNDLdndM0a0TcyDxiRh2wwf496AbrUmsvb9osL2-Q2QqzFEFMPk5CBJg.XVjgijIJFGlwfwrSoF02WX0bym-f1MzBNFINZJow36o&dib_tag=se&keywords=notebook&qid=1787559192&sr=8-4,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+amazon-mx,Amazon,Mexico,https://www.amazon.com.mx/INIU-20000mAh-Portatil-Powerbank-Compatible/dp/B0DCMW8SJV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.YVju2VL9Z36afz4wpJE9iNLMFGBV_63KB5uzwYKiwB2EPtcG6-T81muhUYIMTS0wOjVelFlx06m9-iOdMZY749Y0RaSGgEAvbfKzY_FtAL8X2qgpwph0Q0XAwWJAwKxHNztJMhOO9rQCZ-AJh_ol0RH3XOeyXzNPRDU4QweBddLFT9JB0a6_y-0DR2bIzcqRXbfGfQLLUi5JV_0vQU-l-a9Gjygup9HyXQZ_9kZd1pjV7ccBQn_oVUWdvFLlkBhPMa0oBQS1R7aVrFCTwckDbNC6CcDXOgBBVpzUKe7BrnE.i38T_vY8ROFAsEnFEYBaSrRxY4hAjrsWBzV8jUQRwM4&dib_tag=se&keywords=portatil&qid=1787559287&sr=8-1&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+amazon-br,Amazon,Brazil,https://www.amazon.com.br/dp/B09G91LXFP,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+amazon-ca,Amazon,Canada,https://www.amazon.ca/Laptops/b/?ie=UTF8&node=677252011&ref_=sv_pc_2,NO,NO,NO,NO,FAILED,LOW_CONFIDENCE_PRODUCT_PAGE
+currys-gb,Currys,United Kingdom,https://www.currys.co.uk/deals-on-computing/lenovo-yoga-intel-core-ultra-laptops,NO,NO,NO,NO,FAILED,EMPTY_RESPONSE
+dell-global,Dell,Global,https://www.dell.com/en-in/lp/learn-about-dell-laptops#Dell-Pro-Essential-Laptops,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+flipkart-in,Flipkart,India,https://www.flipkart.com/q/premium-laptops?otracker=undefined_footer,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+euronics-it,Euronics,Italy,https://www.euronics.it/informatica/computer-portatili/notebook/,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+hp-global,Hp,Global,https://www.hp.com/in-en/shop/laptops-tablets/laptop-promotions.html,NO,NO,NO,NO,FAILED,CAPTCHA_CHALLENGE
+lenovo-global,Lenovo,Global,https://www.lenovo.com/laptop-buying-guide/,NO,NO,NO,NO,FAILED,HTTP_5XX_SERVER_ERROR
+komputronik-pl,Komputronik,Poland,https://www.komputronik.pl/category/5803/laptopy-i-komputery.html,NO,NO,NO,NO,FAILED,CAPTCHA_CHALLENGE
+mercadolibre-co,Mercadolibre,Colombia,https://listado.mercadolibre.com.co/computacion/portatiles-accesorios/portatiles/#menu=categories,NO,NO,NO,NO,FAILED,LOW_CONFIDENCE_PRODUCT_PAGE
+jbhifi-au,Jbhifi,Australia,https://www.jbhifi.com.au/collections/computers-tablets/microsoft-surface-laptop,NO,NO,NO,NO,FAILED,EMPTY_RESPONSE
+mercadolibre-cl,Mercadolibre,Chile,https://listado.mercadolibre.cl/computacion/notebooks-accesorios/notebooks/#menu=categories,NO,NO,NO,NO,FAILED,LOW_CONFIDENCE_PRODUCT_PAGE
+mercadolibre-mx,Mercadolibre,Mexico,https://listado.mercadolibre.com.mx/electronica-audio-video/audio/audio-portatil-accesorios/#menu=categories,NO,NO,NO,NO,FAILED,NOT_A_LAPTOP_PRODUCT
+mercadolivre-br,Mercadolibre,Brazil,https://lista.mercadolivre.com.br/informatica/portateis-acessorios/acessorios-notebook/#menu=categories,NO,NO,NO,NO,FAILED,LOW_CONFIDENCE_PRODUCT_PAGE
+reliancedigital-in,Reliancedigital,India,https://www.reliancedigital.in/sections/laptops,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+newegg-us,Newegg,United States,https://www.newegg.com/p/N82E16826197674?Item=N82E16826197674,NO,NO,NO,NO,FAILED,EMPTY_RESPONSE
+terg-pl,Terg,Poland,https://www.mediaexpert.pl/gaming/laptopy-i-komputery,NO,NO,NO,NO,FAILED,WAF_BOT_CHALLENGE
+walmart-us,Walmart,United States,https://www.walmart.com/cp/laptops/3951,NO,NO,NO,NO,FAILED,CAPTCHA_CHALLENGE

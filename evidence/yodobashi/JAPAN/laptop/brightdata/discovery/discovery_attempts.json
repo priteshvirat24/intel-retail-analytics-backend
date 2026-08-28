@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.yodobashi.com/category/19531/19532/",
+    "status_code": 200,
+    "latency_ms": 6551.2,
+    "bytes": 329848,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

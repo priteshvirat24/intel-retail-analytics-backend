@@ -1,0 +1,18 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.agres.id/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 8973.7,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.agres.id/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 4367.2,
+    "bytes": 193290,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

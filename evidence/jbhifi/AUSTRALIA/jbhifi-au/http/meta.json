@@ -1,0 +1,16 @@
+{
+  "target_id": "jbhifi-au",
+  "strategy": "HTTP",
+  "laptop_url": "https://www.jbhifi.com.au/product/sku_0011",
+  "status_code": 404,
+  "latency_ms": 1764.55,
+  "bytes": 80024,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "HTTP_404_NOT_FOUND",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-gb",
+  "retailer": "Amazon",
+  "country": "United Kingdom",
+  "domain": "amazon.co.uk",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.amazon.co.uk/dp/B09MVZ7W5Q",
+  "title": "Generic Laptop LCD front Bezel Frame B Shell for MSI for Stealth ...",
+  "brand": "MSI",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:19:54.368054+00:00",
+  "failure_reason": null
+}

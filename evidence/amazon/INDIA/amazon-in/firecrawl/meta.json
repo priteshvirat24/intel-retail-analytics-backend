@@ -1,0 +1,16 @@
+{
+  "target_id": "amazon-in",
+  "strategy": "FIRECRAWL",
+  "laptop_url": "https://www.amazon.in/dp/B08N5WRW88",
+  "status_code": 404,
+  "latency_ms": 17632.695099979173,
+  "bytes": 2293,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "HTTP_404_NOT_FOUND",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

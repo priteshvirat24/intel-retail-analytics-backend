@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.thegioididong.com/laptop",
+    "status_code": 200,
+    "latency_ms": 7502.6,
+    "bytes": 651914,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

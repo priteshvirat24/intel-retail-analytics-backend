@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "France",
+  "product_url": "https://www.amazon.fr/dp/B0GX7M54LC",
+  "title": "Energizer EnergyBook 15.6 Pouces FHD PC Portable (Intel P6500Y, RAM 4Go, SSD 128Go, Intel UHD Graphics 615, Win 11 Home) - Clavier AZERTY, Gris",
+  "brand": "Visiter la boutique Energizer",
+  "model": "B0GX7M54LC",
+  "sku": "B0GX7M54LC",
+  "price": 44035.0,
+  "currency": "EUR",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": "4GB",
+  "storage": "128GO",
+  "display": "15.6\"",
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:55:44.381686Z"
+}

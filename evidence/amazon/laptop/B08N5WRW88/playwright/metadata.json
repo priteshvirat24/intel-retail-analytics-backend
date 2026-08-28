@@ -1,0 +1,11 @@
+{
+  "target_id": "amazon-br",
+  "retailer": "Amazon",
+  "url": "https://www.amazon.com.br/dp/B08N5WRW88",
+  "status_code": 200,
+  "final_url": "https://www.amazon.com.br/dp/B08N5WRW88",
+  "crawlable": false,
+  "failure_reason": "CAPTCHA_PAGE",
+  "anti_bot_vendor": null,
+  "latency_ms": 4078.94
+}

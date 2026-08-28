@@ -1,0 +1,1830 @@
+{
+  "category_urls": {
+    "y2024": [
+      {
+        "id": "URL-2024-001",
+        "url": "https://br-store.acer.com/336?layout=grid-2&map=productClusterIds",
+        "domain": "br-store.acer.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-002",
+        "url": "https://br-store.acer.com/notebooks/convencional",
+        "domain": "br-store.acer.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-003",
+        "url": "https://br-store.acer.com/notebooks/gamer",
+        "domain": "br-store.acer.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-004",
+        "url": "https://br-store.acer.com/notebooks/ultrafino",
+        "domain": "br-store.acer.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-005",
+        "url": "https://br-store.acer.com/notebooks/windows-11?initialMap=c&initialQuery=notebooks&map=category-1,sist--operacional&",
+        "domain": "br-store.acer.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-006",
+        "url": "https://br-store.acer.com/vero?_q=vero&map=ft",
+        "domain": "br-store.acer.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-007",
+        "url": "https://detail.tmall.com/item.htm?",
+        "domain": "detail.tmall.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-008",
+        "url": "https://global.gmarket.co.kr/item?goodscode=1577413717",
+        "domain": "global.gmarket.co.kr",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-009",
+        "url": "https://global.gmarket.co.kr/item?goodscode=2056452588",
+        "domain": "global.gmarket.co.kr",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-010",
+        "url": "https://jp.ext.hp.com/desktops/personal/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-011",
+        "url": "https://jp.ext.hp.com/desktops/personal/envy_te01_1000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-012",
+        "url": "https://jp.ext.hp.com/desktops/personal/hp_aio_22_intel/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-013",
+        "url": "https://jp.ext.hp.com/desktops/personal/hp_aio_24_df0000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-014",
+        "url": "https://jp.ext.hp.com/desktops/personal/hp_slim_s01/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-015",
+        "url": "https://jp.ext.hp.com/desktops/personal/pavilion_tp01/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-016",
+        "url": "https://jp.ext.hp.com/gaming/personal/omen_16_c/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-017",
+        "url": "https://jp.ext.hp.com/gaming/personal/omen_17_ck/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-018",
+        "url": "https://jp.ext.hp.com/gaming/personal/omen_25l_30l/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-019",
+        "url": "https://jp.ext.hp.com/gaming/personal/pavilion_gaming_tg01/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-020",
+        "url": "https://jp.ext.hp.com/gaming/personal/victus_16_d/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-021",
+        "url": "https://jp.ext.hp.com/gaming/personal/victus_16_e/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-022",
+        "url": "https://jp.ext.hp.com/notebooks/personal/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-023",
+        "url": "https://jp.ext.hp.com/notebooks/personal/chromebook_x360_13c/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-024",
+        "url": "https://jp.ext.hp.com/notebooks/personal/chromebook_x360_14c/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-025",
+        "url": "https://jp.ext.hp.com/notebooks/personal/envy_14_eb0000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-026",
+        "url": "https://jp.ext.hp.com/notebooks/personal/envy_15_ep/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-027",
+        "url": "https://jp.ext.hp.com/notebooks/personal/envy_15_x360_ee0000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-028",
+        "url": "https://jp.ext.hp.com/notebooks/personal/envy_x360_13_bd0000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-029",
+        "url": "https://jp.ext.hp.com/notebooks/personal/envy_x360_15_ed1000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-030",
+        "url": "https://jp.ext.hp.com/notebooks/personal/hp_15s_du1000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-031",
+        "url": "https://jp.ext.hp.com/notebooks/personal/hp_15s_eq1000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-032",
+        "url": "https://jp.ext.hp.com/notebooks/personal/hp_15s_fq0000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-033",
+        "url": "https://jp.ext.hp.com/notebooks/personal/hp_17s_cu/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-034",
+        "url": "https://jp.ext.hp.com/notebooks/personal/pavilion_15_eg0000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-035",
+        "url": "https://jp.ext.hp.com/notebooks/personal/pavilion_15_eh0000/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-036",
+        "url": "https://jp.ext.hp.com/notebooks/personal/pavilion_aero_13_be/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-037",
+        "url": "https://jp.ext.hp.com/notebooks/personal/pavilion_x360_14_dy/",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-038",
+        "url": "https://jp.ext.hp.com/notebooks/personal/spectre_x360_14_ea0000/?intid=spectre_spectre",
+        "domain": "jp.ext.hp.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-039",
+        "url": "https://list.jd.com/list.html?cat=670%2C671%2C672&",
+        "domain": "list.jd.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-040",
+        "url": "https://list.jd.com/list.html?cat=670%2C671%2C673&",
+        "domain": "list.jd.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-041",
+        "url": "https://lista.mercadolivre.com.br/informatica/pc-mesa/desktop_NoIndex_True",
+        "domain": "lista.mercadolivre.com.br",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-042",
+        "url": "https://lista.mercadolivre.com.br/notebooks",
+        "domain": "lista.mercadolivre.com.br",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-043",
+        "url": "https://listado.mercadolibre.cl/desktop",
+        "domain": "listado.mercadolibre.cl",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-044",
+        "url": "https://listado.mercadolibre.cl/laptop",
+        "domain": "listado.mercadolibre.cl",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-045",
+        "url": "https://listado.mercadolibre.com.co/desktop",
+        "domain": "listado.mercadolibre.com.co",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-046",
+        "url": "https://listado.mercadolibre.com.co/laptop",
+        "domain": "listado.mercadolibre.com.co",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-047",
+        "url": "https://listado.mercadolibre.com.mx/desktop",
+        "domain": "listado.mercadolibre.com.mx",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-048",
+        "url": "https://listado.mercadolibre.com.mx/laptop",
+        "domain": "listado.mercadolibre.com.mx",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-049",
+        "url": "https://www.amazon.ca/s?i=electronics&rh=n%3A677250011&fs=true&",
+        "domain": "amazon.ca",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-050",
+        "url": "https://www.amazon.ca/Laptop-Computers-Accessories/s?i=electronics&rh=n%3A677252011&fs=true&",
+        "domain": "amazon.ca",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-051",
+        "url": "https://www.amazon.co.uk/s?i=computers&rh=n%3A428651031&fs=true",
+        "domain": "amazon.co.uk",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-052",
+        "url": "https://www.amazon.co.uk/s?i=computers&rh=n%3A429886031&fs=true",
+        "domain": "amazon.co.uk",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-053",
+        "url": "https://www.amazon.com.br/s?rh=n%3A16364751011&fs=true&ref=lp_16364751011_sar",
+        "domain": "amazon.com.br",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-054",
+        "url": "https://www.amazon.com.br/s?rh=n%3A16364755011&fs=true&ref=lp_16364755011_sar",
+        "domain": "amazon.com.br",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-055",
+        "url": "https://www.amazon.com.mx/s?rh=n%3A10189661011&fs=true&ref=lp_10189661011_sar",
+        "domain": "amazon.com.mx",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-056",
+        "url": "https://www.amazon.com.mx/s?rh=n%3A10189669011&fs=true&ref=lp_10189669011_sar",
+        "domain": "amazon.com.mx",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-057",
+        "url": "https://www.amazon.com/s?rh=n%3A565098&fs=true&ref=lp_565098_sar",
+        "domain": "amazon.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-058",
+        "url": "https://www.amazon.com/s?rh=n%3A565108&fs=true&ref=lp_565108_sar",
+        "domain": "amazon.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-059",
+        "url": "https://www.amazon.de/s?rh=n%3A427954031&fs=true&ref=lp_427954031_sar",
+        "domain": "amazon.de",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-060",
+        "url": "https://www.amazon.de/s?rh=n%3A427957031&fs=true&ref=lp_427957031_sar",
+        "domain": "amazon.de",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-061",
+        "url": "https://www.amazon.es/s?rh=n%3A937994031&fs=true&ref=lp_937994031_sar",
+        "domain": "amazon.es",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-062",
+        "url": "https://www.amazon.es/s?rh=n%3A938008031&fs=true&ref=lp_938008031_sar",
+        "domain": "amazon.es",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-063",
+        "url": "https://www.amazon.fr/b/?node=13829939031",
+        "domain": "amazon.fr",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-064",
+        "url": "https://www.amazon.fr/s?rh=n%3A429879031&fs=true&ref=lp_429879031_sar",
+        "domain": "amazon.fr",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-065",
+        "url": "https://www.amazon.in/s?i=computers&rh=n%3A1375392031&fs=true&",
+        "domain": "amazon.in",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-066",
+        "url": "https://www.amazon.in/s?i=computers&rh=n%3A1375424031&fs=true&",
+        "domain": "amazon.in",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-067",
+        "url": "https://www.amazon.it/s?rh=n%3A2706939031&fs=true&ref=lp_2706939031_sar",
+        "domain": "amazon.it",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-068",
+        "url": "https://www.amazon.it/s?rh=n%3A460158031&fs=true&ref=lp_460158031_sar",
+        "domain": "amazon.it",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-069",
+        "url": "https://www.bestbuy.ca/en-ca/category/desktop-computers/20213",
+        "domain": "bestbuy.ca",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-070",
+        "url": "https://www.bestbuy.ca/en-ca/category/laptops-macbooks/20352",
+        "domain": "bestbuy.ca",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-071",
+        "url": "https://www.bestbuy.com/site/desktop-computers/all-desktops/pcmcat143400050013.c?id=pcmcat143400050013",
+        "domain": "bestbuy.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-072",
+        "url": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+        "domain": "bestbuy.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-073",
+        "url": "https://www.boulanger.com/c/tous-les-ordinateurs-de-bureau",
+        "domain": "boulanger.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-074",
+        "url": "https://www.boulanger.com/c/tous-les-ordinateurs-portables",
+        "domain": "boulanger.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-075",
+        "url": "https://www.costco.com/desktops-servers.html",
+        "domain": "costco.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-076",
+        "url": "https://www.costco.com/laptops.html",
+        "domain": "costco.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-077",
+        "url": "https://www.coupang.com/np/categories/497135",
+        "domain": "coupang.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-078",
+        "url": "https://www.coupang.com/np/categories/497136",
+        "domain": "coupang.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-079",
+        "url": "https://www.currys.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/317_3055_30057_xx_xx/xx-criteria.html",
+        "domain": "currys.co.uk",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-080",
+        "url": "https://www.currys.co.uk/gbuk/computing/laptops/laptops/315_3226_30328_xx_xx/xx-criteria.html",
+        "domain": "currys.co.uk",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-081",
+        "url": "https://www.elgiganten.dk/search/Desktop?context=erhverv",
+        "domain": "elgiganten.dk",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-082",
+        "url": "https://www.elgiganten.dk/search/laptop?context=erhverv",
+        "domain": "elgiganten.dk",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-083",
+        "url": "https://www.elgiganten.se/datorer-kontor/datorer/laptop",
+        "domain": "elgiganten.se",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-084",
+        "url": "https://www.elgiganten.se/search/Desktop",
+        "domain": "elgiganten.se",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-085",
+        "url": "https://www.elkjop.no/pc-datautstyr-og-kontor/datamaskiner/barbar-pc",
+        "domain": "elkjop.no",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-086",
+        "url": "https://www.elkjop.no/pc-datautstyr-og-kontor/datamaskiner/stasjonar-pc",
+        "domain": "elkjop.no",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-087",
+        "url": "https://www.euronics.it/informatica/computer-portatili/",
+        "domain": "euronics.it",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-088",
+        "url": "https://www.euronics.it/informatica/pc-desktop/",
+        "domain": "euronics.it",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-089",
+        "url": "https://www.expert.de/shop/unsere-produkte/computer-zubehor/notebooks/laptops",
+        "domain": "expert.de",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-090",
+        "url": "https://www.expert.de/shop/unsere-produkte/computer-zubehor/pcs/desktop-pcs",
+        "domain": "expert.de",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-091",
+        "url": "https://www.flipkart.com/computers/desktop-pcs/pr?sid=6bo,nl4&otracker=categorytree",
+        "domain": "flipkart.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-092",
+        "url": "https://www.flipkart.com/laptops/pr?sid=6bo,b5g&otracker=categorytree",
+        "domain": "flipkart.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-093",
+        "url": "https://www.fnac.com/Tous-les-ordinateurs-portables/Ordinateurs-portables/nsh154425/w-4?PageIndex=1",
+        "domain": "fnac.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-094",
+        "url": "https://www.fnac.com/Tous-les-PC-de-bureau/Ordinateur-de-bureau/nsh51426/w-4?PageIndex=1",
+        "domain": "fnac.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-095",
+        "url": "https://www.jbhifi.com.au/collections/computers-tablets/desktops",
+        "domain": "jbhifi.com.au",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-096",
+        "url": "https://www.jbhifi.com.au/collections/computers-tablets/laptops",
+        "domain": "jbhifi.com.au",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-097",
+        "url": "https://www.komputronik.pl/category/5022/laptopy.html",
+        "domain": "komputronik.pl",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-098",
+        "url": "https://www.komputronik.pl/category/5801/komputery-pc.html",
+        "domain": "komputronik.pl",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-099",
+        "url": "https://www.magazineluiza.com.br/computador-e-all-in-one/informatica/s/in/micr/",
+        "domain": "magazineluiza.com.br",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-100",
+        "url": "https://www.magazineluiza.com.br/notebook-e-macbook/informatica/s/in/ntmk/",
+        "domain": "magazineluiza.com.br",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-101",
+        "url": "https://www.mediaexpert.pl/komputery-i-tablety/komputery-pc/komputery-stacjonarne",
+        "domain": "mediaexpert.pl",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-102",
+        "url": "https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy",
+        "domain": "mediaexpert.pl",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-103",
+        "url": "https://www.mediamarkt.com.tr/tr/category/_laptop-504926.html",
+        "domain": "mediamarkt.com.tr",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-104",
+        "url": "https://www.mediamarkt.com.tr/tr/category/_masa%C3%BCst%C3%BC-bilgisayarlar-504957.html",
+        "domain": "mediamarkt.com.tr",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-105",
+        "url": "https://www.mediamarkt.de/de/category/notebooks-362.html",
+        "domain": "mediamarkt.de",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-106",
+        "url": "https://www.mediamarkt.de/de/category/pcs-365.html",
+        "domain": "mediamarkt.de",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-107",
+        "url": "https://www.mediamarkt.es/es/category/pc-sobremesa-161.html",
+        "domain": "mediamarkt.es",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-108",
+        "url": "https://www.mediamarkt.es/es/category/port%C3%A1tiles-153.html",
+        "domain": "mediamarkt.es",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-109",
+        "url": "https://www.mediaworld.it/catalogo/computer-e-smart-home/computer/notebook",
+        "domain": "mediaworld.it",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-110",
+        "url": "https://www.mediaworld.it/it/category/pc-desktop-200104.html?",
+        "domain": "mediaworld.it",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-111",
+        "url": "https://www.monsternotebook.com.tr/laptop/",
+        "domain": "monsternotebook.com.tr",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-112",
+        "url": "https://www.newegg.com/Desktop-Computers/SubCategory/ID-10?Tid=19096",
+        "domain": "newegg.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-113",
+        "url": "https://www.newegg.com/p/pl?Submit=StoreIM&Category=223&Depa=3",
+        "domain": "newegg.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-114",
+        "url": "https://www.officeworks.com.au/shop/officeworks/search?q=desktop&view=grid&page=1&sortBy=bestmatch",
+        "domain": "officeworks.com.au",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-115",
+        "url": "https://www.officeworks.com.au/shop/officeworks/search?q=laptop&view=grid&page=1&sortBy=bestmatch",
+        "domain": "officeworks.com.au",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-116",
+        "url": "https://www.reliancedigital.in/desktops-all-in-ones/c/S101211?searchQuery=:relevance&page=0",
+        "domain": "reliancedigital.in",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-117",
+        "url": "https://www.reliancedigital.in/laptops/c/S101210?searchQuery=&page=1",
+        "domain": "reliancedigital.in",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-118",
+        "url": "https://www.staples.com/Desktop-Computers/cat_CL167288",
+        "domain": "staples.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-119",
+        "url": "https://www.staples.com/Laptops/cat_CL167289",
+        "domain": "staples.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-120",
+        "url": "https://www.thegioididong.com/laptop?key=laptop&sc=new",
+        "domain": "thegioididong.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-121",
+        "url": "https://www.thegioididong.com/may-tinh-de-ban",
+        "domain": "thegioididong.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-122",
+        "url": "https://www.tokopedia.com/p/komputer-laptop/desktop-mini-pc/desktop-all-in-one",
+        "domain": "tokopedia.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-123",
+        "url": "https://www.tokopedia.com/p/komputer-laptop/laptop",
+        "domain": "tokopedia.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-124",
+        "url": "https://www.unieuro.it/online/Computer-e-Tablet/Computer-Portatili?dFR[categories.lvl2][0]=C12",
+        "domain": "unieuro.it",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-125",
+        "url": "https://www.unieuro.it/online/Computer-e-Tablet/PC-Desktop-e-Monitor/PC-Desktop?dFR[categories.lvl3][0]=C1301",
+        "domain": "unieuro.it",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-126",
+        "url": "https://www.walmart.com/browse/electronics/all-desktop-computers/3944_1089430_132982_1231618",
+        "domain": "walmart.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-127",
+        "url": "https://www.walmart.com/browse/electronics/all-laptop-computers/3944_3951_1089430_132960",
+        "domain": "walmart.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-128",
+        "url": "https://www.yodobashi.com/category/19531/?word=desktop",
+        "domain": "yodobashi.com",
+        "form_factor": "Desktop",
+        "year": 2024,
+        "status": "AUDITED"
+      },
+      {
+        "id": "URL-2024-129",
+        "url": "https://www.yodobashi.com/category/19531/?word=laptop",
+        "domain": "yodobashi.com",
+        "form_factor": "Laptop",
+        "year": 2024,
+        "status": "AUDITED"
+      }
+    ],
+    "y2025": [
+      {
+        "id": "URL-2025-001",
+        "url": "https://detail.tmall.com/item.htm?",
+        "domain": "detail.tmall.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-002",
+        "url": "https://global.gmarket.co.kr/item?goodscode=1577413717",
+        "domain": "global.gmarket.co.kr",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-003",
+        "url": "https://global.gmarket.co.kr/item?goodscode=2056452588",
+        "domain": "global.gmarket.co.kr",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-004",
+        "url": "https://list.jd.com/list.html?cat=670%2C671%2C672&page=1",
+        "domain": "list.jd.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-005",
+        "url": "https://list.jd.com/list.html?cat=670%2C671%2C673&page=1",
+        "domain": "list.jd.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-006",
+        "url": "https://lista.mercadolivre.com.br/informatica/pc-mesa/desktop_NoIndex_True",
+        "domain": "lista.mercadolivre.com.br",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-007",
+        "url": "https://lista.mercadolivre.com.br/notebooks",
+        "domain": "lista.mercadolivre.com.br",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-008",
+        "url": "https://listado.mercadolibre.com.co/desktop#D[A:desktop]",
+        "domain": "listado.mercadolibre.com.co",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-009",
+        "url": "https://listado.mercadolibre.com.co/laptop#D[A:laptop]",
+        "domain": "listado.mercadolibre.com.co",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-010",
+        "url": "https://listado.mercadolibre.com.mx/desktop#D[A:desktop]",
+        "domain": "listado.mercadolibre.com.mx",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-011",
+        "url": "https://listado.mercadolibre.com.mx/laptop#D[A:laptop]",
+        "domain": "listado.mercadolibre.com.mx",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-012",
+        "url": "https://www.amazon.ca/s?rh=n%3A677250011&fs=true&ref=lp_677250011_sar",
+        "domain": "amazon.ca",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-013",
+        "url": "https://www.amazon.ca/s?rh=n%3A677252011&fs=true&ref=lp_677252011_sar",
+        "domain": "amazon.ca",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-014",
+        "url": "https://www.amazon.co.uk/s?i=computers&rh=n%3A428651031&fs=true",
+        "domain": "amazon.co.uk",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-015",
+        "url": "https://www.amazon.co.uk/s?i=computers&rh=n%3A429886031&fs=true",
+        "domain": "amazon.co.uk",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-016",
+        "url": "https://www.amazon.com.br/s?rh=n%3A16364751011&fs=true&ref=lp_16364751011_sar",
+        "domain": "amazon.com.br",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-017",
+        "url": "https://www.amazon.com.br/s?rh=n%3A16364755011&fs=true&ref=lp_16364755011_sar",
+        "domain": "amazon.com.br",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-018",
+        "url": "https://www.amazon.com.mx/s?rh=n%3A10189661011&fs=true&ref=lp_10189661011_sar",
+        "domain": "amazon.com.mx",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-019",
+        "url": "https://www.amazon.com.mx/s?rh=n%3A10189669011&fs=true&ref=lp_10189669011_sar",
+        "domain": "amazon.com.mx",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-020",
+        "url": "https://www.amazon.com/s?rh=n%3A565098&fs=true&ref=lp_565098_sar",
+        "domain": "amazon.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-021",
+        "url": "https://www.amazon.com/s?rh=n%3A565108&fs=true&ref=lp_565108_sar",
+        "domain": "amazon.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-022",
+        "url": "https://www.amazon.de/s?rh=n%3A427954031&fs=true&ref=lp_427954031_sar",
+        "domain": "amazon.de",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-023",
+        "url": "https://www.amazon.de/s?rh=n%3A427957031&fs=true&ref=lp_427957031_sar",
+        "domain": "amazon.de",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-024",
+        "url": "https://www.amazon.es/s?rh=n%3A937994031&fs=true&ref=lp_937994031_sar",
+        "domain": "amazon.es",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-025",
+        "url": "https://www.amazon.es/s?rh=n%3A938008031&fs=true&ref=lp_938008031_sar",
+        "domain": "amazon.es",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-026",
+        "url": "https://www.amazon.fr/b/?node=13829939031",
+        "domain": "amazon.fr",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-027",
+        "url": "https://www.amazon.fr/s?rh=n%3A429879031&fs=true&ref=lp_429879031_sar",
+        "domain": "amazon.fr",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-028",
+        "url": "https://www.amazon.in/s?rh=n%3A1375392031&fs=true&ref=lp_1375392031_sar",
+        "domain": "amazon.in",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-029",
+        "url": "https://www.amazon.in/s?rh=n%3A1375424031&fs=true&ref=lp_1375424031_sar",
+        "domain": "amazon.in",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-030",
+        "url": "https://www.amazon.it/s?rh=n%3A2706939031&fs=true&ref=lp_2706939031_sar",
+        "domain": "amazon.it",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-031",
+        "url": "https://www.amazon.it/s?rh=n%3A460158031&fs=true&ref=lp_460158031_sar",
+        "domain": "amazon.it",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-032",
+        "url": "https://www.bestbuy.ca/en-ca/category/desktop-computers/20213",
+        "domain": "bestbuy.ca",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-033",
+        "url": "https://www.bestbuy.ca/en-ca/category/laptops-macbooks/20352",
+        "domain": "bestbuy.ca",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-034",
+        "url": "https://www.bestbuy.com/site/desktop-computers/all-desktops/pcmcat143400050013.c?id=pcmcat143400050013",
+        "domain": "bestbuy.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-035",
+        "url": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+        "domain": "bestbuy.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-036",
+        "url": "https://www.biccamera.com/bc/category/?q=desktop&sg=desk",
+        "domain": "biccamera.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-037",
+        "url": "https://www.biccamera.com/bc/category/?q=laptop&sg=laptop",
+        "domain": "biccamera.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-038",
+        "url": "https://www.boulanger.com/c/tous-les-ordinateurs-de-bureau",
+        "domain": "boulanger.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-039",
+        "url": "https://www.boulanger.com/c/tous-les-ordinateurs-portables",
+        "domain": "boulanger.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-040",
+        "url": "https://www.costco.com/desktops-servers.html",
+        "domain": "costco.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-041",
+        "url": "https://www.costco.com/laptops.html",
+        "domain": "costco.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-042",
+        "url": "https://www.coupang.com/np/categories/497135",
+        "domain": "coupang.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-043",
+        "url": "https://www.coupang.com/np/categories/497136",
+        "domain": "coupang.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-044",
+        "url": "https://www.currys.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/317_3055_30057_xx_xx/xx-criteria.html",
+        "domain": "currys.co.uk",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-045",
+        "url": "https://www.currys.co.uk/gbuk/computing/laptops/laptops/315_3226_30328_xx_xx/xx-criteria.html",
+        "domain": "currys.co.uk",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-046",
+        "url": "https://www.elgiganten.dk/search/Desktop?context=erhverv",
+        "domain": "elgiganten.dk",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-047",
+        "url": "https://www.elgiganten.dk/search/laptop?context=erhverv",
+        "domain": "elgiganten.dk",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-048",
+        "url": "https://www.elgiganten.se/datorer-kontor/datorer/laptop",
+        "domain": "elgiganten.se",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-049",
+        "url": "https://www.elgiganten.se/search/Desktop",
+        "domain": "elgiganten.se",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-050",
+        "url": "https://www.elkjop.no/pc-datautstyr-og-kontor/datamaskiner/barbar-pc",
+        "domain": "elkjop.no",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-051",
+        "url": "https://www.elkjop.no/pc-datautstyr-og-kontor/datamaskiner/stasjonar-pc",
+        "domain": "elkjop.no",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-052",
+        "url": "https://www.euronics.it/informatica/computer-portatili/",
+        "domain": "euronics.it",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-053",
+        "url": "https://www.euronics.it/informatica/pc-desktop/",
+        "domain": "euronics.it",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-054",
+        "url": "https://www.expert.de/shop/unsere-produkte/computer-zubehor/notebooks/laptops",
+        "domain": "expert.de",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-055",
+        "url": "https://www.expert.de/shop/unsere-produkte/computer-zubehor/pcs/desktop-pcs",
+        "domain": "expert.de",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-056",
+        "url": "https://www.flipkart.com/computers/desktop-pcs/pr?sid=6bo,nl4&otracker=categorytree",
+        "domain": "flipkart.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-057",
+        "url": "https://www.flipkart.com/laptops/pr?sid=6bo,b5g&otracker=categorytree",
+        "domain": "flipkart.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-058",
+        "url": "https://www.fnac.com/Tous-les-ordinateurs-portables/Ordinateurs-portables/nsh154425/w-4?PageIndex=1",
+        "domain": "fnac.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-059",
+        "url": "https://www.fnac.com/Tous-les-PC-de-bureau/Ordinateur-de-bureau/nsh51426/w-4?PageIndex=1",
+        "domain": "fnac.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-060",
+        "url": "https://www.harveynorman.com.au/computers-tablets/computers/desktops-and-all-in-one",
+        "domain": "harveynorman.com.au",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-061",
+        "url": "https://www.harveynorman.com.au/computers-tablets/computers/laptops",
+        "domain": "harveynorman.com.au",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-062",
+        "url": "https://www.jbhifi.com.au/collections/computers-tablets/desktops",
+        "domain": "jbhifi.com.au",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-063",
+        "url": "https://www.jbhifi.com.au/collections/computers-tablets/laptops",
+        "domain": "jbhifi.com.au",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-064",
+        "url": "https://www.komputronik.pl/category/5022/laptopy.html",
+        "domain": "komputronik.pl",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-065",
+        "url": "https://www.komputronik.pl/category/5801/komputery-pc.html",
+        "domain": "komputronik.pl",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-066",
+        "url": "https://www.magazineluiza.com.br/computador-e-all-in-one/informatica/s/in/micr/",
+        "domain": "magazineluiza.com.br",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-067",
+        "url": "https://www.magazineluiza.com.br/notebook-e-macbook/informatica/s/in/ntmk/",
+        "domain": "magazineluiza.com.br",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-068",
+        "url": "https://www.mediaexpert.pl/komputery-i-tablety/komputery-pc/komputery-stacjonarne",
+        "domain": "mediaexpert.pl",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-069",
+        "url": "https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy",
+        "domain": "mediaexpert.pl",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-070",
+        "url": "https://www.mediamarkt.com.tr/tr/category/_laptop-504926.html",
+        "domain": "mediamarkt.com.tr",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-071",
+        "url": "https://www.mediamarkt.com.tr/tr/category/_masa%C3%BCst%C3%BC-bilgisayarlar-504957.html",
+        "domain": "mediamarkt.com.tr",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-072",
+        "url": "https://www.mediamarkt.de/de/category/notebooks-362.html",
+        "domain": "mediamarkt.de",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-073",
+        "url": "https://www.mediamarkt.de/de/category/pcs-365.html",
+        "domain": "mediamarkt.de",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-074",
+        "url": "https://www.mediamarkt.es/es/category/pc-sobremesa-161.html",
+        "domain": "mediamarkt.es",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-075",
+        "url": "https://www.mediamarkt.es/es/category/port%C3%A1tiles-153.html",
+        "domain": "mediamarkt.es",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-076",
+        "url": "https://www.mediaworld.it/catalogo/computer-e-smart-home/computer/notebook",
+        "domain": "mediaworld.it",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-077",
+        "url": "https://www.mediaworld.it/it/category/pc-desktop-200104.html?",
+        "domain": "mediaworld.it",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-078",
+        "url": "https://www.monsternotebook.com.tr/laptop/",
+        "domain": "monsternotebook.com.tr",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-079",
+        "url": "https://www.newegg.com/Desktop-Computers/SubCategory/ID-10?Tid=19096",
+        "domain": "newegg.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-080",
+        "url": "https://www.newegg.com/p/pl?Submit=StoreIM&Category=223&Depa=3",
+        "domain": "newegg.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-081",
+        "url": "https://www.notebooksbilliger.de/notebooks",
+        "domain": "notebooksbilliger.de",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-082",
+        "url": "https://www.notebooksbilliger.de/pc+systeme",
+        "domain": "notebooksbilliger.de",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-083",
+        "url": "https://www.officeworks.com.au/shop/officeworks/search?q=desktop&view=grid&page=1&sortBy=bestmatch",
+        "domain": "officeworks.com.au",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-084",
+        "url": "https://www.officeworks.com.au/shop/officeworks/search?q=laptop&view=grid&page=1&sortBy=bestmatch",
+        "domain": "officeworks.com.au",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-085",
+        "url": "https://www.reliancedigital.in/desktops-all-in-ones/c/S101211?searchQuery=:relevance&page=0",
+        "domain": "reliancedigital.in",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-086",
+        "url": "https://www.reliancedigital.in/laptops/c/S101210?searchQuery=&page=1",
+        "domain": "reliancedigital.in",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-087",
+        "url": "https://www.staples.com/Desktop-Computers/cat_CL167288",
+        "domain": "staples.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-088",
+        "url": "https://www.staples.com/Laptops/cat_CL167289",
+        "domain": "staples.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-089",
+        "url": "https://www.thegioididong.com/laptop?key=laptop&sc=new",
+        "domain": "thegioididong.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-090",
+        "url": "https://www.thegioididong.com/may-tinh-de-ban",
+        "domain": "thegioididong.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-091",
+        "url": "https://www.tokopedia.com/p/komputer-laptop/desktop-mini-pc/desktop-all-in-one",
+        "domain": "tokopedia.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-092",
+        "url": "https://www.tokopedia.com/p/komputer-laptop/laptop",
+        "domain": "tokopedia.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-093",
+        "url": "https://www.unieuro.it/online/Computer-e-Tablet/Computer-Portatili?dFR[categories.lvl2][0]=C12",
+        "domain": "unieuro.it",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-094",
+        "url": "https://www.unieuro.it/online/Computer-e-Tablet/PC-Desktop-e-Monitor/PC-Desktop?dFR[categories.lvl3][0]=C1301",
+        "domain": "unieuro.it",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-095",
+        "url": "https://www.walmart.com/browse/electronics/all-desktop-computers/3944_1089430_132982_1231618",
+        "domain": "walmart.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-096",
+        "url": "https://www.walmart.com/browse/electronics/all-laptop-computers/3944_3951_1089430_132960",
+        "domain": "walmart.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-097",
+        "url": "https://www.yodobashi.com/category/19531/?word=desktop",
+        "domain": "yodobashi.com",
+        "form_factor": "Desktop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      },
+      {
+        "id": "URL-2025-098",
+        "url": "https://www.yodobashi.com/category/19531/?word=laptop",
+        "domain": "yodobashi.com",
+        "form_factor": "Laptop",
+        "year": 2025,
+        "status": "ACTIVE_LIVE"
+      }
+    ],
+    "summary": {
+      "total_2024_urls": 129,
+      "total_2025_urls": 98,
+      "laptop_urls_2025": 66,
+      "desktop_urls_2025": 32
+    }
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://www.elgiganten.dk/search?q=laptop",
+    "score": 25.0,
+    "anchor": "Privatkunde"
+  },
+  {
+    "url": "https://www.elgiganten.dk/erhverv/search?q=laptop",
+    "score": 25.0,
+    "anchor": "Erhvervskunde"
+  }
+]

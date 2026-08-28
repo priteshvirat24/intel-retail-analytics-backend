@@ -1,0 +1,16 @@
+{
+  "target_id": "euronics-it",
+  "strategy": "HTTP",
+  "laptop_url": "https://www.euronics.it/product/sku_0011",
+  "status_code": 404,
+  "latency_ms": 10559.32,
+  "bytes": 29334,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "HTTP_404_NOT_FOUND",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

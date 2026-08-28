@@ -1,0 +1,11 @@
+> ## Documentation Index
+> Fetch the complete documentation index at: https://docs.brightdata.com/llms.txt
+> Use this file to discover all available pages before exploring further.
+
+# 配置
+
+如何更改扩展程序的设置？
+
+打开扩展程序设置页面，更改设置，例如区域、国家/地区、自定义标头或任何必要内容。完成后点击“应用”，您的扩展程序将使用新设置进行更新。
+
+<img src="https://mintcdn.com/brightdata/8FBihMtdCDBVIPQS/images/scraping-automation/browser-extension/configuration/change-extension-settings.gif?s=342513648e27c527c67019a710e74f4e" alt="" width="912" height="872" data-path="images/scraping-automation/browser-extension/configuration/change-extension-settings.gif" />

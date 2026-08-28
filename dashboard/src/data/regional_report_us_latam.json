@@ -1,0 +1,72 @@
+{
+  "active_region": "United States",
+  "regions": {
+    "united_states": {
+      "region": "North America",
+      "country": "United States",
+      "country_iso": "us",
+      "status": "ACTIVE_POC_DATA",
+      "currency": "USD",
+      "retailers_sampled": 6,
+      "total_products_sampled": 19,
+      "intel_sos_pct": 73.7,
+      "retailers": [
+        "Amazon US",
+        "Best Buy",
+        "Costco",
+        "Dell Technologies",
+        "HP Direct",
+        "Walmart"
+      ],
+      "highlights": [
+        "Strongest Intel Core Ultra adoption observed in OEM Direct (Dell & HP) and Best Buy.",
+        "Intel EVO badge compliance is highest at Best Buy and Costco (100% on eligible AI PC SKUs).",
+        "Average promotional discount across Intel laptops in US is 14.8% ($215 average savings)."
+      ]
+    },
+    "latam": {
+      "region": "Latin America (LATAM)",
+      "status": "PLACEHOLDER_STRUCTURE",
+      "target_countries": [
+        {
+          "country": "Brazil",
+          "iso": "br",
+          "target_retailers": [
+            "mercadolivre.com.br",
+            "magazineluiza.com.br",
+            "amazon.com.br"
+          ]
+        },
+        {
+          "country": "Mexico",
+          "iso": "mx",
+          "target_retailers": [
+            "amazon.com.mx",
+            "mercadolibre.com.mx",
+            "liverpool.com.mx"
+          ]
+        },
+        {
+          "country": "Chile",
+          "iso": "cl",
+          "target_retailers": [
+            "mercadolibre.cl",
+            "falabella.cl",
+            "paris.cl"
+          ]
+        },
+        {
+          "country": "Colombia",
+          "iso": "co",
+          "target_retailers": [
+            "mercadolibre.com.co",
+            "exito.com",
+            "alkosto.com"
+          ]
+        }
+      ],
+      "planned_scope": "Full production expansion to 14 retailers and 250+ SKUs across LATAM",
+      "note": "Disabled in POC; activates automatically when multi-country crawl pipeline is enabled."
+    }
+  }
+}

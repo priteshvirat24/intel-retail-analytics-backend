@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.it/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 5920.8,
+    "bytes": 1864578,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

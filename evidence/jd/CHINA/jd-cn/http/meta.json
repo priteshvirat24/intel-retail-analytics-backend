@@ -1,0 +1,18 @@
+{
+  "target_id": "jd-cn",
+  "strategy": "HTTP",
+  "laptop_url": "https://www.jd.com/product/sku_0011",
+  "status_code": 200,
+  "latency_ms": 8131.79,
+  "bytes": 8481,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "PRODUCT_PAGE_NOT_PRESENT",
+  "detected_title": "",
+  "keywords": [
+    "ram"
+  ],
+  "anti_bot_vendor": null
+}

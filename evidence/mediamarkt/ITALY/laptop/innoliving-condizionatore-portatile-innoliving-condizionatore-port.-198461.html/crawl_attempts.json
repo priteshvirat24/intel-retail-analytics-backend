@@ -1,0 +1,35 @@
+{
+  "target_id": "mediamarkt-it",
+  "laptop_url": "https://ricondizionati.mediaworld.it/product/innoliving-condizionatore-portatile-innoliving-condizionatore-port.-198461.html",
+  "http": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.35,
+    "failure_class": "NOT_A_LAPTOP_PRODUCT",
+    "failure_vendor": "Cloudflare WAF",
+    "latency_ms": 11172.8
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.4
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.65,
+    "failure_class": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_PRODUCT_NOT_VERIFIABLE",
+    "latency_ms": 12221.4
+  },
+  "brightdata": "NO",
+  "adapter": "NO",
+  "extracted_product": null
+}

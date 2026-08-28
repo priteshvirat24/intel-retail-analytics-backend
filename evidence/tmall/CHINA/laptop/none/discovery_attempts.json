@@ -1,0 +1,72 @@
+{
+  "target_id": "tmall-cn",
+  "retailer": "Tmall",
+  "country": "China",
+  "discovery_status": "NO_PRODUCT_FOUND",
+  "failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "domain_validation": {
+    "domain": "tmall.com",
+    "base_url": "https://www.tmall.com",
+    "http_status": 200,
+    "final_url": "https://www.tmall.com",
+    "robots_txt_found": true,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 1549.3
+  },
+  "discovery_attempts": [
+    {
+      "method": "METHOD_1_HOMEPAGE",
+      "status": "NO_LINKS",
+      "http_status": 200,
+      "latency_ms": 1549.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_2_ROBOTS_TXT",
+      "status": "SUCCESS",
+      "sitemaps_found": 0,
+      "latency_ms": 527.1
+    },
+    {
+      "method": "METHOD_3_XML_SITEMAP",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_4_WEBSITE_SEARCH",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_5_CATEGORY_NAV",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_6_JSONLD_EXTRACTION",
+      "status": "NO_LINKS",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_7_KNOWN_PATTERNS",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_8_SEARCH_ENGINE",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+      "status": "FAILED",
+      "candidates_found": 0
+    }
+  ]
+}

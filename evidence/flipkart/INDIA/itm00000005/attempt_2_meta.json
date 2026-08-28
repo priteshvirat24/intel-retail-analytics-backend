@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 200,
+  "response_time_ms": 6401.26,
+  "browser_seconds": 8.08,
+  "bytes_received": 354419,
+  "success": true,
+  "evidence_path": "evidence/flipkart/INDIA/itm00000005/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/flipkart/INDIA/itm00000005/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:39:06.153212+00:00"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://store.acer.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 9108.7,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://store.acer.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 3812.6,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://store.acer.com/laptops",
+    "status_code": 200,
+    "latency_ms": 39709.7,
+    "bytes": 895781,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

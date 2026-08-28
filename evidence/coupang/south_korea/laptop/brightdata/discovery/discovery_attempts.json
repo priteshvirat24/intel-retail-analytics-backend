@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.coupang.com/search?q=\ub178\ud2b8\ubd81",
+    "status_code": 200,
+    "latency_ms": 25567.4,
+    "bytes": 2184056,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

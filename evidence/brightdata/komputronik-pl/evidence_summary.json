@@ -1,0 +1,18 @@
+{
+  "target_id": "komputronik-pl",
+  "retailer": "Komputronik",
+  "country": "Poland",
+  "domain": "komputronik.pl",
+  "can_scrape": "YES",
+  "strategy": "FIRECRAWL_RESCUE",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.komputronik.pl/product/864936/laptop-microsoft-surface-laptop-go-3-i5-1235u-12-4-16gb-256gb-w11h-platynowy.html",
+  "title": "Microsoft Surface Laptop Go 3 - i5-1235U | 12,4'' | 16GB",
+  "brand": "Microsoft",
+  "specs": {
+    "cpu": "I5-1235U",
+    "ram": "16GB"
+  },
+  "timestamp": "2026-08-25T14:24:00.605485+00:00",
+  "failure_reason": null
+}

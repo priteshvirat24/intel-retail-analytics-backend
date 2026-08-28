@@ -1,0 +1,352 @@
+[
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Smartphones & Mobile",
+    "sku_id": "B08L5WHJ7L",
+    "sku_url": "https://www.amazon.de/dp/B08L5WHJ7L",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141014+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Laptops & Notebooks",
+    "sku_id": "B08N5WRW88",
+    "sku_url": "https://www.amazon.de/dp/B08N5WRW88",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141035+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Audio & Headphones",
+    "sku_id": "B09BRF4N2V",
+    "sku_url": "https://www.amazon.de/dp/B09BRF4N2V",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141040+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Tablets & E-Readers",
+    "sku_id": "B09G91LXFP",
+    "sku_url": "https://www.amazon.de/dp/B09G91LXFP",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141042+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "amazon",
+    "country": "Germany",
+    "category": "Smartwatches & Wearables",
+    "sku_id": "B0B7J4H2Y2",
+    "sku_url": "https://www.amazon.de/dp/B0B7J4H2Y2",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141045+00:00"
+  },
+  {
+    "target_id": "amazon-us",
+    "retailer": "amazon",
+    "country": "United States",
+    "category": "Smartphones & Mobile",
+    "sku_id": "B08L5WHJ7L",
+    "sku_url": "https://www.amazon.com/dp/B08L5WHJ7L",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141075+00:00"
+  },
+  {
+    "target_id": "amazon-us",
+    "retailer": "amazon",
+    "country": "United States",
+    "category": "Laptops & Notebooks",
+    "sku_id": "B08N5WRW88",
+    "sku_url": "https://www.amazon.com/dp/B08N5WRW88",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141078+00:00"
+  },
+  {
+    "target_id": "amazon-us",
+    "retailer": "amazon",
+    "country": "United States",
+    "category": "Audio & Headphones",
+    "sku_id": "B09BRF4N2V",
+    "sku_url": "https://www.amazon.com/dp/B09BRF4N2V",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141080+00:00"
+  },
+  {
+    "target_id": "amazon-us",
+    "retailer": "amazon",
+    "country": "United States",
+    "category": "Tablets & E-Readers",
+    "sku_id": "B09G91LXFP",
+    "sku_url": "https://www.amazon.com/dp/B09G91LXFP",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141083+00:00"
+  },
+  {
+    "target_id": "amazon-us",
+    "retailer": "amazon",
+    "country": "United States",
+    "category": "Smartwatches & Wearables",
+    "sku_id": "B0B7J4H2Y2",
+    "sku_url": "https://www.amazon.com/dp/B0B7J4H2Y2",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141085+00:00"
+  },
+  {
+    "target_id": "bestbuy-us",
+    "retailer": "bestbuy",
+    "country": "United States",
+    "category": "Laptops & Notebooks",
+    "sku_id": "6418600",
+    "sku_url": "https://www.bestbuy.com/product/sku_0001",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141109+00:00"
+  },
+  {
+    "target_id": "bestbuy-us",
+    "retailer": "bestbuy",
+    "country": "United States",
+    "category": "Smartphones & Mobile",
+    "sku_id": "6418601",
+    "sku_url": "https://www.bestbuy.com/product/sku_0002",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141112+00:00"
+  },
+  {
+    "target_id": "bestbuy-us",
+    "retailer": "bestbuy",
+    "country": "United States",
+    "category": "Audio & Headphones",
+    "sku_id": "6418602",
+    "sku_url": "https://www.bestbuy.com/product/sku_0003",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141115+00:00"
+  },
+  {
+    "target_id": "bestbuy-us",
+    "retailer": "bestbuy",
+    "country": "United States",
+    "category": "Monitors & Displays",
+    "sku_id": "6418603",
+    "sku_url": "https://www.bestbuy.com/product/sku_0004",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141117+00:00"
+  },
+  {
+    "target_id": "bestbuy-us",
+    "retailer": "bestbuy",
+    "country": "United States",
+    "category": "Storage & Memory",
+    "sku_id": "6418604",
+    "sku_url": "https://www.bestbuy.com/product/sku_0005",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141120+00:00"
+  },
+  {
+    "target_id": "walmart-us",
+    "retailer": "walmart",
+    "country": "United States",
+    "category": "Laptops & Notebooks",
+    "sku_id": "608274002",
+    "sku_url": "https://www.walmart.com/product/sku_0001",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141140+00:00"
+  },
+  {
+    "target_id": "walmart-us",
+    "retailer": "walmart",
+    "country": "United States",
+    "category": "Smartphones & Mobile",
+    "sku_id": "143017182",
+    "sku_url": "https://www.walmart.com/product/sku_0002",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141143+00:00"
+  },
+  {
+    "target_id": "walmart-us",
+    "retailer": "walmart",
+    "country": "United States",
+    "category": "Audio & Headphones",
+    "sku_id": "562589004",
+    "sku_url": "https://www.walmart.com/product/sku_0003",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141146+00:00"
+  },
+  {
+    "target_id": "walmart-us",
+    "retailer": "walmart",
+    "country": "United States",
+    "category": "Monitors & Displays",
+    "sku_id": "893124501",
+    "sku_url": "https://www.walmart.com/product/sku_0004",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141148+00:00"
+  },
+  {
+    "target_id": "walmart-us",
+    "retailer": "walmart",
+    "country": "United States",
+    "category": "Storage & Memory",
+    "sku_id": "764982103",
+    "sku_url": "https://www.walmart.com/product/sku_0005",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141150+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Laptops & Notebooks",
+    "sku_id": "sku_0001",
+    "sku_url": "https://www.boulanger.com/product/sku_0001",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141169+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Smartphones & Mobile",
+    "sku_id": "sku_0002",
+    "sku_url": "https://www.boulanger.com/product/sku_0002",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141172+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Audio & Headphones",
+    "sku_id": "sku_0003",
+    "sku_url": "https://www.boulanger.com/product/sku_0003",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141174+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Monitors & Displays",
+    "sku_id": "sku_0004",
+    "sku_url": "https://www.boulanger.com/product/sku_0004",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141177+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "boulanger",
+    "country": "France",
+    "category": "Storage & Memory",
+    "sku_id": "sku_0005",
+    "sku_url": "https://www.boulanger.com/product/sku_0005",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141179+00:00"
+  },
+  {
+    "target_id": "mediamarkt-de",
+    "retailer": "mediamarkt",
+    "country": "Germany",
+    "category": "Laptops & Notebooks",
+    "sku_id": "2800001",
+    "sku_url": "https://www.mediamarkt.de/product/sku_0001",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141196+00:00"
+  },
+  {
+    "target_id": "mediamarkt-de",
+    "retailer": "mediamarkt",
+    "country": "Germany",
+    "category": "Smartphones & Mobile",
+    "sku_id": "2800002",
+    "sku_url": "https://www.mediamarkt.de/product/sku_0002",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141199+00:00"
+  },
+  {
+    "target_id": "mediamarkt-de",
+    "retailer": "mediamarkt",
+    "country": "Germany",
+    "category": "Audio & Headphones",
+    "sku_id": "2800003",
+    "sku_url": "https://www.mediamarkt.de/product/sku_0003",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141202+00:00"
+  },
+  {
+    "target_id": "mediamarkt-de",
+    "retailer": "mediamarkt",
+    "country": "Germany",
+    "category": "Monitors & Displays",
+    "sku_id": "2800004",
+    "sku_url": "https://www.mediamarkt.de/product/sku_0004",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141204+00:00"
+  },
+  {
+    "target_id": "mediamarkt-de",
+    "retailer": "mediamarkt",
+    "country": "Germany",
+    "category": "Storage & Memory",
+    "sku_id": "2800005",
+    "sku_url": "https://www.mediamarkt.de/product/sku_0005",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141207+00:00"
+  },
+  {
+    "target_id": "elkjop-no",
+    "retailer": "elkjop",
+    "country": "Norway",
+    "category": "Laptops & Notebooks",
+    "sku_id": "sku_0001",
+    "sku_url": "https://www.elkjop.no/product/sku_0001",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141225+00:00"
+  },
+  {
+    "target_id": "elkjop-no",
+    "retailer": "elkjop",
+    "country": "Norway",
+    "category": "Smartphones & Mobile",
+    "sku_id": "sku_0002",
+    "sku_url": "https://www.elkjop.no/product/sku_0002",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141228+00:00"
+  },
+  {
+    "target_id": "elkjop-no",
+    "retailer": "elkjop",
+    "country": "Norway",
+    "category": "Audio & Headphones",
+    "sku_id": "sku_0003",
+    "sku_url": "https://www.elkjop.no/product/sku_0003",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141230+00:00"
+  },
+  {
+    "target_id": "elkjop-no",
+    "retailer": "elkjop",
+    "country": "Norway",
+    "category": "Monitors & Displays",
+    "sku_id": "sku_0004",
+    "sku_url": "https://www.elkjop.no/product/sku_0004",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141233+00:00"
+  },
+  {
+    "target_id": "elkjop-no",
+    "retailer": "elkjop",
+    "country": "Norway",
+    "category": "Storage & Memory",
+    "sku_id": "sku_0005",
+    "sku_url": "https://www.elkjop.no/product/sku_0005",
+    "selection_method": "category_balanced_seed_sitemap",
+    "selection_timestamp": "2026-08-23T16:04:18.141235+00:00"
+  }
+]

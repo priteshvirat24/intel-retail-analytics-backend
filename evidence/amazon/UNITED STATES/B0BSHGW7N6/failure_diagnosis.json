@@ -1,0 +1,16 @@
+{
+  "category": "ACCESS",
+  "specific_reason": "CAPTCHA_CHALLENGE",
+  "stage": "CONTENT_AVAILABILITY",
+  "failure_reason_human": "Crawl halted by automated CAPTCHA challenge on the page.",
+  "http_status": 200,
+  "exception_type": null,
+  "retry_count": 1,
+  "last_error": "",
+  "timestamp": "2026-08-23T08:24:51.420654+00:00",
+  "is_recoverable": false,
+  "recommended_escalation": "PLAYWRIGHT",
+  "details": {
+    "page_title_excerpt": "<!doctype html><html class=\"a-no-js\" lang=\"en-us\"><!--<![endif]--><head>\n<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n<meta charset=\"utf-8\">\n<meta http-equiv=\"x-ua-compatible\" c"
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.fr/s?k=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 4826.6,
+    "bytes": 1697687,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.amazon.fr/dp/B08L5WHJ7L",
+    "status_code": 200,
+    "latency_ms": 3374.1,
+    "product_title": null,
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.amazon.fr/Lenovo-IdeaPad-15IJL7-Ordinateur-Portable/dp/B0GTN2LHVL/ref=sr_1_23?dib=eyJ2IjoiMSJ9.No6AnBNo8E2OEKm8qRVGtmWXNpoyewJWp16yg26wxrgnmtrX3ZUWYqJPiN3H5gBgdzJNSA-94PrHNiLi6gNKMr52q_MmC66O8QnR7SDCm7gZXp1gNKWwCs_3WgDzSOP3zjr5ZbkuNuvidy4fcwi27HCyftZLuiAMIli1BI3nCLEpLgNFVKqhEVaUKl-xGPqfi86XKxJa_G3PDbcMlC6joLZrbRpSHt9oMY2A9vthMayu_IEv__4PeCs8QVPAw6l-diLpr9vxxZN3C6UdNg08HEtFMSxUFMGzeqbCLt6tpkI.xSKRf3njwJ6G0aiL-KgXvfASPY-knDnLm1prMJIHG90&dib_tag=se&keywords=ordinateur+portable&qid=1787647983&sr=8-23",
+    "status_code": 200,
+    "latency_ms": 12346.0,
+    "product_title": "Lenovo IdeaPad 1 15IJL7 - Ordinateur Portable 15.6'' FHD (Intel Celeron N5400, RAM 4Go, SSD 128Go, Intel UHD Graphics, Windows 11 S) Clavier AZERTY Fran\u00e7ais - Cloud Gris",
+    "brand": "LENOVO",
+    "price": 19999.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "Akamai Bot Manager"
+  }
+]

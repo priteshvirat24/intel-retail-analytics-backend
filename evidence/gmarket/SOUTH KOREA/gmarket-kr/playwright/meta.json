@@ -1,0 +1,16 @@
+{
+  "target_id": "gmarket-kr",
+  "strategy": "PLAYWRIGHT",
+  "laptop_url": "https://www.gmarket.co.kr/product/sku_0011",
+  "status_code": 403,
+  "latency_ms": 4410.06,
+  "bytes": 18244,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "CLOUDFLARE_TURNSTILE_BLOCK",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": "Cloudflare Turnstile"
+}

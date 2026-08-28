@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  orchestrator:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: multi-site-crawl-orchestrator
+    volumes:
+      - ./evidence:/app/evidence
+      - ./reports:/app/reports
+      - ./config:/app/config
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: ["test-all", "--limit", "20", "--save-evidence", "--report"]
+
+  dashboard-server:
+    image: python:3.11-slim
+    container_name: crawl-dashboard-server
+    working_dir: /app
+    volumes:
+      - ./reports:/app/reports
+    command: ["python", "-m", "http.server", "8080", "--directory", "/app/reports"]
+    ports:
+      - "8080:8080"
+    depends_on:
+      - orchestrator

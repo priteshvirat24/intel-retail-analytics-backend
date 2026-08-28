@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.elgiganten.dk/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 3317.5,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.elgiganten.dk/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 3160.0,
+    "bytes": 454861,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.elgiganten.dk/laptops",
+    "status_code": 200,
+    "latency_ms": 6426.9,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

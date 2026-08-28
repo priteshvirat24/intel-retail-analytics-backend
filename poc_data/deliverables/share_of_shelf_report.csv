@@ -1,0 +1,7 @@
+retailer,total_skus,intel_count,intel_sos_pct,amd_count,amd_sos_pct,apple_count,qualcomm_count
+Amazon US,4,2,50.0,0,0.0,1,1
+Best Buy,4,3,75.0,1,25.0,0,0
+Costco,3,2,66.7,1,33.3,0,0
+Dell Technologies,3,3,100.0,0,0.0,0,0
+HP Direct,2,2,100.0,0,0.0,0,0
+Walmart,3,2,66.7,1,33.3,0,0

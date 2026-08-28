@@ -1,0 +1,60 @@
+{
+  "target_id": "komputronik-pl",
+  "retailer": "Komputronik",
+  "country": "Poland",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "komputronik.pl",
+    "base_url": "https://www.komputronik.pl",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.komputronik.pl",
+    "robots_txt_found": true,
+    "sitemaps_found": [],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 3069.7
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.komputronik.pl/search?q=laptop",
+      "status": 404,
+      "latency_ms": 3309.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.komputronik.pl/search?q=notebook",
+      "status": 404,
+      "latency_ms": 3469.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.komputronik.pl/s?k=laptop",
+      "status": 404,
+      "latency_ms": 3085.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.komputronik.pl/s?k=notebook",
+      "status": 404,
+      "latency_ms": 2643.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.komputronik.pl/laptops",
+      "status": 404,
+      "latency_ms": 3461.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.komputronik.pl",
+      "candidates_found": 0
+    }
+  ]
+}

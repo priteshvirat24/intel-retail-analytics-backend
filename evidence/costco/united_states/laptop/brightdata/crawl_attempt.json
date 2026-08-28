@@ -1,0 +1,17 @@
+{
+  "target_id": "costco-us",
+  "retailer": "Costco",
+  "country": "United States",
+  "country_iso": "us",
+  "url": "https://www.costco.com/p/-/dell-156-touchscreen-laptop-intel-core-ultra-7-255u-fhd-1920x1080-16gb-ram-1tb-ssd-carbon-black-windows-11-home/4000449542",
+  "status_code": 0,
+  "response_time_ms": 41988.6,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Bright Data Connection Timeout: Unlocker async polling timed out after 35s"
+}

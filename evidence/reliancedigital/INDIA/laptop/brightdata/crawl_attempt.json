@@ -1,0 +1,17 @@
+{
+  "target_id": "reliancedigital-in",
+  "retailer": "Reliancedigital",
+  "country": "India",
+  "country_iso": "in",
+  "url": "https://www.reliancedigital.in",
+  "status_code": 200,
+  "response_time_ms": 5952.4,
+  "can_scrape": "NO",
+  "confidence_score": 0.3,
+  "product_name": "Online Electronic Shopping Store in India | Best Electronic Store",
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Catalog aggregation page reached: Multiple listing cards present without individual checkout schema"
+}

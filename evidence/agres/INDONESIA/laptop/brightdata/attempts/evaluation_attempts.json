@@ -1,0 +1,60 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.agres.id/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 8973.7,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.agres.id/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 4367.2,
+    "bytes": 193290,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.agres.id/categories/laptops/laptop-gaming",
+    "status_code": 200,
+    "latency_ms": 5821.3,
+    "product_title": "Laptop Gaming",
+    "brand": null,
+    "price": null,
+    "product_class": "CATEGORY_PAGE",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Rejected as CATEGORY_PAGE: Category Hub / Buying Guide",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.agres.id/products/asus-rog-zephyrus-g14-oled-ga403wm-ryzen-ai-9-hx370-rtx5060-8gb-32gb-1tb-w11ohsm365b-140wqxga-120hz-box-mou-gry",
+    "status_code": 200,
+    "latency_ms": 3354.4,
+    "product_title": null,
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 3,
+    "url": "https://www.agres.id/products/asus-rog-strix-g16-g615jhr-i7-14650hx-rtx5050-8gb-16gb-512gb-w11ohsm365b-160-rog-nebula-wqxga-240hz-box-mou-gry--i7n55c6g-hm",
+    "status_code": 200,
+    "latency_ms": 4493.1,
+    "product_title": "ASUS ROG STRIX G16 G615JHR I7 14650HX RTX5050 8GB/ 16GB 512GB W11+OHS+M365B 16.0 ROG NEBULA WQXGA 240HZ (BOX MOU) GRY -I7N55C6G-HM",
+    "brand": "Laptop",
+    "price": 31100000.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 0.7,
+    "rejection_reason": null,
+    "waf_detected": null
+  }
+]

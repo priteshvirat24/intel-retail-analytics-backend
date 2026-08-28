@@ -1,0 +1,8 @@
+{
+  "target_id": "acer-global",
+  "retailer": "Acer",
+  "country": "Global",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+  "timestamp": "2026-08-24T07:32:07.401616+00:00"
+}

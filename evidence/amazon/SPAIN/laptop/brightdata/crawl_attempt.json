@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-es",
+  "retailer": "Amazon",
+  "country": "Spain",
+  "country_iso": "es",
+  "url": "https://www.amazon.es/dp/B08N5WRW88",
+  "status_code": 200,
+  "response_time_ms": 6408.9,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Client-side SPA shell: JavaScript hydration required to populate product DOM tree"
+}

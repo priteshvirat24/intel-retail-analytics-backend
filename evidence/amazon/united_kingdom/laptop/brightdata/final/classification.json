@@ -1,0 +1,22 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 1.0,
+  "detected_brand": "Lenovo",
+  "model_or_sku": "b0c9lzfn32",
+  "extracted_specs": {
+    "screen_size": "14\"",
+    "ram": "4GB",
+    "os": "Chrome Os"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'laptop'",
+    "Laptop family: 'ideapad'",
+    "Brand: 'Lenovo'",
+    "Screen size: 14\"",
+    "RAM: 4GB",
+    "OS: Chrome Os"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

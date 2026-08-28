@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.monsternotebook.com.tr/arama?q=laptop",
+    "status_code": 200,
+    "latency_ms": 6909.9,
+    "html_bytes": 543401
+  }
+]

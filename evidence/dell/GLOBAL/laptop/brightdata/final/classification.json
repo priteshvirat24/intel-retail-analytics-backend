@@ -1,0 +1,15 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 1.0,
+  "detected_brand": "Dell",
+  "model_or_sku": "dell-laptops",
+  "extracted_specs": {},
+  "positive_signals": [
+    "Laptop keyword: 'laptop'",
+    "Laptop family: 'chromebook'",
+    "Brand: 'Dell'"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

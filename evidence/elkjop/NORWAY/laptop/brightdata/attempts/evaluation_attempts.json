@@ -1,0 +1,54 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.elkjop.no/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 6622.7,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.elkjop.no/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 4750.9,
+    "bytes": 453736,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.elkjop.no/laptops",
+    "status_code": 200,
+    "latency_ms": 4125.6,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.elkjop.no/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 4626.4,
+    "product_title": "S\u00f8k etter produkter, kategori, merke eller artikkel",
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": "Google reCAPTCHA"
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.elkjop.no/bedrift/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 7959.2,
+    "product_title": "S\u00f8k etter produkter, kategori, merke eller artikkel",
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": "Google reCAPTCHA"
+  }
+]

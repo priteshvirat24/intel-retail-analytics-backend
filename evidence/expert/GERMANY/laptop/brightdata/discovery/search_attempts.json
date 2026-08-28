@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.expert.de/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 16682.3,
+    "html_bytes": 936021
+  }
+]

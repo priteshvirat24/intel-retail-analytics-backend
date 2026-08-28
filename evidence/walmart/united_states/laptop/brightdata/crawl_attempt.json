@@ -1,0 +1,17 @@
+{
+  "target_id": "walmart-us",
+  "retailer": "Walmart",
+  "country": "United States",
+  "country_iso": "us",
+  "url": "https://www.walmart.com",
+  "status_code": 0,
+  "response_time_ms": 3.8,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Bright Data Connection Timeout: All connection attempts failed"
+}

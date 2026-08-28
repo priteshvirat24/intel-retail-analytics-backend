@@ -1,0 +1,53 @@
+target_id,retailer,country,discovery_status,discovery_method,laptop_url,validation_score,failure_reason
+agres-id,Agres,Indonesia,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.agres.id/categories/laptops,0.4,PRODUCT_IDENTITY_MISSING
+acer-global,Acer,Global,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+amazon-us,Amazon,United States,PRODUCT_URL_FOUND,method_4_website_search,https://www.amazon.com/HP-Laptop-Student-Business-Copilot/dp/B0GY16ZXZV/ref=sr_1_3?dib=eyJ2IjoiMSJ9.60ifbIjhXnu-xmhx0A35JFXT3GWvWppizkM92H7hFy5z7MzflR4yYKY6QT4PfKIqbUdzhH1CoO1OUtMVU86jJddwo1_XtIgPOAFEOvh4fwJuqSKoC610sDFEzXMzqRyFaTWSOhDOBeWmNQzvlsxLvGFIWV3HMmismAOItU4YB6Wr8n8pK3WFBkmj53TuduM71q0Q8B6cTMldvI-DP9aHHTaoBhGWuIPbVep1A_34tTc.2cbx7A8u9eTzgqEnrIh2Fmsoyx0u2t2yVPIOJv2JXII&dib_tag=se&keywords=laptop&qid=1787581824&sr=8-3,0.55,LOW_CONFIDENCE_PRODUCT_PAGE
+amazon-in,Amazon,India,PRODUCT_URL_FOUND,method_5_category_nav,https://www.amazon.in/Laptops/b?ie=UTF8&node=1375424031#skippedLink,0.1,NOT_A_LAPTOP_PRODUCT
+amazon-gb,Amazon,United Kingdom,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.co.uk/dp/B08L5WHJ7L,0.0,CAPTCHA_CHALLENGE
+amazon-de,Amazon,Germany,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.de/dp/B08L5WHJ7L,0.0,CAPTCHA_CHALLENGE
+amazon-fr,Amazon,France,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.fr/dp/B08L5WHJ7L,0.0,CAPTCHA_CHALLENGE
+amazon-it,Amazon,Italy,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.it/dp/B08L5WHJ7L,0.0,CAPTCHA_CHALLENGE
+amazon-es,Amazon,Spain,PRODUCT_URL_FOUND,method_7_inferred_pattern,https://www.amazon.es/dp/B08L5WHJ7L,0.0,CAPTCHA_CHALLENGE
+amazon-ca,Amazon,Canada,PRODUCT_URL_FOUND,method_4_website_search,https://www.amazon.ca/HP-Processor-Storage-Graphics-15-fd0016ca/dp/B0DVD5RQ86/ref=sr_1_5?dib=eyJ2IjoiMSJ9.0LvvhywwDS7khN3yY3pUbz01tn1lk0yNXd-eMpLu3-9mWvpaU6m-x3LPGGP4fdpaJOrhMF6jh8O2hQUODa41VtAfqT05YuwDolQ4S4KNOPRUAc_E_jyO63f2zR-dlDdJN6uoyB0h37r8Mh3RF9L-goNG5rLMbZ3eDc0kpTZbmkoRycVxVp-nVZByHZ3hdNAApKm3LIb2QBr1cMzZbF0lLburPPHCgFHWsM5CovUs8QHzNTNQm8xqgB9cuW0NEGHs85oFI1vUtWktkI8_5bFWVwBwJ1qcK8HACNNdoFiUOX8.rAbfAapj7BflULUiYIdIOb_gOxiK7k-biXjWUS3QJaI&dib_tag=se&keywords=laptop&qid=1787581921&sr=8-5,0.0,WAF_BOT_CHALLENGE
+amazon-mx,Amazon,Mexico,PRODUCT_URL_FOUND,method_4_website_search,https://www.amazon.com.mx/Regadera-Portatil-Recargable-8000mAh-Camping/dp/B0GRGW1GTK/ref=sr_1_5?dib=eyJ2IjoiMSJ9.EfNacvqk5qMKr6mC3ozt2nknu7555Vy9_JSq5y_mzcwJkz3EjN6ctqOTU5TVqxWX57VRiVXDoBx5HQnxsEIUVTPXcsX2UZGo2sXoSDUnrJDPhBqSVN9ZQJm5mHz9H_N4dYfvy7prM1vw3lm278KD0y_1o8Brae1n4mJHiuxcZr--_8G2FYLHGBLDWOZ50Z8dYeckXnRV-rwI5OsQWcZ-XHI_HzT9eqp-Yez4dHvVDTF19Yh6wBBFModqUQZiKxJ0sRT1E_JsrASH8nL_63HGfDXdnM1pa-pvLw8RHV_FFiw.Dh_tKe2OPrcrS3aU_k6kVI2SckfMBn1bZvph_5iX1UA&dib_tag=se&keywords=portatil&qid=1787581958&sr=8-5&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57,0.0,WAF_BOT_CHALLENGE
+amazon-br,Amazon,Brazil,PRODUCT_URL_FOUND,method_4_website_search,https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYVVRSSZ/ref=sr_1_5?dib=eyJ2IjoiMSJ9.H7KJzaDLIv8FkqiMZzmm8OKlvU5L9Ab8UZvJgZfn6XdcSwJoMR12jpOn3mWFxRYiK0x5Uomvs4GZacp--w2S4WNNDHHZN8e41mrm4EDh-7K4shkFZSBaDKo4uSW0-2-YSg5MZx0KKqCCvUQWNF318qdGk_j9ye2nUc60OupbFI4RGPuWMqSbdSQo7qCdLqrLnn4Xvf-0GwUFA6Rof38jXP5thIf1lqxDAqsXT_fQPwOMX0ZJ-pGd_yP6U420_ESdq_f2YdLCCifpD_2v0tiTG-wKUH9N2IU6i5O7_EYexH8.69S4fzQyNa6hM8vukSznDaxc15welizaXmE1_Oh3MSQ&dib_tag=se&keywords=notebook&qid=1787581995&sr=8-5&ufe=app_do%3Aamzn1.fos.9e6a115c-05b9-4b96-8e1c-b1f9ce2ac1a6,0.0,WAF_BOT_CHALLENGE
+bestbuy-us,Bestbuy,United States,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+bestbuy-ca,Bestbuy,Canada,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+boulanger-fr,Boulanger,France,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+costco-us,Costco,United States,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Akamai Bot Manager)
+coupang-kr,Coupang,South Korea,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Akamai Bot Manager)
+currys-gb,Currys,United Kingdom,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+dell-global,Dell,Global,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+elkjop-dk,Elkjop,Denmark,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+elkjop-no,Elkjop,Norway,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+elkjop-se,Elkjop,Sweden,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+euronics-it,Euronics,Italy,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+expert-de,Expert,Germany,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+flipkart-in,Flipkart,India,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+fnac-fr,Fnac,France,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+gmarket-kr,Gmarket,South Korea,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+hp-global,Hp,Global,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.hp.com/in-en/shop/laptops-tablets/laptop-promotions.html,0.0,CAPTCHA_CHALLENGE
+jbhifi-au,Jbhifi,Australia,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+jd-cn,Jd,China,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+komputronik-pl,Komputronik,Poland,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.komputronik.pl/category/5803/laptopy-i-komputery.html,0.0,CAPTCHA_CHALLENGE
+lenovo-global,Lenovo,Global,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.lenovo.com/laptop-buying-guide/,0.0,NONE
+magazineluiza-br,Magazineluiza,Brazil,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Akamai Bot Manager)
+mediamarkt-de,Mediamarkt,Germany,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+mediamarkt-es,Mediamarkt,Spain,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+mediamarkt-it,Mediamarkt,Italy,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+mediamarkt-tr,Mediamarkt,Turkey,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+mercadolibre-mx,Mercadolibre,Mexico,PRODUCT_URL_FOUND,method_1_homepage_nav,https://listado.mercadolibre.com.mx/electronica-audio-video/audio/audio-portatil-accesorios/#menu=categories,0.15,NOT_A_LAPTOP_PRODUCT
+mercadolibre-cl,Mercadolibre,Chile,PRODUCT_URL_FOUND,method_1_homepage_nav,https://listado.mercadolibre.cl/computacion/notebooks-accesorios/notebooks/#menu=categories,0.3,LOW_CONFIDENCE_PRODUCT_PAGE
+mercadolibre-co,Mercadolibre,Colombia,PRODUCT_URL_FOUND,method_1_homepage_nav,https://listado.mercadolibre.com.co/computacion/portatiles-accesorios/portatiles/#menu=categories,0.3,LOW_CONFIDENCE_PRODUCT_PAGE
+mercadolivre-br,Mercadolibre,Brazil,PRODUCT_URL_FOUND,method_1_homepage_nav,https://lista.mercadolivre.com.br/informatica/portateis-acessorios/acessorios-notebook/#menu=categories,0.3,LOW_CONFIDENCE_PRODUCT_PAGE
+thegioididong-vn,Thegioididong,Vietnam,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+monsternotebook-tr,Monsternotebook,Turkey,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+newegg-us,Newegg,United States,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+officeworks-au,Officeworks,Australia,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+reliancedigital-in,Reliancedigital,India,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.reliancedigital.in/collection/acer-laptops-290525/?internal_source=hp&internal_medium=tile-banner&internal_campaign=acer-laptops&is_available=true,0.0,CAPTCHA_CHALLENGE
+staples-us,Staples,United States,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+terg-pl,Terg,Poland,DISCOVERY_BLOCKED,none,NONE,0.0,DISCOVERY_BLOCKED (Cloudflare WAF)
+tmall-cn,Tmall,China,NO_PRODUCT_FOUND,none,NONE,0.0,NO_LAPTOP_URL_DISCOVERED
+unieuro-it,Unieuro,Italy,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT
+walmart-us,Walmart,United States,PRODUCT_URL_FOUND,method_1_homepage_nav,https://www.walmart.com/browse/as-low-as-0%25-apr-on-laptops/0/0/?_refineresult=true&_be_shelf_id=5072263&search_sort=100&facet=shelf_id:5072263&athAsset=eyJhdGhjcGlkIjoiOWE3NjUzYmMtMGUzMC00YWUyLWJiZjEtMDU0YmFjZjYyNTkzIiwiYWVjdSI6eyJzIjoxLjAsInN0IjoiMCJ9LCJhZXdyIjoiQ1RSIn0=&athena=true,0.0,CAPTCHA_CHALLENGE
+yodobashi-jp,Yodobashi,Japan,DISCOVERY_TIMEOUT,none,NONE,0.0,DISCOVERY_TIMEOUT

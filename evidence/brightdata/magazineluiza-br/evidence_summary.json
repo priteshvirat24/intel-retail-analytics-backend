@@ -1,0 +1,18 @@
+{
+  "target_id": "magazineluiza-br",
+  "retailer": "Magazine Luiza",
+  "country": "Brazil",
+  "domain": "magazineluiza.com.br",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_SERP_DISCOVERY",
+  "method": "SERP\u2192Direct",
+  "url": "https://www.magazineluiza.com.br/notebook-asus-15-6p-i5-1334u-w11-8gb-256gb-ssd-asus/p/kaac806g6e/in/nass/",
+  "title": "Notebook Asus 15.6P I5-1334U W11 8GB 256GB SSD Asus",
+  "brand": "ASUS",
+  "specs": {
+    "cpu": "I5-1334U",
+    "ram": "8GB",
+    "storage": "256GB SSD"
+  },
+  "timestamp": "2026-08-25T14:01:53.312952+00:00"
+}

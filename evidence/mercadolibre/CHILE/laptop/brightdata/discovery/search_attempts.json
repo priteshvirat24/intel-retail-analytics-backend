@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.mercadolibre.cl/s?k=portatil",
+    "status_code": 200,
+    "latency_ms": 23530.3,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mercadolibre.cl/search?q=portatil",
+    "status_code": 0,
+    "latency_ms": 29225.9,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mercadolibre.cl/laptops",
+    "status_code": 0,
+    "latency_ms": 29617.4,
+    "html_bytes": 0
+  }
+]

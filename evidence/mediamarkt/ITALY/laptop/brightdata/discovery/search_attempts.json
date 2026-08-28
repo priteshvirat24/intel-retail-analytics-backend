@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.mediaworld.it/s?k=notebook",
+    "status_code": 0,
+    "latency_ms": 46826.0,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mediaworld.it/ricerca?q=notebook",
+    "status_code": 200,
+    "latency_ms": 27033.8,
+    "html_bytes": 1122863
+  }
+]

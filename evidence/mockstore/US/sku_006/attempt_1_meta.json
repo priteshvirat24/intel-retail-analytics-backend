@@ -1,0 +1,18 @@
+{
+  "attempt_number": 1,
+  "strategy": "HTTP",
+  "status_code": 200,
+  "response_time_ms": 5.53,
+  "success": true,
+  "evidence_path": "evidence/mockstore/US/sku_006/attempt_1_snapshot.html",
+  "screenshot_path": null,
+  "headers": {
+    "date": "Sun, 23 Aug 2026 05:44:21 GMT",
+    "server": "uvicorn",
+    "content-length": "1338",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T05:44:21.520657+00:00"
+}

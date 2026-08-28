@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-in",
+  "retailer": "Amazon",
+  "country": "India",
+  "domain": "amazon.in",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.amazon.in/dp/B0H9XYTWYK",
+  "title": "90W Laptop Charger Compatible with Asus Vivobook 15X ...",
+  "brand": "Amazon",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:21:05.042612+00:00",
+  "failure_reason": null
+}

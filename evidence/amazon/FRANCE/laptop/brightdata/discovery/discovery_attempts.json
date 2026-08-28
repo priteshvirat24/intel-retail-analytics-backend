@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.fr/s?k=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 4826.6,
+    "bytes": 1697687,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

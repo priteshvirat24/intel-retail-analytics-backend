@@ -1,0 +1,17 @@
+{
+  "target_id": "thegioididong-vn",
+  "retailer": "Thegioididong",
+  "country": "Vietnam",
+  "country_iso": "vn",
+  "url": "https://www.thegioididong.com/laptop-hp-compaq",
+  "status_code": 0,
+  "response_time_ms": 90170.0,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Bright Data Connection Timeout: All connection attempts failed"
+}

@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-br",
+  "retailer": "Amazon",
+  "country": "Brazil",
+  "country_iso": "br",
+  "url": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYVVRSSZ/ref=sr_1_5?dib=eyJ2IjoiMSJ9.H7KJzaDLIv8FkqiMZzmm8OKlvU5L9Ab8UZvJgZfn6XdcSwJoMR12jpOn3mWFxRYiK0x5Uomvs4GZacp--w2S4WNNDHHZN8e41mrm4EDh-7K4shkFZSBaDKo4uSW0-2-YOtefXosMheo9dU1VY9TR49UorZelNb1xBII0Ly0hQl77XwGhgC2cXHbcofhe381dnn4Xvf-0GwUFA6Rof38jXNw9yEF0vMV9dWA8MrDvXu2A8ywnx4hKprLEHrdQh8RYj0etHmzm1KR78L72LfhIr-wKUH9N2IU6i5O7_EYexH8.uz8uL6WyVkOPXOHb0SpTMB2BlpgUEgW7YIs68sgRXoM&dib_tag=se&keywords=notebook&qid=1787585479&sr=8-5&ufe=app_do%3Aamzn1.fos.9e6a115c-05b9-4b96-8e1c-b1f9ce2ac1a6",
+  "status_code": 200,
+  "response_time_ms": 14719.9,
+  "can_scrape": "YES",
+  "confidence_score": 0.85,
+  "product_name": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 256GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ731",
+  "brand": "ASUS",
+  "price": 2.71,
+  "currency": null,
+  "sku": "B0CYVVRSSZ",
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 256GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ731 | Brand: ASUS | Price: 2.71 USD | SKU: B0CYVVRSSZ)"
+}

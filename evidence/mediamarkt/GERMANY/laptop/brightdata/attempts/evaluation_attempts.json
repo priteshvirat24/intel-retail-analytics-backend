@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.de/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 58760.2,
+    "bytes": 783571,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.de/suche?q=laptop",
+    "status_code": 200,
+    "latency_ms": 30826.0,
+    "bytes": 682097,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.mediamarkt.de",
+    "status_code": 200,
+    "latency_ms": 14376.3,
+    "product_title": "MediaMarkt: Elektronik, Trends & Technik kaufen im Onlineshop",
+    "brand": null,
+    "price": 85.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": "Cloudflare Turnstile"
+  }
+]

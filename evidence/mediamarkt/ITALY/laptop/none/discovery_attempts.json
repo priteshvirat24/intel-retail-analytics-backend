@@ -1,0 +1,71 @@
+{
+  "target_id": "mediamarkt-it",
+  "retailer": "Mediamarkt",
+  "country": "Italy",
+  "discovery_status": "DISCOVERY_TIMEOUT",
+  "failure_reason": "DISCOVERY_TIMEOUT",
+  "domain_validation": {
+    "domain": "mediaworld.it",
+    "base_url": "https://www.mediaworld.it",
+    "http_status": 0,
+    "final_url": "https://www.mediaworld.it",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 0.0
+  },
+  "discovery_attempts": [
+    {
+      "method": "METHOD_1_HOMEPAGE",
+      "status": "CONNECTION_ERROR",
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_2_ROBOTS_TXT",
+      "status": "NOT_FOUND",
+      "http_status": 403,
+      "latency_ms": 2209.3
+    },
+    {
+      "method": "METHOD_3_XML_SITEMAP",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_4_WEBSITE_SEARCH",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_5_CATEGORY_NAV",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_6_JSONLD_EXTRACTION",
+      "status": "NO_LINKS",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_7_KNOWN_PATTERNS",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_8_SEARCH_ENGINE",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+      "status": "FAILED",
+      "candidates_found": 0
+    }
+  ]
+}

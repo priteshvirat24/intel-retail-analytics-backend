@@ -1,0 +1,16 @@
+{
+  "retailer": "Komputronik",
+  "country": "Poland",
+  "product_url": "https://www.komputronik.pl/product/1022453/msi-katana-17-b14wfk-400xpl-i7-14650hx-17-3-16gb-512gb-w11home-rtx-5060-czarny.html",
+  "product_title": "MSI Katana 17 B14WFK-400XPL - i7-14650HX | 17,3'' | 16GB | 512GB | W11Home | RTX 5060 | Czarny",
+  "brand": "MSI",
+  "model_or_sku": "LT-GM-I17-MSI-1308",
+  "price": 5290.0,
+  "currency": "PLN",
+  "specs": {
+    "storage": "512GB"
+  },
+  "validation_score": 0.7,
+  "source_strategy": "BRIGHTDATA_BROWSER_ESCALATION",
+  "timestamp": "2026-08-25T09:01:53.009388+00:00"
+}

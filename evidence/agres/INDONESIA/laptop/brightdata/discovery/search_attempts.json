@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.agres.id/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 46622.7,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.agres.id/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 3137.5,
+    "html_bytes": 193290
+  }
+]

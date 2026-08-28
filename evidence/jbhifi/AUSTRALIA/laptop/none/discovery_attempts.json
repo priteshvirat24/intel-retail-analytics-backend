@@ -1,0 +1,75 @@
+{
+  "target_id": "jbhifi-au",
+  "retailer": "Jbhifi",
+  "country": "Australia",
+  "discovery_status": "DISCOVERY_BLOCKED",
+  "failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "jbhifi.com.au",
+    "base_url": "https://www.jbhifi.com.au",
+    "http_status": 200,
+    "final_url": "https://www.jbhifi.com.au",
+    "robots_txt_found": true,
+    "sitemaps_found": [
+      "https://www.jbhifi.com.au/sitemap.xml",
+      "http://www.jbhifi.com.au/sitemap-subcollections.xml"
+    ],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 1552.6
+  },
+  "discovery_attempts": [
+    {
+      "method": "METHOD_1_HOMEPAGE",
+      "status": "NO_LINKS",
+      "http_status": 200,
+      "latency_ms": 1552.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_2_ROBOTS_TXT",
+      "status": "SUCCESS",
+      "sitemaps_found": 2,
+      "latency_ms": 737.4
+    },
+    {
+      "method": "METHOD_3_XML_SITEMAP",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_4_WEBSITE_SEARCH",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_5_CATEGORY_NAV",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_6_JSONLD_EXTRACTION",
+      "status": "NO_LINKS",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_7_KNOWN_PATTERNS",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_8_SEARCH_ENGINE",
+      "status": "NO_MATCH",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+      "status": "FAILED",
+      "candidates_found": 0
+    },
+    {
+      "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+      "status": "FAILED",
+      "candidates_found": 0
+    }
+  ]
+}

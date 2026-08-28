@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.bestbuy.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 4378.1,
+    "bytes": 499944,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.bestbuy.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 5236.1,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.bestbuy.com/laptops",
+    "status_code": 200,
+    "latency_ms": 8260.7,
+    "bytes": 909258,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

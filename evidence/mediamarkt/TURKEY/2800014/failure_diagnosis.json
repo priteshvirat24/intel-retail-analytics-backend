@@ -1,0 +1,14 @@
+{
+  "category": "CONTENT",
+  "specific_reason": "EMPTY_RESPONSE",
+  "stage": "CONTENT_AVAILABILITY",
+  "failure_reason_human": "Server returned an empty or nearly blank HTML response.",
+  "http_status": 0,
+  "exception_type": null,
+  "retry_count": 1,
+  "last_error": null,
+  "timestamp": "2026-08-23T09:42:12.719427+00:00",
+  "is_recoverable": true,
+  "recommended_escalation": "PLAYWRIGHT",
+  "details": {}
+}

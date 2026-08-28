@@ -1,0 +1,16 @@
+{
+  "target_id": "monsternotebook-tr",
+  "strategy": "HTTP",
+  "laptop_url": "https://www.monsternotebook.com.tr/product/sku_0010",
+  "status_code": 403,
+  "latency_ms": 6836.75,
+  "bytes": 3252,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "CLOUDFLARE_WAF_BLOCK",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": "Cloudflare WAF"
+}

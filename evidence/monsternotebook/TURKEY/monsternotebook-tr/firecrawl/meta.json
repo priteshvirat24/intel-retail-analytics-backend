@@ -1,0 +1,16 @@
+{
+  "target_id": "monsternotebook-tr",
+  "strategy": "FIRECRAWL",
+  "laptop_url": "https://www.monsternotebook.com.tr/product/sku_0010",
+  "status_code": 403,
+  "latency_ms": 4267.449148988817,
+  "bytes": 27923,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "CLOUDFLARE_TURNSTILE_CHALLENGE",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": "Cloudflare Turnstile"
+}

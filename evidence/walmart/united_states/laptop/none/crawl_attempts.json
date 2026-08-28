@@ -1,0 +1,35 @@
+{
+  "target_id": "walmart-us",
+  "laptop_url": "https://www.walmart.com/browse/as-low-as-0%25-apr-on-laptops/0/0/?_refineresult=true&_be_shelf_id=5072263&search_sort=100&facet=shelf_id:5072263&athAsset=eyJhdGhjcGlkIjoiOWE3NjUzYmMtMGUzMC00YWUyLWJiZjEtMDU0YmFjZjYyNTkzIiwiYWVjdSI6eyJzIjoxLjAsInN0IjoiMCJ9LCJhZXdyIjoiQ1RSIn0=&athena=true",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 1437.1
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.2
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 429,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_RATE_LIMITED",
+    "latency_ms": 7453.1
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

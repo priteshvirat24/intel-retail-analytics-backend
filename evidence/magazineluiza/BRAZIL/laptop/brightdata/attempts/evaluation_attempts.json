@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.magazineluiza.com.br/s?k=notebook",
+    "status_code": 0,
+    "latency_ms": 46151.2,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.magazineluiza.com.br/busca?q=notebook",
+    "status_code": 0,
+    "latency_ms": 60403.8,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.magazineluiza.com.br",
+    "status_code": 0,
+    "latency_ms": 36698.7,
+    "product_title": null,
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  }
+]

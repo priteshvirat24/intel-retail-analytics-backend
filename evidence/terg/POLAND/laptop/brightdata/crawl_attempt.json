@@ -1,0 +1,17 @@
+{
+  "target_id": "terg-pl",
+  "retailer": "Terg",
+  "country": "Poland",
+  "country_iso": "pl",
+  "url": "https://www.mediaexpert.pl",
+  "status_code": 0,
+  "response_time_ms": 5.4,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Bright Data Connection Timeout: All connection attempts failed"
+}

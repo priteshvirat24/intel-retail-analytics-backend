@@ -1,0 +1,35 @@
+{
+  "attempt_number": 1,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 429,
+  "response_time_ms": 6940.0,
+  "browser_seconds": 7.412768109003082,
+  "bytes_received": 31195,
+  "success": false,
+  "evidence_path": "evidence/elkjop/NORWAY/sku_0002/playwright/raw.html",
+  "screenshot_path": "evidence/elkjop/NORWAY/sku_0002/playwright/screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "HTTP_STATUS",
+    "specific_reason": "HTTP_429_RATE_LIMITED",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Request blocked by anti-bot protection (WAF/Edge Guard). HTTP 429.",
+    "http_status": 429,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "PLAYWRIGHT",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:10:31.866933+00:00",
+    "is_recoverable": true,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "http_status": 429,
+      "blocked_detected": true,
+      "vendor": null
+    }
+  },
+  "timestamp": "2026-08-23T16:10:31.867108+00:00"
+}

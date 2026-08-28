@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="100%" height="100%">
+  <rect width="900" height="600" fill="#0F172A" rx="12" />
+  
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="900" height="60" fill="#1E293B" />
+  <circle cx="30" cy="30" r="6" fill="#EF4444" />
+  <circle cx="50" cy="30" r="6" fill="#F59E0B" />
+  <circle cx="70" cy="30" r="6" fill="#10B981" />
+  <rect x="120" y="15" width="550" height="30" rx="6" fill="#0F172A" />
+  <text x="140" y="35" fill="#64748B" font-family="monospace" font-size="12">https://www.amazon.com/dp/B0CNDTYN34...</text>
+  
+  <!-- PDP Left Image Panel -->
+  <rect x="40" y="90" width="380" height="380" rx="12" fill="#1E293B" stroke="#334155" stroke-width="2" />
+  <rect x="100" y="150" width="260" height="180" rx="8" fill="#334155" />
+  <text x="230" y="245" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">💻 Acer Swift Go 14 (SFG14</text>
+  
+  <!-- Badges -->
+  <rect x="60" y="490" width="140" height="32" rx="6" fill="#0071C5" />
+  <text x="130" y="511" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Intel Processor</text>
+  
+  <rect x="210" y="490" width="120" height="32" rx="6" fill="#00C7FD" /><text x="270" y="511" fill="#0F172A" font-family="system-ui, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Intel Evo</text>
+
+  <!-- PDP Right Info Panel -->
+  <text x="450" y="115" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Amazon US • Acer Official</text>
+  <text x="450" y="150" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="20" font-weight="800">Acer Swift Go 14 Intel Evo Thin & Light Laptop | 1</text>
+  
+  <!-- Price -->
+  <text x="450" y="205" fill="#10B981" font-family="system-ui, sans-serif" font-size="32" font-weight="900">$799.99</text>
+  <text x="610" y="195" fill="#64748B" font-family="system-ui, sans-serif" font-size="16" text-decoration="line-through">$899.99</text>
+  
+  <!-- Specs Table -->
+  <rect x="450" y="240" width="410" height="230" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1" />
+  <text x="470" y="270" fill="#00C7FD" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">⚙️ Processor:</text>
+  <text x="470" y="292" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13">Intel Core Ultra 7 155H</text>
+  
+  <text x="470" y="325" fill="#00C7FD" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">🎮 Graphics:</text>
+  <text x="470" y="347" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13">Intel Arc Graphics</text>
+
+  <text x="470" y="380" fill="#00C7FD" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">🧠 Memory &amp; Storage:</text>
+  <text x="470" y="402" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13">16GB • 512GB PCIe Gen 4 NVMe SSD</text>
+
+  <text x="470" y="435" fill="#00C7FD" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">🖥️ Display &amp; OS:</text>
+  <text x="470" y="457" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13">14.0" 1920x1200 100% sRGB  • Windows 11 Home</text>
+
+  <!-- Footer -->
+  <text x="860" y="580" fill="#475569" font-family="system-ui, sans-serif" font-size="11" text-anchor="end">Reference Screenshot • amz_acer_swift_u7</text>
+</svg>

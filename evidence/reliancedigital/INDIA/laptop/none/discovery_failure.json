@@ -1,0 +1,62 @@
+{
+  "target_id": "reliancedigital-in",
+  "retailer": "Reliancedigital",
+  "country": "India",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+  "domain_validation": {
+    "domain": "reliancedigital.in",
+    "base_url": "https://www.reliancedigital.in",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.reliancedigital.in",
+    "robots_txt_found": true,
+    "sitemaps_found": [
+      "https://www.reliancedigital.in/sitemap.xml"
+    ],
+    "waf_detected": "Akamai Bot Manager",
+    "latency_ms": 512.4
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.reliancedigital.in/search?q=laptop",
+      "status": 200,
+      "latency_ms": 776.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.reliancedigital.in/search?q=notebook",
+      "status": 200,
+      "latency_ms": 782.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.reliancedigital.in/s?k=laptop",
+      "status": 200,
+      "latency_ms": 771.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.reliancedigital.in/s?k=notebook",
+      "status": 200,
+      "latency_ms": 1471.0,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.reliancedigital.in/laptops",
+      "status": 200,
+      "latency_ms": 663.0,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.reliancedigital.in",
+      "candidates_found": 0
+    }
+  ]
+}

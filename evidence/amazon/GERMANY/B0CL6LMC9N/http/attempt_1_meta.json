@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "HTTP",
+  "status_code": 200,
+  "response_time_ms": 2237.04,
+  "browser_seconds": 0.0,
+  "bytes_received": 828542,
+  "success": false,
+  "evidence_path": "evidence/amazon/GERMANY/B0CL6LMC9N/http/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "VALIDATION",
+    "specific_reason": "REQUIRED_FIELD_MISSING",
+    "stage": "FIELD_VALIDATION",
+    "failure_reason_human": "Mandatory schema field missing: Required fields missing",
+    "http_status": 200,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": null,
+    "source_strategy": "HTTP",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:02:32.308875+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": null,
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:02:32.308899+00:00"
+}

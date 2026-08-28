@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.costco.com/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 35236.9,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.costco.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 5687.4,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.costco.com/laptops",
+    "status_code": 200,
+    "latency_ms": 2618.8,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

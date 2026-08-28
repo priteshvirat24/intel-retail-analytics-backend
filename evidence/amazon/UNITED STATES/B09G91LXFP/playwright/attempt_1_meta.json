@@ -1,0 +1,34 @@
+{
+  "attempt_number": 1,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 200,
+  "response_time_ms": 3794.13,
+  "browser_seconds": 3.865591851004865,
+  "bytes_received": 3494,
+  "success": false,
+  "evidence_path": "evidence/amazon/UNITED STATES/B09G91LXFP/playwright/raw.html",
+  "screenshot_path": "evidence/amazon/UNITED STATES/B09G91LXFP/playwright/screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "ACCESS",
+    "specific_reason": "CAPTCHA_CHALLENGE",
+    "stage": "CONTENT_AVAILABILITY",
+    "failure_reason_human": "Crawl halted by automated challenge (CAPTCHA).",
+    "http_status": 200,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "PLAYWRIGHT",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:05:53.157515+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "page_title_excerpt": "<!doctype html><html class=\"a-no-js\" lang=\"en-us\"><!--<![endif]--><head>\n<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n<meta charset=\"utf-8\">\n<meta http-equiv=\"x-ua-compatible\" c",
+      "vendor": null
+    }
+  },
+  "timestamp": "2026-08-23T16:05:53.157594+00:00"
+}

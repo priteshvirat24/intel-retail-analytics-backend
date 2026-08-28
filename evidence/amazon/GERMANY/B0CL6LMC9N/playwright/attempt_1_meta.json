@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 200,
+  "response_time_ms": 5223.73,
+  "browser_seconds": 5.306307328020921,
+  "bytes_received": 869671,
+  "success": false,
+  "evidence_path": "evidence/amazon/GERMANY/B0CL6LMC9N/playwright/raw.html",
+  "screenshot_path": "evidence/amazon/GERMANY/B0CL6LMC9N/playwright/screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "VALIDATION",
+    "specific_reason": "REQUIRED_FIELD_MISSING",
+    "stage": "FIELD_VALIDATION",
+    "failure_reason_human": "Mandatory schema field missing: Required fields missing",
+    "http_status": 200,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": null,
+    "source_strategy": "PLAYWRIGHT",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:02:38.558234+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": null,
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:02:38.558265+00:00"
+}

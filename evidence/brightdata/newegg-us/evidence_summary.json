@@ -1,0 +1,17 @@
+{
+  "target_id": "newegg-us",
+  "retailer": "Newegg",
+  "country": "United States",
+  "domain": "newegg.com",
+  "can_scrape": "YES",
+  "strategy": "FIRECRAWL_RESCUE",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.newegg.com/p/pl?d=laptop&srsltid=AfmBOoqvTC_UTpJUTivKkQsk_68n24QcQ2eEWVNjrDPJqlOqK68SCmgg",
+  "title": "Laptops and Notebooks Computers",
+  "brand": "Newegg",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:21:36.043392+00:00",
+  "failure_reason": null
+}

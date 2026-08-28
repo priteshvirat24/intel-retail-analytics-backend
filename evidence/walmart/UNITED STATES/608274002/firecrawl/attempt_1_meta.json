@@ -1,0 +1,34 @@
+{
+  "attempt_number": 1,
+  "strategy": "FIRECRAWL",
+  "status_code": 404,
+  "response_time_ms": 9618.61146002775,
+  "browser_seconds": 9.644920360995457,
+  "bytes_received": 369157,
+  "success": false,
+  "evidence_path": "evidence/walmart/UNITED STATES/608274002/firecrawl/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "ACCESS",
+    "specific_reason": "CAPTCHA_CHALLENGE",
+    "stage": "CONTENT_AVAILABILITY",
+    "failure_reason_human": "Crawl halted by automated challenge (Akamai Bot Manager).",
+    "http_status": 404,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "FIRECRAWL",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": "Akamai Bot Manager",
+    "timestamp": "2026-08-23T16:06:50.130569+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "page_title_excerpt": "<!doctype html><html lang=\"en-us\"><head><meta charset=\"utf-8\"><meta property=\"fb:app_id\" content=\"105223049547814\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1",
+      "vendor": "Akamai Bot Manager"
+    }
+  },
+  "timestamp": "2026-08-23T16:06:50.130619+00:00"
+}

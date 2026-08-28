@@ -1,0 +1,13 @@
+{
+  "target_id": "agres-id",
+  "retailer": "Agres",
+  "country": "Indonesia",
+  "url": "https://www.agres.id/categories/laptops",
+  "strategy": "PLAYWRIGHT",
+  "status_code": 200,
+  "final_url": "https://www.agres.id/categories/laptops",
+  "crawlable": false,
+  "failure_reason": "BOT_CHALLENGE_PAGE",
+  "anti_bot_vendor": null,
+  "latency_ms": 7467.64
+}

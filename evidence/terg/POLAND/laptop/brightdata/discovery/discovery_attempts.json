@@ -1,0 +1,18 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mediaexpert.pl/szukaj?q=laptop",
+    "status_code": 200,
+    "latency_ms": 3424.6,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mediaexpert.pl/laptopy",
+    "status_code": 200,
+    "latency_ms": 3770.5,
+    "bytes": 1133286,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

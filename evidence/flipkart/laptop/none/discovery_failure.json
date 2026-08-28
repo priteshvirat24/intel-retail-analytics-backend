@@ -1,0 +1,8 @@
+{
+  "target_id": "flipkart-in",
+  "retailer": "Flipkart",
+  "country": "India",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED",
+  "timestamp": "2026-08-24T07:32:07.414957+00:00"
+}

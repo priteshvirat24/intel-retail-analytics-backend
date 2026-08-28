@@ -1,0 +1,17 @@
+{
+  "target_id": "mediamarkt-es",
+  "retailer": "Mediamarkt",
+  "country": "Spain",
+  "domain": "mediamarkt.es",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.mediamarkt.es/es/product/_funda-portatil-business-laptop-sleeve-neoprene-subblim-negro-134912416.html?srsltid=AfmBOorPF96hWJjp96Nph6cvwJ8uQUhIV8DMOF4pqTcPQZ2Cb7mXiXqU",
+  "title": "Funda portátil | SUBBLIM Business Laptop Sleeve Neoprene, 14 ...",
+  "brand": "Mediamarkt",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:23:07.401656+00:00",
+  "failure_reason": null
+}

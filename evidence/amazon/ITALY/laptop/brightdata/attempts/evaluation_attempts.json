@@ -1,0 +1,52 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.it/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 5920.8,
+    "bytes": 1864578,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.amazon.it/dp/B08L5WHJ7L",
+    "status_code": 200,
+    "latency_ms": 2819.9,
+    "product_title": null,
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.amazon.it/ASUS-Vivobook-B09BFD21CW-Anti-glare-processore/dp/B09BFD21CW/ref=sr_1_5?dib=eyJ2IjoiMSJ9.ikBC2M4VUEudbksqibZDl7AMJ8owQ8NcPVtclPJwdHsJHU5pNuTjXmkifPUBgsAP5jmn_NwRoZIa7XauJwyPA1E1eu5UTx25oabdRKXD4xNtPHlOpmFy_dnzYapCQXRJ04NlERq2dLbFTOsf6u-oHT7re_tfpg6V4Ar9lv2QCFN6J1wfuoaBv3AzKpSnm4MBXXl5M7XAiLW_pbEAPTktQFlOEN7Mp88gn4SdpQaGFpNlAtSlmRO8-puXKWfrVu-7Aa7jghu8UZNQBtZ1lUH9op68nAIcO4-oEZA4ww8cJsM.xiBAyau5RqRe9AwwtNgDmDRUk7Lc1Z618YLYI1EuMXc&dib_tag=se&keywords=notebook&qid=1787648004&sr=8-5",
+    "status_code": 200,
+    "latency_ms": 6818.6,
+    "product_title": "ASUS Vivobook 15 M1502NAQ#B09BFD21CW, Notebook con display 15.6\" IPS, Anti-glare, 60Hz, processore AMD RYZEN 5 150,RAM 16GB, 1TB SSD, WIN11 Home, Argento",
+    "brand": "ASUS",
+    "price": 67900.0,
+    "product_class": "MONITOR",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Rejected as MONITOR: Standalone Monitor / Display",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 3,
+    "url": "https://www.amazon.it/Lenovo-IdeaPad-Notebook-1920x1200-Multitasking/dp/B0GQTHW81N/ref=sr_1_6?dib=eyJ2IjoiMSJ9.ikBC2M4VUEudbksqibZDl7AMJ8owQ8NcPVtclPJwdHsJHU5pNuTjXmkifPUBgsAP5jmn_NwRoZIa7XauJwyPA1E1eu5UTx25oabdRKXD4xNtPHlOpmFy_dnzYapCQXRJ04NlERq2dLbFTOsf6u-oHT7re_tfpg6V4Ar9lv2QCFN6J1wfuoaBv3AzKpSnm4MBXXl5M7XAiLW_pbEAPTktQFlOEN7Mp88gn4SdpQaGFpNlAtSlmRO8-puXKWfrVu-7Aa7jghu8UZNQBtZ1lUH9op68nAIcO4-oEZA4ww8cJsM.xiBAyau5RqRe9AwwtNgDmDRUk7Lc1Z618YLYI1EuMXc&dib_tag=se&keywords=notebook&qid=1787648004&sr=8-6",
+    "status_code": 200,
+    "latency_ms": 7754.4,
+    "product_title": "Lenovo IdeaPad Slim 3 Notebook 15\" IPS (1920x1200) AMD Ryzen 5, RAM 8GB, 512GB SSD, Windows 11 Home, WiFi 6, Laptop per Casa, Ufficio, Studio, Multitasking - Caricatore non incluso",
+    "brand": "LENOVO",
+    "price": 47900.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": null
+  }
+]

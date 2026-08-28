@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-ca",
+  "retailer": "Amazon",
+  "country": "Canada",
+  "country_iso": "ca",
+  "url": "https://www.amazon.ca/HP-Processor-Storage-Graphics-15-fd0016ca/dp/B0DVD5RQ86/ref=sr_1_1?dib=eyJ2IjoiMSJ9.5d93cHZmg-O2ODg3S2SZi7HPLn6MTl99Ge3NYdlGwPZf6rvwd_rYd18UUCx3VzkzLkzp7XWtdOvlHkZqObgFdEF6dcMs_hm_JXp7_wsnKeqyO5bB_PD-RsTiaAnBy07sVt2inTMDLhQrPbgSpKYQhqyG6Uq9cPXAeolwsO_53reTTysJeZe-0Eh9-yHJwUjcWfII54yKPrErSWmlbXcj-5k9Kafe9qYktlEeDV3YrBFLyAN5zRqY7HKMTPxgO7FWQneIqpbDhaYTxm87VwGXu0LrwCCf21_qY7YP_GDwGXg._-EoamkQIvkIpm3OD2qlm9RKDZ-Hu2bSnNYffPzgP68&dib_tag=se&keywords=laptop&qid=1787642868&sr=8-1",
+  "status_code": 200,
+  "response_time_ms": 15057.0,
+  "can_scrape": "NO",
+  "confidence_score": 0.65,
+  "product_name": "Add to your order",
+  "brand": null,
+  "price": 296.0,
+  "currency": null,
+  "sku": "B0DVD5RQ86",
+  "reason": "Peripheral/Accessory SKU reached instead of standalone laptop computer"
+}

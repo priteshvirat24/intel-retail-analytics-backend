@@ -1,0 +1,24 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.com.tr/arama?q=laptop",
+    "status_code": 200,
+    "latency_ms": 5237.0,
+    "bytes": 790731,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.mediamarkt.com.tr/tr/product/_dell-vostro-5471-i7-8550u-8gb-256gb-ssd-14fhd-linux-laptop-1195514.html",
+    "status_code": 200,
+    "latency_ms": 7316.6,
+    "product_title": "DELL Vostro 5471 i7-8550U 8GB 256GB SSD 14\"FHD Linux Laptop",
+    "brand": "DELL",
+    "price": 6.34,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "Cloudflare Turnstile"
+  }
+]

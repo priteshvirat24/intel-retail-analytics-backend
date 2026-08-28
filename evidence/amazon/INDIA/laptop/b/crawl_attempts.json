@@ -1,0 +1,35 @@
+{
+  "target_id": "amazon-in",
+  "laptop_url": "https://www.amazon.in/Laptops/b?ie=UTF8&node=1375424031#skippedLink",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 10301.3
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.1
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "WAF_BOT_CHALLENGE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_RETAILER_BLOCK",
+    "latency_ms": 17384.3
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

@@ -1,0 +1,15 @@
+{
+  "attempt_number": 1,
+  "strategy": "HTTP",
+  "status_code": 0,
+  "response_time_ms": 0.71,
+  "browser_seconds": 0.0,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "HTTP Connection Error: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`.",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:48:13.480771+00:00"
+}

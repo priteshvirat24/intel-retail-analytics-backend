@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.mediamarkt.com.tr/arama?q=laptop",
+    "status_code": 200,
+    "latency_ms": 15610.2,
+    "html_bytes": 790745
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "target_id": "lenovo-global",
+  "retailer": "Lenovo",
+  "country": "Global",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "timestamp": "2026-08-24T07:32:07.417756+00:00"
+}

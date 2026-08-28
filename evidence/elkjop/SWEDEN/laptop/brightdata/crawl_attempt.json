@@ -1,0 +1,17 @@
+{
+  "target_id": "elkjop-se",
+  "retailer": "Elkjop",
+  "country": "Sweden",
+  "country_iso": "se",
+  "url": "https://www.elgiganten.se",
+  "status_code": 200,
+  "response_time_ms": 34164.1,
+  "can_scrape": "NO",
+  "confidence_score": 0.15,
+  "product_name": "Veckans Super Deals",
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Peripheral/Accessory SKU reached instead of standalone laptop computer"
+}

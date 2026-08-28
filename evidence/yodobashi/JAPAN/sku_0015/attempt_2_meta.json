@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 11816.31,
+  "browser_seconds": 11.85,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright navigation error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.yodobashi.com/product/sku_0015\nCall log:\n  - navigating to \"https://www.yodobashi.com/product/sku_0015\", waiting until \"domcontentloaded\"\n",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:53:50.731560+00:00"
+}

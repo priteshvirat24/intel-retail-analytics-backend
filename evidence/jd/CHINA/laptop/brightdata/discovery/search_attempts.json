@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.jd.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 14322.6,
+    "html_bytes": 13395
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.jd.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 14103.1,
+    "html_bytes": 13395
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.jd.com/laptops",
+    "status_code": 200,
+    "latency_ms": 12401.6,
+    "html_bytes": 13395
+  }
+]

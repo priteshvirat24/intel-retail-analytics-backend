@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "Germany",
+  "product_url": "https://www.amazon.de/Dell-Latitude-i5-1135G7-Antiviren-Software-General%C3%BCberholt/dp/B0H7JDLNCR/ref=sr_1_6",
+  "title": "Dell Latitude 5320 2-in-1 13,3 Zoll Full HD Laptop Intel Core i5-1135G7@ bis zu 4,2 GHz 16 GB 512 GB SSD mit Windows 11 Pro & GRATIS Antiviren-Software inkl. 12 Monate Garantie (General\u00fcberholt)",
+  "brand": "Besuche den Amazon Renewed-Store",
+  "model": "B0H7JDLNCR",
+  "sku": "B0H7JDLNCR",
+  "price": 29990.0,
+  "currency": "EUR",
+  "availability": "InStock",
+  "cpu": "Intel Core I5-1135G7",
+  "ram": "16GB",
+  "storage": "512 GB SSD",
+  "display": null,
+  "gpu": null,
+  "operating_system": "Windows 11",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:55:42.558792Z"
+}

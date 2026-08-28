@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.jd.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 5696.8,
+    "bytes": 13395,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.jd.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 6262.8,
+    "bytes": 13395,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.jd.com/laptops",
+    "status_code": 200,
+    "latency_ms": 9101.3,
+    "bytes": 13395,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.jd.com",
+    "status_code": 200,
+    "latency_ms": 5588.7,
+    "product_title": "\u4eac\u4e1c\u5168\u7403\u7248-\u4e13\u4e1a\u7684\u7efc\u5408\u7f51\u4e0a\u8d2d\u7269\u5546\u57ce",
+    "brand": null,
+    "price": 7.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  }
+]

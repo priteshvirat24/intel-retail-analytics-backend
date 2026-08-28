@@ -1,0 +1,55 @@
+[
+  {
+    "method": "METHOD_1_HOMEPAGE",
+    "status": "HTTP_ERROR",
+    "http_status": 405,
+    "latency_ms": 407.4,
+    "candidates_found": 0
+  },
+  {
+    "method": "METHOD_2_ROBOTS_TXT",
+    "status": "NOT_FOUND",
+    "http_status": 405,
+    "latency_ms": 479.5
+  },
+  {
+    "method": "METHOD_3_XML_SITEMAP",
+    "status": "NO_MATCH",
+    "candidates_found": 0
+  },
+  {
+    "method": "METHOD_4_WEBSITE_SEARCH",
+    "status": "FAILED",
+    "candidates_found": 0
+  },
+  {
+    "method": "METHOD_5_CATEGORY_NAV",
+    "status": "FAILED",
+    "candidates_found": 0
+  },
+  {
+    "method": "METHOD_6_JSONLD_EXTRACTION",
+    "status": "NO_LINKS",
+    "candidates_found": 0
+  },
+  {
+    "method": "METHOD_7_KNOWN_PATTERNS",
+    "status": "NO_MATCH",
+    "candidates_found": 0
+  },
+  {
+    "method": "METHOD_8_SEARCH_ENGINE",
+    "status": "NO_MATCH",
+    "candidates_found": 0
+  },
+  {
+    "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+    "status": "SUCCESS",
+    "candidates_found": 12
+  },
+  {
+    "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+    "status": "FAILED",
+    "candidates_found": 0
+  }
+]

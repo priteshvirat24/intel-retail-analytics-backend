@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 8918.03,
+  "browser_seconds": 9.01,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright navigation error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.bestbuy.com/site/product-model/6418619.p\nCall log:\n  - navigating to \"https://www.bestbuy.com/site/product-model/6418619.p\", waiting until \"domcontentloaded\"\n",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:35:13.006608+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "target_id": "coupang-kr",
+  "retailer": "Coupang",
+  "country": "South Korea",
+  "country_iso": "kr",
+  "url": "https://www.coupang.com",
+  "status_code": 200,
+  "response_time_ms": 20380.1,
+  "can_scrape": "NO",
+  "confidence_score": 0.15,
+  "product_name": "\ub85c\ucf13\ubc30\uc1a1\uc73c\ub85c \ube60\ub974\uac8c, \ub85c\ucf13\uc640\uc6b0 \uba64\ubc84\uc2ed\uc73c\ub85c \ud560\uc778\uacfc \ubb34\ub8cc \ubc18\ud488\uae4c\uc9c0 | \ucfe0\ud321",
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Peripheral/Accessory SKU reached instead of standalone laptop computer"
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.jbhifi.com.au/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 15828.2,
+    "html_bytes": 1252421
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.jbhifi.com.au/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 9836.0,
+    "html_bytes": 315
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.jbhifi.com.au/laptops",
+    "status_code": 200,
+    "latency_ms": 11643.5,
+    "html_bytes": 1251240
+  }
+]

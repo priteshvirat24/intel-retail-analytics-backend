@@ -1,0 +1,60 @@
+{
+  "target_id": "mediamarkt-it",
+  "retailer": "Mediamarkt",
+  "country": "Italy",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "mediaworld.it",
+    "base_url": "https://www.mediaworld.it",
+    "http_status": 403,
+    "redirect_chain": [],
+    "final_url": "https://www.mediaworld.it",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 765.0
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediaworld.it/search?q=laptop",
+      "status": 403,
+      "latency_ms": 684.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediaworld.it/search?q=notebook",
+      "status": 403,
+      "latency_ms": 715.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediaworld.it/s?k=laptop",
+      "status": 403,
+      "latency_ms": 696.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediaworld.it/s?k=notebook",
+      "status": 403,
+      "latency_ms": 683.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.mediaworld.it/laptops",
+      "status": 403,
+      "latency_ms": 725.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.mediaworld.it",
+      "candidates_found": 0
+    }
+  ]
+}

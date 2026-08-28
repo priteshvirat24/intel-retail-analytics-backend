@@ -1,0 +1,17 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 0.8,
+  "detected_brand": "Monster",
+  "model_or_sku": "14-kilif",
+  "extracted_specs": {
+    "screen_size": "14\""
+  },
+  "positive_signals": [
+    "Laptop keyword: 'notebook'",
+    "Brand: 'Monster'",
+    "Screen size: 14\""
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

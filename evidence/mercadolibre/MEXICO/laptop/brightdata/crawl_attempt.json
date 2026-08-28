@@ -1,0 +1,17 @@
+{
+  "target_id": "mercadolibre-mx",
+  "retailer": "Mercadolibre",
+  "country": "Mexico",
+  "country_iso": "mx",
+  "url": "https://listado.mercadolibre.com.mx/electronica-audio-video/audio/audio-portatil-accesorios/#menu=categories",
+  "status_code": 0,
+  "response_time_ms": 41663.7,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Bright Data Connection Timeout: Unlocker async polling timed out after 35s"
+}

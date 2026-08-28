@@ -1,0 +1,4347 @@
+[
+  {
+    "target_id": "agres-id",
+    "retailer": "Agres",
+    "country": "Indonesia",
+    "iso_country": "ID",
+    "domain": "agres.id",
+    "laptop_url": "https://www.agres.id/categories/laptops",
+    "product_id": "laptops",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "PRODUCT_IDENTITY_MISSING",
+    "validation_score": 0.4,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "agres.id",
+      "base_url": "https://www.agres.id",
+      "http_status": 200,
+      "final_url": "https://www.agres.id",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://agres.id/sitemap.xml",
+        "https://agres.id/products-sitemap.xml",
+        "https://agres.id/categories-sitemap.xml",
+        "https://agres.id/blog-sitemap.xml"
+      ],
+      "waf_detected": null,
+      "latency_ms": 1355.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 1355.8,
+        "candidates_found": 2
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 4,
+        "latency_ms": 497.4
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "SUCCESS",
+        "candidates_found": 2
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:10:33.658479+00:00"
+  },
+  {
+    "target_id": "acer-global",
+    "retailer": "Acer",
+    "country": "Global",
+    "iso_country": "US",
+    "domain": "store.acer.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_TIMEOUT",
+    "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "store.acer.com",
+      "base_url": "https://store.acer.com",
+      "http_status": 0,
+      "final_url": "https://store.acer.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "CONNECTION_ERROR",
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "ERROR",
+        "error": ""
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:11:36.881390+00:00"
+  },
+  {
+    "target_id": "amazon-us",
+    "retailer": "Amazon",
+    "country": "United States",
+    "iso_country": "US",
+    "domain": "amazon.com",
+    "laptop_url": "https://www.amazon.com/AKCHART-Laptop-Office-256GB-Laptops/dp/B0H94LG15F/ref=sr_1_1?dib=eyJ2IjoiMSJ9.p3ydhHkWHYvoLVn3p8tVdoTGaWNDUVOAQSL8r7by9Vzd1DJTRvutSw_4wwJKwCqdDw_IUFIGQDpVb-GTV8lYYHQ5PgirmpVurod74zEraZVf9-U9o40dtYjb7OnszAypk4ZI6f3qOWoeHxyIPMBkSbQ_Dz2LMlszmyoL5lRMNKmqdtgfkGDJ7iDU5Zhh8QE8V5iftFgaZGJKatmvE718uiv3ToCGCNLPmgmqCCb9kRc.iyVVTyQaun4-j7z9ff-FUQ_tFR0WnJslaU70RMB_ZNY&dib_tag=se&keywords=laptop&qid=1787559111&sr=8-1",
+    "product_id": "ref=sr_1_1",
+    "discovery_method": "method_4_website_search",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "validation_score": 0.55,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.com",
+      "base_url": "https://www.amazon.com",
+      "http_status": 202,
+      "final_url": "https://www.amazon.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 383.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 202,
+        "latency_ms": 383.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 630.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "SUCCESS",
+        "candidates_found": 39
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "SUCCESS",
+        "candidates_found": 10
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:12:17.349763+00:00"
+  },
+  {
+    "target_id": "amazon-in",
+    "retailer": "Amazon",
+    "country": "India",
+    "iso_country": "IN",
+    "domain": "amazon.in",
+    "laptop_url": "https://www.amazon.in/ASUS-Vivobook-i5-13420H-Keyboard-X1605VA-SH1952WS/dp/B0FN9WN6XD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.YCD62Cm6YiAsNErT-6-DiISaPQvy3ePlUAfeo1TL337UbKwVM_vAi1-onOkc7-XCIgqtPHhIAyZwdkfl3ZbWDvSzD03vwM0gr1KhOLbjp88n_aiqTixndAJIkzJIZ72bDmX5Cx0WxApU6RyHmHEP-cmJTKwE1B6aOga_wqStXxlLpm1q4GjWnAelhxfqUQlY3EugSXLkqlTd1Pdm0zgyE6GZGUICpMpJueILBBgf-PI.7Eo-_Lia2Rkv7UyTJPCio6gYRxku78a-n8q9fpRZWZ8&dib_tag=se&keywords=laptop&qid=1787559140&sr=8-3",
+    "product_id": "ref=sr_1_3",
+    "discovery_method": "method_4_website_search",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "WAF_BOT_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.in",
+      "base_url": "https://www.amazon.in",
+      "http_status": 202,
+      "final_url": "https://www.amazon.in",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 260.1
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 202,
+        "latency_ms": 260.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 591.2
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "SUCCESS",
+        "candidates_found": 8
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:12:45.374367+00:00"
+  },
+  {
+    "target_id": "amazon-gb",
+    "retailer": "Amazon",
+    "country": "United Kingdom",
+    "iso_country": "GB",
+    "domain": "amazon.co.uk",
+    "laptop_url": "https://www.amazon.co.uk/laptops/b/?ie=UTF8&node=429886031&ref_=sv_computers_3",
+    "product_id": "",
+    "discovery_method": "method_5_category_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "WAF_BOT_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.co.uk",
+      "base_url": "https://www.amazon.co.uk",
+      "http_status": 202,
+      "final_url": "https://www.amazon.co.uk",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 321.6
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 202,
+        "latency_ms": 321.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 530.5
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "SUCCESS",
+        "candidates_found": 41
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:13:07.724923+00:00"
+  },
+  {
+    "target_id": "amazon-de",
+    "retailer": "Amazon",
+    "country": "Germany",
+    "iso_country": "DE",
+    "domain": "amazon.de",
+    "laptop_url": "https://www.amazon.de/ASUS-FullHD-Notebook-Windows-8247/dp/B0FPD1G32N/ref=sr_1_4?dib=eyJ2IjoiMSJ9.CfjidRfJ8pMmDNKcmOSGrUG1zMWv8yeF-ufIYkXs_Go5WhNLONw2BtWGmryf5gFhud9RFTaLQ0q4BFt-LWfaBA4zyg-Jjazx164XsVQz0HKRS_J4fE6IOUsXRdMgqrTnzTPOJH8jZoOiQpgpex57IV7RC-SIGRXk4aod-HUFyhJ8g7i1BrYLNDLdndM0a0TcyDxiRh2wwf496AbrUmsvb9osL2-Q2QqzFEFMPk5CBJg.XVjgijIJFGlwfwrSoF02WX0bym-f1MzBNFINZJow36o&dib_tag=se&keywords=notebook&qid=1787559192&sr=8-4",
+    "product_id": "ref=sr_1_4",
+    "discovery_method": "method_4_website_search",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.de",
+      "base_url": "https://www.amazon.de",
+      "http_status": 202,
+      "final_url": "https://www.amazon.de",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 420.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 202,
+        "latency_ms": 420.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 655.4
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "SUCCESS",
+        "candidates_found": 32
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "SUCCESS",
+        "candidates_found": 28
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:13:29.143173+00:00"
+  },
+  {
+    "target_id": "amazon-fr",
+    "retailer": "Amazon",
+    "country": "France",
+    "iso_country": "FR",
+    "domain": "amazon.fr",
+    "laptop_url": "https://www.amazon.fr/dp/B08L5WHJ7L",
+    "product_id": "B08L5WHJ7L",
+    "discovery_method": "method_7_inferred_pattern",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.fr",
+      "base_url": "https://www.amazon.fr",
+      "http_status": 200,
+      "final_url": "https://www.amazon.fr",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 393.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 393.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 761.4
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:13:48.372064+00:00"
+  },
+  {
+    "target_id": "amazon-it",
+    "retailer": "Amazon",
+    "country": "Italy",
+    "iso_country": "IT",
+    "domain": "amazon.it",
+    "laptop_url": "https://www.amazon.it/dp/B08L5WHJ7L",
+    "product_id": "B08L5WHJ7L",
+    "discovery_method": "method_7_inferred_pattern",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.it",
+      "base_url": "https://www.amazon.it",
+      "http_status": 202,
+      "final_url": "https://www.amazon.it",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 378.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 202,
+        "latency_ms": 378.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 614.4
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:13:58.450732+00:00"
+  },
+  {
+    "target_id": "amazon-es",
+    "retailer": "Amazon",
+    "country": "Spain",
+    "iso_country": "ES",
+    "domain": "amazon.es",
+    "laptop_url": "https://www.amazon.es/dp/B08L5WHJ7L",
+    "product_id": "B08L5WHJ7L",
+    "discovery_method": "method_7_inferred_pattern",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.es",
+      "base_url": "https://www.amazon.es",
+      "http_status": 202,
+      "final_url": "https://www.amazon.es",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 498.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 202,
+        "latency_ms": 498.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 741.2
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:14:09.991207+00:00"
+  },
+  {
+    "target_id": "amazon-ca",
+    "retailer": "Amazon",
+    "country": "Canada",
+    "iso_country": "CA",
+    "domain": "amazon.ca",
+    "laptop_url": "https://www.amazon.ca/Laptops/b/?ie=UTF8&node=677252011&ref_=sv_pc_2",
+    "product_id": "",
+    "discovery_method": "method_5_category_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "WAF_BOT_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.ca",
+      "base_url": "https://www.amazon.ca",
+      "http_status": 200,
+      "final_url": "https://www.amazon.ca",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 606.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 606.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 1265.0
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "SUCCESS",
+        "candidates_found": 53
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:14:40.571686+00:00"
+  },
+  {
+    "target_id": "amazon-mx",
+    "retailer": "Amazon",
+    "country": "Mexico",
+    "iso_country": "MX",
+    "domain": "amazon.com.mx",
+    "laptop_url": "https://www.amazon.com.mx/INIU-20000mAh-Portatil-Powerbank-Compatible/dp/B0DCMW8SJV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.YVju2VL9Z36afz4wpJE9iNLMFGBV_63KB5uzwYKiwB2EPtcG6-T81muhUYIMTS0wOjVelFlx06m9-iOdMZY749Y0RaSGgEAvbfKzY_FtAL8X2qgpwph0Q0XAwWJAwKxHNztJMhOO9rQCZ-AJh_ol0RH3XOeyXzNPRDU4QweBddLFT9JB0a6_y-0DR2bIzcqRXbfGfQLLUi5JV_0vQU-l-a9Gjygup9HyXQZ_9kZd1pjV7ccBQn_oVUWdvFLlkBhPMa0oBQS1R7aVrFCTwckDbNC6CcDXOgBBVpzUKe7BrnE.i38T_vY8ROFAsEnFEYBaSrRxY4hAjrsWBzV8jUQRwM4&dib_tag=se&keywords=portatil&qid=1787559287&sr=8-1&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57",
+    "product_id": "ref=sr_1_1",
+    "discovery_method": "method_4_website_search",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "WAF_BOT_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.com.mx",
+      "base_url": "https://www.amazon.com.mx",
+      "http_status": 202,
+      "final_url": "https://www.amazon.com.mx",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 373.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 202,
+        "latency_ms": 373.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 1028.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "SUCCESS",
+        "candidates_found": 26
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:15:14.603448+00:00"
+  },
+  {
+    "target_id": "amazon-br",
+    "retailer": "Amazon",
+    "country": "Brazil",
+    "iso_country": "BR",
+    "domain": "amazon.com.br",
+    "laptop_url": "https://www.amazon.com.br/dp/B09G91LXFP",
+    "product_id": "B09G91LXFP",
+    "discovery_method": "method_7_inferred_pattern",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "NOT_A_LAPTOP_PRODUCT",
+    "validation_score": 0.25,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "amazon.com.br",
+      "base_url": "https://www.amazon.com.br",
+      "http_status": 200,
+      "final_url": "https://www.amazon.com.br",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 485.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 485.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 719.5
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "SUCCESS",
+        "candidates_found": 20
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:15:34.254845+00:00"
+  },
+  {
+    "target_id": "bestbuy-us",
+    "retailer": "Bestbuy",
+    "country": "United States",
+    "iso_country": "US",
+    "domain": "bestbuy.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_TIMEOUT",
+    "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "bestbuy.com",
+      "base_url": "https://www.bestbuy.com",
+      "http_status": 0,
+      "final_url": "https://www.bestbuy.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "CONNECTION_ERROR",
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "ERROR",
+        "error": ""
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:16:50.789315+00:00"
+  },
+  {
+    "target_id": "bestbuy-ca",
+    "retailer": "Bestbuy",
+    "country": "Canada",
+    "iso_country": "CA",
+    "domain": "bestbuy.ca",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_TIMEOUT",
+    "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "bestbuy.ca",
+      "base_url": "https://www.bestbuy.ca",
+      "http_status": 0,
+      "final_url": "https://www.bestbuy.ca",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "CONNECTION_ERROR",
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "ERROR",
+        "error": ""
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:17:57.740420+00:00"
+  },
+  {
+    "target_id": "boulanger-fr",
+    "retailer": "Boulanger",
+    "country": "France",
+    "iso_country": "FR",
+    "domain": "boulanger.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_TIMEOUT",
+    "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "boulanger.com",
+      "base_url": "https://www.boulanger.com",
+      "http_status": 0,
+      "final_url": "https://www.boulanger.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.boulanger.com/sitemap_index.xml"
+      ],
+      "waf_detected": null,
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "CONNECTION_ERROR",
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 1,
+        "latency_ms": 884.4
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:18:22.706987+00:00"
+  },
+  {
+    "target_id": "costco-us",
+    "retailer": "Costco",
+    "country": "United States",
+    "iso_country": "US",
+    "domain": "costco.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "costco.com",
+      "base_url": "https://www.costco.com",
+      "http_status": 200,
+      "final_url": "https://www.costco.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.costco.com/sitemap_lw_index.xml"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1894.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 1894.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 1,
+        "latency_ms": 790.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:18:37.573947+00:00"
+  },
+  {
+    "target_id": "coupang-kr",
+    "retailer": "Coupang",
+    "country": "South Korea",
+    "iso_country": "KR",
+    "domain": "coupang.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "coupang.com",
+      "base_url": "https://www.coupang.com",
+      "http_status": 403,
+      "final_url": "https://www.coupang.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 425.7
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 425.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 369.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:18:49.563779+00:00"
+  },
+  {
+    "target_id": "currys-gb",
+    "retailer": "Currys",
+    "country": "United Kingdom",
+    "iso_country": "GB",
+    "domain": "currys.co.uk",
+    "laptop_url": "https://www.currys.co.uk/deals-on-computing/lenovo-yoga-intel-core-ultra-laptops",
+    "product_id": "lenovo-yoga-intel-core-ultra-laptops",
+    "discovery_method": "method_10_playwright_render",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": null,
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "currys.co.uk",
+      "base_url": "https://www.currys.co.uk",
+      "http_status": 403,
+      "final_url": "https://www.currys.co.uk",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 849.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 849.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 1017.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "SUCCESS",
+        "candidates_found": 5
+      }
+    ],
+    "discovered_at": "2026-08-24T08:19:10.604062+00:00"
+  },
+  {
+    "target_id": "dell-global",
+    "retailer": "Dell",
+    "country": "Global",
+    "iso_country": "US",
+    "domain": "dell.com",
+    "laptop_url": "https://www.dell.com/en-in/lp/learn-about-dell-laptops#Dell-Pro-Essential-Laptops",
+    "product_id": "learn-about-dell-laptops#Dell-Pro-Essential-Laptops",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "validation_score": 0.3,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "dell.com",
+      "base_url": "https://www.dell.com",
+      "http_status": 200,
+      "final_url": "https://www.dell.com/en-in/lp",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.dell.com/index-sr-sitemap.xml.gz",
+        "https://www.dell.com/index-deals-href-sitemap.xml.gz",
+        "https://www.dell.com/index-product-pages-hreflang-sitemap.xml.gz",
+        "https://www.dell.com/index-sitemap.xml.gz",
+        "https://www.dell.com/index-snp-apj-sitemap.xml.gz",
+        "https://www.dell.com/index-support-href-sitemap.xml.gz",
+        "https://www.dell.com/index-video-xml-sitemap.xml.gz",
+        "https://www.dell.com/index-downloads-dell-pdfs-sitemap.xml.gz",
+        "https://www.dell.com/index-dt-sitemap.xml.gz"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 2249.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 2249.0,
+        "candidates_found": 3
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 9,
+        "latency_ms": 716.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "SUCCESS",
+        "candidates_found": 50
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "SUCCESS",
+        "candidates_found": 222
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:19:37.019038+00:00"
+  },
+  {
+    "target_id": "elkjop-dk",
+    "retailer": "Elkjop",
+    "country": "Denmark",
+    "iso_country": "DK",
+    "domain": "elgiganten.dk",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NO_PRODUCT_FOUND",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "elgiganten.dk",
+      "base_url": "https://www.elgiganten.dk",
+      "http_status": 429,
+      "final_url": "https://www.elgiganten.dk",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 441.6
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 429,
+        "latency_ms": 441.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 429,
+        "latency_ms": 431.7
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:19:45.341028+00:00"
+  },
+  {
+    "target_id": "elkjop-no",
+    "retailer": "Elkjop",
+    "country": "Norway",
+    "iso_country": "NO",
+    "domain": "elkjop.no",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NO_PRODUCT_FOUND",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "elkjop.no",
+      "base_url": "https://www.elkjop.no",
+      "http_status": 429,
+      "final_url": "https://www.elkjop.no",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 1228.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 429,
+        "latency_ms": 1228.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 429,
+        "latency_ms": 432.7
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:19:53.971151+00:00"
+  },
+  {
+    "target_id": "elkjop-se",
+    "retailer": "Elkjop",
+    "country": "Sweden",
+    "iso_country": "SE",
+    "domain": "elgiganten.se",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NO_PRODUCT_FOUND",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "elgiganten.se",
+      "base_url": "https://www.elgiganten.se",
+      "http_status": 429,
+      "final_url": "https://www.elgiganten.se",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 385.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 429,
+        "latency_ms": 385.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 429,
+        "latency_ms": 423.0
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:20:02.980259+00:00"
+  },
+  {
+    "target_id": "euronics-it",
+    "retailer": "Euronics",
+    "country": "Italy",
+    "iso_country": "IT",
+    "domain": "euronics.it",
+    "laptop_url": "https://www.euronics.it/informatica/computer-portatili/notebook/",
+    "product_id": "",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "WAF_BOT_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "euronics.it",
+      "base_url": "https://www.euronics.it",
+      "http_status": 200,
+      "final_url": "https://www.euronics.it",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.euronics.it/sitemap_index.xml"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 1617.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 1617.9,
+        "candidates_found": 13
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 1,
+        "latency_ms": 2221.4
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:20:22.948788+00:00"
+  },
+  {
+    "target_id": "expert-de",
+    "retailer": "Expert",
+    "country": "Germany",
+    "iso_country": "DE",
+    "domain": "expert.de",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "expert.de",
+      "base_url": "https://www.expert.de",
+      "http_status": 403,
+      "final_url": "https://www.expert.de",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 314.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 314.0,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 339.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:20:30.628577+00:00"
+  },
+  {
+    "target_id": "flipkart-in",
+    "retailer": "Flipkart",
+    "country": "India",
+    "iso_country": "IN",
+    "domain": "flipkart.com",
+    "laptop_url": "https://www.flipkart.com/q/premium-laptops?otracker=undefined_footer",
+    "product_id": "premium-laptops",
+    "discovery_method": "method_10_playwright_render",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": null,
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "flipkart.com",
+      "base_url": "https://www.flipkart.com",
+      "http_status": 403,
+      "final_url": "https://www.flipkart.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Google reCAPTCHA",
+      "latency_ms": 521.2
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 521.2,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 508.9
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "SUCCESS",
+        "candidates_found": 16
+      }
+    ],
+    "discovered_at": "2026-08-24T08:20:43.731393+00:00"
+  },
+  {
+    "target_id": "fnac-fr",
+    "retailer": "Fnac",
+    "country": "France",
+    "iso_country": "FR",
+    "domain": "fnac.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "fnac.com",
+      "base_url": "https://www.fnac.com",
+      "http_status": 403,
+      "final_url": "https://www.fnac.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 478.7
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 478.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 413.5
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:20:52.671479+00:00"
+  },
+  {
+    "target_id": "gmarket-kr",
+    "retailer": "Gmarket",
+    "country": "South Korea",
+    "iso_country": "KR",
+    "domain": "gmarket.co.kr",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "gmarket.co.kr",
+      "base_url": "https://www.gmarket.co.kr",
+      "http_status": 403,
+      "final_url": "https://www.gmarket.co.kr",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 499.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 499.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 336.8
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:21:03.077687+00:00"
+  },
+  {
+    "target_id": "hp-global",
+    "retailer": "Hp",
+    "country": "Global",
+    "iso_country": "US",
+    "domain": "hp.com",
+    "laptop_url": "https://www.hp.com/in-en/shop/laptops-tablets/laptop-promotions.html",
+    "product_id": "laptop-promotions.html",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "hp.com",
+      "base_url": "https://www.hp.com",
+      "http_status": 200,
+      "final_url": "https://www.hp.com/in-en/home.html",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.hp.com/sitemap-gb-en-mag.xml",
+        "https://www.hp.com/gb-en/shop/media/facets_url/products_url_gb_en.txt",
+        "https://www.hp.com/gb-en/shop/media/facets_url/facets_url_gb_en.txt",
+        "https://www.hp.com/gb-en/shop/media/facets_url/sitemap-gb-en-legacy.txt",
+        "https://www.hp.com/sitemap-ca-en-mag.xml",
+        "https://www.hp.com/sitemap-ca-fr-mag.xml",
+        "https://www.hp.com/sitemap-de-de-isc.xml",
+        "https://www.hp.com/sitemap-es-es-isc.xml",
+        "https://www.hp.com/fr-fr/shop/media/facets_url/products_url_fr_fr.txt",
+        "https://www.hp.com/fr-fr/shop/media/facets_url/facets_url_fr_fr.txt",
+        "https://www.hp.com/fr-fr/shop/media/facets_url/sitemap-fr-fr-legacy.txt",
+        "https://www.hp.com/sitemap-fr-fr-mag.xml",
+        "https://www.hp.com/sitemap-ch-de-mag.xml",
+        "https://www.hp.com/ch-de/shop/media/facets_url/products_url_ch_fr.txt",
+        "https://www.hp.com/ch-de/shop/media/facets_url/facets_url_ch_fr.txt",
+        "https://www.hp.com/ch-de/shop/media/facets_url/sitemap-ch-fr-legacy.txt",
+        "https://www.hp.com/sitemap-ch-en-mag.xml",
+        "https://www.hp.com/ch-en/shop/media/facets_url/products_url_ch_fr.txt",
+        "https://www.hp.com/ch-en/shop/media/facets_url/facets_url_ch_fr.txt",
+        "https://www.hp.com/ch-en/shop/media/facets_url/sitemap-ch-fr-legacy.txt",
+        "https://www.hp.com/sitemap-ch-fr-mag.xml",
+        "https://www.hp.com/ch-fr/shop/media/facets_url/products_url_ch_fr.txt",
+        "https://www.hp.com/ch-fr/shop/media/facets_url/facets_url_ch_fr.txt",
+        "https://www.hp.com/ch-fr/shop/media/facets_url/sitemap-ch-fr-legacy.txt",
+        "https://www.hp.com/sitemap-it-it-mag.xml",
+        "https://www.hp.com/it-it/shop/media/facets_url/product_url_it_it.txt",
+        "https://www.hp.com/it-it/shop/media/facets_url/facets_url_it_it.txt",
+        "https://www.hp.com/it-it/shop/media/facets_url/sitemap-it-it-legacy.txt",
+        "https://www.hp.com/sitemap-pl-pl-mag.xml",
+        "https://www.hp.com/sitemap-nl-nl-mag.xml",
+        "https://www.hp.com/nl-nl/shop/media/sitemap-nl-nl.xml",
+        "https://www.hp.com/nl-nl/shop/media/sitemap-nl-nl-4-2.xml",
+        "https://www.hp.com/nl-nl/shop/media/facets_url/facets_url_nl_nl.txt",
+        "https://www.hp.com/sitemap-be-nl-mag.xml",
+        "https://www.hp.com/sitemap-be-fr-mag.xml",
+        "https://www.hp.com/sitemap-se-sv-mag.xml",
+        "https://www.hp.com/se-sv/shop/media/sitemap-se-sv.xml",
+        "https://www.hp.com/se-sv/shop/media/facets_url/sitemap-se-sv-legacy.txt",
+        "https://www.hp.com/se-sv/shop/media/facets_url/facets_url_se_sv.txt",
+        "https://www.hp.com/es-es/shop/media/facets_url/products_url_es_es.txt",
+        "https://www.hp.com/es-es/shop/media/facets_url/facets_url_es_es.txt",
+        "https://www.hp.com/es-es/shop/media/facets_url/sitemap-es-es-legacy.txt",
+        "https://www.hp.com/sitemap-es-es-mag.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-archives.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-categories.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-months.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-tags.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-article-years.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-articles.xml",
+        "https://www.hp.com/sitemap-gb-app-tech-takes-home.xml",
+        "https://www.hp.com/ca-en/shop/media/facets_url/sitemap-ca-en-legacy.txt",
+        "https://www.hp.com/ca-en/shop/media/facets_url/facets_url_ca_en.txt",
+        "https://www.hp.com/ca-en/shop/media/facets_url/products_url_ca_en.txt",
+        "https://www.hp.com/ca-fr/shop/media/facets_url/sitemap-ca-fr-legacy.txt",
+        "https://www.hp.com/ca-fr/shop/media/facets_url/facets_url_ca_fr.txt",
+        "https://www.hp.com/ca-fr/shop/media/facets_url/products_url_ca_fr.txt",
+        "https://www.hp.com/sitemap-sg-en-mag.xml",
+        "https://www.hp.com/sitemap-my-en-mag.xml",
+        "https://www.hp.com/sitemap-in-en-mag.xml",
+        "https://www.hp.com/in-en/shop/media/facets_url/products_url_in_en.txt",
+        "https://www.hp.com/in-en/shop/media/facets_url/facets_url_in_en.txt",
+        "https://www.hp.com/in-en/shop/media/facets_url/ink_url_in_en.txt",
+        "https://www.hp.com/sitemap-th-th-mag.xml",
+        "https://www.hp.com/sitemap-th-en-mag.xml",
+        "https://www.hp.com/sitemap-id-en-mag.xml",
+        "https://www.hp.com/sitemap-id-id-mag.xml",
+        "https://www.hp.com/sitemap-hk-zh-mag.xml",
+        "https://www.hp.com/sitemap-hk-en-mag.xml",
+        "https://www.hp.com/sitemap-kr-ko-mag.xml",
+        "https://www.hp.com/sitemap-au-en-mag.xml",
+        "https://www.hp.com/sitemap-nz-en-mag.xml",
+        "https://www.hp.com/sa-ar/shop/sitemap.xml",
+        "https://www.hp.com/sa-en/shop/sitemap.xml",
+        "https://www.hp.com/sitemap-br-pt-mag.xml",
+        "https://www.hp.com/sitemap-co-es-mag.xml",
+        "https://www.hp.com/sitemap-cl-es-mag.xml",
+        "https://www.hp.com/sitemap-mx-es-mag.xml",
+        "https://www.hp.com/sitemap-pe-es-mag.xml",
+        "https://www.hp.com/sitemap-ar-es-mag.xml",
+        "https://www.hp.com/sitemap_index.xml",
+        "https://www.hp.com/us-en/parts-store/media/sitemap/sitemap-us.xml",
+        "https://www.hp.com/sitemap",
+        "https://www.hp.com/sitemap-index-store-global-hreflang-non-pdp.xml",
+        "https://www.hp.com/sitemap-index-store-global-hreflang-pdp.xml",
+        "https://www.hp.com/sitemap-index-store-global-hreflang-tech-takes.xml",
+        "https://www.hp.com/sitemap-index-store-us-en.xml"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 2604.7
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 2604.7,
+        "candidates_found": 11
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 86,
+        "latency_ms": 790.2
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:21:30.333728+00:00"
+  },
+  {
+    "target_id": "jbhifi-au",
+    "retailer": "Jbhifi",
+    "country": "Australia",
+    "iso_country": "AU",
+    "domain": "jbhifi.com.au",
+    "laptop_url": "https://www.jbhifi.com.au/collections/computers-tablets/microsoft-surface-laptop",
+    "product_id": "microsoft-surface-laptop",
+    "discovery_method": "method_10_playwright_render",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "jbhifi.com.au",
+      "base_url": "https://www.jbhifi.com.au",
+      "http_status": 200,
+      "final_url": "https://www.jbhifi.com.au",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.jbhifi.com.au/sitemap.xml",
+        "http://www.jbhifi.com.au/sitemap-subcollections.xml"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 2095.1
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 2095.1,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 2,
+        "latency_ms": 453.1
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "SUCCESS",
+        "candidates_found": 32
+      }
+    ],
+    "discovered_at": "2026-08-24T08:22:04.106256+00:00"
+  },
+  {
+    "target_id": "jd-cn",
+    "retailer": "Jd",
+    "country": "China",
+    "iso_country": "CN",
+    "domain": "jd.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NO_PRODUCT_FOUND",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "jd.com",
+      "base_url": "https://www.jd.com",
+      "http_status": 200,
+      "final_url": "https://global.jd.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 755.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 755.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 1543.7
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:22:24.100334+00:00"
+  },
+  {
+    "target_id": "komputronik-pl",
+    "retailer": "Komputronik",
+    "country": "Poland",
+    "iso_country": "PL",
+    "domain": "komputronik.pl",
+    "laptop_url": "https://www.komputronik.pl/category/5803/laptopy-i-komputery.html",
+    "product_id": "laptopy-i-komputery.html",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "komputronik.pl",
+      "base_url": "https://www.komputronik.pl",
+      "http_status": 200,
+      "final_url": "https://www.komputronik.pl",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 2026.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 2026.4,
+        "candidates_found": 40
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 1240.9
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:23:17.522802+00:00"
+  },
+  {
+    "target_id": "lenovo-global",
+    "retailer": "Lenovo",
+    "country": "Global",
+    "iso_country": "US",
+    "domain": "lenovo.com",
+    "laptop_url": "https://www.lenovo.com/laptop-buying-guide/",
+    "product_id": "",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": null,
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "lenovo.com",
+      "base_url": "https://www.lenovo.com",
+      "http_status": 200,
+      "final_url": "https://www.lenovo.com/in/en/",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.lenovo.com/sitemap.xml",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-us.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ca.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-au.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-nz.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-uk.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ie.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-in.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-my.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-sg.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ph.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-be-fr.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-at.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-be-nl.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-es.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-nl.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-pt.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ch-fr.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-fr.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-fi.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-no.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-it.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ch-de.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-se.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-de.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-ch-en.txt",
+        "https://www.lenovo.com/sitemap-auto/knowledgebase-sitemap-dk.txt",
+        "https://www.lenovo.com/sitemap-auto/Articletop-sitemap-JP.txt"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1863.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 1863.5,
+        "candidates_found": 5
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 28,
+        "latency_ms": 430.7
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:23:37.835676+00:00"
+  },
+  {
+    "target_id": "magazineluiza-br",
+    "retailer": "Magazineluiza",
+    "country": "Brazil",
+    "iso_country": "BR",
+    "domain": "magazineluiza.com.br",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "magazineluiza.com.br",
+      "base_url": "https://www.magazineluiza.com.br",
+      "http_status": 403,
+      "final_url": "https://www.magazineluiza.com.br",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 421.6
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 421.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 354.7
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:23:47.166427+00:00"
+  },
+  {
+    "target_id": "mediamarkt-de",
+    "retailer": "Mediamarkt",
+    "country": "Germany",
+    "iso_country": "DE",
+    "domain": "mediamarkt.de",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mediamarkt.de",
+      "base_url": "https://www.mediamarkt.de",
+      "http_status": 403,
+      "final_url": "https://www.mediamarkt.de",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 906.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 906.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 823.2
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:24:00.668091+00:00"
+  },
+  {
+    "target_id": "mediamarkt-es",
+    "retailer": "Mediamarkt",
+    "country": "Spain",
+    "iso_country": "ES",
+    "domain": "mediamarkt.es",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mediamarkt.es",
+      "base_url": "https://www.mediamarkt.es",
+      "http_status": 403,
+      "final_url": "https://www.mediamarkt.es",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 907.6
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 907.6,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 815.9
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:24:15.680240+00:00"
+  },
+  {
+    "target_id": "mediamarkt-it",
+    "retailer": "Mediamarkt",
+    "country": "Italy",
+    "iso_country": "IT",
+    "domain": "mediaworld.it",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mediaworld.it",
+      "base_url": "https://www.mediaworld.it",
+      "http_status": 403,
+      "final_url": "https://www.mediaworld.it",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 949.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 949.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 827.2
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:24:29.581448+00:00"
+  },
+  {
+    "target_id": "mediamarkt-tr",
+    "retailer": "Mediamarkt",
+    "country": "Turkey",
+    "iso_country": "TR",
+    "domain": "mediamarkt.com.tr",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mediamarkt.com.tr",
+      "base_url": "https://www.mediamarkt.com.tr",
+      "http_status": 403,
+      "final_url": "https://www.mediamarkt.com.tr",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 883.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 883.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 890.4
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:24:44.425560+00:00"
+  },
+  {
+    "target_id": "mercadolibre-mx",
+    "retailer": "Mercadolibre",
+    "country": "Mexico",
+    "iso_country": "MX",
+    "domain": "mercadolibre.com.mx",
+    "laptop_url": "https://listado.mercadolibre.com.mx/electronica-audio-video/audio/audio-portatil-accesorios/#menu=categories",
+    "product_id": "#menu=categories",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "NOT_A_LAPTOP_PRODUCT",
+    "validation_score": 0.15,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mercadolibre.com.mx",
+      "base_url": "https://www.mercadolibre.com.mx",
+      "http_status": 200,
+      "final_url": "https://www.mercadolibre.com.mx",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1801.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 1801.9,
+        "candidates_found": 1
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 988.7
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:24:57.108910+00:00"
+  },
+  {
+    "target_id": "mercadolibre-cl",
+    "retailer": "Mercadolibre",
+    "country": "Chile",
+    "iso_country": "CL",
+    "domain": "mercadolibre.cl",
+    "laptop_url": "https://listado.mercadolibre.cl/computacion/notebooks-accesorios/notebooks/#menu=categories",
+    "product_id": "#menu=categories",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "validation_score": 0.3,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mercadolibre.cl",
+      "base_url": "https://www.mercadolibre.cl",
+      "http_status": 200,
+      "final_url": "https://www.mercadolibre.cl",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 2311.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 2311.9,
+        "candidates_found": 3
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 807.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:25:12.580361+00:00"
+  },
+  {
+    "target_id": "mercadolibre-co",
+    "retailer": "Mercadolibre",
+    "country": "Colombia",
+    "iso_country": "CO",
+    "domain": "mercadolibre.com.co",
+    "laptop_url": "https://listado.mercadolibre.com.co/computacion/portatiles-accesorios/portatiles/#menu=categories",
+    "product_id": "#menu=categories",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "validation_score": 0.3,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mercadolibre.com.co",
+      "base_url": "https://www.mercadolibre.com.co",
+      "http_status": 200,
+      "final_url": "https://www.mercadolibre.com.co",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1090.6
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 1090.6,
+        "candidates_found": 2
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 1168.2
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:25:24.386576+00:00"
+  },
+  {
+    "target_id": "mercadolivre-br",
+    "retailer": "Mercadolibre",
+    "country": "Brazil",
+    "iso_country": "BR",
+    "domain": "mercadolivre.com.br",
+    "laptop_url": "https://lista.mercadolivre.com.br/informatica/portateis-acessorios/acessorios-notebook/#menu=categories",
+    "product_id": "#menu=categories",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "LOW_CONFIDENCE_PRODUCT_PAGE",
+    "validation_score": 0.3,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mercadolivre.com.br",
+      "base_url": "https://www.mercadolivre.com.br",
+      "http_status": 200,
+      "final_url": "https://www.mercadolivre.com.br",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1541.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 1541.5,
+        "candidates_found": 1
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 1054.1
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:25:36.962018+00:00"
+  },
+  {
+    "target_id": "thegioididong-vn",
+    "retailer": "Thegioididong",
+    "country": "Vietnam",
+    "iso_country": "VN",
+    "domain": "thegioididong.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_TIMEOUT",
+    "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "thegioididong.com",
+      "base_url": "https://www.thegioididong.com",
+      "http_status": 0,
+      "final_url": "https://www.thegioididong.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "CONNECTION_ERROR",
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "ERROR",
+        "error": ""
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:26:48.457946+00:00"
+  },
+  {
+    "target_id": "monsternotebook-tr",
+    "retailer": "Monsternotebook",
+    "country": "Turkey",
+    "iso_country": "TR",
+    "domain": "monsternotebook.com.tr",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "monsternotebook.com.tr",
+      "base_url": "https://www.monsternotebook.com.tr",
+      "http_status": 403,
+      "final_url": "https://www.monsternotebook.com.tr",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 2524.7
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 2524.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 403,
+        "latency_ms": 390.9
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:27:00.947903+00:00"
+  },
+  {
+    "target_id": "newegg-us",
+    "retailer": "Newegg",
+    "country": "United States",
+    "iso_country": "US",
+    "domain": "newegg.com",
+    "laptop_url": "https://www.newegg.com/p/N82E16826197674?Item=N82E16826197674",
+    "product_id": "N82E16826197674",
+    "discovery_method": "method_1_homepage_nav",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "newegg.com",
+      "base_url": "https://www.newegg.com",
+      "http_status": 200,
+      "final_url": "https://www.newegg.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.newegg.com/xmlsitemap/2019_Updated_Confidential_siteindex_USA.xml",
+        "https://www.newegg.com/xmlsitemap/2019_Updated_Confidential_siteindex_USA_Seller.xml",
+        "https://www.newegg.com/xmlsitemap/ProductListKeywords_USA.xml",
+        "https://www.newegg.com/insider/sitemap_index.xml",
+        "https://www.newegg.com/Shopping-Tools-USA.xml",
+        "https://www.newegg.com/xmlsitemap/sitemaps_promos_USA.xml",
+        "https://www.newegg.com/gamer/community/sitemap.xml",
+        "https://www.newegg.com/xmlsitemap/sitemaps_qa_USA.xml"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 2105.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "SUCCESS",
+        "http_status": 200,
+        "latency_ms": 2105.9,
+        "candidates_found": 3
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 8,
+        "latency_ms": 459.6
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:27:17.503548+00:00"
+  },
+  {
+    "target_id": "officeworks-au",
+    "retailer": "Officeworks",
+    "country": "Australia",
+    "iso_country": "AU",
+    "domain": "officeworks.com.au",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NO_PRODUCT_FOUND",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "officeworks.com.au",
+      "base_url": "https://www.officeworks.com.au",
+      "http_status": 405,
+      "final_url": "https://www.officeworks.com.au",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 471.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "HTTP_ERROR",
+        "http_status": 405,
+        "latency_ms": 471.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "NOT_FOUND",
+        "http_status": 405,
+        "latency_ms": 531.1
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:27:28.214311+00:00"
+  },
+  {
+    "target_id": "reliancedigital-in",
+    "retailer": "Reliancedigital",
+    "country": "India",
+    "iso_country": "IN",
+    "domain": "reliancedigital.in",
+    "laptop_url": "https://www.reliancedigital.in/sections/laptops",
+    "product_id": "laptops",
+    "discovery_method": "method_10_playwright_render",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "reliancedigital.in",
+      "base_url": "https://www.reliancedigital.in",
+      "http_status": 200,
+      "final_url": "https://www.reliancedigital.in",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.reliancedigital.in/sitemap.xml"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 890.8
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 890.8,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 1,
+        "latency_ms": 444.5
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "SUCCESS",
+        "candidates_found": 4
+      }
+    ],
+    "discovered_at": "2026-08-24T08:27:57.942580+00:00"
+  },
+  {
+    "target_id": "staples-us",
+    "retailer": "Staples",
+    "country": "United States",
+    "iso_country": "US",
+    "domain": "staples.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "staples.com",
+      "base_url": "https://www.staples.com",
+      "http_status": 200,
+      "final_url": "https://www.staples.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.staples.com/sitemap/sitemap_index-www-staples-com-en_us.xml",
+        "https://sitemap.staples.com/sitemap-index-print.xml.gz",
+        "https://sitemap.staples.com/sitemap-index.xml.gz",
+        "https://sitemap.staples.com/sitemap-index-stores.xml.gz",
+        "https://sitemap.staples.com/sitemap-index-CL.xml.gz",
+        "https://sitemap.staples.com/sitemap-index-sku.xml.gz",
+        "https://www.staples.com/sitemap/staples-custom-sitemap-seo-content-test.xml.gz"
+      ],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 1676.5
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 1676.5,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 7,
+        "latency_ms": 602.9
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:28:14.967481+00:00"
+  },
+  {
+    "target_id": "terg-pl",
+    "retailer": "Terg",
+    "country": "Poland",
+    "iso_country": "PL",
+    "domain": "mediaexpert.pl",
+    "laptop_url": "https://www.mediaexpert.pl/gaming/laptopy-i-komputery",
+    "product_id": "laptopy-i-komputery",
+    "discovery_method": "method_10_playwright_render",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "WAF_BOT_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "mediaexpert.pl",
+      "base_url": "https://www.mediaexpert.pl",
+      "http_status": 403,
+      "final_url": "https://www.mediaexpert.pl",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": "Cloudflare WAF",
+      "latency_ms": 1488.3
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "BLOCKED",
+        "http_status": 403,
+        "latency_ms": 1488.3,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 933.5
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "SUCCESS",
+        "candidates_found": 4
+      }
+    ],
+    "discovered_at": "2026-08-24T08:28:39.102499+00:00"
+  },
+  {
+    "target_id": "tmall-cn",
+    "retailer": "Tmall",
+    "country": "China",
+    "iso_country": "CN",
+    "domain": "tmall.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "NO_PRODUCT_FOUND",
+    "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "tmall.com",
+      "base_url": "https://www.tmall.com",
+      "http_status": 200,
+      "final_url": "https://www.tmall.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 898.9
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 898.9,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 0,
+        "latency_ms": 513.1
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:28:58.053785+00:00"
+  },
+  {
+    "target_id": "unieuro-it",
+    "retailer": "Unieuro",
+    "country": "Italy",
+    "iso_country": "IT",
+    "domain": "unieuro.it",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_BLOCKED",
+    "discovery_failure_reason": "DISCOVERY_BLOCKED (Google reCAPTCHA)",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "unieuro.it",
+      "base_url": "https://www.unieuro.it",
+      "http_status": 200,
+      "final_url": "https://www.unieuro.it/online/",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.unieuro.it/sitemap.xml"
+      ],
+      "waf_detected": "Google reCAPTCHA",
+      "latency_ms": 5034.4
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 5034.4,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 1,
+        "latency_ms": 958.8
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:29:38.667215+00:00"
+  },
+  {
+    "target_id": "walmart-us",
+    "retailer": "Walmart",
+    "country": "United States",
+    "iso_country": "US",
+    "domain": "walmart.com",
+    "laptop_url": "https://www.walmart.com/cp/laptops/3951",
+    "product_id": "3951",
+    "discovery_method": "method_3_sitemap",
+    "discovery_status": "PRODUCT_URL_FOUND",
+    "discovery_failure_reason": "CAPTCHA_CHALLENGE",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "walmart.com",
+      "base_url": "https://www.walmart.com",
+      "http_status": 200,
+      "final_url": "https://www.walmart.com",
+      "robots_txt_found": true,
+      "sitemaps_found": [
+        "https://www.walmart.com/sitemap_category.xml",
+        "https://www.walmart.com/sitemap_store_main.xml",
+        "https://www.walmart.com/help/sitemap_gm.xml",
+        "https://www.walmart.com/sitemap_browse_fst.xml",
+        "https://www.walmart.com/sitemap_store_dept.xml",
+        "https://www.walmart.com/sitemap_tp_legacy.xml",
+        "https://www.walmart.com/sitemap_tp_at.xml",
+        "https://www.walmart.com/sitemap_tp_br.xml",
+        "https://www.walmart.com/sitemap_tp_kp.xml",
+        "https://www.walmart.com/sitemap_brp_02.xml",
+        "https://www.walmart.com/sitemap_brp_03.xml",
+        "https://www.walmart.com/sitemap_brp_04.xml",
+        "https://www.walmart.com/sitemap_brp_05.xml",
+        "https://www.walmart.com/sitemap_brp_06.xml",
+        "https://www.walmart.com/sitemap_brp_07.xml",
+        "https://www.walmart.com/sitemap_brp_08.xml",
+        "https://www.walmart.com/sitemap_brp_09.xml",
+        "https://www.walmart.com/sitemap_itp_01.xml",
+        "https://www.walmart.com/sitemap_itp_02.xml",
+        "https://www.walmart.com/sitemap_product_03.xml",
+        "https://www.walmart.com/sitemap_rp_01.xml",
+        "https://www.walmart.com/sitemap_rp_02.xml",
+        "https://www.walmart.com/sitemap_rp_03.xml",
+        "https://www.walmart.com/sitemap_rp_04.xml",
+        "https://www.walmart.com/sitemap_rp_05.xml",
+        "https://www.walmart.com/sitemap_slp_01.xml",
+        "https://www.walmart.com/sitemap_slp_02.xml",
+        "https://www.walmart.com/sitemap_auto_dir.xml",
+        "https://www.walmart.com/sitemap_brndshp_brand.xml",
+        "https://www.walmart.com/sitemap_sp.xml",
+        "https://www.walmart.com/sitemap_hi_ip.xml",
+        "https://www.walmart.com/sitemap_hi_tp.xml",
+        "https://www.walmart.com/sitemap_hi_bp.xml",
+        "https://www.walmart.com/sitemap_hi_mp.xml"
+      ],
+      "waf_detected": "Akamai Bot Manager",
+      "latency_ms": 1013.7
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "NO_LINKS",
+        "http_status": 200,
+        "latency_ms": 1013.7,
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "SUCCESS",
+        "sitemaps_found": 34,
+        "latency_ms": 297.8
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "SUCCESS",
+        "candidates_found": 1
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "SUCCESS",
+        "candidates_found": 1
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:30:11.253375+00:00"
+  },
+  {
+    "target_id": "yodobashi-jp",
+    "retailer": "Yodobashi",
+    "country": "Japan",
+    "iso_country": "JP",
+    "domain": "yodobashi.com",
+    "laptop_url": null,
+    "product_id": "none",
+    "discovery_method": "none",
+    "discovery_status": "DISCOVERY_TIMEOUT",
+    "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+    "validation_score": 0.0,
+    "is_validated": false,
+    "domain_validation": {
+      "domain": "yodobashi.com",
+      "base_url": "https://www.yodobashi.com",
+      "http_status": 0,
+      "final_url": "https://www.yodobashi.com",
+      "robots_txt_found": false,
+      "sitemaps_found": [],
+      "waf_detected": null,
+      "latency_ms": 0.0
+    },
+    "discovery_attempts": [
+      {
+        "method": "METHOD_1_HOMEPAGE",
+        "status": "CONNECTION_ERROR",
+        "error": "",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_2_ROBOTS_TXT",
+        "status": "ERROR",
+        "error": ""
+      },
+      {
+        "method": "METHOD_3_XML_SITEMAP",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_4_WEBSITE_SEARCH",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_5_CATEGORY_NAV",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_6_JSONLD_EXTRACTION",
+        "status": "NO_LINKS",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_7_KNOWN_PATTERNS",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_8_SEARCH_ENGINE",
+        "status": "NO_MATCH",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_9_FIRECRAWL_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      },
+      {
+        "method": "METHOD_10_PLAYWRIGHT_DISCOVERY",
+        "status": "FAILED",
+        "candidates_found": 0
+      }
+    ],
+    "discovered_at": "2026-08-24T08:31:28.415493+00:00"
+  }
+]

@@ -1,0 +1,176 @@
+{
+  "total_screenshots": 25,
+  "banner_screenshots": [
+    {
+      "banner_id": "ban_bestbuy_01",
+      "retailer": "Best Buy",
+      "brand": "Intel Core Ultra",
+      "file": "poc_data/screenshots/banner_bestbuy_intel_ultra.svg"
+    },
+    {
+      "banner_id": "ban_walmart_01",
+      "retailer": "Walmart",
+      "brand": "Intel",
+      "file": "poc_data/screenshots/banner_walmart_intel_rollback.svg"
+    },
+    {
+      "banner_id": "ban_costco_01",
+      "retailer": "Costco",
+      "brand": "Intel Core Ultra",
+      "file": "poc_data/screenshots/banner_costco_xps_ultra.svg"
+    },
+    {
+      "banner_id": "ban_amazon_01",
+      "retailer": "Amazon US",
+      "brand": "PC Mix",
+      "file": "poc_data/screenshots/banner_amazon_pc_store.svg"
+    },
+    {
+      "banner_id": "ban_dell_01",
+      "retailer": "Dell Technologies",
+      "brand": "Intel Core Ultra",
+      "file": "poc_data/screenshots/banner_dell_xps_ultra.svg"
+    },
+    {
+      "banner_id": "ban_hp_01",
+      "retailer": "HP Direct",
+      "brand": "AMD / Intel Mix",
+      "file": "poc_data/screenshots/banner_hp_omen_envy.svg"
+    }
+  ],
+  "pdp_screenshots": [
+    {
+      "sku_id": "bb_dell_xps14_u7",
+      "retailer": "Best Buy",
+      "oem": "Dell",
+      "model_series": "XPS 14 (9440)",
+      "file": "poc_data/screenshots/pdp_bb_dell_xps14_u7.svg"
+    },
+    {
+      "sku_id": "bb_asus_g16_u9",
+      "retailer": "Best Buy",
+      "oem": "ASUS",
+      "model_series": "ROG Zephyrus G16 (2024)",
+      "file": "poc_data/screenshots/pdp_bb_asus_g16_u9.svg"
+    },
+    {
+      "sku_id": "bb_hp_envy_desk_i7",
+      "retailer": "Best Buy",
+      "oem": "HP",
+      "model_series": "HP Envy Desktop TE02",
+      "file": "poc_data/screenshots/pdp_bb_hp_envy_desk_i7.svg"
+    },
+    {
+      "sku_id": "bb_lenovo_slim3_r5",
+      "retailer": "Best Buy",
+      "oem": "Lenovo",
+      "model_series": "IdeaPad Slim 3 15\"",
+      "file": "poc_data/screenshots/pdp_bb_lenovo_slim3_r5.svg"
+    },
+    {
+      "sku_id": "wm_hp_pavilion_i5",
+      "retailer": "Walmart",
+      "oem": "HP",
+      "model_series": "Pavilion 15-eg3053cl",
+      "file": "poc_data/screenshots/pdp_wm_hp_pavilion_i5.svg"
+    },
+    {
+      "sku_id": "wm_lenovo_loq_i5",
+      "retailer": "Walmart",
+      "oem": "Lenovo",
+      "model_series": "LOQ 15IRH8",
+      "file": "poc_data/screenshots/pdp_wm_lenovo_loq_i5.svg"
+    },
+    {
+      "sku_id": "wm_asus_vivo_r7",
+      "retailer": "Walmart",
+      "oem": "ASUS",
+      "model_series": "Vivobook 16 M1605",
+      "file": "poc_data/screenshots/pdp_wm_asus_vivo_r7.svg"
+    },
+    {
+      "sku_id": "co_lenovo_slim7i_u7",
+      "retailer": "Costco",
+      "oem": "Lenovo",
+      "model_series": "Slim 7i 14\" Intel EVO",
+      "file": "poc_data/screenshots/pdp_co_lenovo_slim7i_u7.svg"
+    },
+    {
+      "sku_id": "co_dell_insp_desk_i5",
+      "retailer": "Costco",
+      "oem": "Dell",
+      "model_series": "Inspiron 3030 Desktop",
+      "file": "poc_data/screenshots/pdp_co_dell_insp_desk_i5.svg"
+    },
+    {
+      "sku_id": "co_hp_envy_r7_ai",
+      "retailer": "Costco",
+      "oem": "HP",
+      "model_series": "Envy x360 16\"",
+      "file": "poc_data/screenshots/pdp_co_hp_envy_r7_ai.svg"
+    },
+    {
+      "sku_id": "amz_acer_swift_u7",
+      "retailer": "Amazon US",
+      "oem": "Acer",
+      "model_series": "Swift Go 14 (SFG14-73)",
+      "file": "poc_data/screenshots/pdp_amz_acer_swift_u7.svg"
+    },
+    {
+      "sku_id": "amz_cyberpower_i5",
+      "retailer": "Amazon US",
+      "oem": "CyberPowerPC",
+      "model_series": "Gamer Xtreme VR GXiVR8080A36",
+      "file": "poc_data/screenshots/pdp_amz_cyberpower_i5.svg"
+    },
+    {
+      "sku_id": "amz_apple_mba_m3",
+      "retailer": "Amazon US",
+      "oem": "Apple",
+      "model_series": "MacBook Air 13-inch (2024)",
+      "file": "poc_data/screenshots/pdp_amz_apple_mba_m3.svg"
+    },
+    {
+      "sku_id": "amz_surface_pro11_snap",
+      "retailer": "Amazon US",
+      "oem": "Microsoft",
+      "model_series": "Surface Pro (11th Edition) Copilot+ PC",
+      "file": "poc_data/screenshots/pdp_amz_surface_pro11_snap.svg"
+    },
+    {
+      "sku_id": "dell_xps16_u9",
+      "retailer": "Dell Technologies",
+      "oem": "Dell",
+      "model_series": "XPS 16 (9640)",
+      "file": "poc_data/screenshots/pdp_dell_xps16_u9.svg"
+    },
+    {
+      "sku_id": "dell_alienware_r16_i9",
+      "retailer": "Dell Technologies",
+      "oem": "Dell",
+      "model_series": "Alienware Aurora R16 Gaming Desktop",
+      "file": "poc_data/screenshots/pdp_dell_alienware_r16_i9.svg"
+    },
+    {
+      "sku_id": "dell_latitude_5440_i5",
+      "retailer": "Dell Technologies",
+      "oem": "Dell",
+      "model_series": "Latitude 5440 Business Laptop",
+      "file": "poc_data/screenshots/pdp_dell_latitude_5440_i5.svg"
+    },
+    {
+      "sku_id": "hp_spectre_x360_u7",
+      "retailer": "HP Direct",
+      "oem": "HP",
+      "model_series": "Spectre x360 14 (2024)",
+      "file": "poc_data/screenshots/pdp_hp_spectre_x360_u7.svg"
+    },
+    {
+      "sku_id": "hp_omen_45l_i7",
+      "retailer": "HP Direct",
+      "oem": "HP",
+      "model_series": "OMEN by HP 45L Gaming Desktop",
+      "file": "poc_data/screenshots/pdp_hp_omen_45l_i7.svg"
+    }
+  ]
+}

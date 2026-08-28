@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "FIRECRAWL",
+  "status_code": 400,
+  "response_time_ms": 1530.0525100028608,
+  "browser_seconds": 1.5323162779968698,
+  "bytes_received": 415,
+  "success": false,
+  "evidence_path": "evidence/boulanger/FRANCE/sku_0009/firecrawl/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "NETWORK",
+    "specific_reason": "UNKNOWN_FAILURE",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Unclassified failure with HTTP status 400.",
+    "http_status": 400,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "FIRECRAWL",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:03:54.111058+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": null,
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:03:54.111251+00:00"
+}

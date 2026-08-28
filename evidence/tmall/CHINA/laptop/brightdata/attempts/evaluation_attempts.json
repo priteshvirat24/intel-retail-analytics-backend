@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.tmall.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 3772.1,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.tmall.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 2751.1,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.tmall.com/laptops",
+    "status_code": 0,
+    "latency_ms": 29252.3,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.tmall.com",
+    "status_code": 200,
+    "latency_ms": 34059.3,
+    "product_title": "\u5929\u732bTmall.com - \u4e70\u6b63\u54c1\u4e0a\u5929\u732b\u5c31\u8d2d\u4e86",
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "sku_id": "B0CHWZ6NCM",
+  "target_id": "amazon-mx",
+  "retailer": "amazon",
+  "country": "Mexico",
+  "source_url": "https://www.amazon.com.mx/dp/B0CHWZ6NCM",
+  "final_url": "https://www.amazon.com.mx/dp/B0CHWZ6NCM",
+  "category": "Smartphones & Mobile",
+  "product_template_id": null,
+  "status": "FAILED",
+  "stage_statuses": {
+    "DISCOVERY": "SUCCESS",
+    "URL_REACHABILITY": "SUCCESS",
+    "CONTENT_AVAILABILITY": "FAILED",
+    "PRODUCT_IDENTIFICATION": "FAILED",
+    "EXTRACTION": "FAILED",
+    "FIELD_VALIDATION": "FAILED",
+    "PRODUCT_VALIDATION": "FAILED"
+  },
+  "primary_strategy": "HTTP",
+  "effective_strategy": null,
+  "escalation_reason": "Escalating from HTTP to PLAYWRIGHT due to EMPTY_RESPONSE.",
+  "discovery_success": true,
+  "http_success": false,
+  "browser_success": false,
+  "extraction_success": false,
+  "validation_success": false,
+  "attempts": [
+    {
+      "attempt_number": 1,
+      "strategy": "HTTP",
+      "status_code": 0,
+      "response_time_ms": 0.72,
+      "browser_seconds": 0.0,
+      "bytes_received": 0,
+      "success": false,
+      "evidence_path": null,
+      "screenshot_path": null,
+      "headers": {},
+      "error_message": "HTTP Connection Error: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`.",
+      "failure_diagnosis": {
+        "category": "CONTENT",
+        "specific_reason": "EMPTY_RESPONSE",
+        "stage": "CONTENT_AVAILABILITY",
+        "failure_reason_human": "Server returned an empty or nearly blank HTML response.",
+        "http_status": 0,
+        "exception_type": null,
+        "retry_count": 0,
+        "last_error": null,
+        "timestamp": "2026-08-23T08:28:46.399326+00:00",
+        "is_recoverable": true,
+        "recommended_escalation": "PLAYWRIGHT",
+        "details": {}
+      },
+      "timestamp": "2026-08-23T08:28:46.393757+00:00"
+    },
+    {
+      "attempt_number": 2,
+      "strategy": "PLAYWRIGHT",
+      "status_code": 200,
+      "response_time_ms": 5825.98,
+      "browser_seconds": 6.08,
+      "bytes_received": 3860,
+      "success": false,
+      "evidence_path": "evidence/amazon/MEXICO/B0CHWZ6NCM/attempt_2_snapshot.html",
+      "screenshot_path": "evidence/amazon/MEXICO/B0CHWZ6NCM/attempt_2_screenshot.png",
+      "headers": {},
+      "error_message": null,
+      "failure_diagnosis": {
+        "category": "ACCESS",
+        "specific_reason": "CAPTCHA_CHALLENGE",
+        "stage": "CONTENT_AVAILABILITY",
+        "failure_reason_human": "Crawl halted by automated CAPTCHA challenge on the page.",
+        "http_status": 200,
+        "exception_type": null,
+        "retry_count": 1,
+        "last_error": "",
+        "timestamp": "2026-08-23T08:30:00.283080+00:00",
+        "is_recoverable": false,
+        "recommended_escalation": "PLAYWRIGHT",
+        "details": {
+          "page_title_excerpt": "<!doctype html><html class=\"a-no-js\" lang=\"es-mx\"><!--<![endif]--><head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"x-ua-c"
+        }
+      },
+      "timestamp": "2026-08-23T08:30:00.279802+00:00"
+    }
+  ],
+  "total_latency_ms": 93352.22,
+  "browser_seconds_total": 6.08,
+  "bytes_received_total": 3860,
+  "product": null,
+  "failure": {
+    "category": "ACCESS",
+    "specific_reason": "CAPTCHA_CHALLENGE",
+    "stage": "CONTENT_AVAILABILITY",
+    "failure_reason_human": "Crawl halted by automated CAPTCHA challenge on the page.",
+    "http_status": 200,
+    "exception_type": null,
+    "retry_count": 1,
+    "last_error": "",
+    "timestamp": "2026-08-23T08:30:00.283080+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "page_title_excerpt": "<!doctype html><html class=\"a-no-js\" lang=\"es-mx\"><!--<![endif]--><head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\">\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"x-ua-c"
+    }
+  },
+  "evidence_dir": "evidence/amazon/MEXICO/B0CHWZ6NCM"
+}

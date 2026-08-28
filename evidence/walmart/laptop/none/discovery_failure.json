@@ -1,0 +1,8 @@
+{
+  "target_id": "walmart-us",
+  "retailer": "Walmart",
+  "country": "United States",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "timestamp": "2026-08-24T07:32:07.427027+00:00"
+}

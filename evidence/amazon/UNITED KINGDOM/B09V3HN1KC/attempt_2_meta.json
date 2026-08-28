@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 13533.72,
+  "browser_seconds": 13.55,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright navigation error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigating to \"https://www.amazon.co.uk/dp/B09V3HN1KC\", waiting until \"domcontentloaded\"\n",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:23:31.215976+00:00"
+}

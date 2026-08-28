@@ -1,0 +1,60 @@
+{
+  "target_id": "mercadolibre-cl",
+  "retailer": "Mercadolibre",
+  "country": "Chile",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+  "domain_validation": {
+    "domain": "mercadolibre.cl",
+    "base_url": "https://www.mercadolibre.cl",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.mercadolibre.cl",
+    "robots_txt_found": true,
+    "sitemaps_found": [],
+    "waf_detected": "Akamai Bot Manager",
+    "latency_ms": 1584.1
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.mercadolibre.cl/search?q=laptop",
+      "status": 404,
+      "latency_ms": 1131.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mercadolibre.cl/search?q=notebook",
+      "status": 404,
+      "latency_ms": 489.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mercadolibre.cl/s?k=laptop",
+      "status": 404,
+      "latency_ms": 632.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mercadolibre.cl/s?k=notebook",
+      "status": 404,
+      "latency_ms": 526.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.mercadolibre.cl/laptops",
+      "status": 404,
+      "latency_ms": 1012.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.mercadolibre.cl",
+      "candidates_found": 0
+    }
+  ]
+}

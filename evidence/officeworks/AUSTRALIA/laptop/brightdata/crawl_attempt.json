@@ -1,0 +1,17 @@
+{
+  "target_id": "officeworks-au",
+  "retailer": "Officeworks",
+  "country": "Australia",
+  "country_iso": "au",
+  "url": "https://www.officeworks.com.au/shop/officeworks/c/technology/laptops/laptop-bags-sleeves",
+  "status_code": 200,
+  "response_time_ms": 5010.2,
+  "can_scrape": "NO",
+  "confidence_score": 0.45,
+  "product_name": "Laptop Bags & Sleeves",
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Catalog aggregation page reached: Multiple listing cards present without individual checkout schema"
+}

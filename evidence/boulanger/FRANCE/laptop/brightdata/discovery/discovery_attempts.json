@@ -1,0 +1,18 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.boulanger.com/s?k=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 18364.5,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.boulanger.com/recherche?q=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 11503.9,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

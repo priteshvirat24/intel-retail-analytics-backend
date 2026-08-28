@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 400,
+  "response_time_ms": 4485.81,
+  "browser_seconds": 5.32,
+  "bytes_received": 248,
+  "success": false,
+  "evidence_path": "evidence/boulanger/FRANCE/sku_0007/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/boulanger/FRANCE/sku_0007/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:30:56.612995+00:00"
+}

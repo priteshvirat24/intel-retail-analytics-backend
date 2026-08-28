@@ -1,0 +1,17 @@
+{
+  "target_id": "elkjop-dk",
+  "retailer": "Elkjop",
+  "country": "Denmark",
+  "country_iso": "dk",
+  "url": "https://www.elgiganten.dk",
+  "status_code": 200,
+  "response_time_ms": 8161.1,
+  "can_scrape": "NO",
+  "confidence_score": 0.3,
+  "product_name": "Se vores bedste tilbud!",
+  "brand": null,
+  "price": 200.0,
+  "currency": null,
+  "sku": null,
+  "reason": "Peripheral/Accessory SKU reached instead of standalone laptop computer"
+}

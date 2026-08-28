@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.walmart.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 3978.4,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.walmart.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 24946.5,
+    "html_bytes": 1366449
+  }
+]

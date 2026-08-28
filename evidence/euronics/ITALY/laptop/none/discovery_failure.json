@@ -1,0 +1,62 @@
+{
+  "target_id": "euronics-it",
+  "retailer": "Euronics",
+  "country": "Italy",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "euronics.it",
+    "base_url": "https://www.euronics.it",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.euronics.it",
+    "robots_txt_found": true,
+    "sitemaps_found": [
+      "https://www.euronics.it/sitemap_index.xml"
+    ],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 1848.6
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.euronics.it/search?q=laptop",
+      "status": 403,
+      "latency_ms": 286.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.euronics.it/search?q=notebook",
+      "status": 403,
+      "latency_ms": 284.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.euronics.it/s?k=laptop",
+      "status": 404,
+      "latency_ms": 1863.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.euronics.it/s?k=notebook",
+      "status": 404,
+      "latency_ms": 590.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.euronics.it/laptops",
+      "status": 404,
+      "latency_ms": 632.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.euronics.it",
+      "candidates_found": 0
+    }
+  ]
+}

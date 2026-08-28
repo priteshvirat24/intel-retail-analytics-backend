@@ -1,0 +1,13 @@
+{
+  "target_id": "dell-global",
+  "retailer": "Dell",
+  "country": "Global",
+  "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops",
+  "strategy": "PLAYWRIGHT",
+  "status_code": 200,
+  "final_url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops",
+  "crawlable": false,
+  "failure_reason": "GOOGLE_RECAPTCHA_CHALLENGE",
+  "anti_bot_vendor": "Google reCAPTCHA",
+  "latency_ms": 13462.91
+}

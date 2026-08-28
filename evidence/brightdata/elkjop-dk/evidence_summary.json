@@ -1,0 +1,17 @@
+{
+  "target_id": "elkjop-dk",
+  "retailer": "Elkj\u00f8p / Elgiganten",
+  "country": "Denmark",
+  "domain": "elgiganten.dk",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_SDK_SCRAPE",
+  "method": "Search\u2192Direct",
+  "url": "https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/lenovo-ideapad-1-14-barbar-computer-platinum-grey/197782",
+  "title": "Lenovo Ideapad 1 14\" b\u00e6rbar computer (platinum grey)",
+  "brand": "Lenovo",
+  "specs": {
+    "screen_size": "14\""
+  },
+  "timestamp": "2026-08-25T13:35:31.933139+00:00",
+  "failure_reason": null
+}

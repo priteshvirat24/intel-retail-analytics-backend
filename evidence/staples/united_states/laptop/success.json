@@ -1,0 +1,21 @@
+{
+  "retailer": "Staples",
+  "country": "United States",
+  "product_url": "https://qe20.staples.com/hp-zbook-17-g5-17-3-laptop-intel-2-7ghz-processor-16gb-memory-512gb-hard-drive-windows-10-pro/product_24377070",
+  "title": "HP ZBook 17 G5 17.3\" Laptop, Intel 2.7GHz Processor, 16GB Memory, 512GB Hard Drive, Windows 10 Pro",
+  "brand": "HP",
+  "model": "hp-zbook",
+  "sku": "hp-zbook",
+  "price": null,
+  "currency": "USD",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": "16GB",
+  "storage": "512GB ",
+  "display": "17.3\"",
+  "gpu": null,
+  "operating_system": "Windows 10",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:21:36.188169Z"
+}

@@ -1,0 +1,60 @@
+{
+  "target_id": "jd-cn",
+  "retailer": "Jd",
+  "country": "China",
+  "discovery_status": "NOT_DISCOVERED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "domain_validation": {
+    "domain": "jd.com",
+    "base_url": "https://www.jd.com",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://global.jd.com",
+    "robots_txt_found": true,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 1310.0
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.jd.com/search?q=laptop",
+      "status": 200,
+      "latency_ms": 1072.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.jd.com/search?q=notebook",
+      "status": 200,
+      "latency_ms": 1006.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.jd.com/s?k=laptop",
+      "status": 200,
+      "latency_ms": 1286.6,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.jd.com/s?k=notebook",
+      "status": 200,
+      "latency_ms": 1368.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.jd.com/laptops",
+      "status": 200,
+      "latency_ms": 1472.0,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.jd.com",
+      "candidates_found": 0
+    }
+  ]
+}

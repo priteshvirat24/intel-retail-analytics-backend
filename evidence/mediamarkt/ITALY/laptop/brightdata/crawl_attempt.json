@@ -1,0 +1,17 @@
+{
+  "target_id": "mediamarkt-it",
+  "retailer": "Mediamarkt",
+  "country": "Italy",
+  "country_iso": "it",
+  "url": "https://ricondizionati.mediaworld.it/product/innoliving-condizionatore-portatile-innoliving-condizionatore-port.-198461.html",
+  "status_code": 200,
+  "response_time_ms": 3920.3,
+  "can_scrape": "YES",
+  "confidence_score": 1.0,
+  "product_name": "INNOLIVING CONDIZIONATORE PORTATILE INNOLIVING CONDIZIONATORE PORT. Ricondizionato | MediaWorld -10% sconto",
+  "brand": "INNOLIVING",
+  "price": 269.91,
+  "currency": "EUR",
+  "sku": "198461",
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (INNOLIVING CONDIZIONATORE PORTATILE INNOLIVING CONDIZIONATORE PORT. Ricondizionato | MediaWorld -10% sconto | Brand: INNOLIVING | Price: 269.91 EUR | SKU: 198461)"
+}

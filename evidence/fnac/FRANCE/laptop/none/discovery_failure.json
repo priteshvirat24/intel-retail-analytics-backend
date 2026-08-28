@@ -1,0 +1,60 @@
+{
+  "target_id": "fnac-fr",
+  "retailer": "Fnac",
+  "country": "France",
+  "discovery_status": "NOT_DISCOVERED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "domain_validation": {
+    "domain": "fnac.com",
+    "base_url": "https://www.fnac.com",
+    "http_status": 403,
+    "redirect_chain": [],
+    "final_url": "https://www.fnac.com",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 617.4
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.fnac.com/search?q=laptop",
+      "status": 403,
+      "latency_ms": 364.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.fnac.com/search?q=notebook",
+      "status": 403,
+      "latency_ms": 331.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.fnac.com/s?k=laptop",
+      "status": 403,
+      "latency_ms": 322.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.fnac.com/s?k=notebook",
+      "status": 403,
+      "latency_ms": 368.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.fnac.com/laptops",
+      "status": 403,
+      "latency_ms": 349.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.fnac.com",
+      "candidates_found": 0
+    }
+  ]
+}

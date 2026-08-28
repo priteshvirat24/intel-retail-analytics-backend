@@ -1,0 +1,17 @@
+{
+  "target_id": "expert-de",
+  "retailer": "Expert",
+  "country": "Germany",
+  "country_iso": "de",
+  "url": "https://www.expert.de",
+  "status_code": 200,
+  "response_time_ms": 7984.2,
+  "can_scrape": "NO",
+  "confidence_score": 0.3,
+  "product_name": "Elektromarkt in Ihrer N\u00e4he mit Online-Shop \u2013 expert",
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Catalog aggregation page reached: Multiple listing cards present without individual checkout schema"
+}

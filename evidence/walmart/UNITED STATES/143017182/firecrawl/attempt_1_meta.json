@@ -1,0 +1,34 @@
+{
+  "attempt_number": 1,
+  "strategy": "FIRECRAWL",
+  "status_code": 200,
+  "response_time_ms": 2978.7465179979336,
+  "browser_seconds": 2.983286970993504,
+  "bytes_received": 16321,
+  "success": false,
+  "evidence_path": "evidence/walmart/UNITED STATES/143017182/firecrawl/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "ACCESS",
+    "specific_reason": "CAPTCHA_CHALLENGE",
+    "stage": "CONTENT_AVAILABILITY",
+    "failure_reason_human": "Crawl halted by automated challenge (PerimeterX / HUMAN).",
+    "http_status": 200,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "FIRECRAWL",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": "PerimeterX / HUMAN",
+    "timestamp": "2026-08-23T16:07:03.137100+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "page_title_excerpt": "<html lang=\"en\"><head>\n    <title>robot or human?</title>\n    <meta name=\"viewport\" content=\"width=device-width\">\n    <style>\n    #sign-in-widget a,\n    #sign-in-widget a:active,\n    #sign-in-widget a",
+      "vendor": "PerimeterX / HUMAN"
+    }
+  },
+  "timestamp": "2026-08-23T16:07:03.137162+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "HTTP_STATUS",
+  "specific_reason": "HTTP_429_RATE_LIMITED",
+  "stage": "URL_REACHABILITY",
+  "failure_reason_human": "Request blocked by anti-bot protection / rate limiter (HTTP 429).",
+  "http_status": 429,
+  "exception_type": null,
+  "retry_count": 1,
+  "last_error": "",
+  "timestamp": "2026-08-23T08:38:10.328217+00:00",
+  "is_recoverable": true,
+  "recommended_escalation": "STRICT_THROTTLE",
+  "details": {
+    "http_status": 429,
+    "blocked_detected": true
+  }
+}

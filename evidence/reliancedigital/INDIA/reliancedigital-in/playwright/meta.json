@@ -1,0 +1,16 @@
+{
+  "target_id": "reliancedigital-in",
+  "strategy": "PLAYWRIGHT",
+  "laptop_url": "https://www.reliancedigital.in/product/sku_0011",
+  "status_code": 200,
+  "latency_ms": 5940.27,
+  "bytes": 67834,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "AKAMAI_BOT_MANAGER_BLOCK",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": "Akamai Bot Manager"
+}

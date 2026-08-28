@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 404,
+  "response_time_ms": 5140.3,
+  "browser_seconds": 5.62,
+  "bytes_received": 23138,
+  "success": false,
+  "evidence_path": "evidence/agres/INDONESIA/sku_0011/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/agres/INDONESIA/sku_0011/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:23:38.048850+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "target_id": "bestbuy-ca",
+  "retailer": "Bestbuy",
+  "country": "Canada",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+  "timestamp": "2026-08-24T07:32:07.409029+00:00"
+}

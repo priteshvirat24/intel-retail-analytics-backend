@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.mercadolibre.com.mx/s?k=portatil",
+    "status_code": 0,
+    "latency_ms": 60855.0,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mercadolibre.com.mx/search?q=portatil",
+    "status_code": 0,
+    "latency_ms": 30812.6,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mercadolibre.com.mx/laptops",
+    "status_code": 0,
+    "latency_ms": 29088.7,
+    "html_bytes": 0
+  }
+]

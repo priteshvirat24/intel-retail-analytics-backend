@@ -1,0 +1,16 @@
+{
+  "target_id": "fnac-fr",
+  "strategy": "PLAYWRIGHT",
+  "laptop_url": "https://www.fnac.com/product/sku_0011",
+  "status_code": 0,
+  "latency_ms": 13295.7,
+  "bytes": 0,
+  "endpoint_reachable": false,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "CONNECTION_TIMEOUT",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

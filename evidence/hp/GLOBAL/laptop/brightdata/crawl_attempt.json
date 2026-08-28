@@ -1,0 +1,17 @@
+{
+  "target_id": "hp-global",
+  "retailer": "Hp",
+  "country": "Global",
+  "country_iso": "us",
+  "url": "https://www.hp.com/in-en/laptops/home-laptops/omnipad.html",
+  "status_code": 200,
+  "response_time_ms": 7561.4,
+  "can_scrape": "YES",
+  "confidence_score": 0.8,
+  "product_name": "HP OmniPad 12",
+  "brand": "HP",
+  "price": 9.0,
+  "currency": null,
+  "sku": null,
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (HP OmniPad 12 | Brand: HP | Price: 9.0 USD | SKU: \u2014)"
+}

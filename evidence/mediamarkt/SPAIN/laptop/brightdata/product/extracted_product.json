@@ -1,0 +1,18 @@
+{
+  "retailer": "Mediamarkt",
+  "country": "Spain",
+  "product_url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15iph11-copilot-pc-153-wuxga-intelr-coretm-ultra-7-355-49-tops-16gb-ram-512gb-ssd-hd-graphics-w11h-1623675.html",
+  "product_title": "Port\u00e1til - Lenovo IdeaPad Slim 3 15IPH11 Copilot+ PC, 15.3\" WUXGA, Intel\u00ae Core\u2122 Ultra 7 355, 49 TOPS, 16GB RAM, 512GB SSD, HD Graphics, W11H",
+  "brand": "LENOVO",
+  "model_or_sku": "153-wuxga",
+  "price": 899.0,
+  "currency": null,
+  "specs": {
+    "screen_size": "15.3\"",
+    "ram": "16GB",
+    "storage": "512GB SSD"
+  },
+  "validation_score": 1.0,
+  "source_strategy": "Bright Data Web Unlocker (flags: country-es)",
+  "timestamp": "2026-08-25T09:05:12.301456+00:00"
+}

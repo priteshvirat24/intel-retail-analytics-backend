@@ -1,0 +1,22 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 1.0,
+  "detected_brand": "Lenovo",
+  "model_or_sku": "153-wuxga",
+  "extracted_specs": {
+    "screen_size": "15.3\"",
+    "ram": "16GB",
+    "storage": "512GB SSD"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'port\u00e1til'",
+    "Laptop family: 'ideapad'",
+    "Brand: 'Lenovo'",
+    "Screen size: 15.3\"",
+    "RAM: 16GB",
+    "Storage: 512GB SSD"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

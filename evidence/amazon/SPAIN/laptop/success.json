@@ -1,0 +1,21 @@
+{
+  "retailer": "Amazon",
+  "country": "Spain",
+  "product_url": "https://www.amazon.es/HP-Ordenador-port%C3%A1til-Graphics-operativo/dp/B0FCG2VS1T/ref=sr_1_3",
+  "title": "HP 15-fc0237ns - Ordenador port\u00e1til de 15.6\" FHD (AMD Ryzen 5-7520U, 16 GB RAM, 1TB SSD, AMD Radeon Graphics, Sin Sistema operativo) Plata y Azul - Teclado QWERTY Espa\u00f1ol",
+  "brand": "HP",
+  "model": "B0FCG2VS1T",
+  "sku": "B0FCG2VS1T",
+  "price": 66989.0,
+  "currency": "EUR",
+  "availability": "InStock",
+  "cpu": "Ryzen 5",
+  "ram": "16GB",
+  "storage": "1TB SSD",
+  "display": "15.6\"",
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "bright_data_product": "BRIGHTDATA_AMAZON_SCRAPER",
+  "timestamp": "2026-08-25T10:56:00.075075Z"
+}

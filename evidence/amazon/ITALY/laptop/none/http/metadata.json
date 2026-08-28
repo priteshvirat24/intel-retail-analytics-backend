@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-it",
+  "retailer": "Amazon",
+  "country": "Italy",
+  "url": "https://www.amazon.it/dp/B0D8KH4LNB/ref=sspa_dk_browse_4/?_encoding=UTF8&ie=UTF8&psc=1&spc=MTo0OTkzNzU3NDU1NDE5MjIzOjE5NDUyMzcwOTg6c3BfYnJvd3NlX3RoZW1hdGljOjMwMDU0NDc4MTM2MTgzMjowOjQ6Og%3D%3D&sp_csd=d2lkZ2V0TmFtZT1zcF9icm93c2VfdGhlbWF0aWM%3D&sp_cr=ZAZ&aref=V2HceE4elb&pd_rd_w=Zl9SB&content-id=amzn1.sym.a30bf1aa-2765-4ad3-8c9f-469a10e9b606&pf_rd_p=a30bf1aa-2765-4ad3-8c9f-469a10e9b606&pf_rd_r=NYVCNBWPVKTHKNNEGMTQ&pd_rd_wg=Ll4VL&pd_rd_r=03931ae1-c228-4c80-8908-ce0ab82ba2a5&ref_=sspa_dk_browse",
+  "strategy": "HTTP",
+  "status_code": 200,
+  "final_url": "https://www.amazon.it/dp/B0D8KH4LNB/ref=sspa_dk_browse_4/?_encoding=UTF8&ie=UTF8&psc=1&spc=MTo0OTkzNzU3NDU1NDE5MjIzOjE5NDUyMzcwOTg6c3BfYnJvd3NlX3RoZW1hdGljOjMwMDU0NDc4MTM2MTgzMjowOjQ6Og%3D%3D&sp_csd=d2lkZ2V0TmFtZT1zcF9icm93c2VfdGhlbWF0aWM%3D&sp_cr=ZAZ&aref=V2HceE4elb&pd_rd_w=Zl9SB&content-id=amzn1.sym.a30bf1aa-2765-4ad3-8c9f-469a10e9b606&pf_rd_p=a30bf1aa-2765-4ad3-8c9f-469a10e9b606&pf_rd_r=NYVCNBWPVKTHKNNEGMTQ&pd_rd_wg=Ll4VL&pd_rd_r=03931ae1-c228-4c80-8908-ce0ab82ba2a5&ref_=sspa_dk_browse",
+  "crawlable": true,
+  "failure_reason": null,
+  "anti_bot_vendor": null,
+  "latency_ms": 2865.87
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.costco.com/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 28923.8,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.costco.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 16022.3,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.costco.com/laptops",
+    "status_code": 200,
+    "latency_ms": 18513.3,
+    "html_bytes": 72
+  }
+]

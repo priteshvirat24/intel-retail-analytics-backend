@@ -1,0 +1,17 @@
+{
+  "target_id": "magazineluiza-br",
+  "retailer": "Magazineluiza",
+  "country": "Brazil",
+  "country_iso": "br",
+  "url": "https://clube.magazineluiza.com.br/tudoazul/pasta-executiva-para-notebook-documentos-prime-inbox/p/agc1750dc6/md/peme",
+  "status_code": 200,
+  "response_time_ms": 6795.6,
+  "can_scrape": "NO",
+  "confidence_score": 0.35,
+  "product_name": "Pasta executiva para Notebook Documentos  | Clube de Benef\u00edcios",
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": "agc1750dc6",
+  "reason": "Catalog aggregation page reached: Multiple listing cards present without individual checkout schema"
+}

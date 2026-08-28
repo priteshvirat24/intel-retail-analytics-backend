@@ -1,0 +1,17 @@
+{
+  "target_id": "unieuro-it",
+  "retailer": "Unieuro",
+  "country": "Italy",
+  "domain": "unieuro.it",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.unieuro.it/online/Notebook/PB14250-pidDLLMRWT8?srsltid=AfmBOorfnznsL8aFEsV0S0nFEswbJ7DGqMG6QpvthhQ6cj6rodarfFLR",
+  "title": "DELL Pro 14 Plus PB14250 Intel Core Ultra 7 255U ...",
+  "brand": "Dell",
+  "specs": {
+    "cpu": "Intel Core Ultra 7"
+  },
+  "timestamp": "2026-08-25T14:23:00.585498+00:00",
+  "failure_reason": null
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.amazon.co.uk/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 12666.6,
+    "html_bytes": 1493458
+  }
+]

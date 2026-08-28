@@ -1,0 +1,17 @@
+{
+  "target_id": "acer-global",
+  "retailer": "Acer",
+  "country": "Global",
+  "country_iso": "us",
+  "url": "https://store.acer.com/en-us/laptops/gaming",
+  "status_code": 200,
+  "response_time_ms": 32915.1,
+  "can_scrape": "YES",
+  "confidence_score": 1.0,
+  "product_name": "Gaming Laptops",
+  "brand": null,
+  "price": 129.0,
+  "currency": null,
+  "sku": null,
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (Gaming Laptops | Brand: \u2014 | Price: 129.0 USD | SKU: \u2014)"
+}

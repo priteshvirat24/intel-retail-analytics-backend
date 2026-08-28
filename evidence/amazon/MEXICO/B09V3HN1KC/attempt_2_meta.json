@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 200,
+  "response_time_ms": 8949.24,
+  "browser_seconds": 9.22,
+  "bytes_received": 3860,
+  "success": false,
+  "evidence_path": "evidence/amazon/MEXICO/B09V3HN1KC/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/amazon/MEXICO/B09V3HN1KC/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:29:23.615753+00:00"
+}

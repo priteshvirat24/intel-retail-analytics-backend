@@ -1,0 +1,17 @@
+{
+  "target_id": "acer-global",
+  "retailer": "Acer",
+  "country": "Global",
+  "domain": "store.acer.com",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://store.acer.com/en-in/laptops?srsltid=AfmBOopUApxb4Bo9WDH2L6Bdzu3kZSwiUsUKKwgaU6epcOnAEQk37FWT",
+  "title": "Laptops at Best Prices in India",
+  "brand": "Acer",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:22:06.715394+00:00",
+  "failure_reason": null
+}

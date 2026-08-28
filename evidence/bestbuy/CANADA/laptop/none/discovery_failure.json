@@ -1,0 +1,60 @@
+{
+  "target_id": "bestbuy-ca",
+  "retailer": "Bestbuy",
+  "country": "Canada",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+  "domain_validation": {
+    "domain": "bestbuy.ca",
+    "base_url": "https://www.bestbuy.ca",
+    "http_status": 0,
+    "redirect_chain": [],
+    "final_url": "https://www.bestbuy.ca",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "TIMEOUT",
+    "latency_ms": 0.0
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.bestbuy.ca/search?q=laptop",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.bestbuy.ca/search?q=notebook",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.bestbuy.ca/s?k=laptop",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.bestbuy.ca/s?k=notebook",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.bestbuy.ca/laptops",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.bestbuy.ca",
+      "candidates_found": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "target_id": "gmarket-kr",
+  "retailer": "Gmarket",
+  "country": "South Korea",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "gmarket.co.kr",
+    "base_url": "https://www.gmarket.co.kr",
+    "http_status": 403,
+    "redirect_chain": [],
+    "final_url": "https://www.gmarket.co.kr",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 624.2
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.gmarket.co.kr/search?q=laptop",
+      "status": 403,
+      "latency_ms": 314.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.gmarket.co.kr/search?q=notebook",
+      "status": 403,
+      "latency_ms": 297.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.gmarket.co.kr/s?k=laptop",
+      "status": 403,
+      "latency_ms": 356.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.gmarket.co.kr/s?k=notebook",
+      "status": 403,
+      "latency_ms": 304.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.gmarket.co.kr/laptops",
+      "status": 403,
+      "latency_ms": 337.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.gmarket.co.kr",
+      "candidates_found": 0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-de",
+  "retailer": "Amazon",
+  "country": "Germany",
+  "country_iso": "de",
+  "url": "https://www.amazon.de/dp/B08L5WHJ7L",
+  "status_code": 200,
+  "response_time_ms": 5971.3,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Client-side SPA shell: JavaScript hydration required to populate product DOM tree"
+}

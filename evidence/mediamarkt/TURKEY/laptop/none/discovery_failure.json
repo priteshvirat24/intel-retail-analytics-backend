@@ -1,0 +1,60 @@
+{
+  "target_id": "mediamarkt-tr",
+  "retailer": "Mediamarkt",
+  "country": "Turkey",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "mediamarkt.com.tr",
+    "base_url": "https://www.mediamarkt.com.tr",
+    "http_status": 403,
+    "redirect_chain": [],
+    "final_url": "https://www.mediamarkt.com.tr",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 730.3
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediamarkt.com.tr/search?q=laptop",
+      "status": 403,
+      "latency_ms": 647.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediamarkt.com.tr/search?q=notebook",
+      "status": 403,
+      "latency_ms": 687.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediamarkt.com.tr/s?k=laptop",
+      "status": 403,
+      "latency_ms": 716.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.mediamarkt.com.tr/s?k=notebook",
+      "status": 403,
+      "latency_ms": 694.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.mediamarkt.com.tr/laptops",
+      "status": 403,
+      "latency_ms": 663.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.mediamarkt.com.tr",
+      "candidates_found": 0
+    }
+  ]
+}

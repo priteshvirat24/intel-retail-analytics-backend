@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 0,
+  "response_time_ms": 0.0,
+  "browser_seconds": 14.23,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": null,
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": "Playwright render timed out after 12.0s",
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:33:48.284217+00:00"
+}

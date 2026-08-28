@@ -1,0 +1,14 @@
+{
+  "category": "HTTP_STATUS",
+  "specific_reason": "HTTP_404_NOT_FOUND",
+  "stage": "URL_REACHABILITY",
+  "failure_reason_human": "Product URL returned HTTP 404 Not Found.",
+  "http_status": 404,
+  "exception_type": null,
+  "retry_count": 0,
+  "last_error": null,
+  "timestamp": "2026-08-23T10:31:13.545378+00:00",
+  "is_recoverable": false,
+  "recommended_escalation": null,
+  "details": {}
+}

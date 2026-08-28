@@ -1,0 +1,17 @@
+{
+  "target_id": "agres-id",
+  "retailer": "Agres",
+  "country": "Indonesia",
+  "domain": "agres.id",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.agres.id/article/inilah-perbedaan-notebook-dan-laptop-yang-harus-kamu-tahu/",
+  "title": "Inilah Perbedaan Notebook dan Laptop yang Harus Kamu ...",
+  "brand": "Agres",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:22:47.490512+00:00",
+  "failure_reason": null
+}

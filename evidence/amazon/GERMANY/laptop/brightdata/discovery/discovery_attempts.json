@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.de/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 6164.3,
+    "bytes": 1562019,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

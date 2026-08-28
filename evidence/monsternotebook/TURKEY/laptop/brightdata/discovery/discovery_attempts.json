@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.monsternotebook.com.tr/arama?q=laptop",
+    "status_code": 200,
+    "latency_ms": 7469.6,
+    "bytes": 543401,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

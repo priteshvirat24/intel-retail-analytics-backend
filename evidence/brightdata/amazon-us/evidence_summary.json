@@ -1,0 +1,19 @@
+{
+  "target_id": "amazon-us",
+  "retailer": "Amazon",
+  "country": "United States",
+  "domain": "amazon.com",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.amazon.com/dp/B0G51ZZ34Y?ref=emc_p_m_5_mob_i_atc",
+  "title": "NIMO 15.6'' IPS FHD-Laptop, 16GB RAM 512GB SSD AMD ...",
+  "brand": "Amazon",
+  "specs": {
+    "screen_size": "15.6\"",
+    "ram": "16GB",
+    "storage": "512GB SSD"
+  },
+  "timestamp": "2026-08-25T14:19:19.350431+00:00",
+  "failure_reason": null
+}

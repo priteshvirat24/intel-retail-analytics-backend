@@ -1,0 +1,14 @@
+{
+  "category": "EXTRACTION",
+  "specific_reason": "EXTRACTION_FAILED",
+  "stage": "EXTRACTION",
+  "failure_reason_human": "Failed to extract structured product fields: No product data could be extracted by any extractor",
+  "http_status": null,
+  "exception_type": null,
+  "retry_count": 1,
+  "last_error": "No product data could be extracted by any extractor",
+  "timestamp": "2026-08-23T08:29:05.071197+00:00",
+  "is_recoverable": true,
+  "recommended_escalation": "ADAPTER",
+  "details": {}
+}

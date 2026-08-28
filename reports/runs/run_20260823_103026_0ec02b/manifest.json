@@ -1,0 +1,17 @@
+{
+  "run_id": "run_20260823_103026_0ec02b",
+  "timestamp": "2026-08-23T10:30:26.469038+00:00",
+  "git_commit": "unversioned",
+  "crawler_version": "1.2.0",
+  "target_count": 1,
+  "sku_limit": 20,
+  "targets": [
+    "amazon-de"
+  ],
+  "strategies_enabled": [
+    "HTTP",
+    "PLAYWRIGHT",
+    "ADAPTER"
+  ],
+  "configuration_hash": "780f4cc058eb6536c059e03e5c6eb628efeefe2e0c6a9883f39a93899771e167"
+}

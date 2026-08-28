@@ -1,0 +1,13 @@
+{
+  "target_id": "amazon-ca",
+  "retailer": "Amazon",
+  "country": "Canada",
+  "url": "https://www.amazon.ca/HP-Processor-Storage-Graphics-15-fd0016ca/dp/B0DVD5RQ86/ref=sr_1_5?dib=eyJ2IjoiMSJ9.5d93cHZmg-O2ODg3S2SZi66Ex4MhYxUWsyx_nxvazCfDJe4M3C0z_tiKrZ2PVT7wWuI4UtGT3paB4EX7ofnzalb2AHNp2qHxmbbRpBISpiKOeG-AsTufBTtYQQ1uwp175WerIjpN5z64UAy8qj3hV5tDfBsFZ5wiKqfFX6ZwweLefyxoByjF4CAaKgJ6uxB7VRTd6j_wkeFx2uKsjeHQRJjXe9J4K-n9uZBzXg449JUlO11Jv0WGOAtStDKzoDMtx1dfD66ebJb_l3_CenQELZw6ivUD8Er4jtVwOl09jJ4.zpvgV2JTIssALcr28GwLkvwuapDe4LL1KjcUVoGv2vo&dib_tag=se&keywords=laptop&qid=1787557118&sr=8-5",
+  "strategy": "HTTP",
+  "status_code": 200,
+  "final_url": "https://www.amazon.ca/HP-Processor-Storage-Graphics-15-fd0016ca/dp/B0DVD5RQ86/ref=sr_1_5?dib=eyJ2IjoiMSJ9.5d93cHZmg-O2ODg3S2SZi66Ex4MhYxUWsyx_nxvazCfDJe4M3C0z_tiKrZ2PVT7wWuI4UtGT3paB4EX7ofnzalb2AHNp2qHxmbbRpBISpiKOeG-AsTufBTtYQQ1uwp175WerIjpN5z64UAy8qj3hV5tDfBsFZ5wiKqfFX6ZwweLefyxoByjF4CAaKgJ6uxB7VRTd6j_wkeFx2uKsjeHQRJjXe9J4K-n9uZBzXg449JUlO11Jv0WGOAtStDKzoDMtx1dfD66ebJb_l3_CenQELZw6ivUD8Er4jtVwOl09jJ4.zpvgV2JTIssALcr28GwLkvwuapDe4LL1KjcUVoGv2vo&dib_tag=se&keywords=laptop&qid=1787557118&sr=8-5",
+  "crawlable": false,
+  "failure_reason": "AKAMAI_BOT_MANAGER_BLOCK",
+  "anti_bot_vendor": "Akamai Bot Manager",
+  "latency_ms": 2425.3
+}

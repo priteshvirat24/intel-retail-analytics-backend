@@ -1,0 +1,23 @@
+{
+  "run_id": "run_20260823_phase3a_forensic",
+  "timestamp": "2026-08-23T10:45:00.000000+00:00",
+  "git_commit": "unversioned",
+  "crawler_version": "1.3.0-phase3a",
+  "phase": "PHASE_3A_FORENSIC_RECOVERY",
+  "referenced_baseline_run_id": "run_20260823_082231_88e466",
+  "target_count": 52,
+  "sku_limit": 20,
+  "strategies_enabled": [
+    "HTTP",
+    "PLAYWRIGHT",
+    "ADAPTER"
+  ],
+  "configuration_hash": "ca8025d0dedbfeda28846253a32fa27c1820ece6769d482e05848e86ecfa2a2a",
+  "phase2_baseline": {
+    "total_requested_skus": 1040,
+    "validated_product_success": 0,
+    "html_responses_recovered": 13,
+    "products_extracted": 8,
+    "products_validated": 0
+  }
+}

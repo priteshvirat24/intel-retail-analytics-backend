@@ -1,0 +1,2078 @@
+retailers:
+  mock-store:
+    retailer: mockstore
+    brand_name: Mock Store Testbed
+    country: US
+    domain: 127.0.0.1
+    base_url: http://127.0.0.1:8000
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - http://127.0.0.1:8000/category/laptops
+      product_url_patterns:
+      - http://127.0.0.1:8000/product/[a-zA-Z0-9_-]+
+      seed_urls:
+      - http://127.0.0.1:8000/product/jsonld-standard
+      - http://127.0.0.1:8000/product/jsonld-graph
+      - http://127.0.0.1:8000/product/next-data
+      - http://127.0.0.1:8000/product/opengraph-dom
+      - http://127.0.0.1:8000/product/sku-05
+      - http://127.0.0.1:8000/product/sku-06
+      - http://127.0.0.1:8000/product/sku-07
+      - http://127.0.0.1:8000/product/sku-08
+      - http://127.0.0.1:8000/product/sku-09
+      - http://127.0.0.1:8000/product/sku-10
+      - http://127.0.0.1:8000/product/sku-11
+      - http://127.0.0.1:8000/product/sku-12
+      - http://127.0.0.1:8000/product/sku-13
+      - http://127.0.0.1:8000/product/sku-14
+      - http://127.0.0.1:8000/product/sku-15
+      - http://127.0.0.1:8000/product/sku-16
+      - http://127.0.0.1:8000/product/sku-17
+      - http://127.0.0.1:8000/product/sku-18
+      - http://127.0.0.1:8000/product/sku-19
+      - http://127.0.0.1:8000/product/sku-20
+    rate_limit_policy: aggressive
+  agres-id:
+    retailer: agres
+    brand_name: Agres
+    country: ID
+    domain: agres.id
+    base_url: https://agres.id
+    locale: id-ID
+    currency: IDR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      sitemaps:
+      - https://agres.id/sitemap.xml
+      category_urls:
+      - https://agres.id/laptop
+      - https://agres.id/desktop
+      - https://agres.id/accessories
+      search_url: https://agres.id/search?q={query}
+      product_url_patterns:
+      - https://agres.id/product/[a-zA-Z0-9_-]+
+      - https://agres.id/detail/[a-zA-Z0-9_-]+
+      seed_urls:
+      - https://agres.id/product/sku_0001
+      - https://agres.id/product/sku_0002
+      - https://agres.id/product/sku_0003
+      - https://agres.id/product/sku_0004
+      - https://agres.id/product/sku_0005
+      - https://agres.id/product/sku_0006
+      - https://agres.id/product/sku_0007
+      - https://agres.id/product/sku_0008
+      - https://agres.id/product/sku_0009
+      - https://agres.id/product/sku_0010
+      - https://agres.id/product/sku_0011
+      - https://agres.id/product/sku_0012
+      - https://agres.id/product/sku_0013
+      - https://agres.id/product/sku_0014
+      - https://agres.id/product/sku_0015
+      - https://agres.id/product/sku_0016
+      - https://agres.id/product/sku_0017
+      - https://agres.id/product/sku_0018
+      - https://agres.id/product/sku_0019
+      - https://agres.id/product/sku_0020
+  acer-global:
+    retailer: acer
+    brand_name: Acer
+    country: GLOBAL
+    domain: store.acer.com
+    base_url: https://store.acer.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      sitemaps:
+      - https://store.acer.com/en-us/sitemap.xml
+      category_urls:
+      - https://store.acer.com/en-us/laptops
+      - https://store.acer.com/en-us/monitors
+      - https://store.acer.com/en-us/desktops
+      search_url: https://store.acer.com/en-us/search?q={query}
+      product_url_patterns:
+      - https://store.acer.com/en-us/[a-zA-Z0-9_-]+
+      seed_urls:
+      - https://store.acer.com/product/sku_0001
+      - https://store.acer.com/product/sku_0002
+      - https://store.acer.com/product/sku_0003
+      - https://store.acer.com/product/sku_0004
+      - https://store.acer.com/product/sku_0005
+      - https://store.acer.com/product/sku_0006
+      - https://store.acer.com/product/sku_0007
+      - https://store.acer.com/product/sku_0008
+      - https://store.acer.com/product/sku_0009
+      - https://store.acer.com/product/sku_0010
+      - https://store.acer.com/product/sku_0011
+      - https://store.acer.com/product/sku_0012
+      - https://store.acer.com/product/sku_0013
+      - https://store.acer.com/product/sku_0014
+      - https://store.acer.com/product/sku_0015
+      - https://store.acer.com/product/sku_0016
+      - https://store.acer.com/product/sku_0017
+      - https://store.acer.com/product/sku_0018
+      - https://store.acer.com/product/sku_0019
+      - https://store.acer.com/product/sku_0020
+  amazon-us:
+    retailer: amazon
+    brand_name: Amazon
+    country: US
+    domain: amazon.com
+    base_url: https://www.amazon.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    rate_limit_policy: strict_rate_limiting
+    discovery:
+      category_urls:
+      - https://www.amazon.com/s?k=laptop
+      - https://www.amazon.com/s?k=monitor
+      - https://www.amazon.com/s?k=headphones
+      - https://www.amazon.com/s?k=smartwatch
+      search_url: https://www.amazon.com/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.com/dp/[A-Z0-9]{10}
+      - https://www.amazon.com/[^/]+/dp/[A-Z0-9]{10}
+      - https://www.amazon.com/gp/product/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.com/dp/B0C7678D3M
+      - https://www.amazon.com/dp/B09V3HN1KC
+      - https://www.amazon.com/dp/B0BSHF7WHW
+      - https://www.amazon.com/dp/B09G9FPHY6
+      - https://www.amazon.com/dp/B0CHWZ6NCM
+      - https://www.amazon.com/dp/B08N5WRWNW
+      - https://www.amazon.com/dp/B0CX237P9P
+      - https://www.amazon.com/dp/B0CL5KNB9M
+      - https://www.amazon.com/dp/B09G91LXFP
+      - https://www.amazon.com/dp/B09BRF4N2V
+      - https://www.amazon.com/dp/B0B3C57X2W
+      - https://www.amazon.com/dp/B0BDJ2M8NV
+      - https://www.amazon.com/dp/B0BT9DY8NW
+      - https://www.amazon.com/dp/B0CF3S38DC
+      - https://www.amazon.com/dp/B08N5XSG8Z
+      - https://www.amazon.com/dp/B0CX1XBTY7
+      - https://www.amazon.com/dp/B0B3C4R348
+      - https://www.amazon.com/dp/B09G96TMB8
+      - https://www.amazon.com/dp/B0CHX1W1XY
+      - https://www.amazon.com/dp/B0BDHX8Z63
+  amazon-in:
+    retailer: amazon
+    brand_name: Amazon
+    country: IN
+    domain: amazon.in
+    base_url: https://www.amazon.in
+    locale: en-IN
+    currency: INR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    rate_limit_policy: strict_rate_limiting
+    discovery:
+      category_urls:
+      - https://www.amazon.in/s?k=laptop
+      - https://www.amazon.in/s?k=smartphone
+      - https://www.amazon.in/s?k=headphones
+      search_url: https://www.amazon.in/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.in/dp/[A-Z0-9]{10}
+      - https://www.amazon.in/[^/]+/dp/[A-Z0-9]{10}
+      - https://www.amazon.in/gp/product/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.in/dp/B0C7678D3M
+      - https://www.amazon.in/dp/B09V3HN1KC
+      - https://www.amazon.in/dp/B0BSHF7WHW
+      - https://www.amazon.in/dp/B09G9FPHY6
+      - https://www.amazon.in/dp/B0CHWZ6NCM
+      - https://www.amazon.in/dp/B08N5WRWNW
+      - https://www.amazon.in/dp/B0CX237P9P
+      - https://www.amazon.in/dp/B0CL5KNB9M
+      - https://www.amazon.in/dp/B09G91LXFP
+      - https://www.amazon.in/dp/B09BRF4N2V
+      - https://www.amazon.in/dp/B0B3C57X2W
+      - https://www.amazon.in/dp/B0BDJ2M8NV
+      - https://www.amazon.in/dp/B0BT9DY8NW
+      - https://www.amazon.in/dp/B0CF3S38DC
+      - https://www.amazon.in/dp/B08N5XSG8Z
+      - https://www.amazon.in/dp/B0CX1XBTY7
+      - https://www.amazon.in/dp/B0B3C4R348
+      - https://www.amazon.in/dp/B09G96TMB8
+      - https://www.amazon.in/dp/B0CHX1W1XY
+      - https://www.amazon.in/dp/B0BDHX8Z63
+  amazon-gb:
+    retailer: amazon
+    brand_name: Amazon
+    country: GB
+    domain: amazon.co.uk
+    base_url: https://www.amazon.co.uk
+    locale: en-GB
+    currency: GBP
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    rate_limit_policy: strict_rate_limiting
+    discovery:
+      category_urls:
+      - https://www.amazon.co.uk/s?k=laptop
+      - https://www.amazon.co.uk/s?k=headphones
+      search_url: https://www.amazon.co.uk/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.co.uk/dp/[A-Z0-9]{10}
+      - https://www.amazon.co.uk/[^/]+/dp/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.co.uk/dp/B0C7678D3M
+      - https://www.amazon.co.uk/dp/B09V3HN1KC
+      - https://www.amazon.co.uk/dp/B0BSHF7WHW
+      - https://www.amazon.co.uk/dp/B09G9FPHY6
+      - https://www.amazon.co.uk/dp/B0CHWZ6NCM
+      - https://www.amazon.co.uk/dp/B08N5WRWNW
+      - https://www.amazon.co.uk/dp/B0CX237P9P
+      - https://www.amazon.co.uk/dp/B0CL5KNB9M
+      - https://www.amazon.co.uk/dp/B09G91LXFP
+      - https://www.amazon.co.uk/dp/B09BRF4N2V
+      - https://www.amazon.co.uk/dp/B0B3C57X2W
+      - https://www.amazon.co.uk/dp/B0BDJ2M8NV
+      - https://www.amazon.co.uk/dp/B0BT9DY8NW
+      - https://www.amazon.co.uk/dp/B0CF3S38DC
+      - https://www.amazon.co.uk/dp/B08N5XSG8Z
+      - https://www.amazon.co.uk/dp/B0CX1XBTY7
+      - https://www.amazon.co.uk/dp/B0B3C4R348
+      - https://www.amazon.co.uk/dp/B09G96TMB8
+      - https://www.amazon.co.uk/dp/B0CHX1W1XY
+      - https://www.amazon.co.uk/dp/B0BDHX8Z63
+  amazon-de:
+    retailer: amazon
+    brand_name: Amazon
+    country: DE
+    domain: amazon.de
+    base_url: https://www.amazon.de
+    locale: de-DE
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    rate_limit_policy: strict_rate_limiting
+    discovery:
+      category_urls:
+      - https://www.amazon.de/s?k=laptop
+      - https://www.amazon.de/s?k=monitor
+      search_url: https://www.amazon.de/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.de/dp/[A-Z0-9]{10}
+      - https://www.amazon.de/[^/]+/dp/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.de/dp/B0C7678D3M
+      - https://www.amazon.de/dp/B09V3HN1KC
+      - https://www.amazon.de/dp/B0BSHF7WHW
+      - https://www.amazon.de/dp/B09G9FPHY6
+      - https://www.amazon.de/dp/B0CHWZ6NCM
+      - https://www.amazon.de/dp/B08N5WRWNW
+      - https://www.amazon.de/dp/B0CX237P9P
+      - https://www.amazon.de/dp/B0CL5KNB9M
+      - https://www.amazon.de/dp/B09G91LXFP
+      - https://www.amazon.de/dp/B09BRF4N2V
+      - https://www.amazon.de/dp/B0B3C57X2W
+      - https://www.amazon.de/dp/B0BDJ2M8NV
+      - https://www.amazon.de/dp/B0BT9DY8NW
+      - https://www.amazon.de/dp/B0CF3S38DC
+      - https://www.amazon.de/dp/B08N5XSG8Z
+      - https://www.amazon.de/dp/B0CX1XBTY7
+      - https://www.amazon.de/dp/B0B3C4R348
+      - https://www.amazon.de/dp/B09G96TMB8
+      - https://www.amazon.de/dp/B0CHX1W1XY
+      - https://www.amazon.de/dp/B0BDHX8Z63
+  amazon-fr:
+    retailer: amazon
+    brand_name: Amazon
+    country: FR
+    domain: amazon.fr
+    base_url: https://www.amazon.fr
+    locale: fr-FR
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.amazon.fr/s?k=ordinateur+portable
+      search_url: https://www.amazon.fr/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.fr/dp/[A-Z0-9]{10}
+      - https://www.amazon.fr/[^/]+/dp/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.fr/dp/B0C7678D3M
+      - https://www.amazon.fr/dp/B09V3HN1KC
+      - https://www.amazon.fr/dp/B0BSHF7WHW
+      - https://www.amazon.fr/dp/B09G9FPHY6
+      - https://www.amazon.fr/dp/B0CHWZ6NCM
+      - https://www.amazon.fr/dp/B08N5WRWNW
+      - https://www.amazon.fr/dp/B0CX237P9P
+      - https://www.amazon.fr/dp/B0CL5KNB9M
+      - https://www.amazon.fr/dp/B09G91LXFP
+      - https://www.amazon.fr/dp/B09BRF4N2V
+      - https://www.amazon.fr/dp/B0B3C57X2W
+      - https://www.amazon.fr/dp/B0BDJ2M8NV
+      - https://www.amazon.fr/dp/B0BT9DY8NW
+      - https://www.amazon.fr/dp/B0CF3S38DC
+      - https://www.amazon.fr/dp/B08N5XSG8Z
+      - https://www.amazon.fr/dp/B0CX1XBTY7
+      - https://www.amazon.fr/dp/B0B3C4R348
+      - https://www.amazon.fr/dp/B09G96TMB8
+      - https://www.amazon.fr/dp/B0CHX1W1XY
+      - https://www.amazon.fr/dp/B0BDHX8Z63
+  amazon-it:
+    retailer: amazon
+    brand_name: Amazon
+    country: IT
+    domain: amazon.it
+    base_url: https://www.amazon.it
+    locale: it-IT
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.amazon.it/s?k=notebook
+      search_url: https://www.amazon.it/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.it/dp/[A-Z0-9]{10}
+      - https://www.amazon.it/[^/]+/dp/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.it/dp/B0C7678D3M
+      - https://www.amazon.it/dp/B09V3HN1KC
+      - https://www.amazon.it/dp/B0BSHF7WHW
+      - https://www.amazon.it/dp/B09G9FPHY6
+      - https://www.amazon.it/dp/B0CHWZ6NCM
+      - https://www.amazon.it/dp/B08N5WRWNW
+      - https://www.amazon.it/dp/B0CX237P9P
+      - https://www.amazon.it/dp/B0CL5KNB9M
+      - https://www.amazon.it/dp/B09G91LXFP
+      - https://www.amazon.it/dp/B09BRF4N2V
+      - https://www.amazon.it/dp/B0B3C57X2W
+      - https://www.amazon.it/dp/B0BDJ2M8NV
+      - https://www.amazon.it/dp/B0BT9DY8NW
+      - https://www.amazon.it/dp/B0CF3S38DC
+      - https://www.amazon.it/dp/B08N5XSG8Z
+      - https://www.amazon.it/dp/B0CX1XBTY7
+      - https://www.amazon.it/dp/B0B3C4R348
+      - https://www.amazon.it/dp/B09G96TMB8
+      - https://www.amazon.it/dp/B0CHX1W1XY
+      - https://www.amazon.it/dp/B0BDHX8Z63
+  amazon-es:
+    retailer: amazon
+    brand_name: Amazon
+    country: ES
+    domain: amazon.es
+    base_url: https://www.amazon.es
+    locale: es-ES
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.amazon.es/s?k=portatil
+      search_url: https://www.amazon.es/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.es/dp/[A-Z0-9]{10}
+      - https://www.amazon.es/[^/]+/dp/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.es/dp/B0C7678D3M
+      - https://www.amazon.es/dp/B09V3HN1KC
+      - https://www.amazon.es/dp/B0BSHF7WHW
+      - https://www.amazon.es/dp/B09G9FPHY6
+      - https://www.amazon.es/dp/B0CHWZ6NCM
+      - https://www.amazon.es/dp/B08N5WRWNW
+      - https://www.amazon.es/dp/B0CX237P9P
+      - https://www.amazon.es/dp/B0CL5KNB9M
+      - https://www.amazon.es/dp/B09G91LXFP
+      - https://www.amazon.es/dp/B09BRF4N2V
+      - https://www.amazon.es/dp/B0B3C57X2W
+      - https://www.amazon.es/dp/B0BDJ2M8NV
+      - https://www.amazon.es/dp/B0BT9DY8NW
+      - https://www.amazon.es/dp/B0CF3S38DC
+      - https://www.amazon.es/dp/B08N5XSG8Z
+      - https://www.amazon.es/dp/B0CX1XBTY7
+      - https://www.amazon.es/dp/B0B3C4R348
+      - https://www.amazon.es/dp/B09G96TMB8
+      - https://www.amazon.es/dp/B0CHX1W1XY
+      - https://www.amazon.es/dp/B0BDHX8Z63
+  amazon-ca:
+    retailer: amazon
+    brand_name: Amazon
+    country: CA
+    domain: amazon.ca
+    base_url: https://www.amazon.ca
+    locale: en-CA
+    currency: CAD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.amazon.ca/s?k=laptop
+      search_url: https://www.amazon.ca/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.ca/dp/[A-Z0-9]{10}
+      - https://www.amazon.ca/[^/]+/dp/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.ca/dp/B0C7678D3M
+      - https://www.amazon.ca/dp/B09V3HN1KC
+      - https://www.amazon.ca/dp/B0BSHF7WHW
+      - https://www.amazon.ca/dp/B09G9FPHY6
+      - https://www.amazon.ca/dp/B0CHWZ6NCM
+      - https://www.amazon.ca/dp/B08N5WRWNW
+      - https://www.amazon.ca/dp/B0CX237P9P
+      - https://www.amazon.ca/dp/B0CL5KNB9M
+      - https://www.amazon.ca/dp/B09G91LXFP
+      - https://www.amazon.ca/dp/B09BRF4N2V
+      - https://www.amazon.ca/dp/B0B3C57X2W
+      - https://www.amazon.ca/dp/B0BDJ2M8NV
+      - https://www.amazon.ca/dp/B0BT9DY8NW
+      - https://www.amazon.ca/dp/B0CF3S38DC
+      - https://www.amazon.ca/dp/B08N5XSG8Z
+      - https://www.amazon.ca/dp/B0CX1XBTY7
+      - https://www.amazon.ca/dp/B0B3C4R348
+      - https://www.amazon.ca/dp/B09G96TMB8
+      - https://www.amazon.ca/dp/B0CHX1W1XY
+      - https://www.amazon.ca/dp/B0BDHX8Z63
+  amazon-mx:
+    retailer: amazon
+    brand_name: Amazon
+    country: MX
+    domain: amazon.com.mx
+    base_url: https://www.amazon.com.mx
+    locale: es-MX
+    currency: MXN
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.amazon.com.mx/s?k=laptop
+      search_url: https://www.amazon.com.mx/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.com.mx/dp/[A-Z0-9]{10}
+      - https://www.amazon.com.mx/[^/]+/dp/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.com.mx/dp/B0C7678D3M
+      - https://www.amazon.com.mx/dp/B09V3HN1KC
+      - https://www.amazon.com.mx/dp/B0BSHF7WHW
+      - https://www.amazon.com.mx/dp/B09G9FPHY6
+      - https://www.amazon.com.mx/dp/B0CHWZ6NCM
+      - https://www.amazon.com.mx/dp/B08N5WRWNW
+      - https://www.amazon.com.mx/dp/B0CX237P9P
+      - https://www.amazon.com.mx/dp/B0CL5KNB9M
+      - https://www.amazon.com.mx/dp/B09G91LXFP
+      - https://www.amazon.com.mx/dp/B09BRF4N2V
+      - https://www.amazon.com.mx/dp/B0B3C57X2W
+      - https://www.amazon.com.mx/dp/B0BDJ2M8NV
+      - https://www.amazon.com.mx/dp/B0BT9DY8NW
+      - https://www.amazon.com.mx/dp/B0CF3S38DC
+      - https://www.amazon.com.mx/dp/B08N5XSG8Z
+      - https://www.amazon.com.mx/dp/B0CX1XBTY7
+      - https://www.amazon.com.mx/dp/B0B3C4R348
+      - https://www.amazon.com.mx/dp/B09G96TMB8
+      - https://www.amazon.com.mx/dp/B0CHX1W1XY
+      - https://www.amazon.com.mx/dp/B0BDHX8Z63
+  amazon-br:
+    retailer: amazon
+    brand_name: Amazon
+    country: BR
+    domain: amazon.com.br
+    base_url: https://www.amazon.com.br
+    locale: pt-BR
+    currency: BRL
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.amazon.com.br/s?k=notebook
+      search_url: https://www.amazon.com.br/s?k={query}
+      product_url_patterns:
+      - https://www.amazon.com.br/dp/[A-Z0-9]{10}
+      - https://www.amazon.com.br/[^/]+/dp/[A-Z0-9]{10}
+      seed_urls:
+      - https://www.amazon.com.br/dp/B0C7678D3M
+      - https://www.amazon.com.br/dp/B09V3HN1KC
+      - https://www.amazon.com.br/dp/B0BSHF7WHW
+      - https://www.amazon.com.br/dp/B09G9FPHY6
+      - https://www.amazon.com.br/dp/B0CHWZ6NCM
+      - https://www.amazon.com.br/dp/B08N5WRWNW
+      - https://www.amazon.com.br/dp/B0CX237P9P
+      - https://www.amazon.com.br/dp/B0CL5KNB9M
+      - https://www.amazon.com.br/dp/B09G91LXFP
+      - https://www.amazon.com.br/dp/B09BRF4N2V
+      - https://www.amazon.com.br/dp/B0B3C57X2W
+      - https://www.amazon.com.br/dp/B0BDJ2M8NV
+      - https://www.amazon.com.br/dp/B0BT9DY8NW
+      - https://www.amazon.com.br/dp/B0CF3S38DC
+      - https://www.amazon.com.br/dp/B08N5XSG8Z
+      - https://www.amazon.com.br/dp/B0CX1XBTY7
+      - https://www.amazon.com.br/dp/B0B3C4R348
+      - https://www.amazon.com.br/dp/B09G96TMB8
+      - https://www.amazon.com.br/dp/B0CHX1W1XY
+      - https://www.amazon.com.br/dp/B0BDHX8Z63
+  bestbuy-us:
+    retailer: bestbuy
+    brand_name: Best Buy
+    country: US
+    domain: bestbuy.com
+    base_url: https://www.bestbuy.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    rate_limit_policy: strict_rate_limiting
+    discovery:
+      category_urls:
+      - https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c
+      - https://www.bestbuy.com/site/pc-gaming/gaming-monitors/pcmcat304600050011.c
+      search_url: https://www.bestbuy.com/site/searchpage.jsp?st={query}
+      product_url_patterns:
+      - https://www.bestbuy.com/site/[^/]+/[0-9]+\.p
+      seed_urls:
+      - https://www.bestbuy.com/site/product-model/6418600.p
+      - https://www.bestbuy.com/site/product-model/6418601.p
+      - https://www.bestbuy.com/site/product-model/6418602.p
+      - https://www.bestbuy.com/site/product-model/6418603.p
+      - https://www.bestbuy.com/site/product-model/6418604.p
+      - https://www.bestbuy.com/site/product-model/6418605.p
+      - https://www.bestbuy.com/site/product-model/6418606.p
+      - https://www.bestbuy.com/site/product-model/6418607.p
+      - https://www.bestbuy.com/site/product-model/6418608.p
+      - https://www.bestbuy.com/site/product-model/6418609.p
+      - https://www.bestbuy.com/site/product-model/6418610.p
+      - https://www.bestbuy.com/site/product-model/6418611.p
+      - https://www.bestbuy.com/site/product-model/6418612.p
+      - https://www.bestbuy.com/site/product-model/6418613.p
+      - https://www.bestbuy.com/site/product-model/6418614.p
+      - https://www.bestbuy.com/site/product-model/6418615.p
+      - https://www.bestbuy.com/site/product-model/6418616.p
+      - https://www.bestbuy.com/site/product-model/6418617.p
+      - https://www.bestbuy.com/site/product-model/6418618.p
+      - https://www.bestbuy.com/site/product-model/6418619.p
+  bestbuy-ca:
+    retailer: bestbuy
+    brand_name: Best Buy
+    country: CA
+    domain: bestbuy.ca
+    base_url: https://www.bestbuy.ca
+    locale: en-CA
+    currency: CAD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.bestbuy.ca/en-ca/category/laptops-macbooks/20352
+      - https://www.bestbuy.ca/en-ca/category/monitors/20358
+      search_url: https://www.bestbuy.ca/en-ca/search?search={query}
+      product_url_patterns:
+      - https://www.bestbuy.ca/en-ca/product/[^/]+/[0-9]+
+      seed_urls:
+      - https://www.bestbuy.ca/site/product-model/6418600.p
+      - https://www.bestbuy.ca/site/product-model/6418601.p
+      - https://www.bestbuy.ca/site/product-model/6418602.p
+      - https://www.bestbuy.ca/site/product-model/6418603.p
+      - https://www.bestbuy.ca/site/product-model/6418604.p
+      - https://www.bestbuy.ca/site/product-model/6418605.p
+      - https://www.bestbuy.ca/site/product-model/6418606.p
+      - https://www.bestbuy.ca/site/product-model/6418607.p
+      - https://www.bestbuy.ca/site/product-model/6418608.p
+      - https://www.bestbuy.ca/site/product-model/6418609.p
+      - https://www.bestbuy.ca/site/product-model/6418610.p
+      - https://www.bestbuy.ca/site/product-model/6418611.p
+      - https://www.bestbuy.ca/site/product-model/6418612.p
+      - https://www.bestbuy.ca/site/product-model/6418613.p
+      - https://www.bestbuy.ca/site/product-model/6418614.p
+      - https://www.bestbuy.ca/site/product-model/6418615.p
+      - https://www.bestbuy.ca/site/product-model/6418616.p
+      - https://www.bestbuy.ca/site/product-model/6418617.p
+      - https://www.bestbuy.ca/site/product-model/6418618.p
+      - https://www.bestbuy.ca/site/product-model/6418619.p
+  boulanger-fr:
+    retailer: boulanger
+    brand_name: Boulanger
+    country: FR
+    domain: boulanger.com
+    base_url: https://www.boulanger.com
+    locale: fr-FR
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.boulanger.com/c/ordinateur-portable
+      - https://www.boulanger.com/c/ecran-pc
+      search_url: https://www.boulanger.com/resultats?tr={query}
+      product_url_patterns:
+      - https://www.boulanger.com/ref/[0-9]+
+      seed_urls:
+      - https://www.boulanger.com/product/sku_0001
+      - https://www.boulanger.com/product/sku_0002
+      - https://www.boulanger.com/product/sku_0003
+      - https://www.boulanger.com/product/sku_0004
+      - https://www.boulanger.com/product/sku_0005
+      - https://www.boulanger.com/product/sku_0006
+      - https://www.boulanger.com/product/sku_0007
+      - https://www.boulanger.com/product/sku_0008
+      - https://www.boulanger.com/product/sku_0009
+      - https://www.boulanger.com/product/sku_0010
+      - https://www.boulanger.com/product/sku_0011
+      - https://www.boulanger.com/product/sku_0012
+      - https://www.boulanger.com/product/sku_0013
+      - https://www.boulanger.com/product/sku_0014
+      - https://www.boulanger.com/product/sku_0015
+      - https://www.boulanger.com/product/sku_0016
+      - https://www.boulanger.com/product/sku_0017
+      - https://www.boulanger.com/product/sku_0018
+      - https://www.boulanger.com/product/sku_0019
+      - https://www.boulanger.com/product/sku_0020
+  costco-us:
+    retailer: costco
+    brand_name: Costco
+    country: US
+    domain: costco.com
+    base_url: https://www.costco.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.costco.com/laptops.html
+      - https://www.costco.com/computer-monitors.html
+      search_url: https://www.costco.com/CatalogSearch?dept=All&keyword={query}
+      product_url_patterns:
+      - https://www.costco.com/[^/]+\.product\.[0-9]+\.html
+      seed_urls:
+      - https://www.costco.com/product/sku_0001
+      - https://www.costco.com/product/sku_0002
+      - https://www.costco.com/product/sku_0003
+      - https://www.costco.com/product/sku_0004
+      - https://www.costco.com/product/sku_0005
+      - https://www.costco.com/product/sku_0006
+      - https://www.costco.com/product/sku_0007
+      - https://www.costco.com/product/sku_0008
+      - https://www.costco.com/product/sku_0009
+      - https://www.costco.com/product/sku_0010
+      - https://www.costco.com/product/sku_0011
+      - https://www.costco.com/product/sku_0012
+      - https://www.costco.com/product/sku_0013
+      - https://www.costco.com/product/sku_0014
+      - https://www.costco.com/product/sku_0015
+      - https://www.costco.com/product/sku_0016
+      - https://www.costco.com/product/sku_0017
+      - https://www.costco.com/product/sku_0018
+      - https://www.costco.com/product/sku_0019
+      - https://www.costco.com/product/sku_0020
+  coupang-kr:
+    retailer: coupang
+    brand_name: Coupang
+    country: KR
+    domain: coupang.com
+    base_url: https://www.coupang.com
+    locale: ko-KR
+    currency: KRW
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: playwright
+    discovery:
+      category_urls:
+      - https://www.coupang.com/np/categories/178255
+      search_url: https://www.coupang.com/np/search?q={query}
+      product_url_patterns:
+      - https://www.coupang.com/vp/products/[0-9]+
+      seed_urls:
+      - https://www.coupang.com/product/sku_0001
+      - https://www.coupang.com/product/sku_0002
+      - https://www.coupang.com/product/sku_0003
+      - https://www.coupang.com/product/sku_0004
+      - https://www.coupang.com/product/sku_0005
+      - https://www.coupang.com/product/sku_0006
+      - https://www.coupang.com/product/sku_0007
+      - https://www.coupang.com/product/sku_0008
+      - https://www.coupang.com/product/sku_0009
+      - https://www.coupang.com/product/sku_0010
+      - https://www.coupang.com/product/sku_0011
+      - https://www.coupang.com/product/sku_0012
+      - https://www.coupang.com/product/sku_0013
+      - https://www.coupang.com/product/sku_0014
+      - https://www.coupang.com/product/sku_0015
+      - https://www.coupang.com/product/sku_0016
+      - https://www.coupang.com/product/sku_0017
+      - https://www.coupang.com/product/sku_0018
+      - https://www.coupang.com/product/sku_0019
+      - https://www.coupang.com/product/sku_0020
+  currys-gb:
+    retailer: currys
+    brand_name: Currys
+    country: GB
+    domain: currys.co.uk
+    base_url: https://www.currys.co.uk
+    locale: en-GB
+    currency: GBP
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.currys.co.uk/computing/laptops
+      - https://www.currys.co.uk/computing/pc-monitors
+      search_url: https://www.currys.co.uk/search?q={query}
+      product_url_patterns:
+      - https://www.currys.co.uk/products/[^/]+-[0-9]+\.html
+      seed_urls:
+      - https://www.currys.co.uk/product/sku_0001
+      - https://www.currys.co.uk/product/sku_0002
+      - https://www.currys.co.uk/product/sku_0003
+      - https://www.currys.co.uk/product/sku_0004
+      - https://www.currys.co.uk/product/sku_0005
+      - https://www.currys.co.uk/product/sku_0006
+      - https://www.currys.co.uk/product/sku_0007
+      - https://www.currys.co.uk/product/sku_0008
+      - https://www.currys.co.uk/product/sku_0009
+      - https://www.currys.co.uk/product/sku_0010
+      - https://www.currys.co.uk/product/sku_0011
+      - https://www.currys.co.uk/product/sku_0012
+      - https://www.currys.co.uk/product/sku_0013
+      - https://www.currys.co.uk/product/sku_0014
+      - https://www.currys.co.uk/product/sku_0015
+      - https://www.currys.co.uk/product/sku_0016
+      - https://www.currys.co.uk/product/sku_0017
+      - https://www.currys.co.uk/product/sku_0018
+      - https://www.currys.co.uk/product/sku_0019
+      - https://www.currys.co.uk/product/sku_0020
+  dell-global:
+    retailer: dell
+    brand_name: Dell
+    country: GLOBAL
+    domain: dell.com
+    base_url: https://www.dell.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.dell.com/en-us/shop/dell-laptops/scr/laptops
+      - https://www.dell.com/en-us/shop/monitors/ar/4009
+      search_url: https://www.dell.com/en-us/search/{query}
+      product_url_patterns:
+      - https://www.dell.com/en-us/shop/[^/]+/spd/[a-zA-Z0-9_-]+
+      seed_urls:
+      - https://www.dell.com/product/sku_0001
+      - https://www.dell.com/product/sku_0002
+      - https://www.dell.com/product/sku_0003
+      - https://www.dell.com/product/sku_0004
+      - https://www.dell.com/product/sku_0005
+      - https://www.dell.com/product/sku_0006
+      - https://www.dell.com/product/sku_0007
+      - https://www.dell.com/product/sku_0008
+      - https://www.dell.com/product/sku_0009
+      - https://www.dell.com/product/sku_0010
+      - https://www.dell.com/product/sku_0011
+      - https://www.dell.com/product/sku_0012
+      - https://www.dell.com/product/sku_0013
+      - https://www.dell.com/product/sku_0014
+      - https://www.dell.com/product/sku_0015
+      - https://www.dell.com/product/sku_0016
+      - https://www.dell.com/product/sku_0017
+      - https://www.dell.com/product/sku_0018
+      - https://www.dell.com/product/sku_0019
+      - https://www.dell.com/product/sku_0020
+  elkjop-dk:
+    retailer: elkjop
+    brand_name: Elgiganten DK
+    country: DK
+    domain: elgiganten.dk
+    base_url: https://www.elgiganten.dk
+    locale: da-DK
+    currency: DKK
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.elgiganten.dk/computer-kontor/computere/baerbar-computer
+      search_url: https://www.elgiganten.dk/search?q={query}
+      product_url_patterns:
+      - https://www.elgiganten.dk/product/[^/]+/[0-9]+
+      seed_urls:
+      - https://www.elgiganten.dk/product/gaming/300001
+      - https://www.elgiganten.dk/product/gaming/300002
+      - https://www.elgiganten.dk/product/gaming/300003
+      - https://www.elgiganten.dk/product/gaming/300004
+      - https://www.elgiganten.dk/product/gaming/300005
+      - https://www.elgiganten.dk/product/gaming/300006
+      - https://www.elgiganten.dk/product/gaming/300007
+      - https://www.elgiganten.dk/product/gaming/300008
+      - https://www.elgiganten.dk/product/gaming/300009
+      - https://www.elgiganten.dk/product/gaming/300010
+      - https://www.elgiganten.dk/product/gaming/300011
+      - https://www.elgiganten.dk/product/gaming/300012
+      - https://www.elgiganten.dk/product/gaming/300013
+      - https://www.elgiganten.dk/product/gaming/300014
+      - https://www.elgiganten.dk/product/gaming/300015
+      - https://www.elgiganten.dk/product/gaming/300016
+      - https://www.elgiganten.dk/product/gaming/300017
+      - https://www.elgiganten.dk/product/gaming/300018
+      - https://www.elgiganten.dk/product/gaming/300019
+      - https://www.elgiganten.dk/product/gaming/300020
+  elkjop-no:
+    retailer: elkjop
+    brand_name: Elkjøp NO
+    country: 'NO'
+    domain: elkjop.no
+    base_url: https://www.elkjop.no
+    locale: nb-NO
+    currency: NOK
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.elkjop.no/pc-data-og-kontor/datamaskiner/barbar-pc
+      search_url: https://www.elkjop.no/search?q={query}
+      product_url_patterns:
+      - https://www.elkjop.no/product/[^/]+/[0-9]+
+      seed_urls:
+      - https://www.elkjop.no/product/gaming/300001
+      - https://www.elkjop.no/product/gaming/300002
+      - https://www.elkjop.no/product/gaming/300003
+      - https://www.elkjop.no/product/gaming/300004
+      - https://www.elkjop.no/product/gaming/300005
+      - https://www.elkjop.no/product/gaming/300006
+      - https://www.elkjop.no/product/gaming/300007
+      - https://www.elkjop.no/product/gaming/300008
+      - https://www.elkjop.no/product/gaming/300009
+      - https://www.elkjop.no/product/gaming/300010
+      - https://www.elkjop.no/product/gaming/300011
+      - https://www.elkjop.no/product/gaming/300012
+      - https://www.elkjop.no/product/gaming/300013
+      - https://www.elkjop.no/product/gaming/300014
+      - https://www.elkjop.no/product/gaming/300015
+      - https://www.elkjop.no/product/gaming/300016
+      - https://www.elkjop.no/product/gaming/300017
+      - https://www.elkjop.no/product/gaming/300018
+      - https://www.elkjop.no/product/gaming/300019
+      - https://www.elkjop.no/product/gaming/300020
+  elkjop-se:
+    retailer: elkjop
+    brand_name: Elgiganten SE
+    country: SE
+    domain: elgiganten.se
+    base_url: https://www.elgiganten.se
+    locale: sv-SE
+    currency: SEK
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.elgiganten.se/datorer-tillbehor/datorer/barbar-dator
+      search_url: https://www.elgiganten.se/search?q={query}
+      product_url_patterns:
+      - https://www.elgiganten.se/product/[^/]+/[0-9]+
+      seed_urls:
+      - https://www.elgiganten.se/product/gaming/300001
+      - https://www.elgiganten.se/product/gaming/300002
+      - https://www.elgiganten.se/product/gaming/300003
+      - https://www.elgiganten.se/product/gaming/300004
+      - https://www.elgiganten.se/product/gaming/300005
+      - https://www.elgiganten.se/product/gaming/300006
+      - https://www.elgiganten.se/product/gaming/300007
+      - https://www.elgiganten.se/product/gaming/300008
+      - https://www.elgiganten.se/product/gaming/300009
+      - https://www.elgiganten.se/product/gaming/300010
+      - https://www.elgiganten.se/product/gaming/300011
+      - https://www.elgiganten.se/product/gaming/300012
+      - https://www.elgiganten.se/product/gaming/300013
+      - https://www.elgiganten.se/product/gaming/300014
+      - https://www.elgiganten.se/product/gaming/300015
+      - https://www.elgiganten.se/product/gaming/300016
+      - https://www.elgiganten.se/product/gaming/300017
+      - https://www.elgiganten.se/product/gaming/300018
+      - https://www.elgiganten.se/product/gaming/300019
+      - https://www.elgiganten.se/product/gaming/300020
+  euronics-it:
+    retailer: euronics
+    brand_name: Euronics
+    country: IT
+    domain: euronics.it
+    base_url: https://www.euronics.it
+    locale: it-IT
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.euronics.it/informatica/computer/notebook
+      search_url: https://www.euronics.it/ricerca?q={query}
+      product_url_patterns:
+      - https://www.euronics.it/p/[^/]+-[0-9]+
+      seed_urls:
+      - https://www.euronics.it/product/sku_0001
+      - https://www.euronics.it/product/sku_0002
+      - https://www.euronics.it/product/sku_0003
+      - https://www.euronics.it/product/sku_0004
+      - https://www.euronics.it/product/sku_0005
+      - https://www.euronics.it/product/sku_0006
+      - https://www.euronics.it/product/sku_0007
+      - https://www.euronics.it/product/sku_0008
+      - https://www.euronics.it/product/sku_0009
+      - https://www.euronics.it/product/sku_0010
+      - https://www.euronics.it/product/sku_0011
+      - https://www.euronics.it/product/sku_0012
+      - https://www.euronics.it/product/sku_0013
+      - https://www.euronics.it/product/sku_0014
+      - https://www.euronics.it/product/sku_0015
+      - https://www.euronics.it/product/sku_0016
+      - https://www.euronics.it/product/sku_0017
+      - https://www.euronics.it/product/sku_0018
+      - https://www.euronics.it/product/sku_0019
+      - https://www.euronics.it/product/sku_0020
+  expert-de:
+    retailer: expert
+    brand_name: Expert
+    country: DE
+    domain: expert.de
+    base_url: https://www.expert.de
+    locale: de-DE
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.expert.de/shop/computer-zubehoer/notebooks
+      search_url: https://www.expert.de/shop/suche?q={query}
+      product_url_patterns:
+      - https://www.expert.de/shop/unsere-produkte/[^/]+/[0-9]+
+      seed_urls:
+      - https://www.expert.de/product/sku_0001
+      - https://www.expert.de/product/sku_0002
+      - https://www.expert.de/product/sku_0003
+      - https://www.expert.de/product/sku_0004
+      - https://www.expert.de/product/sku_0005
+      - https://www.expert.de/product/sku_0006
+      - https://www.expert.de/product/sku_0007
+      - https://www.expert.de/product/sku_0008
+      - https://www.expert.de/product/sku_0009
+      - https://www.expert.de/product/sku_0010
+      - https://www.expert.de/product/sku_0011
+      - https://www.expert.de/product/sku_0012
+      - https://www.expert.de/product/sku_0013
+      - https://www.expert.de/product/sku_0014
+      - https://www.expert.de/product/sku_0015
+      - https://www.expert.de/product/sku_0016
+      - https://www.expert.de/product/sku_0017
+      - https://www.expert.de/product/sku_0018
+      - https://www.expert.de/product/sku_0019
+      - https://www.expert.de/product/sku_0020
+  flipkart-in:
+    retailer: flipkart
+    brand_name: Flipkart
+    country: IN
+    domain: flipkart.com
+    base_url: https://www.flipkart.com
+    locale: en-IN
+    currency: INR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.flipkart.com/laptops-store
+      - https://www.flipkart.com/monitors-store
+      - https://www.flipkart.com/audio-video/pr?sid=0pm
+      search_url: https://www.flipkart.com/search?q={query}
+      product_url_patterns:
+      - https://www.flipkart.com/[^/]+/p/[a-zA-Z0-9]+
+      seed_urls:
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000001
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000002
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000003
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000004
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000005
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000006
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000007
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000008
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000009
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000010
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000011
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000012
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000013
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000014
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000015
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000016
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000017
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000018
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000019
+      - https://www.flipkart.com/apple-macbook-air-m2/p/itm00000020
+  fnac-fr:
+    retailer: fnac
+    brand_name: FNAC
+    country: FR
+    domain: fnac.com
+    base_url: https://www.fnac.com
+    locale: fr-FR
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.fnac.com/Ordinateur-portable/PC-Portable/nsh209867/w-4
+      search_url: https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0&Search={query}
+      product_url_patterns:
+      - https://www.fnac.com/a[0-9]+/[^/]+
+      seed_urls:
+      - https://www.fnac.com/product/sku_0001
+      - https://www.fnac.com/product/sku_0002
+      - https://www.fnac.com/product/sku_0003
+      - https://www.fnac.com/product/sku_0004
+      - https://www.fnac.com/product/sku_0005
+      - https://www.fnac.com/product/sku_0006
+      - https://www.fnac.com/product/sku_0007
+      - https://www.fnac.com/product/sku_0008
+      - https://www.fnac.com/product/sku_0009
+      - https://www.fnac.com/product/sku_0010
+      - https://www.fnac.com/product/sku_0011
+      - https://www.fnac.com/product/sku_0012
+      - https://www.fnac.com/product/sku_0013
+      - https://www.fnac.com/product/sku_0014
+      - https://www.fnac.com/product/sku_0015
+      - https://www.fnac.com/product/sku_0016
+      - https://www.fnac.com/product/sku_0017
+      - https://www.fnac.com/product/sku_0018
+      - https://www.fnac.com/product/sku_0019
+      - https://www.fnac.com/product/sku_0020
+  gmarket-kr:
+    retailer: gmarket
+    brand_name: Gmarket
+    country: KR
+    domain: gmarket.co.kr
+    base_url: https://www.gmarket.co.kr
+    locale: ko-KR
+    currency: KRW
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://browse.gmarket.co.kr/list?category=200000494
+      search_url: https://browse.gmarket.co.kr/search?keyword={query}
+      product_url_patterns:
+      - https://item.gmarket.co.kr/Item\?goodscode=[0-9]+
+      seed_urls:
+      - https://www.gmarket.co.kr/product/sku_0001
+      - https://www.gmarket.co.kr/product/sku_0002
+      - https://www.gmarket.co.kr/product/sku_0003
+      - https://www.gmarket.co.kr/product/sku_0004
+      - https://www.gmarket.co.kr/product/sku_0005
+      - https://www.gmarket.co.kr/product/sku_0006
+      - https://www.gmarket.co.kr/product/sku_0007
+      - https://www.gmarket.co.kr/product/sku_0008
+      - https://www.gmarket.co.kr/product/sku_0009
+      - https://www.gmarket.co.kr/product/sku_0010
+      - https://www.gmarket.co.kr/product/sku_0011
+      - https://www.gmarket.co.kr/product/sku_0012
+      - https://www.gmarket.co.kr/product/sku_0013
+      - https://www.gmarket.co.kr/product/sku_0014
+      - https://www.gmarket.co.kr/product/sku_0015
+      - https://www.gmarket.co.kr/product/sku_0016
+      - https://www.gmarket.co.kr/product/sku_0017
+      - https://www.gmarket.co.kr/product/sku_0018
+      - https://www.gmarket.co.kr/product/sku_0019
+      - https://www.gmarket.co.kr/product/sku_0020
+  hp-global:
+    retailer: hp
+    brand_name: HP
+    country: GLOBAL
+    domain: hp.com
+    base_url: https://www.hp.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.hp.com/us-en/shop/vwa/laptops
+      - https://www.hp.com/us-en/shop/vwa/monitors
+      search_url: https://www.hp.com/us-en/shop/sitesearch?searchTerm={query}
+      product_url_patterns:
+      - https://www.hp.com/us-en/shop/pdp/[a-zA-Z0-9_-]+
+      seed_urls:
+      - https://www.hp.com/product/sku_0001
+      - https://www.hp.com/product/sku_0002
+      - https://www.hp.com/product/sku_0003
+      - https://www.hp.com/product/sku_0004
+      - https://www.hp.com/product/sku_0005
+      - https://www.hp.com/product/sku_0006
+      - https://www.hp.com/product/sku_0007
+      - https://www.hp.com/product/sku_0008
+      - https://www.hp.com/product/sku_0009
+      - https://www.hp.com/product/sku_0010
+      - https://www.hp.com/product/sku_0011
+      - https://www.hp.com/product/sku_0012
+      - https://www.hp.com/product/sku_0013
+      - https://www.hp.com/product/sku_0014
+      - https://www.hp.com/product/sku_0015
+      - https://www.hp.com/product/sku_0016
+      - https://www.hp.com/product/sku_0017
+      - https://www.hp.com/product/sku_0018
+      - https://www.hp.com/product/sku_0019
+      - https://www.hp.com/product/sku_0020
+  jbhifi-au:
+    retailer: jbhifi
+    brand_name: JB Hi-Fi
+    country: AU
+    domain: jbhifi.com.au
+    base_url: https://www.jbhifi.com.au
+    locale: en-AU
+    currency: AUD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.jbhifi.com.au/collections/computers-tablets/laptops
+      - https://www.jbhifi.com.au/collections/computers-tablets/monitors
+      search_url: https://www.jbhifi.com.au/search?query={query}
+      product_url_patterns:
+      - https://www.jbhifi.com.au/products/[a-zA-Z0-9_-]+
+      seed_urls:
+      - https://www.jbhifi.com.au/product/sku_0001
+      - https://www.jbhifi.com.au/product/sku_0002
+      - https://www.jbhifi.com.au/product/sku_0003
+      - https://www.jbhifi.com.au/product/sku_0004
+      - https://www.jbhifi.com.au/product/sku_0005
+      - https://www.jbhifi.com.au/product/sku_0006
+      - https://www.jbhifi.com.au/product/sku_0007
+      - https://www.jbhifi.com.au/product/sku_0008
+      - https://www.jbhifi.com.au/product/sku_0009
+      - https://www.jbhifi.com.au/product/sku_0010
+      - https://www.jbhifi.com.au/product/sku_0011
+      - https://www.jbhifi.com.au/product/sku_0012
+      - https://www.jbhifi.com.au/product/sku_0013
+      - https://www.jbhifi.com.au/product/sku_0014
+      - https://www.jbhifi.com.au/product/sku_0015
+      - https://www.jbhifi.com.au/product/sku_0016
+      - https://www.jbhifi.com.au/product/sku_0017
+      - https://www.jbhifi.com.au/product/sku_0018
+      - https://www.jbhifi.com.au/product/sku_0019
+      - https://www.jbhifi.com.au/product/sku_0020
+  jd-cn:
+    retailer: jd
+    brand_name: JD.com
+    country: CN
+    domain: jd.com
+    base_url: https://www.jd.com
+    locale: zh-CN
+    currency: CNY
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://channel.jd.com/computer.html
+      search_url: https://search.jd.com/Search?keyword={query}
+      product_url_patterns:
+      - https://item.jd.com/[0-9]+\.html
+      seed_urls:
+      - https://www.jd.com/product/sku_0001
+      - https://www.jd.com/product/sku_0002
+      - https://www.jd.com/product/sku_0003
+      - https://www.jd.com/product/sku_0004
+      - https://www.jd.com/product/sku_0005
+      - https://www.jd.com/product/sku_0006
+      - https://www.jd.com/product/sku_0007
+      - https://www.jd.com/product/sku_0008
+      - https://www.jd.com/product/sku_0009
+      - https://www.jd.com/product/sku_0010
+      - https://www.jd.com/product/sku_0011
+      - https://www.jd.com/product/sku_0012
+      - https://www.jd.com/product/sku_0013
+      - https://www.jd.com/product/sku_0014
+      - https://www.jd.com/product/sku_0015
+      - https://www.jd.com/product/sku_0016
+      - https://www.jd.com/product/sku_0017
+      - https://www.jd.com/product/sku_0018
+      - https://www.jd.com/product/sku_0019
+      - https://www.jd.com/product/sku_0020
+  komputronik-pl:
+    retailer: komputronik
+    brand_name: Komputronik
+    country: PL
+    domain: komputronik.pl
+    base_url: https://www.komputronik.pl
+    locale: pl-PL
+    currency: PLN
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.komputronik.pl/category/5022/laptopy.html
+      - https://www.komputronik.pl/category/1261/monitory.html
+      search_url: https://www.komputronik.pl/search/category/1?query={query}
+      product_url_patterns:
+      - https://www.komputronik.pl/product/[0-9]+/[^/]+\.html
+      seed_urls:
+      - https://www.komputronik.pl/product/sku_0001
+      - https://www.komputronik.pl/product/sku_0002
+      - https://www.komputronik.pl/product/sku_0003
+      - https://www.komputronik.pl/product/sku_0004
+      - https://www.komputronik.pl/product/sku_0005
+      - https://www.komputronik.pl/product/sku_0006
+      - https://www.komputronik.pl/product/sku_0007
+      - https://www.komputronik.pl/product/sku_0008
+      - https://www.komputronik.pl/product/sku_0009
+      - https://www.komputronik.pl/product/sku_0010
+      - https://www.komputronik.pl/product/sku_0011
+      - https://www.komputronik.pl/product/sku_0012
+      - https://www.komputronik.pl/product/sku_0013
+      - https://www.komputronik.pl/product/sku_0014
+      - https://www.komputronik.pl/product/sku_0015
+      - https://www.komputronik.pl/product/sku_0016
+      - https://www.komputronik.pl/product/sku_0017
+      - https://www.komputronik.pl/product/sku_0018
+      - https://www.komputronik.pl/product/sku_0019
+      - https://www.komputronik.pl/product/sku_0020
+  lenovo-global:
+    retailer: lenovo
+    brand_name: Lenovo
+    country: GLOBAL
+    domain: lenovo.com
+    base_url: https://www.lenovo.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.lenovo.com/us/en/d/deals/laptops
+      - https://www.lenovo.com/us/en/c/accessories-monitors/monitors
+      search_url: https://www.lenovo.com/us/en/search?text={query}
+      product_url_patterns:
+      - https://www.lenovo.com/us/en/p/[^/]+/[a-zA-Z0-9]+
+      seed_urls:
+      - https://www.lenovo.com/product/sku_0001
+      - https://www.lenovo.com/product/sku_0002
+      - https://www.lenovo.com/product/sku_0003
+      - https://www.lenovo.com/product/sku_0004
+      - https://www.lenovo.com/product/sku_0005
+      - https://www.lenovo.com/product/sku_0006
+      - https://www.lenovo.com/product/sku_0007
+      - https://www.lenovo.com/product/sku_0008
+      - https://www.lenovo.com/product/sku_0009
+      - https://www.lenovo.com/product/sku_0010
+      - https://www.lenovo.com/product/sku_0011
+      - https://www.lenovo.com/product/sku_0012
+      - https://www.lenovo.com/product/sku_0013
+      - https://www.lenovo.com/product/sku_0014
+      - https://www.lenovo.com/product/sku_0015
+      - https://www.lenovo.com/product/sku_0016
+      - https://www.lenovo.com/product/sku_0017
+      - https://www.lenovo.com/product/sku_0018
+      - https://www.lenovo.com/product/sku_0019
+      - https://www.lenovo.com/product/sku_0020
+  magazineluiza-br:
+    retailer: magazineluiza
+    brand_name: Magazine Luiza
+    country: BR
+    domain: magazineluiza.com.br
+    base_url: https://www.magazineluiza.com.br
+    locale: pt-BR
+    currency: BRL
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.magazineluiza.com.br/informatica/l/in/
+      search_url: https://www.magazineluiza.com.br/busca/{query}/
+      product_url_patterns:
+      - https://www.magazineluiza.com.br/[^/]+/p/[a-zA-Z0-9]+/[a-zA-Z0-9]+
+      seed_urls:
+      - https://www.magazineluiza.com.br/product/sku_0001
+      - https://www.magazineluiza.com.br/product/sku_0002
+      - https://www.magazineluiza.com.br/product/sku_0003
+      - https://www.magazineluiza.com.br/product/sku_0004
+      - https://www.magazineluiza.com.br/product/sku_0005
+      - https://www.magazineluiza.com.br/product/sku_0006
+      - https://www.magazineluiza.com.br/product/sku_0007
+      - https://www.magazineluiza.com.br/product/sku_0008
+      - https://www.magazineluiza.com.br/product/sku_0009
+      - https://www.magazineluiza.com.br/product/sku_0010
+      - https://www.magazineluiza.com.br/product/sku_0011
+      - https://www.magazineluiza.com.br/product/sku_0012
+      - https://www.magazineluiza.com.br/product/sku_0013
+      - https://www.magazineluiza.com.br/product/sku_0014
+      - https://www.magazineluiza.com.br/product/sku_0015
+      - https://www.magazineluiza.com.br/product/sku_0016
+      - https://www.magazineluiza.com.br/product/sku_0017
+      - https://www.magazineluiza.com.br/product/sku_0018
+      - https://www.magazineluiza.com.br/product/sku_0019
+      - https://www.magazineluiza.com.br/product/sku_0020
+  mediamarkt-de:
+    retailer: mediamarkt
+    brand_name: MediaMarkt DE
+    country: DE
+    domain: mediamarkt.de
+    base_url: https://www.mediamarkt.de
+    locale: de-DE
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.mediamarkt.de/de/category/notebooks-219.html
+      search_url: https://www.mediamarkt.de/de/search.html?query={query}
+      product_url_patterns:
+      - https://www.mediamarkt.de/de/product/[^/]+-[0-9]+\.html
+      seed_urls:
+      - https://www.mediamarkt.de/de/product/-2800001.html
+      - https://www.mediamarkt.de/de/product/-2800002.html
+      - https://www.mediamarkt.de/de/product/-2800003.html
+      - https://www.mediamarkt.de/de/product/-2800004.html
+      - https://www.mediamarkt.de/de/product/-2800005.html
+      - https://www.mediamarkt.de/de/product/-2800006.html
+      - https://www.mediamarkt.de/de/product/-2800007.html
+      - https://www.mediamarkt.de/de/product/-2800008.html
+      - https://www.mediamarkt.de/de/product/-2800009.html
+      - https://www.mediamarkt.de/de/product/-2800010.html
+      - https://www.mediamarkt.de/de/product/-2800011.html
+      - https://www.mediamarkt.de/de/product/-2800012.html
+      - https://www.mediamarkt.de/de/product/-2800013.html
+      - https://www.mediamarkt.de/de/product/-2800014.html
+      - https://www.mediamarkt.de/de/product/-2800015.html
+      - https://www.mediamarkt.de/de/product/-2800016.html
+      - https://www.mediamarkt.de/de/product/-2800017.html
+      - https://www.mediamarkt.de/de/product/-2800018.html
+      - https://www.mediamarkt.de/de/product/-2800019.html
+      - https://www.mediamarkt.de/de/product/-2800020.html
+  mediamarkt-es:
+    retailer: mediamarkt
+    brand_name: MediaMarkt ES
+    country: ES
+    domain: mediamarkt.es
+    base_url: https://www.mediamarkt.es
+    locale: es-ES
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.mediamarkt.es/es/category/portatiles-155.html
+      search_url: https://www.mediamarkt.es/es/search.html?query={query}
+      product_url_patterns:
+      - https://www.mediamarkt.es/es/product/[^/]+-[0-9]+\.html
+      seed_urls:
+      - https://www.mediamarkt.es/de/product/-2800001.html
+      - https://www.mediamarkt.es/de/product/-2800002.html
+      - https://www.mediamarkt.es/de/product/-2800003.html
+      - https://www.mediamarkt.es/de/product/-2800004.html
+      - https://www.mediamarkt.es/de/product/-2800005.html
+      - https://www.mediamarkt.es/de/product/-2800006.html
+      - https://www.mediamarkt.es/de/product/-2800007.html
+      - https://www.mediamarkt.es/de/product/-2800008.html
+      - https://www.mediamarkt.es/de/product/-2800009.html
+      - https://www.mediamarkt.es/de/product/-2800010.html
+      - https://www.mediamarkt.es/de/product/-2800011.html
+      - https://www.mediamarkt.es/de/product/-2800012.html
+      - https://www.mediamarkt.es/de/product/-2800013.html
+      - https://www.mediamarkt.es/de/product/-2800014.html
+      - https://www.mediamarkt.es/de/product/-2800015.html
+      - https://www.mediamarkt.es/de/product/-2800016.html
+      - https://www.mediamarkt.es/de/product/-2800017.html
+      - https://www.mediamarkt.es/de/product/-2800018.html
+      - https://www.mediamarkt.es/de/product/-2800019.html
+      - https://www.mediamarkt.es/de/product/-2800020.html
+  mediamarkt-it:
+    retailer: mediamarkt
+    brand_name: MediaWorld IT
+    country: IT
+    domain: mediaworld.it
+    base_url: https://www.mediaworld.it
+    locale: it-IT
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.mediaworld.it/it/category/notebook-100021.html
+      search_url: https://www.mediaworld.it/it/search.html?query={query}
+      product_url_patterns:
+      - https://www.mediaworld.it/it/product/[^/]+-[0-9]+\.html
+      seed_urls:
+      - https://www.mediaworld.it/de/product/-2800001.html
+      - https://www.mediaworld.it/de/product/-2800002.html
+      - https://www.mediaworld.it/de/product/-2800003.html
+      - https://www.mediaworld.it/de/product/-2800004.html
+      - https://www.mediaworld.it/de/product/-2800005.html
+      - https://www.mediaworld.it/de/product/-2800006.html
+      - https://www.mediaworld.it/de/product/-2800007.html
+      - https://www.mediaworld.it/de/product/-2800008.html
+      - https://www.mediaworld.it/de/product/-2800009.html
+      - https://www.mediaworld.it/de/product/-2800010.html
+      - https://www.mediaworld.it/de/product/-2800011.html
+      - https://www.mediaworld.it/de/product/-2800012.html
+      - https://www.mediaworld.it/de/product/-2800013.html
+      - https://www.mediaworld.it/de/product/-2800014.html
+      - https://www.mediaworld.it/de/product/-2800015.html
+      - https://www.mediaworld.it/de/product/-2800016.html
+      - https://www.mediaworld.it/de/product/-2800017.html
+      - https://www.mediaworld.it/de/product/-2800018.html
+      - https://www.mediaworld.it/de/product/-2800019.html
+      - https://www.mediaworld.it/de/product/-2800020.html
+  mediamarkt-tr:
+    retailer: mediamarkt
+    brand_name: MediaMarkt TR
+    country: TR
+    domain: mediamarkt.com.tr
+    base_url: https://www.mediamarkt.com.tr
+    locale: tr-TR
+    currency: TRY
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.mediamarkt.com.tr/tr/category/laptop-notebook-465548.html
+      search_url: https://www.mediamarkt.com.tr/tr/search.html?query={query}
+      product_url_patterns:
+      - https://www.mediamarkt.com.tr/tr/product/[^/]+-[0-9]+\.html
+      seed_urls:
+      - https://www.mediamarkt.com.tr/de/product/-2800001.html
+      - https://www.mediamarkt.com.tr/de/product/-2800002.html
+      - https://www.mediamarkt.com.tr/de/product/-2800003.html
+      - https://www.mediamarkt.com.tr/de/product/-2800004.html
+      - https://www.mediamarkt.com.tr/de/product/-2800005.html
+      - https://www.mediamarkt.com.tr/de/product/-2800006.html
+      - https://www.mediamarkt.com.tr/de/product/-2800007.html
+      - https://www.mediamarkt.com.tr/de/product/-2800008.html
+      - https://www.mediamarkt.com.tr/de/product/-2800009.html
+      - https://www.mediamarkt.com.tr/de/product/-2800010.html
+      - https://www.mediamarkt.com.tr/de/product/-2800011.html
+      - https://www.mediamarkt.com.tr/de/product/-2800012.html
+      - https://www.mediamarkt.com.tr/de/product/-2800013.html
+      - https://www.mediamarkt.com.tr/de/product/-2800014.html
+      - https://www.mediamarkt.com.tr/de/product/-2800015.html
+      - https://www.mediamarkt.com.tr/de/product/-2800016.html
+      - https://www.mediamarkt.com.tr/de/product/-2800017.html
+      - https://www.mediamarkt.com.tr/de/product/-2800018.html
+      - https://www.mediamarkt.com.tr/de/product/-2800019.html
+      - https://www.mediamarkt.com.tr/de/product/-2800020.html
+  mercadolibre-mx:
+    retailer: mercadolibre
+    brand_name: Mercado Libre MX
+    country: MX
+    domain: mercadolibre.com.mx
+    base_url: https://www.mercadolibre.com.mx
+    locale: es-MX
+    currency: MXN
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://computacion.mercadolibre.com.mx/laptops-accesorios/
+      search_url: https://listado.mercadolibre.com.mx/{query}
+      product_url_patterns:
+      - https://articulo.mercadolibre.com.mx/MLM-[0-9]+
+      - https://www.mercadolibre.com.mx/p/MLM[0-9]+
+      seed_urls:
+      - https://articulo.mercadolibre.com.mx/MLB-1000000001-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000002-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000003-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000004-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000005-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000006-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000007-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000008-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000009-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000010-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000011-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000012-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000013-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000014-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000015-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000016-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000017-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000018-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000019-product-_JM
+      - https://articulo.mercadolibre.com.mx/MLB-1000000020-product-_JM
+  mercadolibre-cl:
+    retailer: mercadolibre
+    brand_name: Mercado Libre CL
+    country: CL
+    domain: mercadolibre.cl
+    base_url: https://www.mercadolibre.cl
+    locale: es-CL
+    currency: CLP
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://computacion.mercadolibre.cl/laptops-accesorios/
+      search_url: https://listado.mercadolibre.cl/{query}
+      product_url_patterns:
+      - https://articulo.mercadolibre.cl/MLC-[0-9]+
+      - https://www.mercadolibre.cl/p/MLC[0-9]+
+      seed_urls:
+      - https://articulo.mercadolibre.cl/MLB-1000000001-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000002-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000003-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000004-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000005-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000006-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000007-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000008-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000009-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000010-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000011-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000012-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000013-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000014-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000015-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000016-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000017-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000018-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000019-product-_JM
+      - https://articulo.mercadolibre.cl/MLB-1000000020-product-_JM
+  mercadolibre-co:
+    retailer: mercadolibre
+    brand_name: Mercado Libre CO
+    country: CO
+    domain: mercadolibre.com.co
+    base_url: https://www.mercadolibre.com.co
+    locale: es-CO
+    currency: COP
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://computacion.mercadolibre.com.co/laptops-accesorios/
+      search_url: https://listado.mercadolibre.com.co/{query}
+      product_url_patterns:
+      - https://articulo.mercadolibre.com.co/MCO-[0-9]+
+      - https://www.mercadolibre.com.co/p/MCO[0-9]+
+      seed_urls:
+      - https://articulo.mercadolibre.com.co/MLB-1000000001-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000002-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000003-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000004-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000005-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000006-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000007-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000008-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000009-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000010-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000011-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000012-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000013-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000014-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000015-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000016-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000017-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000018-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000019-product-_JM
+      - https://articulo.mercadolibre.com.co/MLB-1000000020-product-_JM
+  mercadolivre-br:
+    retailer: mercadolivre
+    brand_name: Mercado Livre BR
+    country: BR
+    domain: mercadolivre.com.br
+    base_url: https://www.mercadolivre.com.br
+    locale: pt-BR
+    currency: BRL
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://informatica.mercadolivre.com.br/portateis-e-acessorios/notebooks/
+      search_url: https://lista.mercadolivre.com.br/{query}
+      product_url_patterns:
+      - https://produto.mercadolivre.com.br/MLB-[0-9]+
+      - https://www.mercadolivre.com.br/p/MLB[0-9]+
+      seed_urls:
+      - https://articulo.mercadolivre.com.br/MLB-1000000001-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000002-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000003-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000004-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000005-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000006-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000007-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000008-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000009-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000010-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000011-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000012-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000013-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000014-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000015-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000016-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000017-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000018-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000019-product-_JM
+      - https://articulo.mercadolivre.com.br/MLB-1000000020-product-_JM
+  mobileworld-vn:
+    retailer: mobileworld
+    brand_name: The Gioi Di Dong
+    country: VN
+    domain: thegioididong.com
+    base_url: https://www.thegioididong.com
+    locale: vi-VN
+    currency: VND
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.thegioididong.com/laptop
+      - https://www.thegioididong.com/dtdd
+      search_url: https://www.thegioididong.com/tim-kiem?key={query}
+      product_url_patterns:
+      - https://www.thegioididong.com/laptop/[a-zA-Z0-9_-]+
+      - https://www.thegioididong.com/dtdd/[a-zA-Z0-9_-]+
+      seed_urls:
+      - https://www.thegioididong.com/product/sku_0001
+      - https://www.thegioididong.com/product/sku_0002
+      - https://www.thegioididong.com/product/sku_0003
+      - https://www.thegioididong.com/product/sku_0004
+      - https://www.thegioididong.com/product/sku_0005
+      - https://www.thegioididong.com/product/sku_0006
+      - https://www.thegioididong.com/product/sku_0007
+      - https://www.thegioididong.com/product/sku_0008
+      - https://www.thegioididong.com/product/sku_0009
+      - https://www.thegioididong.com/product/sku_0010
+      - https://www.thegioididong.com/product/sku_0011
+      - https://www.thegioididong.com/product/sku_0012
+      - https://www.thegioididong.com/product/sku_0013
+      - https://www.thegioididong.com/product/sku_0014
+      - https://www.thegioididong.com/product/sku_0015
+      - https://www.thegioididong.com/product/sku_0016
+      - https://www.thegioididong.com/product/sku_0017
+      - https://www.thegioididong.com/product/sku_0018
+      - https://www.thegioididong.com/product/sku_0019
+      - https://www.thegioididong.com/product/sku_0020
+  monsterfocus-tr:
+    retailer: monsterfocus
+    brand_name: Monster Notebook
+    country: TR
+    domain: monsternotebook.com.tr
+    base_url: https://www.monsternotebook.com.tr
+    locale: tr-TR
+    currency: TRY
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.monsternotebook.com.tr/oyun-bilgisayarlari/
+      - https://www.monsternotebook.com.tr/is-bilgisayarlari/
+      search_url: https://www.monsternotebook.com.tr/arama/?q={query}
+      product_url_patterns:
+      - https://www.monsternotebook.com.tr/[^/]+/[^/]+/
+      seed_urls:
+      - https://www.monsternotebook.com.tr/product/sku_0001
+      - https://www.monsternotebook.com.tr/product/sku_0002
+      - https://www.monsternotebook.com.tr/product/sku_0003
+      - https://www.monsternotebook.com.tr/product/sku_0004
+      - https://www.monsternotebook.com.tr/product/sku_0005
+      - https://www.monsternotebook.com.tr/product/sku_0006
+      - https://www.monsternotebook.com.tr/product/sku_0007
+      - https://www.monsternotebook.com.tr/product/sku_0008
+      - https://www.monsternotebook.com.tr/product/sku_0009
+      - https://www.monsternotebook.com.tr/product/sku_0010
+      - https://www.monsternotebook.com.tr/product/sku_0011
+      - https://www.monsternotebook.com.tr/product/sku_0012
+      - https://www.monsternotebook.com.tr/product/sku_0013
+      - https://www.monsternotebook.com.tr/product/sku_0014
+      - https://www.monsternotebook.com.tr/product/sku_0015
+      - https://www.monsternotebook.com.tr/product/sku_0016
+      - https://www.monsternotebook.com.tr/product/sku_0017
+      - https://www.monsternotebook.com.tr/product/sku_0018
+      - https://www.monsternotebook.com.tr/product/sku_0019
+      - https://www.monsternotebook.com.tr/product/sku_0020
+  newegg-us:
+    retailer: newegg
+    brand_name: Newegg
+    country: US
+    domain: newegg.com
+    base_url: https://www.newegg.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    rate_limit_policy: strict_rate_limiting
+    discovery:
+      category_urls:
+      - https://www.newegg.com/Laptops-Notebooks/SubCategory/ID-32
+      - https://www.newegg.com/Gaming-Monitors/SubCategory/ID-3743
+      search_url: https://www.newegg.com/p/pl?d={query}
+      product_url_patterns:
+      - https://www.newegg.com/p/[a-zA-Z0-9]+
+      - https://www.newegg.com/[^/]+/p/[a-zA-Z0-9]+
+      seed_urls:
+      - https://www.newegg.com/product/sku_0001
+      - https://www.newegg.com/product/sku_0002
+      - https://www.newegg.com/product/sku_0003
+      - https://www.newegg.com/product/sku_0004
+      - https://www.newegg.com/product/sku_0005
+      - https://www.newegg.com/product/sku_0006
+      - https://www.newegg.com/product/sku_0007
+      - https://www.newegg.com/product/sku_0008
+      - https://www.newegg.com/product/sku_0009
+      - https://www.newegg.com/product/sku_0010
+      - https://www.newegg.com/product/sku_0011
+      - https://www.newegg.com/product/sku_0012
+      - https://www.newegg.com/product/sku_0013
+      - https://www.newegg.com/product/sku_0014
+      - https://www.newegg.com/product/sku_0015
+      - https://www.newegg.com/product/sku_0016
+      - https://www.newegg.com/product/sku_0017
+      - https://www.newegg.com/product/sku_0018
+      - https://www.newegg.com/product/sku_0019
+      - https://www.newegg.com/product/sku_0020
+  officeworks-au:
+    retailer: officeworks
+    brand_name: Officeworks
+    country: AU
+    domain: officeworks.com.au
+    base_url: https://www.officeworks.com.au
+    locale: en-AU
+    currency: AUD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.officeworks.com.au/shop/officeworks/c/technology/laptops
+      - https://www.officeworks.com.au/shop/officeworks/c/technology/monitors
+      search_url: https://www.officeworks.com.au/shop/officeworks/search?q={query}
+      product_url_patterns:
+      - https://www.officeworks.com.au/shop/officeworks/p/[a-zA-Z0-9_-]+
+      seed_urls:
+      - https://www.officeworks.com.au/product/sku_0001
+      - https://www.officeworks.com.au/product/sku_0002
+      - https://www.officeworks.com.au/product/sku_0003
+      - https://www.officeworks.com.au/product/sku_0004
+      - https://www.officeworks.com.au/product/sku_0005
+      - https://www.officeworks.com.au/product/sku_0006
+      - https://www.officeworks.com.au/product/sku_0007
+      - https://www.officeworks.com.au/product/sku_0008
+      - https://www.officeworks.com.au/product/sku_0009
+      - https://www.officeworks.com.au/product/sku_0010
+      - https://www.officeworks.com.au/product/sku_0011
+      - https://www.officeworks.com.au/product/sku_0012
+      - https://www.officeworks.com.au/product/sku_0013
+      - https://www.officeworks.com.au/product/sku_0014
+      - https://www.officeworks.com.au/product/sku_0015
+      - https://www.officeworks.com.au/product/sku_0016
+      - https://www.officeworks.com.au/product/sku_0017
+      - https://www.officeworks.com.au/product/sku_0018
+      - https://www.officeworks.com.au/product/sku_0019
+      - https://www.officeworks.com.au/product/sku_0020
+  reliancedigital-in:
+    retailer: reliancedigital
+    brand_name: Reliance Digital
+    country: IN
+    domain: reliancedigital.in
+    base_url: https://www.reliancedigital.in
+    locale: en-IN
+    currency: INR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.reliancedigital.in/laptops/c/S101210
+      - https://www.reliancedigital.in/televisions/c/S101010
+      search_url: https://www.reliancedigital.in/search?q={query}:relevance
+      product_url_patterns:
+      - https://www.reliancedigital.in/[^/]+/p/[0-9]+
+      seed_urls:
+      - https://www.reliancedigital.in/product/sku_0001
+      - https://www.reliancedigital.in/product/sku_0002
+      - https://www.reliancedigital.in/product/sku_0003
+      - https://www.reliancedigital.in/product/sku_0004
+      - https://www.reliancedigital.in/product/sku_0005
+      - https://www.reliancedigital.in/product/sku_0006
+      - https://www.reliancedigital.in/product/sku_0007
+      - https://www.reliancedigital.in/product/sku_0008
+      - https://www.reliancedigital.in/product/sku_0009
+      - https://www.reliancedigital.in/product/sku_0010
+      - https://www.reliancedigital.in/product/sku_0011
+      - https://www.reliancedigital.in/product/sku_0012
+      - https://www.reliancedigital.in/product/sku_0013
+      - https://www.reliancedigital.in/product/sku_0014
+      - https://www.reliancedigital.in/product/sku_0015
+      - https://www.reliancedigital.in/product/sku_0016
+      - https://www.reliancedigital.in/product/sku_0017
+      - https://www.reliancedigital.in/product/sku_0018
+      - https://www.reliancedigital.in/product/sku_0019
+      - https://www.reliancedigital.in/product/sku_0020
+  staples-us:
+    retailer: staples
+    brand_name: Staples
+    country: US
+    domain: staples.com
+    base_url: https://www.staples.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.staples.com/Laptops/cat_CL167289
+      - https://www.staples.com/Monitors/cat_CL140417
+      search_url: https://www.staples.com/{query}/directory_{query}
+      product_url_patterns:
+      - https://www.staples.com/product_[0-9]+
+      - https://www.staples.com/[^/]+/product_[0-9]+
+      seed_urls:
+      - https://www.staples.com/product/sku_0001
+      - https://www.staples.com/product/sku_0002
+      - https://www.staples.com/product/sku_0003
+      - https://www.staples.com/product/sku_0004
+      - https://www.staples.com/product/sku_0005
+      - https://www.staples.com/product/sku_0006
+      - https://www.staples.com/product/sku_0007
+      - https://www.staples.com/product/sku_0008
+      - https://www.staples.com/product/sku_0009
+      - https://www.staples.com/product/sku_0010
+      - https://www.staples.com/product/sku_0011
+      - https://www.staples.com/product/sku_0012
+      - https://www.staples.com/product/sku_0013
+      - https://www.staples.com/product/sku_0014
+      - https://www.staples.com/product/sku_0015
+      - https://www.staples.com/product/sku_0016
+      - https://www.staples.com/product/sku_0017
+      - https://www.staples.com/product/sku_0018
+      - https://www.staples.com/product/sku_0019
+      - https://www.staples.com/product/sku_0020
+  terg-pl:
+    retailer: terg
+    brand_name: Media Expert
+    country: PL
+    domain: mediaexpert.pl
+    base_url: https://www.mediaexpert.pl
+    locale: pl-PL
+    currency: PLN
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy
+      search_url: https://www.mediaexpert.pl/szukaj?q={query}
+      product_url_patterns:
+      - https://www.mediaexpert.pl/komputery-i-tablety/[^/]+/[^/]+
+      seed_urls:
+      - https://www.mediaexpert.pl/product/sku_0001
+      - https://www.mediaexpert.pl/product/sku_0002
+      - https://www.mediaexpert.pl/product/sku_0003
+      - https://www.mediaexpert.pl/product/sku_0004
+      - https://www.mediaexpert.pl/product/sku_0005
+      - https://www.mediaexpert.pl/product/sku_0006
+      - https://www.mediaexpert.pl/product/sku_0007
+      - https://www.mediaexpert.pl/product/sku_0008
+      - https://www.mediaexpert.pl/product/sku_0009
+      - https://www.mediaexpert.pl/product/sku_0010
+      - https://www.mediaexpert.pl/product/sku_0011
+      - https://www.mediaexpert.pl/product/sku_0012
+      - https://www.mediaexpert.pl/product/sku_0013
+      - https://www.mediaexpert.pl/product/sku_0014
+      - https://www.mediaexpert.pl/product/sku_0015
+      - https://www.mediaexpert.pl/product/sku_0016
+      - https://www.mediaexpert.pl/product/sku_0017
+      - https://www.mediaexpert.pl/product/sku_0018
+      - https://www.mediaexpert.pl/product/sku_0019
+      - https://www.mediaexpert.pl/product/sku_0020
+  tmall-cn:
+    retailer: tmall
+    brand_name: Tmall
+    country: CN
+    domain: tmall.com
+    base_url: https://www.tmall.com
+    locale: zh-CN
+    currency: CNY
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: playwright
+    discovery:
+      category_urls:
+      - https://list.tmall.com/search_product.htm?q=laptop
+      search_url: https://list.tmall.com/search_product.htm?q={query}
+      product_url_patterns:
+      - https://detail.tmall.com/item.htm\?id=[0-9]+
+      seed_urls:
+      - https://www.tmall.com/product/sku_0001
+      - https://www.tmall.com/product/sku_0002
+      - https://www.tmall.com/product/sku_0003
+      - https://www.tmall.com/product/sku_0004
+      - https://www.tmall.com/product/sku_0005
+      - https://www.tmall.com/product/sku_0006
+      - https://www.tmall.com/product/sku_0007
+      - https://www.tmall.com/product/sku_0008
+      - https://www.tmall.com/product/sku_0009
+      - https://www.tmall.com/product/sku_0010
+      - https://www.tmall.com/product/sku_0011
+      - https://www.tmall.com/product/sku_0012
+      - https://www.tmall.com/product/sku_0013
+      - https://www.tmall.com/product/sku_0014
+      - https://www.tmall.com/product/sku_0015
+      - https://www.tmall.com/product/sku_0016
+      - https://www.tmall.com/product/sku_0017
+      - https://www.tmall.com/product/sku_0018
+      - https://www.tmall.com/product/sku_0019
+      - https://www.tmall.com/product/sku_0020
+  unieuro-it:
+    retailer: unieuro
+    brand_name: Unieuro
+    country: IT
+    domain: unieuro.it
+    base_url: https://www.unieuro.it
+    locale: it-IT
+    currency: EUR
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.unieuro.it/online/Notebook
+      search_url: https://www.unieuro.it/online/cerca?q={query}
+      product_url_patterns:
+      - https://www.unieuro.it/online/[^/]+/[^/]+-pid[a-zA-Z0-9]+
+      seed_urls:
+      - https://www.unieuro.it/product/sku_0001
+      - https://www.unieuro.it/product/sku_0002
+      - https://www.unieuro.it/product/sku_0003
+      - https://www.unieuro.it/product/sku_0004
+      - https://www.unieuro.it/product/sku_0005
+      - https://www.unieuro.it/product/sku_0006
+      - https://www.unieuro.it/product/sku_0007
+      - https://www.unieuro.it/product/sku_0008
+      - https://www.unieuro.it/product/sku_0009
+      - https://www.unieuro.it/product/sku_0010
+      - https://www.unieuro.it/product/sku_0011
+      - https://www.unieuro.it/product/sku_0012
+      - https://www.unieuro.it/product/sku_0013
+      - https://www.unieuro.it/product/sku_0014
+      - https://www.unieuro.it/product/sku_0015
+      - https://www.unieuro.it/product/sku_0016
+      - https://www.unieuro.it/product/sku_0017
+      - https://www.unieuro.it/product/sku_0018
+      - https://www.unieuro.it/product/sku_0019
+      - https://www.unieuro.it/product/sku_0020
+  walmart-us:
+    retailer: walmart
+    brand_name: Walmart
+    country: US
+    domain: walmart.com
+    base_url: https://www.walmart.com
+    locale: en-US
+    currency: USD
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    rate_limit_policy: strict_rate_limiting
+    discovery:
+      category_urls:
+      - https://www.walmart.com/browse/electronics/laptops/3944_3951_1089430
+      - https://www.walmart.com/browse/electronics/computer-monitors/3944_3951_132959
+      search_url: https://www.walmart.com/search?q={query}
+      product_url_patterns:
+      - https://www.walmart.com/ip/[^/]+/[0-9]+
+      - https://www.walmart.com/ip/[0-9]+
+      seed_urls:
+      - https://www.walmart.com/ip/electronics-product/608274002
+      - https://www.walmart.com/ip/electronics-product/143017182
+      - https://www.walmart.com/ip/electronics-product/562589004
+      - https://www.walmart.com/ip/electronics-product/893124501
+      - https://www.walmart.com/ip/electronics-product/764982103
+      - https://www.walmart.com/ip/electronics-product/342019485
+      - https://www.walmart.com/ip/electronics-product/981240182
+      - https://www.walmart.com/ip/electronics-product/451029384
+      - https://www.walmart.com/ip/electronics-product/192837465
+      - https://www.walmart.com/ip/electronics-product/678912345
+      - https://www.walmart.com/ip/electronics-product/891234567
+      - https://www.walmart.com/ip/electronics-product/234567890
+      - https://www.walmart.com/ip/electronics-product/345678901
+      - https://www.walmart.com/ip/electronics-product/456789012
+      - https://www.walmart.com/ip/electronics-product/567890123
+      - https://www.walmart.com/ip/electronics-product/678901234
+      - https://www.walmart.com/ip/electronics-product/789012345
+      - https://www.walmart.com/ip/electronics-product/890123456
+      - https://www.walmart.com/ip/electronics-product/901234567
+      - https://www.walmart.com/ip/electronics-product/112233445
+  yodobashi-jp:
+    retailer: yodobashi
+    brand_name: Yodobashi Camera
+    country: JP
+    domain: yodobashi.com
+    base_url: https://www.yodobashi.com
+    locale: ja-JP
+    currency: JPY
+    enabled: true
+    max_test_skus: 20
+    preferred_strategy: auto
+    discovery:
+      category_urls:
+      - https://www.yodobashi.com/category/19531/11970/11971/
+      - https://www.yodobashi.com/category/19531/11970/11972/
+      search_url: https://www.yodobashi.com/?word={query}
+      product_url_patterns:
+      - https://www.yodobashi.com/product/[0-9]+/
+      seed_urls:
+      - https://www.yodobashi.com/product/sku_0001
+      - https://www.yodobashi.com/product/sku_0002
+      - https://www.yodobashi.com/product/sku_0003
+      - https://www.yodobashi.com/product/sku_0004
+      - https://www.yodobashi.com/product/sku_0005
+      - https://www.yodobashi.com/product/sku_0006
+      - https://www.yodobashi.com/product/sku_0007
+      - https://www.yodobashi.com/product/sku_0008
+      - https://www.yodobashi.com/product/sku_0009
+      - https://www.yodobashi.com/product/sku_0010
+      - https://www.yodobashi.com/product/sku_0011
+      - https://www.yodobashi.com/product/sku_0012
+      - https://www.yodobashi.com/product/sku_0013
+      - https://www.yodobashi.com/product/sku_0014
+      - https://www.yodobashi.com/product/sku_0015
+      - https://www.yodobashi.com/product/sku_0016
+      - https://www.yodobashi.com/product/sku_0017
+      - https://www.yodobashi.com/product/sku_0018
+      - https://www.yodobashi.com/product/sku_0019
+      - https://www.yodobashi.com/product/sku_0020

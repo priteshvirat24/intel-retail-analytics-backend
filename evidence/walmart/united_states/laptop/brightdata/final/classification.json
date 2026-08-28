@@ -1,0 +1,20 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 1.0,
+  "detected_brand": "Acer",
+  "model_or_sku": "inch-laptop",
+  "extracted_specs": {
+    "screen_size": "15.6\"",
+    "ram": "4GB"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'laptop'",
+    "Laptop family: 'chromebook'",
+    "Brand: 'Acer'",
+    "Screen size: 15.6\"",
+    "RAM: 4GB"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

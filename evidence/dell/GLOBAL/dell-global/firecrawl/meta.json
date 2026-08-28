@@ -1,0 +1,16 @@
+{
+  "target_id": "dell-global",
+  "strategy": "FIRECRAWL",
+  "laptop_url": "https://www.dell.com/product/sku_0011",
+  "status_code": 403,
+  "latency_ms": 1201.8165530171245,
+  "bytes": 0,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "EMPTY_RESPONSE",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

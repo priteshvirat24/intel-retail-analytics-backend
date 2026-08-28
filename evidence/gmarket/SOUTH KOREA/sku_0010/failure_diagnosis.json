@@ -1,0 +1,17 @@
+{
+  "category": "ACCESS",
+  "specific_reason": "BOT_PROTECTION",
+  "stage": "URL_REACHABILITY",
+  "failure_reason_human": "Request blocked by anti-bot protection / rate limiter (HTTP 403).",
+  "http_status": 403,
+  "exception_type": null,
+  "retry_count": 1,
+  "last_error": "",
+  "timestamp": "2026-08-23T09:33:43.801980+00:00",
+  "is_recoverable": false,
+  "recommended_escalation": "STRICT_THROTTLE",
+  "details": {
+    "http_status": 403,
+    "blocked_detected": true
+  }
+}

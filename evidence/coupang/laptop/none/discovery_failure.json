@@ -1,0 +1,8 @@
+{
+  "target_id": "coupang-kr",
+  "retailer": "Coupang",
+  "country": "South Korea",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED",
+  "timestamp": "2026-08-24T07:32:07.410921+00:00"
+}

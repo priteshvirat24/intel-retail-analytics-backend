@@ -1,0 +1,34 @@
+{
+  "target_id": "currys-gb",
+  "laptop_url": "https://www.currys.co.uk/deals-on-computing/lenovo-yoga-intel-core-ultra-laptops",
+  "http": {
+    "reachable": true,
+    "status_code": 403,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CAPTCHA_CHALLENGE",
+    "failure_vendor": "Cloudflare WAF",
+    "latency_ms": 547.1
+  },
+  "playwright": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "WAF_BOT_CHALLENGE",
+    "failure_vendor": "Cloudflare WAF",
+    "latency_ms": 12684.0
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 429,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_RATE_LIMITED",
+    "latency_ms": 1517.4
+  },
+  "adapter": "NO",
+  "extracted_product": null
+}

@@ -1,0 +1,111 @@
+{
+  "sku_id": "2800015",
+  "target_id": "mediamarkt-es",
+  "retailer": "mediamarkt",
+  "country": "Spain",
+  "source_url": "https://www.mediamarkt.es/de/product/-2800015.html",
+  "final_url": "https://www.mediamarkt.es/de/product/-2800015.html",
+  "category": "Storage & Memory",
+  "product_template_id": null,
+  "status": "FAILED",
+  "stage_statuses": {
+    "DISCOVERY": "SUCCESS",
+    "URL_REACHABILITY": "SUCCESS",
+    "CONTENT_AVAILABILITY": "FAILED",
+    "PRODUCT_IDENTIFICATION": "FAILED",
+    "EXTRACTION": "FAILED",
+    "FIELD_VALIDATION": "FAILED",
+    "PRODUCT_VALIDATION": "FAILED"
+  },
+  "primary_strategy": "HTTP",
+  "effective_strategy": null,
+  "escalation_reason": "Escalating from HTTP to PLAYWRIGHT due to EMPTY_RESPONSE.",
+  "discovery_success": true,
+  "http_success": false,
+  "browser_success": false,
+  "extraction_success": false,
+  "validation_success": false,
+  "attempts": [
+    {
+      "attempt_number": 1,
+      "strategy": "HTTP",
+      "status_code": 0,
+      "response_time_ms": 2.89,
+      "browser_seconds": 0.0,
+      "bytes_received": 0,
+      "success": false,
+      "evidence_path": null,
+      "screenshot_path": null,
+      "headers": {},
+      "error_message": "HTTP Connection Error: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`.",
+      "failure_diagnosis": {
+        "category": "CONTENT",
+        "specific_reason": "EMPTY_RESPONSE",
+        "stage": "CONTENT_AVAILABILITY",
+        "failure_reason_human": "Server returned an empty or nearly blank HTML response.",
+        "http_status": 0,
+        "exception_type": null,
+        "retry_count": 0,
+        "last_error": null,
+        "timestamp": "2026-08-23T09:37:20.752731+00:00",
+        "is_recoverable": true,
+        "recommended_escalation": "PLAYWRIGHT",
+        "details": {}
+      },
+      "timestamp": "2026-08-23T09:37:20.722461+00:00"
+    },
+    {
+      "attempt_number": 2,
+      "strategy": "PLAYWRIGHT",
+      "status_code": 403,
+      "response_time_ms": 12160.36,
+      "browser_seconds": 13.41,
+      "bytes_received": 27416,
+      "success": false,
+      "evidence_path": "evidence/mediamarkt/SPAIN/2800015/attempt_2_snapshot.html",
+      "screenshot_path": "evidence/mediamarkt/SPAIN/2800015/attempt_2_screenshot.png",
+      "headers": {},
+      "error_message": null,
+      "failure_diagnosis": {
+        "category": "ACCESS",
+        "specific_reason": "BOT_PROTECTION",
+        "stage": "URL_REACHABILITY",
+        "failure_reason_human": "Request blocked by anti-bot protection / rate limiter (HTTP 403).",
+        "http_status": 403,
+        "exception_type": null,
+        "retry_count": 1,
+        "last_error": "",
+        "timestamp": "2026-08-23T09:39:01.287968+00:00",
+        "is_recoverable": false,
+        "recommended_escalation": "STRICT_THROTTLE",
+        "details": {
+          "http_status": 403,
+          "blocked_detected": true
+        }
+      },
+      "timestamp": "2026-08-23T09:39:01.281746+00:00"
+    }
+  ],
+  "total_latency_ms": 126800.61,
+  "browser_seconds_total": 13.41,
+  "bytes_received_total": 27416,
+  "product": null,
+  "failure": {
+    "category": "ACCESS",
+    "specific_reason": "BOT_PROTECTION",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Request blocked by anti-bot protection / rate limiter (HTTP 403).",
+    "http_status": 403,
+    "exception_type": null,
+    "retry_count": 1,
+    "last_error": "",
+    "timestamp": "2026-08-23T09:39:01.287968+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "STRICT_THROTTLE",
+    "details": {
+      "http_status": 403,
+      "blocked_detected": true
+    }
+  },
+  "evidence_dir": "evidence/mediamarkt/SPAIN/2800015"
+}

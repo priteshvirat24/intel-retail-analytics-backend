@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 404,
+  "response_time_ms": 6018.66,
+  "browser_seconds": 8.77,
+  "bytes_received": 2276,
+  "success": false,
+  "evidence_path": "evidence/amazon/GERMANY/B09JQKQW89/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/amazon/GERMANY/B09JQKQW89/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:28:30.289897+00:00"
+}

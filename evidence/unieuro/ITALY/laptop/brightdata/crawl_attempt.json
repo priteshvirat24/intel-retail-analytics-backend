@@ -1,0 +1,17 @@
+{
+  "target_id": "unieuro-it",
+  "retailer": "Unieuro",
+  "country": "Italy",
+  "country_iso": "it",
+  "url": "https://www.unieuro.it",
+  "status_code": 0,
+  "response_time_ms": 12.5,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Bright Data Connection Timeout: All connection attempts failed"
+}

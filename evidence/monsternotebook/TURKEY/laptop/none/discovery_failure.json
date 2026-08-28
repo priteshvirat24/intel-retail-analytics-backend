@@ -1,0 +1,74 @@
+{
+  "target_id": "monsternotebook-tr",
+  "retailer": "Monsternotebook",
+  "country": "Turkey",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Cloudflare WAF)",
+  "domain_validation": {
+    "domain": "monsternotebook.com.tr",
+    "base_url": "https://www.monsternotebook.com.tr",
+    "http_status": 403,
+    "redirect_chain": [],
+    "final_url": "https://www.monsternotebook.com.tr",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "Cloudflare WAF",
+    "latency_ms": 335.1
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.monsternotebook.com.tr/search?q=laptop",
+      "status": 403,
+      "latency_ms": 258.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.monsternotebook.com.tr/search?q=notebook",
+      "status": 403,
+      "latency_ms": 369.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.monsternotebook.com.tr/s?k=laptop",
+      "status": 403,
+      "latency_ms": 367.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.monsternotebook.com.tr/s?k=notebook",
+      "status": 403,
+      "latency_ms": 339.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.monsternotebook.com.tr/laptops",
+      "status": 403,
+      "latency_ms": 262.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.monsternotebook.com.tr/smartphones",
+      "status": 403,
+      "latency_ms": 329.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.monsternotebook.com.tr/audio",
+      "status": 403,
+      "latency_ms": 468.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.monsternotebook.com.tr",
+      "candidates_found": 0
+    }
+  ]
+}

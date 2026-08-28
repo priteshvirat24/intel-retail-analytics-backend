@@ -1,0 +1,22 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 1.0,
+  "detected_brand": "Lenovo",
+  "model_or_sku": "b0gtn2lhvl",
+  "extracted_specs": {
+    "screen_size": "15.6\"",
+    "cpu": "Celeron",
+    "os": "Windows 11"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'ordinateur portable'",
+    "Laptop family: 'ideapad'",
+    "Brand: 'Lenovo'",
+    "Screen size: 15.6\"",
+    "CPU: Celeron",
+    "OS: Windows 11"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

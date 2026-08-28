@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.bestbuy.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 11474.4,
+    "html_bytes": 502309
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.bestbuy.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 8713.3,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.bestbuy.com/laptops",
+    "status_code": 200,
+    "latency_ms": 13251.8,
+    "html_bytes": 909418
+  }
+]

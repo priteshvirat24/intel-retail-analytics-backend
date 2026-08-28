@@ -1,0 +1,60 @@
+{
+  "target_id": "tmall-cn",
+  "retailer": "Tmall",
+  "country": "China",
+  "discovery_status": "NOT_DISCOVERED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "domain_validation": {
+    "domain": "tmall.com",
+    "base_url": "https://www.tmall.com",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.tmall.com",
+    "robots_txt_found": true,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 766.9
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.tmall.com/search?q=laptop",
+      "status": 200,
+      "latency_ms": 1466.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.tmall.com/search?q=notebook",
+      "status": 200,
+      "latency_ms": 874.5,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.tmall.com/s?k=laptop",
+      "status": 200,
+      "latency_ms": 956.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.tmall.com/s?k=notebook",
+      "status": 200,
+      "latency_ms": 1003.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.tmall.com/laptops",
+      "status": 200,
+      "latency_ms": 1001.1,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.tmall.com",
+      "candidates_found": 0
+    }
+  ]
+}

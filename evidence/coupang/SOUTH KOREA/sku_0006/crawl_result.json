@@ -1,0 +1,111 @@
+{
+  "sku_id": "sku_0006",
+  "target_id": "coupang-kr",
+  "retailer": "coupang",
+  "country": "South Korea",
+  "source_url": "https://www.coupang.com/product/sku_0006",
+  "final_url": "https://www.coupang.com/product/sku_0006",
+  "category": "Laptops & Notebooks",
+  "product_template_id": null,
+  "status": "FAILED",
+  "stage_statuses": {
+    "DISCOVERY": "SUCCESS",
+    "URL_REACHABILITY": "SUCCESS",
+    "CONTENT_AVAILABILITY": "FAILED",
+    "PRODUCT_IDENTIFICATION": "FAILED",
+    "EXTRACTION": "FAILED",
+    "FIELD_VALIDATION": "FAILED",
+    "PRODUCT_VALIDATION": "FAILED"
+  },
+  "primary_strategy": "HTTP",
+  "effective_strategy": null,
+  "escalation_reason": "Escalating from HTTP to PLAYWRIGHT due to EMPTY_RESPONSE.",
+  "discovery_success": true,
+  "http_success": false,
+  "browser_success": false,
+  "extraction_success": false,
+  "validation_success": false,
+  "attempts": [
+    {
+      "attempt_number": 1,
+      "strategy": "HTTP",
+      "status_code": 0,
+      "response_time_ms": 0.64,
+      "browser_seconds": 0.0,
+      "bytes_received": 0,
+      "success": false,
+      "evidence_path": null,
+      "screenshot_path": null,
+      "headers": {},
+      "error_message": "HTTP Connection Error: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`.",
+      "failure_diagnosis": {
+        "category": "CONTENT",
+        "specific_reason": "EMPTY_RESPONSE",
+        "stage": "CONTENT_AVAILABILITY",
+        "failure_reason_human": "Server returned an empty or nearly blank HTML response.",
+        "http_status": 0,
+        "exception_type": null,
+        "retry_count": 0,
+        "last_error": null,
+        "timestamp": "2026-08-23T08:32:07.400211+00:00",
+        "is_recoverable": true,
+        "recommended_escalation": "PLAYWRIGHT",
+        "details": {}
+      },
+      "timestamp": "2026-08-23T08:32:07.398791+00:00"
+    },
+    {
+      "attempt_number": 2,
+      "strategy": "PLAYWRIGHT",
+      "status_code": 403,
+      "response_time_ms": 7593.23,
+      "browser_seconds": 9.86,
+      "bytes_received": 309,
+      "success": false,
+      "evidence_path": "evidence/coupang/SOUTH KOREA/sku_0006/attempt_2_snapshot.html",
+      "screenshot_path": "evidence/coupang/SOUTH KOREA/sku_0006/attempt_2_screenshot.png",
+      "headers": {},
+      "error_message": null,
+      "failure_diagnosis": {
+        "category": "ACCESS",
+        "specific_reason": "BOT_PROTECTION",
+        "stage": "URL_REACHABILITY",
+        "failure_reason_human": "Request blocked by anti-bot protection / rate limiter (HTTP 403).",
+        "http_status": 403,
+        "exception_type": null,
+        "retry_count": 1,
+        "last_error": "",
+        "timestamp": "2026-08-23T08:33:15.285206+00:00",
+        "is_recoverable": false,
+        "recommended_escalation": "STRICT_THROTTLE",
+        "details": {
+          "http_status": 403,
+          "blocked_detected": true
+        }
+      },
+      "timestamp": "2026-08-23T08:33:15.281148+00:00"
+    }
+  ],
+  "total_latency_ms": 78176.51,
+  "browser_seconds_total": 9.86,
+  "bytes_received_total": 309,
+  "product": null,
+  "failure": {
+    "category": "ACCESS",
+    "specific_reason": "BOT_PROTECTION",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Request blocked by anti-bot protection / rate limiter (HTTP 403).",
+    "http_status": 403,
+    "exception_type": null,
+    "retry_count": 1,
+    "last_error": "",
+    "timestamp": "2026-08-23T08:33:15.285206+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "STRICT_THROTTLE",
+    "details": {
+      "http_status": 403,
+      "blocked_detected": true
+    }
+  },
+  "evidence_dir": "evidence/coupang/SOUTH KOREA/sku_0006"
+}

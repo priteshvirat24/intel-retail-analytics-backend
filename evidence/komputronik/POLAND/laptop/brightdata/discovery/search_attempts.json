@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.komputronik.pl/szukaj?q=laptop",
+    "status_code": 200,
+    "latency_ms": 15358.1,
+    "html_bytes": 1019491
+  }
+]

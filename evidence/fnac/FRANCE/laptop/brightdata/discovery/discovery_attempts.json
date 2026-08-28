@@ -1,0 +1,18 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.fnac.com/s?k=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 25229.3,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.fnac.com/recherche?q=ordinateur+portable",
+    "status_code": 200,
+    "latency_ms": 5114.0,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

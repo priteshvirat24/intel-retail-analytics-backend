@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 403,
+  "response_time_ms": 10194.1,
+  "browser_seconds": 13.03,
+  "bytes_received": 28230,
+  "success": false,
+  "evidence_path": "evidence/mediamarkt/ITALY/2800006/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/mediamarkt/ITALY/2800006/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:38:51.166684+00:00"
+}

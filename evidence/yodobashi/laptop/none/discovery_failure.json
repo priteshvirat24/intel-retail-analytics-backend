@@ -1,0 +1,8 @@
+{
+  "target_id": "yodobashi-jp",
+  "retailer": "Yodobashi",
+  "country": "Japan",
+  "discovery_status": "DISCOVERY_FAILED",
+  "discovery_failure_reason": "DISCOVERY_TIMEOUT",
+  "timestamp": "2026-08-24T07:32:07.427669+00:00"
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.mercadolivre.com.br/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 18165.4,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.mercadolivre.com.br/busca?q=notebook",
+    "status_code": 0,
+    "latency_ms": 30404.3,
+    "html_bytes": 0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "target_id": "currys-gb",
+  "retailer": "Currys",
+  "country": "United Kingdom",
+  "country_iso": "gb",
+  "url": "https://www.currys.co.uk",
+  "status_code": 200,
+  "response_time_ms": 4516.4,
+  "can_scrape": "NO",
+  "confidence_score": 0.45,
+  "product_name": "Currys | Washing Machines, Laptops, TVs, Consoles",
+  "brand": null,
+  "price": 3.0,
+  "currency": null,
+  "sku": null,
+  "reason": "Catalog aggregation page reached: Multiple listing cards present without individual checkout schema"
+}

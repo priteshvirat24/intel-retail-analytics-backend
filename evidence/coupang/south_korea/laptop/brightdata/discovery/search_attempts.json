@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.coupang.com/search?q=\ub178\ud2b8\ubd81",
+    "status_code": 0,
+    "latency_ms": 28957.8,
+    "html_bytes": 0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "target_id": "newegg-us",
+  "retailer": "Newegg",
+  "country": "United States",
+  "country_iso": "us",
+  "url": "https://www.newegg.com/p/N82E16826197674?Item=N82E16826197674",
+  "status_code": 200,
+  "response_time_ms": 4714.8,
+  "can_scrape": "YES",
+  "confidence_score": 0.75,
+  "product_name": "Logitech PRO X2 SUPERSTRIKE LIGHTSPEED Wireless Gaming Mouse, Ultra-Fast Performance, Ultra Lightweight (61 g), Customizable Click Haptics, USB-C charging, for PC/Mac/Laptop",
+  "brand": null,
+  "price": 179.99,
+  "currency": null,
+  "sku": "N82E16826197674",
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (Logitech PRO X2 SUPERSTRIKE LIGHTSPEED Wireless Gaming Mouse, Ultra-Fast Performance, Ultra Lightweight (61 g), Customizable Click Haptics, USB-C charging, for PC/Mac/Laptop | Brand: \u2014 | Price: 179.99 USD | SKU: N82E16826197674)"
+}

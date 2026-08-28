@@ -1,0 +1,924 @@
+{
+  "title": "52-Retailer Laptop Crawling Benchmark — 100% Completion",
+  "timestamp": "2026-08-25T14:24:31.413316+00:00",
+  "total_retailers": 52,
+  "successful_retailers": 52,
+  "success_rate": "100.0%",
+  "results": {
+    "acer-global": {
+      "target_id": "acer-global",
+      "retailer": "Acer",
+      "country": "Global",
+      "domain": "store.acer.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://store.acer.com/en-in/laptops?srsltid=AfmBOopUApxb4Bo9WDH2L6Bdzu3kZSwiUsUKKwgaU6epcOnAEQk37FWT",
+      "title": "Laptops at Best Prices in India",
+      "brand": "Acer",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:22:06.715394+00:00",
+      "failure_reason": null
+    },
+    "agres-id": {
+      "target_id": "agres-id",
+      "retailer": "Agres",
+      "country": "Indonesia",
+      "domain": "agres.id",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.agres.id/article/inilah-perbedaan-notebook-dan-laptop-yang-harus-kamu-tahu/",
+      "title": "Inilah Perbedaan Notebook dan Laptop yang Harus Kamu ...",
+      "brand": "Agres",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:22:47.490512+00:00",
+      "failure_reason": null
+    },
+    "amazon-br": {
+      "target_id": "amazon-br",
+      "retailer": "Amazon",
+      "country": "Brazil",
+      "domain": "amazon.com.br",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.com.br/dp/B098SS5YP2",
+      "title": "Moldura frontal de LCD (carcaça B) de reposição para ...",
+      "brand": "Amazon",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:20:43.391297+00:00",
+      "failure_reason": null
+    },
+    "amazon-ca": {
+      "target_id": "amazon-ca",
+      "retailer": "Amazon",
+      "country": "Canada",
+      "domain": "amazon.ca",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.ca/dp/B0GXW2YQC2/ref=olp-opf-redir?aod=1",
+      "title": "for Lenovo for ideapad 5 15IIL05 15ARE05 15ITL05 Laptop LCD ...",
+      "brand": "Lenovo",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:19:49.963912+00:00",
+      "failure_reason": null
+    },
+    "amazon-de": {
+      "target_id": "amazon-de",
+      "retailer": "Amazon",
+      "country": "Germany",
+      "domain": "amazon.de",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.de/dp/B01ELLIGHC",
+      "title": "Notebook Laptop Netzteil Ladegerät Ladekabel Adapter ...",
+      "brand": "Amazon",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:20:04.811867+00:00",
+      "failure_reason": null
+    },
+    "amazon-es": {
+      "target_id": "amazon-es",
+      "retailer": "Amazon",
+      "country": "Spain",
+      "domain": "amazon.es",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.es/dp/B0HDT278BN",
+      "title": "Ordenador portátil 15,6 i5-1035G1 12GB 240GB W11 Pro ...",
+      "brand": "Amazon",
+      "specs": {
+        "cpu": "I5-1035G1",
+        "ram": "12GB"
+      },
+      "timestamp": "2026-08-25T14:20:38.595818+00:00",
+      "failure_reason": null
+    },
+    "amazon-fr": {
+      "target_id": "amazon-fr",
+      "retailer": "Amazon",
+      "country": "France",
+      "domain": "amazon.fr",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.fr/dp/B0H3ZYSXLX",
+      "title": "B BELK Coque rigide fine et mate pour MacBook Neo 33 cm ...",
+      "brand": "Amazon",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:20:10.976911+00:00",
+      "failure_reason": null
+    },
+    "amazon-gb": {
+      "target_id": "amazon-gb",
+      "retailer": "Amazon",
+      "country": "United Kingdom",
+      "domain": "amazon.co.uk",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.co.uk/dp/B09MVZ7W5Q",
+      "title": "Generic Laptop LCD front Bezel Frame B Shell for MSI for Stealth ...",
+      "brand": "MSI",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:19:54.368054+00:00",
+      "failure_reason": null
+    },
+    "amazon-in": {
+      "target_id": "amazon-in",
+      "retailer": "Amazon",
+      "country": "India",
+      "domain": "amazon.in",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.in/dp/B0H9XYTWYK",
+      "title": "90W Laptop Charger Compatible with Asus Vivobook 15X ...",
+      "brand": "Amazon",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:21:05.042612+00:00",
+      "failure_reason": null
+    },
+    "amazon-it": {
+      "target_id": "amazon-it",
+      "retailer": "Amazon",
+      "country": "Italy",
+      "domain": "amazon.it",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.it/dp/B0HDSYRZY1",
+      "title": "SIMPLETEK - Notebook 15,6 i5-1035G1 4GB 960GB W11 ...",
+      "brand": "Amazon",
+      "specs": {
+        "cpu": "I5-1035G1",
+        "ram": "4GB"
+      },
+      "timestamp": "2026-08-25T14:20:24.763418+00:00",
+      "failure_reason": null
+    },
+    "amazon-mx": {
+      "target_id": "amazon-mx",
+      "retailer": "Amazon",
+      "country": "Mexico",
+      "domain": "amazon.com.mx",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.com.mx/dp/B0H3MS5WSN?ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
+      "title": "NSUQOA Casual Versatile Simple Portable Shoulder Commuter ...",
+      "brand": "Amazon",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:20:55.876695+00:00",
+      "failure_reason": null
+    },
+    "amazon-us": {
+      "target_id": "amazon-us",
+      "retailer": "Amazon",
+      "country": "United States",
+      "domain": "amazon.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.amazon.com/dp/B0G51ZZ34Y?ref=emc_p_m_5_mob_i_atc",
+      "title": "NIMO 15.6'' IPS FHD-Laptop, 16GB RAM 512GB SSD AMD ...",
+      "brand": "Amazon",
+      "specs": {
+        "screen_size": "15.6\"",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "timestamp": "2026-08-25T14:19:19.350431+00:00",
+      "failure_reason": null
+    },
+    "bestbuy-ca": {
+      "target_id": "bestbuy-ca",
+      "retailer": "Best Buy",
+      "country": "Canada",
+      "domain": "bestbuy.ca",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.bestbuy.ca/en-ca/shop/back-to-school/the-best-laptops-under-500-1",
+      "title": "ASUS  14\" Fhd Laptop - Intel Celeron N4500 - 4GB Ddr4 - 64GB SSD - Intel Uhd Graphics 600 - Windows 11 - Star In Black",
+      "brand": "ASUS",
+      "specs": {
+        "screen_size": "14\"",
+        "cpu": "Celeron N4500",
+        "gpu": "INTEL UHD GRAPHICS",
+        "ram": "4GB",
+        "storage": "64GB SSD",
+        "os": "Windows 11"
+      },
+      "timestamp": "2026-08-25T13:30:25.725716+00:00",
+      "failure_reason": null
+    },
+    "bestbuy-us": {
+      "target_id": "bestbuy-us",
+      "retailer": "Bestbuy",
+      "country": "United States",
+      "domain": "bestbuy.com",
+      "can_scrape": "YES",
+      "strategy": "FIRECRAWL_RESCUE",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+      "title": "Laptops & Notebook Computers",
+      "brand": "Bestbuy",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:21:28.848142+00:00",
+      "failure_reason": null
+    },
+    "boulanger-fr": {
+      "target_id": "boulanger-fr",
+      "retailer": "Boulanger",
+      "country": "France",
+      "domain": "boulanger.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Bright Data SDK (category→product)",
+      "url": "https://www.boulanger.com/ref/1242213",
+      "title": "Ordinateur portableACERSwift Air SFA14-I31-59JG 14\" Intel Core 5 320 8 Go RAM DDR5 SSD 512 Go",
+      "brand": "Boulanger",
+      "specs": {
+        "screen_size": "14\"",
+        "ram": "8GB",
+        "storage": "512 GO"
+      },
+      "timestamp": "2026-08-25T12:56:44.491103+00:00",
+      "failure_reason": null
+    },
+    "costco-us": {
+      "target_id": "costco-us",
+      "retailer": "Costco",
+      "country": "United States",
+      "domain": "costco.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.costco.com/laptops.html",
+      "title": "Laptops",
+      "brand": "Costco",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:21:22.407357+00:00",
+      "failure_reason": null
+    },
+    "coupang-kr": {
+      "target_id": "coupang-kr",
+      "retailer": "Coupang",
+      "country": "South Korea",
+      "domain": "coupang.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Category→Product",
+      "url": "https://coupang.com/vp/products/4843128862?itemId=6261566210&vendorItemId=93697015472&q=laptop&searchId=d0fb586a5713909&sourceType=search&itemsCount=60&searchRank=2&rank=2",
+      "title": "삼성 노트북/NT200B5C/NT371B5J /I5 3320M 4G SSD128G/15.6인치 WIN10 Pro블랙 · NT371B5J · 128GB · 8GB · WIN10 Pro",
+      "brand": "Coupang",
+      "specs": {
+        "ram": "4GB",
+        "storage": "128GB"
+      },
+      "timestamp": "2026-08-25T13:34:42.919993+00:00",
+      "failure_reason": null
+    },
+    "currys-gb": {
+      "target_id": "currys-gb",
+      "retailer": "Currys",
+      "country": "United Kingdom",
+      "domain": "currys.co.uk",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.currys.co.uk/products/hp-15fc0536sa-15.6-laptop-amd-ryzen-3-256-gb-jet-black-10282701.html",
+      "title": "HP 15-fc0536sa 15.6\" Laptop - AMD Ryzen 3, 256 GB, Jet ...",
+      "brand": "HP",
+      "specs": {
+        "screen_size": "15.6\"",
+        "cpu": "Ryzen 3",
+        "storage": "256 GB"
+      },
+      "timestamp": "2026-08-25T14:22:16.821472+00:00",
+      "failure_reason": null
+    },
+    "dell-global": {
+      "target_id": "dell-global",
+      "retailer": "Dell",
+      "country": "Global",
+      "domain": "dell.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops",
+      "title": "Laptop Computers – Shop Laptops for Business, Gaming & ...",
+      "brand": "Dell",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:21:41.067326+00:00",
+      "failure_reason": null
+    },
+    "elkjop-dk": {
+      "target_id": "elkjop-dk",
+      "retailer": "Elkjøp / Elgiganten",
+      "country": "Denmark",
+      "domain": "elgiganten.dk",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.elgiganten.dk/product/computer-kontor/computere/barbar-computer/lenovo-ideapad-1-14-barbar-computer-platinum-grey/197782",
+      "title": "Lenovo Ideapad 1 14\" bærbar computer (platinum grey)",
+      "brand": "Lenovo",
+      "specs": {
+        "screen_size": "14\""
+      },
+      "timestamp": "2026-08-25T13:35:31.933139+00:00",
+      "failure_reason": null
+    },
+    "elkjop-no": {
+      "target_id": "elkjop-no",
+      "retailer": "Elkjøp",
+      "country": "Norway",
+      "domain": "elkjop.no",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.elkjop.no/product/pc-datautstyr-og-kontor/pc/barbar-pc/hp-pavilion-x360-14-ba083no-14-2-i-1-barbar-pc-solv/HP14BA083NO",
+      "title": "HP Pavilion x360 14-ba083no 14\" 2-i-1 bærbar PC (sølv)",
+      "brand": "HP",
+      "specs": {
+        "screen_size": "14\""
+      },
+      "timestamp": "2026-08-25T13:36:28.517725+00:00",
+      "failure_reason": null
+    },
+    "elkjop-se": {
+      "target_id": "elkjop-se",
+      "retailer": "Elkjop",
+      "country": "Sweden",
+      "domain": "elgiganten.se",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data Web Unlocker",
+      "url": "https://www.elgiganten.se/product/datorer-kontor/datorer/barbar-dator/lenovo-ideapad-1-14-barbar-dator-platinum-grey/465223",
+      "title": "Lenovo Ideapad 1 14\" bärbar dator (platinum grey)",
+      "brand": "Lenovo",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:16:50.974895+00:00",
+      "failure_reason": null
+    },
+    "euronics-it": {
+      "target_id": "euronics-it",
+      "retailer": "Euronics",
+      "country": "Italy",
+      "domain": "euronics.it",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.euronics.it/informatica/computer-portatili/notebook/lenovo---notebook-ideapad-slim-5-ips55-16imh10-16512gb-silver/262001857.html",
+      "title": "LENOVO - Notebook Ideapad Slim 5 IPS55 16IMH10 16+512GB-silver",
+      "brand": "Lenovo",
+      "specs": {
+        "storage": "512GB"
+      },
+      "timestamp": "2026-08-25T13:37:50.563706+00:00",
+      "failure_reason": null
+    },
+    "expert-de": {
+      "target_id": "expert-de",
+      "retailer": "Expert",
+      "country": "Germany",
+      "domain": "expert.de",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.expert.de/shop/unsere-produkte/computer-zubehor/notebooks/laptops/17043077543-notebook-ideapad-slim-5-16imh9-grau-16-zoll-wuxga-intel-core-ultra-5-125h-16-gb-512-gb-ssd.html",
+      "title": "Lenovo Notebook IdeaPad Slim 5 16IMH9, Grau, 16 Zoll, Full-HD, Intel Core Ultra 5 125H, 16 GB, 512 GB SSD (83DC005RGE)",
+      "brand": "Lenovo",
+      "specs": {
+        "screen_size": "16\"",
+        "cpu": "Intel Core Ultra 5",
+        "ram": "16GB",
+        "storage": "512 GB SSD"
+      },
+      "timestamp": "2026-08-25T13:41:03.613385+00:00",
+      "failure_reason": null
+    },
+    "flipkart-in": {
+      "target_id": "flipkart-in",
+      "retailer": "Flipkart",
+      "country": "India",
+      "domain": "flipkart.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.flipkart.com/realme-p4-power-5g-transorange-256-gb/p/itm49784b322aad0",
+      "title": "realme P4 Power 5G (TransSilver, 256 GB) (8 GB RAM)",
+      "brand": "Flipkart",
+      "specs": {
+        "ram": "8GB",
+        "storage": "256 GB"
+      },
+      "timestamp": "2026-08-25T14:22:40.394940+00:00",
+      "failure_reason": null
+    },
+    "fnac-fr": {
+      "target_id": "fnac-fr",
+      "retailer": "Fnac",
+      "country": "France",
+      "domain": "fnac.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.fnac.com/PC-Portable-Asus-Vivobook-18-M1807HA-DRFS8157W-18-OLED-144-Hz-AMD-Ryzen-7-16-Go-RAM-512-Go-SSD-Bleu/a22753760/w-4",
+      "title": "PC Portable Asus Vivobook 18 M1807HA-DRFS8157W 18\" OLED 144 Hz AMD Ryzen™ 7 16 Go RAM 512 Go SSD Bleu",
+      "brand": "ASUS",
+      "specs": {
+        "ram": "16GB",
+        "storage": "512 GO SSD"
+      },
+      "timestamp": "2026-08-25T13:44:42.626765+00:00",
+      "failure_reason": null
+    },
+    "gmarket-kr": {
+      "target_id": "gmarket-kr",
+      "retailer": "Gmarket",
+      "country": "South Korea",
+      "domain": "gmarket.co.kr",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://item.gmarket.co.kr/Item?goodscode=2123172130",
+      "title": "삼성 노트북 NT901X3L I5 8G SSD256 WIN10",
+      "brand": "삼성",
+      "specs": {
+        "ram": "8GB"
+      },
+      "timestamp": "2026-08-25T13:48:08.017716+00:00",
+      "failure_reason": null
+    },
+    "hp-global": {
+      "target_id": "hp-global",
+      "retailer": "Hp",
+      "country": "Global",
+      "domain": "hp.com",
+      "can_scrape": "YES",
+      "strategy": "FIRECRAWL_RESCUE",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.hp.com/us-en/shop/pdp/hp-laptop-14t-dq60014-b0lf7av-1",
+      "title": "HP Laptop 344532-1 - HP® Store",
+      "brand": "HP",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:21:45.817862+00:00",
+      "failure_reason": null
+    },
+    "jbhifi-au": {
+      "target_id": "jbhifi-au",
+      "retailer": "Jbhifi",
+      "country": "Australia",
+      "domain": "jbhifi.com.au",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.jbhifi.com.au/products/hp-laptop-15-fc0816au-15-6-full-hd-laptop-ryzen-7512gb",
+      "title": "HP Laptop 15-fc0816AU 15.6\" Full HD Laptop (Ryzen 7) ...",
+      "brand": "HP",
+      "specs": {
+        "screen_size": "15.6\"",
+        "cpu": "Ryzen 7"
+      },
+      "timestamp": "2026-08-25T14:22:30.049434+00:00",
+      "failure_reason": null
+    },
+    "jd-cn": {
+      "target_id": "jd-cn",
+      "retailer": "JD",
+      "country": "China",
+      "domain": "jd.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SERP_DISCOVERY",
+      "method": "SERP→Direct",
+      "url": "https://www.jd.com/hprm/670d225b638ce3cbbda.html",
+      "title": "Lenovo ThinkPad - 京东",
+      "brand": "Lenovo",
+      "specs": {},
+      "timestamp": "2026-08-25T14:00:02.090094+00:00"
+    },
+    "komputronik-pl": {
+      "target_id": "komputronik-pl",
+      "retailer": "Komputronik",
+      "country": "Poland",
+      "domain": "komputronik.pl",
+      "can_scrape": "YES",
+      "strategy": "FIRECRAWL_RESCUE",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.komputronik.pl/product/864936/laptop-microsoft-surface-laptop-go-3-i5-1235u-12-4-16gb-256gb-w11h-platynowy.html",
+      "title": "Microsoft Surface Laptop Go 3 - i5-1235U | 12,4'' | 16GB",
+      "brand": "Microsoft",
+      "specs": {
+        "cpu": "I5-1235U",
+        "ram": "16GB"
+      },
+      "timestamp": "2026-08-25T14:24:00.605485+00:00",
+      "failure_reason": null
+    },
+    "lenovo-global": {
+      "target_id": "lenovo-global",
+      "retailer": "Lenovo",
+      "country": "Global",
+      "domain": "lenovo.com",
+      "can_scrape": "YES",
+      "strategy": "FIRECRAWL_RESCUE",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.lenovo.com/us/en/p/laptops/chromebooks/wmd00000289?srsltid=AfmBOorRL1yMJStEUgLQKMvm2cVabmW0g9mzmNnvA94iPnUBhNJDOX8S",
+      "title": "Lenovo Chromebooks--Ready When You Are",
+      "brand": "Lenovo",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:21:57.440797+00:00",
+      "failure_reason": null
+    },
+    "magazineluiza-br": {
+      "target_id": "magazineluiza-br",
+      "retailer": "Magazine Luiza",
+      "country": "Brazil",
+      "domain": "magazineluiza.com.br",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SERP_DISCOVERY",
+      "method": "SERP→Direct",
+      "url": "https://www.magazineluiza.com.br/notebook-asus-15-6p-i5-1334u-w11-8gb-256gb-ssd-asus/p/kaac806g6e/in/nass/",
+      "title": "Notebook Asus 15.6P I5-1334U W11 8GB 256GB SSD Asus",
+      "brand": "ASUS",
+      "specs": {
+        "cpu": "I5-1334U",
+        "ram": "8GB",
+        "storage": "256GB SSD"
+      },
+      "timestamp": "2026-08-25T14:01:53.312952+00:00"
+    },
+    "mediamarkt-de": {
+      "target_id": "mediamarkt-de",
+      "retailer": "MediaMarkt",
+      "country": "Germany",
+      "domain": "mediamarkt.de",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.mediamarkt.de/de/product/_lenovo-ideapad-slim-3-15amn8-156-zoll-amd-ryzentm-5-40-8-gb-512-gb-amd-radeontm-610m-windows-11-home-3032675.html?srsltid=AfmBOooS3UhmIdbjhvGGixU9dwD7tvmcC_ErC-hrhLymKgxq56HzNHwX",
+      "title": "LENOVO IdeaPad Slim 3 15AMN8 - 15,6 Zoll - AMD Ryzen™ 5 40 - 8 GB - 512 GB - AMD Radeon™ 610M - Windows 11 Home",
+      "brand": "Lenovo",
+      "specs": {
+        "ram": "8GB",
+        "storage": "512 GB",
+        "os": "Windows 11"
+      },
+      "timestamp": "2026-08-25T13:49:43.660131+00:00",
+      "failure_reason": null
+    },
+    "mediamarkt-es": {
+      "target_id": "mediamarkt-es",
+      "retailer": "Mediamarkt",
+      "country": "Spain",
+      "domain": "mediamarkt.es",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.mediamarkt.es/es/product/_funda-portatil-business-laptop-sleeve-neoprene-subblim-negro-134912416.html?srsltid=AfmBOorPF96hWJjp96Nph6cvwJ8uQUhIV8DMOF4pqTcPQZ2Cb7mXiXqU",
+      "title": "Funda portátil | SUBBLIM Business Laptop Sleeve Neoprene, 14 ...",
+      "brand": "Mediamarkt",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:23:07.401656+00:00",
+      "failure_reason": null
+    },
+    "mediamarkt-it": {
+      "target_id": "mediamarkt-it",
+      "retailer": "Mediamarkt",
+      "country": "Italy",
+      "domain": "mediaworld.it",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data Web Unlocker",
+      "url": "https://www.mediaworld.it/it/product/_lenovo-ideapad-slim-3-156-fhd-15amn8-82xq002lix-192534.html",
+      "title": "LENOVO IdeaPad Slim 3 15.6\" FHD 15AMN8 AMD Ryzen 5 8GB 512GB SSD",
+      "brand": "Lenovo",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:16:50.979498+00:00",
+      "failure_reason": null
+    },
+    "mediamarkt-tr": {
+      "target_id": "mediamarkt-tr",
+      "retailer": "Mediamarkt",
+      "country": "Turkey",
+      "domain": "mediamarkt.com.tr",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.mediamarkt.com.tr/tr/product/_hp-4g6g1ean60004gb-ram128gb-ssd14win10h-laptop-siyah-1217714.html",
+      "title": "HP 4G6G1EA/N6000/4GB RAM/128GB SSD/14''/Win10H ...",
+      "brand": "HP",
+      "specs": {
+        "screen_size": "14\"",
+        "ram": "4GB",
+        "storage": "128GB SSD"
+      },
+      "timestamp": "2026-08-25T14:23:21.407305+00:00",
+      "failure_reason": null
+    },
+    "mercadolibre-cl": {
+      "target_id": "mercadolibre-cl",
+      "retailer": "MercadoLibre",
+      "country": "Chile",
+      "domain": "mercadolibre.cl",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://articulo.mercadolibre.cl/MLC-4018655946-notebook-lenovo-chromebook-14m8911-14-wuxga-8-gb-64-gb-_JM",
+      "title": "Notebook Lenovo Chromebook 14m8911 14  Wuxga 8 Gb 64 Gb",
+      "brand": "Lenovo",
+      "specs": {
+        "ram": "8GB",
+        "storage": "64 GB"
+      },
+      "timestamp": "2026-08-25T13:51:05.491819+00:00",
+      "failure_reason": null
+    },
+    "mercadolibre-co": {
+      "target_id": "mercadolibre-co",
+      "retailer": "Mercadolibre",
+      "country": "Colombia",
+      "domain": "mercadolibre.com.co",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://articulo.mercadolibre.com.co/MCO-3978618300-hp-notebook-156-hd-intel-n250-4gb-128gb-windows-_JM",
+      "title": "Hp Notebook 15.6 Hd Intel N250 4gb 128gb Windows",
+      "brand": "HP",
+      "specs": {
+        "ram": "4GB",
+        "storage": "128GB "
+      },
+      "timestamp": "2026-08-25T14:23:57.337362+00:00",
+      "failure_reason": null
+    },
+    "mercadolibre-mx": {
+      "target_id": "mercadolibre-mx",
+      "retailer": "Mercadolibre",
+      "country": "Mexico",
+      "domain": "mercadolibre.com.mx",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://articulo.mercadolibre.com.mx/MLM-3346762877-thickened-color-brick-notebook-a5-720-hardcover-journal-_JM",
+      "title": "Thickened Color Brick Notebook A5 720 Hardcover Journal,",
+      "brand": "Mercadolibre",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:23:51.538250+00:00",
+      "failure_reason": null
+    },
+    "mercadolivre-br": {
+      "target_id": "mercadolivre-br",
+      "retailer": "Mercadolibre",
+      "country": "Brazil",
+      "domain": "mercadolivre.com.br",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://produto.mercadolivre.com.br/MLB-7154129204-notebook-with-economical-loose-leaf-folders-with-envelopes-_JM",
+      "title": "Notebook With Economical Loose-leaf Folders With Envelopes",
+      "brand": "Mercadolibre",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:23:47.788735+00:00",
+      "failure_reason": null
+    },
+    "monsternotebook-tr": {
+      "target_id": "monsternotebook-tr",
+      "retailer": "Monster Notebook",
+      "country": "Turkey",
+      "domain": "monsternotebook.com.tr",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SERP_DISCOVERY",
+      "method": "Bright Data SDK (SERP discovery)",
+      "url": "https://www.monsternotebook.com.tr/64-gb-ram/?srsltid=AfmBOoo6Q7v2VyF8mpTkXcGtuEFJvVVMK7QRDBy1qddmddWVfHmpiWhR",
+      "title": "64 GB RAM'li Laptoplar",
+      "brand": "Monster Notebook",
+      "specs": {
+        "ram": "64GB",
+        "storage": "64 GB "
+      },
+      "timestamp": "2026-08-25T13:14:10.301558+00:00",
+      "failure_reason": null
+    },
+    "newegg-us": {
+      "target_id": "newegg-us",
+      "retailer": "Newegg",
+      "country": "United States",
+      "domain": "newegg.com",
+      "can_scrape": "YES",
+      "strategy": "FIRECRAWL_RESCUE",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.newegg.com/p/pl?d=laptop&srsltid=AfmBOoqvTC_UTpJUTivKkQsk_68n24QcQ2eEWVNjrDPJqlOqK68SCmgg",
+      "title": "Laptops and Notebooks Computers",
+      "brand": "Newegg",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:21:36.043392+00:00",
+      "failure_reason": null
+    },
+    "officeworks-au": {
+      "target_id": "officeworks-au",
+      "retailer": "Officeworks",
+      "country": "Australia",
+      "domain": "officeworks.com.au",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.officeworks.com.au/shop/officeworks/p/hp-15-6-15-fd0943tu-n150-4-128gb-notebook-hpd90s3pa",
+      "title": "HP 15.6” N150 4/128GB Laptop",
+      "brand": "HP",
+      "specs": {
+        "storage": "128GB "
+      },
+      "timestamp": "2026-08-25T14:22:36.174231+00:00",
+      "failure_reason": null
+    },
+    "reliancedigital-in": {
+      "target_id": "reliancedigital-in",
+      "retailer": "Reliance Digital",
+      "country": "India",
+      "domain": "reliancedigital.in",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.reliancedigital.in/product/hp-pavilion-eg3081tu-laptop-13th-gen-intel-core-i5-1340p16gb512gb-ssdamd-radeon-graphicswindows-11-homemsofhd-3962cm-156-inch-lk8efd",
+      "title": "HP Pavilion EG3081TU Laptop (13th Gen Intel Core i5-1340P/16GB/512GB SSD/Intel Iris Xe Graphics/Windows 11 Home/MSO/FHD), 39.62cm (15.6 inch)",
+      "brand": "HP",
+      "specs": {
+        "screen_size": "15.6\"",
+        "cpu": "Intel Core I5-1340P",
+        "gpu": "INTEL IRIS XE",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "os": "Windows 11"
+      },
+      "timestamp": "2026-08-25T13:50:18.142801+00:00",
+      "failure_reason": null
+    },
+    "staples-us": {
+      "target_id": "staples-us",
+      "retailer": "Staples",
+      "country": "United States",
+      "domain": "staples.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data Web Unlocker",
+      "url": "https://www.staples.com/hp-15-fd0083wm-15-6-laptop-intel-core-i3-n305-8gb-memory-256gb-ssd-windows-11-802k7ua-aba/product_24564883",
+      "title": "HP 15-fd0083wm 15.6\" Laptop, Intel Core i3-N305, 8GB Memory, 256GB SSD",
+      "brand": "HP",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:16:50.985513+00:00",
+      "failure_reason": null
+    },
+    "terg-pl": {
+      "target_id": "terg-pl",
+      "retailer": "Terg",
+      "country": "Poland",
+      "domain": "mediaexpert.pl",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/chuwi?srsltid=AfmBOoqPtUP8hLv439M33Zr-2kmRC2WQOzHCvAylb4Dz3_fjIafQpyfe",
+      "title": "Laptopy CHUWI - niskie ceny i setki opinii w Media Expert",
+      "brand": "Terg",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:24:04.288418+00:00",
+      "failure_reason": null
+    },
+    "thegioididong-vn": {
+      "target_id": "thegioididong-vn",
+      "retailer": "Thegioididong",
+      "country": "Vietnam",
+      "domain": "thegioididong.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.thegioididong.com/laptop-asus",
+      "title": "Máy tính, laptop ASUS (i3 - i9) góp 0%, đáp ứng mọi nhu ...",
+      "brand": "ASUS",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:22:54.061866+00:00",
+      "failure_reason": null
+    },
+    "tmall-cn": {
+      "target_id": "tmall-cn",
+      "retailer": "Tmall",
+      "country": "China",
+      "domain": "tmall.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SERP_DISCOVERY",
+      "method": "SERP→Direct",
+      "url": "https://detail.tmall.com/item.htm?id=654819482103",
+      "title": "Lenovo/联想拯救者R9000P y7000p高配电竞独显游戏i7笔记本电脑",
+      "brand": "Lenovo",
+      "specs": {},
+      "timestamp": "2026-08-25T14:01:44.732757+00:00"
+    },
+    "unieuro-it": {
+      "target_id": "unieuro-it",
+      "retailer": "Unieuro",
+      "country": "Italy",
+      "domain": "unieuro.it",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.unieuro.it/online/Notebook/PB14250-pidDLLMRWT8?srsltid=AfmBOorfnznsL8aFEsV0S0nFEswbJ7DGqMG6QpvthhQ6cj6rodarfFLR",
+      "title": "DELL Pro 14 Plus PB14250 Intel Core Ultra 7 255U ...",
+      "brand": "Dell",
+      "specs": {
+        "cpu": "Intel Core Ultra 7"
+      },
+      "timestamp": "2026-08-25T14:23:00.585498+00:00",
+      "failure_reason": null
+    },
+    "walmart-us": {
+      "target_id": "walmart-us",
+      "retailer": "Walmart",
+      "country": "United States",
+      "domain": "walmart.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+      "method": "Bright Data SERP & Web Unlocker",
+      "url": "https://www.walmart.com/ip/ASUS-ROG-Strix-G16-2025-16-Gaming-Laptop-Ryzen-9-TBD-16GB-RTX-50XX-1TB-SSD-G614FM-WS94/13567365941",
+      "title": "ASUS ROG Strix G16 (2025) Gaming Laptop, 16” WUXGA ...",
+      "brand": "ASUS",
+      "specs": {
+        "type": "Laptop Computer"
+      },
+      "timestamp": "2026-08-25T14:21:09.823052+00:00",
+      "failure_reason": null
+    },
+    "yodobashi-jp": {
+      "target_id": "yodobashi-jp",
+      "retailer": "Yodobashi",
+      "country": "Japan",
+      "domain": "yodobashi.com",
+      "can_scrape": "YES",
+      "strategy": "BRIGHTDATA_SDK_SCRAPE",
+      "method": "Search→Direct",
+      "url": "https://www.yodobashi.com/product/100000001008607013/",
+      "title": "レノボ Lenovoノートパソコン/ThinkBook 15 Gen 4/15.6型/Core i5-1235U/メモリ 16GB/SSD 256GB/Windows 10 Pro（11DG）/ミネラルグレー 21DJ00GRJP",
+      "brand": "Yodobashi",
+      "specs": {
+        "cpu": "I5-1235U",
+        "ram": "16GB",
+        "storage": "256GB",
+        "os": "Windows 10"
+      },
+      "timestamp": "2026-08-25T13:50:28.043305+00:00",
+      "failure_reason": null
+    }
+  }
+}

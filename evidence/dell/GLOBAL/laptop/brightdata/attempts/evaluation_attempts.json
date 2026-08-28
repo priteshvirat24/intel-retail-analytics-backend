@@ -1,0 +1,80 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.dell.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 7018.3,
+    "bytes": 338471,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=alienware-product-line",
+    "status_code": 200,
+    "latency_ms": 8825.0,
+    "product_title": "Alienware Laptop Computers",
+    "brand": null,
+    "price": 109.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.75,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.75 < 0.70)",
+    "waf_detected": "Google reCAPTCHA"
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=xps-product-line",
+    "status_code": 200,
+    "latency_ms": 21817.6,
+    "product_title": "XPS Laptop Computers",
+    "brand": null,
+    "price": 699.99,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.85,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.85 < 0.70)",
+    "waf_detected": "Google reCAPTCHA"
+  },
+  {
+    "candidate_index": 3,
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=dell-pro-product-line",
+    "status_code": 200,
+    "latency_ms": 11232.5,
+    "product_title": "Dell Pro Laptop Computers",
+    "brand": "DELL",
+    "price": 108.0,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.55,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.55 < 0.70)",
+    "waf_detected": "Google reCAPTCHA"
+  },
+  {
+    "candidate_index": 4,
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=dell-product-line",
+    "status_code": 200,
+    "latency_ms": 10205.0,
+    "product_title": "Dell Laptops & Laptop Computers",
+    "brand": "DELL",
+    "price": 659.99,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.65,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.65 < 0.70)",
+    "waf_detected": "Google reCAPTCHA"
+  },
+  {
+    "candidate_index": 5,
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=dell-chromebook-product-line",
+    "status_code": 200,
+    "latency_ms": 11310.5,
+    "product_title": "Dell Chromebook Laptop Computers",
+    "brand": "DELL",
+    "price": 489.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "Google reCAPTCHA"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.costco.com/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 35236.9,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.costco.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 5687.4,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.costco.com/laptops",
+    "status_code": 200,
+    "latency_ms": 2618.8,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.costco.com/p/-/dell-156-touchscreen-laptop-intel-core-ultra-7-255u-fhd-1920x1080-16gb-ram-1tb-ssd-carbon-black-windows-11-home/4000449542",
+    "status_code": 0,
+    "latency_ms": 52827.3,
+    "product_title": null,
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  }
+]

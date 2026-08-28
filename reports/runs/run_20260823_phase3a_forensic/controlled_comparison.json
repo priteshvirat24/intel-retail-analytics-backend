@@ -1,0 +1,282 @@
+{
+  "HTTP": {
+    "attempts": 10,
+    "successful_content": 4,
+    "product_identification": 4,
+    "extraction_success": 4,
+    "validation_success": 2,
+    "latencies": [
+      7735.178709030151,
+      2035.1648330688477,
+      1465.770959854126,
+      4516.419172286987,
+      7246.59276008606,
+      752.072811126709,
+      698.1790065765381,
+      2274.9509811401367,
+      2922.5878715515137,
+      1706.770896911621
+    ],
+    "bytes_received": 3630058,
+    "browser_seconds": 0.0,
+    "per_sku": [
+      {
+        "target_id": "reliancedigital-in",
+        "url": "https://www.reliancedigital.in/product/sku_0012",
+        "status_code": 200,
+        "bytes": 494971,
+        "latency_ms": 7735.178709030151,
+        "content_ok": true,
+        "identified": true,
+        "extracted": true,
+        "validated": false
+      },
+      {
+        "target_id": "elkjop-no",
+        "url": "https://www.elkjop.no/product/sku_0001",
+        "status_code": 429,
+        "bytes": 33835,
+        "latency_ms": 2035.1648330688477,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "elkjop-se",
+        "url": "https://www.elgiganten.se/product/sku_0001",
+        "status_code": 429,
+        "bytes": 33843,
+        "latency_ms": 1465.770959854126,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "elkjop-dk",
+        "url": "https://www.elgiganten.dk/product/sku_0001",
+        "status_code": 429,
+        "bytes": 33834,
+        "latency_ms": 4516.419172286987,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "magazineluiza-br",
+        "url": "https://www.magazineluiza.com.br/product/sku_0001",
+        "status_code": 200,
+        "bytes": 514322,
+        "latency_ms": 7246.59276008606,
+        "content_ok": true,
+        "identified": true,
+        "extracted": true,
+        "validated": false
+      },
+      {
+        "target_id": "expert-de",
+        "url": "https://www.expert.de/product/sku_0018",
+        "status_code": 403,
+        "bytes": 4325,
+        "latency_ms": 752.072811126709,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "euronics-it",
+        "url": "https://www.euronics.it/product/sku_0010",
+        "status_code": 404,
+        "bytes": 56066,
+        "latency_ms": 698.1790065765381,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "amazon-de",
+        "url": "https://www.amazon.de/dp/B09G91LXFP",
+        "status_code": 200,
+        "bytes": 981804,
+        "latency_ms": 2274.9509811401367,
+        "content_ok": true,
+        "identified": true,
+        "extracted": true,
+        "validated": true
+      },
+      {
+        "target_id": "amazon-br",
+        "url": "https://www.amazon.com.br/dp/B09G9FPHY6",
+        "status_code": 200,
+        "bytes": 1317625,
+        "latency_ms": 2922.5878715515137,
+        "content_ok": true,
+        "identified": true,
+        "extracted": true,
+        "validated": true
+      },
+      {
+        "target_id": "boulanger-fr",
+        "url": "https://www.boulanger.com/product/sku_0001",
+        "status_code": 404,
+        "bytes": 159433,
+        "latency_ms": 1706.770896911621,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      }
+    ],
+    "average_latency_ms": 3135.368800163269,
+    "p95_latency_ms": 7735.178709030151
+  },
+  "PLAYWRIGHT": {
+    "attempts": 10,
+    "successful_content": 3,
+    "product_identification": 3,
+    "extraction_success": 3,
+    "validation_success": 2,
+    "latencies": [
+      6987.159967422485,
+      3434.696912765503,
+      3833.193063735962,
+      3251.6279220581055,
+      4703.495025634766,
+      4102.90789604187,
+      7589.117765426636,
+      8877.197980880737,
+      11165.179014205933,
+      4111.237049102783
+    ],
+    "bytes_received": 2147132,
+    "browser_seconds": 58.05581259727478,
+    "per_sku": [
+      {
+        "target_id": "reliancedigital-in",
+        "url": "https://www.reliancedigital.in/product/sku_0012",
+        "status_code": 200,
+        "bytes": 67778,
+        "latency_ms": 6987.159967422485,
+        "browser_seconds": 6.987159967422485,
+        "content_ok": true,
+        "identified": true,
+        "extracted": true,
+        "validated": false
+      },
+      {
+        "target_id": "elkjop-no",
+        "url": "https://www.elkjop.no/product/sku_0001",
+        "status_code": 429,
+        "bytes": 33950,
+        "latency_ms": 3434.696912765503,
+        "browser_seconds": 3.434696912765503,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "elkjop-se",
+        "url": "https://www.elgiganten.se/product/sku_0001",
+        "status_code": 429,
+        "bytes": 32593,
+        "latency_ms": 3833.193063735962,
+        "browser_seconds": 3.833193063735962,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "elkjop-dk",
+        "url": "https://www.elgiganten.dk/product/sku_0001",
+        "status_code": 429,
+        "bytes": 33956,
+        "latency_ms": 3251.6279220581055,
+        "browser_seconds": 3.2516279220581055,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "magazineluiza-br",
+        "url": "https://www.magazineluiza.com.br/product/sku_0001",
+        "status_code": 403,
+        "bytes": 1083,
+        "latency_ms": 4703.495025634766,
+        "browser_seconds": 4.703495025634766,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "expert-de",
+        "url": "https://www.expert.de/product/sku_0018",
+        "status_code": 403,
+        "bytes": 7390,
+        "latency_ms": 4102.90789604187,
+        "browser_seconds": 4.10290789604187,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "euronics-it",
+        "url": "https://www.euronics.it/product/sku_0010",
+        "status_code": 404,
+        "bytes": 296848,
+        "latency_ms": 7589.117765426636,
+        "browser_seconds": 7.589117765426636,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      },
+      {
+        "target_id": "amazon-de",
+        "url": "https://www.amazon.de/dp/B09G91LXFP",
+        "status_code": 200,
+        "bytes": 1052948,
+        "latency_ms": 8877.197980880737,
+        "browser_seconds": 8.877197980880737,
+        "content_ok": true,
+        "identified": true,
+        "extracted": true,
+        "validated": true
+      },
+      {
+        "target_id": "amazon-br",
+        "url": "https://www.amazon.com.br/dp/B09G9FPHY6",
+        "status_code": 200,
+        "bytes": 620338,
+        "latency_ms": 11165.179014205933,
+        "browser_seconds": 11.165179014205933,
+        "content_ok": true,
+        "identified": true,
+        "extracted": true,
+        "validated": true
+      },
+      {
+        "target_id": "boulanger-fr",
+        "url": "https://www.boulanger.com/product/sku_0001",
+        "status_code": 400,
+        "bytes": 248,
+        "latency_ms": 4111.237049102783,
+        "browser_seconds": 4.111237049102783,
+        "content_ok": false,
+        "identified": false,
+        "extracted": false,
+        "validated": false
+      }
+    ],
+    "average_latency_ms": 5805.581259727478,
+    "p95_latency_ms": 11165.179014205933
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "target_id": "unieuro-it",
+  "retailer": "Unieuro",
+  "country": "Italy",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Google reCAPTCHA)",
+  "domain_validation": {
+    "domain": "unieuro.it",
+    "base_url": "https://www.unieuro.it",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.unieuro.it/online/",
+    "robots_txt_found": true,
+    "sitemaps_found": [
+      "https://www.unieuro.it/sitemap.xml"
+    ],
+    "waf_detected": "Google reCAPTCHA",
+    "latency_ms": 2396.1
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.unieuro.it/search?q=laptop",
+      "status": 200,
+      "latency_ms": 3427.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.unieuro.it/search?q=notebook",
+      "status": 200,
+      "latency_ms": 4572.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.unieuro.it/s?k=laptop",
+      "status": 200,
+      "latency_ms": 3576.2,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.unieuro.it/s?k=notebook",
+      "status": 200,
+      "latency_ms": 4880.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.unieuro.it/laptops",
+      "status": 200,
+      "latency_ms": 4151.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.unieuro.it",
+      "candidates_found": 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.newegg.com/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 30891.0,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.newegg.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 23849.3,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.newegg.com/laptops",
+    "status_code": 200,
+    "latency_ms": 19003.9,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.newegg.com/p/N82E16826197674?Item=N82E16826197674",
+    "status_code": 200,
+    "latency_ms": 9276.1,
+    "product_title": "Logitech PRO X2 SUPERSTRIKE LIGHTSPEED Wireless Gaming Mouse, Ultra-Fast Performance, Ultra Lightweight (61 g), Customizable Click Haptics, USB-C charging, for PC/Mac/Laptop",
+    "brand": null,
+    "price": 179.99,
+    "product_class": "PERIPHERAL",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Rejected as PERIPHERAL: Computer Mouse / Peripheral",
+    "waf_detected": "Cloudflare WAF"
+  }
+]

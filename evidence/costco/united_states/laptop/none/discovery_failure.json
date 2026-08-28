@@ -1,0 +1,62 @@
+{
+  "target_id": "costco-us",
+  "retailer": "Costco",
+  "country": "United States",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (Akamai Bot Manager)",
+  "domain_validation": {
+    "domain": "costco.com",
+    "base_url": "https://www.costco.com",
+    "http_status": 200,
+    "redirect_chain": [],
+    "final_url": "https://www.costco.com",
+    "robots_txt_found": true,
+    "sitemaps_found": [
+      "https://www.costco.com/sitemap_lw_index.xml"
+    ],
+    "waf_detected": "Akamai Bot Manager",
+    "latency_ms": 973.4
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.costco.com/search?q=laptop",
+      "status": 404,
+      "latency_ms": 1346.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.costco.com/search?q=notebook",
+      "status": 404,
+      "latency_ms": 1374.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.costco.com/s?k=laptop",
+      "status": 403,
+      "latency_ms": 293.8,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.costco.com/s?k=notebook",
+      "status": 403,
+      "latency_ms": 302.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.costco.com/laptops",
+      "status": 404,
+      "latency_ms": 1567.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.costco.com",
+      "candidates_found": 0
+    }
+  ]
+}

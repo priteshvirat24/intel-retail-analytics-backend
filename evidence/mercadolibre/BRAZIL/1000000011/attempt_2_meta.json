@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 404,
+  "response_time_ms": 6427.91,
+  "browser_seconds": 9.77,
+  "bytes_received": 9160,
+  "success": false,
+  "evidence_path": "evidence/mercadolibre/BRAZIL/1000000011/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/mercadolibre/BRAZIL/1000000011/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T09:43:43.996658+00:00"
+}

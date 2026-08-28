@@ -1,0 +1,17 @@
+{
+  "target_id": "mercadolivre-br",
+  "retailer": "Mercadolibre",
+  "country": "Brazil",
+  "country_iso": "br",
+  "url": "https://lista.mercadolivre.com.br/informatica/portateis-acessorios/acessorios-notebook/#menu=categories",
+  "status_code": 0,
+  "response_time_ms": 112070.4,
+  "can_scrape": "NO",
+  "confidence_score": 0.0,
+  "product_name": null,
+  "brand": null,
+  "price": null,
+  "currency": null,
+  "sku": null,
+  "reason": "Bright Data Connection Timeout: All connection attempts failed"
+}

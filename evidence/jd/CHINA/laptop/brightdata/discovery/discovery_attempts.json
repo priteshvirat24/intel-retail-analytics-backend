@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.jd.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 5696.8,
+    "bytes": 13395,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.jd.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 6262.8,
+    "bytes": 13395,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.jd.com/laptops",
+    "status_code": 200,
+    "latency_ms": 9101.3,
+    "bytes": 13395,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "retailer": "Amazon",
+  "country": "Spain",
+  "product_url": "https://www.amazon.es/Acer-Chromebook-CB315-8H-MMC-Almacenamiento/dp/B0G5RRCM96/ref=sr_1_6?dib=eyJ2IjoiMSJ9.LSAvgYg-Fn5l4Vg0x7Mo0zAajGmt1UytYZxSNZGAfYyiHY9OPjg_vAPITqZH0abVlv7LuCMrLh4BX1FA2HV37oFgSLx3ctag_wnuBCyGBG4qLSiOzD_DGF5uKU2uhTx8kVDYUUb9zuvSe2KtAhWV2_pZnfB5iuvQrw3ZhUno_8iCLbOGxr4KurvOTKYbwGFsPSj4k6rT9ZGFmX_lGQGBs_Ht-qxGpSbt0l7m65YsjKyPiZwVIWhXDUAN6Th9KpL_e0ZHfQ2vUb-Pc1lTutg_gCa9HNw6rtRVKH6nhOV8a-8.Brq3hFiziUcxxsopg-kX4UwibRdbgCP6Gheb_xOLgnU&dib_tag=se&keywords=portatil&qid=1787648014&sr=8-6",
+  "product_title": "Acer Chromebook 315, Port\u00e1til 15.6\" FullHD, Kompanio 540, 4GB RAM, 64GB",
+  "brand": "ACER",
+  "model_or_sku": "B0G5RRCM96",
+  "price": 33299.0,
+  "currency": null,
+  "specs": {
+    "screen_size": "15.6\"",
+    "ram": "4GB"
+  },
+  "validation_score": 1.0,
+  "source_strategy": "BRIGHTDATA_BROWSER_ESCALATION",
+  "timestamp": "2026-08-25T08:54:02.836723+00:00"
+}

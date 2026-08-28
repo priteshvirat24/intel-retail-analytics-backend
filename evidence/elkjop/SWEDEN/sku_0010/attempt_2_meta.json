@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 429,
+  "response_time_ms": 6432.97,
+  "browser_seconds": 7.29,
+  "bytes_received": 33966,
+  "success": false,
+  "evidence_path": "evidence/elkjop/SWEDEN/sku_0010/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/elkjop/SWEDEN/sku_0010/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:38:34.203043+00:00"
+}

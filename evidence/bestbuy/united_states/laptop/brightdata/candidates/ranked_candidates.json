@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://www.bestbuy.com/product/asus-proart-pz13-13-oled-3k-detachable-laptop-copilot-pc-snapdragon-x-plus-16gb-memory-1tb-ssd-nano-black/JJGGLQ6Z4X",
+    "score": 0.95,
+    "anchor": "Verified Candidate Seed"
+  },
+  {
+    "url": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+    "score": 0.8,
+    "anchor": "laptops"
+  },
+  {
+    "url": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+    "score": 0.8,
+    "anchor": "all laptops"
+  },
+  {
+    "url": "https://www.bestbuy.com/site/computer-accessories/laptop-accessories/abcat0515025.c?id=abcat0515025",
+    "score": 0.8,
+    "anchor": "for laptops"
+  },
+  {
+    "url": "https://www.bestbuy.com/site/laptop-computers/4k-laptops/pcmcat1692811535241.c?id=pcmcat1692811535241",
+    "score": 0.8,
+    "anchor": ""
+  },
+  {
+    "url": "https://www.bestbuy.com/site/laptop-computers/touchscreen-laptops/pcmcat1706899703384.c?id=pcmcat1706899703384",
+    "score": 0.8,
+    "anchor": ""
+  },
+  {
+    "url": "https://www.bestbuy.com/site/laptop-computers/laptops-under-500/pcmcat1516833528361.c?id=pcmcat1516833528361",
+    "score": 0.8,
+    "anchor": ""
+  },
+  {
+    "url": "https://www.bestbuy.com/site/computer-memory/laptop-memory/abcat0506002.c?id=abcat0506002",
+    "score": 0.8,
+    "anchor": "ram"
+  },
+  {
+    "url": "https://www.bestbuy.com/site/laptop-accessories/laptop-batteries/pcmcat183800050006.c?id=pcmcat183800050006",
+    "score": 0.8,
+    "anchor": "battery"
+  },
+  {
+    "url": "https://www.bestbuy.com/site/laptop-accessories/docking-stations/pcmcat251600050011.c?id=pcmcat251600050011",
+    "score": 0.8,
+    "anchor": "docking station"
+  },
+  {
+    "url": "https://www.bestbuy.com/site/laptop-cases/laptop-briefcases/pcmcat1511903271225.c?id=pcmcat1511903271225",
+    "score": 0.8,
+    "anchor": "briefcase"
+  }
+]

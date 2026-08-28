@@ -1,0 +1,23 @@
+{
+  "run_id": "run_20260823_162214_laptop52",
+  "timestamp": "2026-08-23 16:27:42 UTC",
+  "benchmark": "52-Target Laptop Crawlability Benchmark",
+  "total_targets": 52,
+  "crawlable_targets": 1,
+  "not_crawlable_targets": 51,
+  "overall_crawlability_pct": 1.9,
+  "strategy_stats": {
+    "HTTP": {
+      "reachable": 45,
+      "crawlable": 1
+    },
+    "PLAYWRIGHT": {
+      "reachable": 24,
+      "crawlable": 1
+    },
+    "FIRECRAWL": {
+      "reachable": 52,
+      "crawlable": 0
+    }
+  }
+}

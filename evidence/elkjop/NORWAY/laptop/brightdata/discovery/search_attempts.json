@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.elkjop.no/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 17703.7,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.elkjop.no/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 15733.4,
+    "html_bytes": 456926
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.elkjop.no/laptops",
+    "status_code": 200,
+    "latency_ms": 15092.1,
+    "html_bytes": 72
+  }
+]

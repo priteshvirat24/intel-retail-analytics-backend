@@ -1,0 +1,13 @@
+{
+  "target_id": "dell-global",
+  "retailer": "Dell",
+  "country": "Global",
+  "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops",
+  "strategy": "HTTP",
+  "status_code": 200,
+  "final_url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops",
+  "crawlable": false,
+  "failure_reason": "AKAMAI_BOT_MANAGER_BLOCK",
+  "anti_bot_vendor": "Akamai Bot Manager",
+  "latency_ms": 1530.0
+}

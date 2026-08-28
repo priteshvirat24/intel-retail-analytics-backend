@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=alienware-product-line",
+    "score": 30.0,
+    "anchor": "Alienware Laptops"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=xps-product-line",
+    "score": 30.0,
+    "anchor": "XPS Laptops"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=dell-pro-product-line",
+    "score": 30.0,
+    "anchor": "Latitude Laptops"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=dell-product-line",
+    "score": 30.0,
+    "anchor": "Inspiron Laptops"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=dell-chromebook-product-line",
+    "score": 30.0,
+    "anchor": "Chromebook Laptops"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/desktop-computers/scr/desktops/gaming/appref=alienware-product-line",
+    "score": 30.0,
+    "anchor": "Alienware Desktop PCs"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/desktop-computers/scr/desktops/appref=alienware-product-line",
+    "score": 30.0,
+    "anchor": "Alienware Desktops"
+  },
+  {
+    "url": "https://www.dell.com/en-us/gaming/alienware",
+    "score": 30.0,
+    "anchor": "View All Alienware"
+  },
+  {
+    "url": "https://www.dell.com/en-us/gaming/alienware-laptops",
+    "score": 30.0,
+    "anchor": "Alienware Gaming Laptops"
+  },
+  {
+    "url": "https://www.dell.com/en-us/gaming/alienware-desktops",
+    "score": 30.0,
+    "anchor": "Alienware Gaming Desktops"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/gaming-accessories/ar/8222/alienware?appliedRefinements=338",
+    "score": 30.0,
+    "anchor": "Alienware Gaming Accessories"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/cty/pdp/spd/xps13dx13260laptop",
+    "score": 30.0,
+    "anchor": "Meet The New XPS 13"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=64-gb-memory",
+    "score": 25.0,
+    "anchor": "64GB RAM Laptop"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=32-gb-memory",
+    "score": 25.0,
+    "anchor": "32GB RAM Laptop"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=16-gb-memory",
+    "score": 25.0,
+    "anchor": "16GB RAM Laptop"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops/appref=8-gb-memory",
+    "score": 25.0,
+    "anchor": "8GB RAM Laptop"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/deals/pc-laptop-deals",
+    "score": 25.0,
+    "anchor": "Laptop Deals"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/dell-16-plus-laptop/spd/dell-db16250-laptop",
+    "score": 25.0,
+    "anchor": "Shop Dell 16 Plus"
+  },
+  {
+    "url": "https://www.dell.com/en-us/work/shop/cty/pdp/spd/dell-ds14260-laptop",
+    "score": 25.0,
+    "anchor": "Dell 14S Laptop"
+  },
+  {
+    "url": "https://www.dell.com/en-us/work/shop/cty/pdp/spd/dell-ds16260-laptop",
+    "score": 25.0,
+    "anchor": "Dell 16S Laptop"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/cty/pdp/spd/dell-pro-precision-pw514260-laptop",
+    "score": 25.0,
+    "anchor": "Shop Dell Pro Precision 5 14S"
+  },
+  {
+    "url": "https://www.dell.com/en-us/shop/cty/pdp/spd/dell-pro-precision-pw516260-laptop",
+    "score": 25.0,
+    "anchor": "Shop Dell Pro Precision 5 16S"
+  }
+]

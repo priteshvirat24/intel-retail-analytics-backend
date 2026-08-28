@@ -1,0 +1,16 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.euronics.it/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 15290.8,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.euronics.it/ricerca?q=notebook",
+    "status_code": 200,
+    "latency_ms": 15076.6,
+    "html_bytes": 72
+  }
+]

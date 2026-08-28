@@ -1,0 +1,47 @@
+{
+  "run_id": "run_20260823_160418_matrix",
+  "timestamp": "2026-08-23T16:11:04.920406+00:00",
+  "target_count": 7,
+  "sku_limit": 5,
+  "population_count": 35,
+  "targets": [
+    "amazon-de",
+    "amazon-us",
+    "bestbuy-us",
+    "walmart-us",
+    "boulanger-fr",
+    "mediamarkt-de",
+    "elkjop-no"
+  ],
+  "strategies_enabled": [
+    "HTTP",
+    "PLAYWRIGHT",
+    "FIRECRAWL"
+  ],
+  "firecrawl_version": "v2.11.0",
+  "firecrawl_commit": "ca0be9b7d91eb9b48d3430f5678211f0d47e1d90",
+  "firecrawl_base_url": "http://localhost:3008",
+  "results_summary": {
+    "HTTP": {
+      "attempts": 35,
+      "reached": 34,
+      "content_ok": 2,
+      "validated": 0,
+      "avg_latency_ms": 1928.07
+    },
+    "PLAYWRIGHT": {
+      "attempts": 35,
+      "reached": 30,
+      "content_ok": 1,
+      "validated": 0,
+      "avg_latency_ms": 6076.27
+    },
+    "FIRECRAWL": {
+      "attempts": 35,
+      "reached": 35,
+      "content_ok": 0,
+      "validated": 0,
+      "avg_latency_ms": 3129.2
+    }
+  }
+}

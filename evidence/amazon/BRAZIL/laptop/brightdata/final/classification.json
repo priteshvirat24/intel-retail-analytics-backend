@@ -1,0 +1,22 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 1.0,
+  "detected_brand": "ASUS",
+  "model_or_sku": "asus-vivobook",
+  "extracted_specs": {
+    "cpu": "Ryzen 5",
+    "storage": "256GB SSD",
+    "os": "Keepos"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'notebook'",
+    "Laptop family: 'vivobook'",
+    "Brand: 'ASUS'",
+    "CPU: Ryzen 5",
+    "Storage: 256GB SSD",
+    "OS: Keepos"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

@@ -1,0 +1,21 @@
+{
+  "retailer": "Flipkart",
+  "country": "India",
+  "product_url": "https://1.www.flipkart.com/lenovo-ideapad-slim-3-1yr-adp-amd-ryzen-5-quad-core-7520u-16-gb-512-gb-ssd-windows-11-home-15amn8-thin-light-laptop/p/itm76f0e5d975817?pid=COMGRU9ZYEHC4H5K&lid=LSTCOMGRU9ZYEHC4H5KTXYNJ3&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D",
+  "title": "Lenovo IdeaPad Slim 3 with 1Yr ADP AMD Ryzen 5 Quad Core 7520U - ... more",
+  "brand": "Lenovo",
+  "model": "amd-ryzen",
+  "sku": "amd-ryzen",
+  "price": null,
+  "currency": "INR",
+  "availability": "InStock",
+  "cpu": "Core 7520U",
+  "ram": null,
+  "storage": null,
+  "display": null,
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:06:14.671973Z"
+}

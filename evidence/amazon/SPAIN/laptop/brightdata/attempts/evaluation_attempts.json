@@ -1,0 +1,38 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.amazon.es/s?k=portatil",
+    "status_code": 200,
+    "latency_ms": 7094.3,
+    "bytes": 1986296,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.amazon.es/dp/B08N5WRW88",
+    "status_code": 200,
+    "latency_ms": 3876.6,
+    "product_title": null,
+    "brand": null,
+    "price": null,
+    "product_class": "OTHER",
+    "is_genuine_laptop": false,
+    "confidence_score": 0.0,
+    "rejection_reason": "Insufficient laptop confidence (Score: 0.0 < 0.70)",
+    "waf_detected": null
+  },
+  {
+    "candidate_index": 2,
+    "url": "https://www.amazon.es/Acer-Chromebook-CB315-8H-MMC-Almacenamiento/dp/B0G5RRCM96/ref=sr_1_6?dib=eyJ2IjoiMSJ9.LSAvgYg-Fn5l4Vg0x7Mo0zAajGmt1UytYZxSNZGAfYyiHY9OPjg_vAPITqZH0abVlv7LuCMrLh4BX1FA2HV37oFgSLx3ctag_wnuBCyGBG4qLSiOzD_DGF5uKU2uhTx8kVDYUUb9zuvSe2KtAhWV2_pZnfB5iuvQrw3ZhUno_8iCLbOGxr4KurvOTKYbwGFsPSj4k6rT9ZGFmX_lGQGBs_Ht-qxGpSbt0l7m65YsjKyPiZwVIWhXDUAN6Th9KpL_e0ZHfQ2vUb-Pc1lTutg_gCa9HNw6rtRVKH6nhOV8a-8.Brq3hFiziUcxxsopg-kX4UwibRdbgCP6Gheb_xOLgnU&dib_tag=se&keywords=portatil&qid=1787648014&sr=8-6",
+    "status_code": 200,
+    "latency_ms": 8347.3,
+    "product_title": "Acer Chromebook 315, Port\u00e1til 15.6\" FullHD, Kompanio 540, 4GB RAM, 64GB",
+    "brand": "ACER",
+    "price": 33299.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "Akamai Bot Manager"
+  }
+]

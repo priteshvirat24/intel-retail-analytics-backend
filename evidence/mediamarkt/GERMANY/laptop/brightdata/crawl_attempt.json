@@ -1,0 +1,17 @@
+{
+  "target_id": "mediamarkt-de",
+  "retailer": "Mediamarkt",
+  "country": "Germany",
+  "country_iso": "de",
+  "url": "https://www.mediamarkt.de/de/product/_esd-livesafe-device-attach-2767961.html",
+  "status_code": 200,
+  "response_time_ms": 16650.4,
+  "can_scrape": "YES",
+  "confidence_score": 0.9,
+  "product_name": "McAfee LiveSafe Attach f\u00fcr alle Ger\u00e4te in einem Haushalt, 1 Jahr, mit einer automatischen Verl\u00e4ngerung Download Code [PC, iOS, Mac, Android] - [Multiplattform]",
+  "brand": null,
+  "price": 85.0,
+  "currency": null,
+  "sku": null,
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (McAfee LiveSafe Attach f\u00fcr alle Ger\u00e4te in einem Haushalt, 1 Jahr, mit einer automatischen Verl\u00e4ngerung Download Code [PC, iOS, Mac, Android] - [Multiplattform] | Brand: \u2014 | Price: 85.0 USD | SKU: \u2014)"
+}

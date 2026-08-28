@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mediaworld.it/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 16460.8,
+    "bytes": 1306625,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

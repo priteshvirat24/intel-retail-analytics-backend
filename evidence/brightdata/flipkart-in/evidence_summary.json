@@ -1,0 +1,18 @@
+{
+  "target_id": "flipkart-in",
+  "retailer": "Flipkart",
+  "country": "India",
+  "domain": "flipkart.com",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.flipkart.com/realme-p4-power-5g-transorange-256-gb/p/itm49784b322aad0",
+  "title": "realme P4 Power 5G (TransSilver, 256 GB) (8 GB RAM)",
+  "brand": "Flipkart",
+  "specs": {
+    "ram": "8GB",
+    "storage": "256 GB"
+  },
+  "timestamp": "2026-08-25T14:22:40.394940+00:00",
+  "failure_reason": null
+}

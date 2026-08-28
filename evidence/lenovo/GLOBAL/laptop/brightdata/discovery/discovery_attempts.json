@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.lenovo.com/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 47439.4,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.lenovo.com/search?q=laptop",
+    "status_code": 0,
+    "latency_ms": 65232.1,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.lenovo.com/laptops",
+    "status_code": 0,
+    "latency_ms": 29481.7,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

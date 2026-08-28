@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.gmarket.co.kr/search?q=\ub178\ud2b8\ubd81",
+    "status_code": 0,
+    "latency_ms": 41627.5,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

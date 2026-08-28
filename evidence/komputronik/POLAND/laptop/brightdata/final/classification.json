@@ -1,0 +1,17 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 0.7,
+  "detected_brand": "MSI",
+  "model_or_sku": "i7-14650hx",
+  "extracted_specs": {
+    "storage": "512GB"
+  },
+  "positive_signals": [
+    "Laptop family: 'katana'",
+    "Brand: 'MSI'",
+    "Storage: 512GB"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

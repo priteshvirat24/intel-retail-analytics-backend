@@ -1,0 +1,35 @@
+{
+  "target_id": "amazon-us",
+  "laptop_url": "https://www.amazon.com/HP-Laptop-Student-Business-Copilot/dp/B0GY16ZXZV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.B5Qg2mZ8Em9UgkHr7srZ3NCwogWwjsXpuvEqQtCl1_k_EU7GHXDG6lABX-x3DQpT-tQARBbqBZw6Cpy3tbQxm_eahsGyfqIqzXZNTAJQbH2o8rApuZIJuA_WWSnOIAg8jIy7B6m1vt5eEt2j9gN6mA4w-UQ50F3YuD2XVAODnpiPp3laM84uv3FlEMmrj2CkS02w1vHRB0RwUxtS0fp8ojU40CsqHD2FOFiFARbnehg.ycOixDO-MBSRQCf3Zb3iojz-YkO5NpJu_GEMC0cAYm0&dib_tag=se&keywords=laptop&qid=1787584879&sr=8-1",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "CONNECTION_TIMEOUT",
+    "failure_vendor": null,
+    "latency_ms": 9006.5
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.3
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 500,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "EMPTY_RESPONSE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_HTTP_ERROR",
+    "latency_ms": 30078.0
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

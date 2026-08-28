@@ -1,0 +1,22 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 1.0,
+  "detected_brand": "Dell",
+  "model_or_sku": "i7-8550u",
+  "extracted_specs": {
+    "screen_size": "14\"",
+    "storage": "256GB SSD",
+    "os": "Linux"
+  },
+  "positive_signals": [
+    "Laptop keyword: 'laptop'",
+    "Laptop family: 'vostro'",
+    "Brand: 'Dell'",
+    "Screen size: 14\"",
+    "Storage: 256GB SSD",
+    "OS: Linux"
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

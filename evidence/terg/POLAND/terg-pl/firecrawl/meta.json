@@ -1,0 +1,16 @@
+{
+  "target_id": "terg-pl",
+  "strategy": "FIRECRAWL",
+  "laptop_url": "https://www.mediaexpert.pl/product/sku_0011",
+  "status_code": 404,
+  "latency_ms": 28237.81473498093,
+  "bytes": 491455,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "HTTP_404_NOT_FOUND",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": null
+}

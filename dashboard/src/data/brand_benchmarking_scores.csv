@@ -1,0 +1,7 @@
+retailer,total_skus,laptop_score,desktop_score,brand_compliance_score,grade
+Amazon US,4,57.2,85.7,61.4,C (Needs Remediation)
+Best Buy,4,71.4,85.7,73.6,B (Compliant)
+Costco,3,64.3,85.7,67.5,C (Needs Remediation)
+Dell Technologies,3,85.7,85.7,85.7,A (Exemplary)
+HP Direct,2,85.7,85.7,85.7,A (Exemplary)
+Walmart,3,71.4,100.0,75.7,B (Compliant)

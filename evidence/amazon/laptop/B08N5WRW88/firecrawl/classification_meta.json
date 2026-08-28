@@ -1,0 +1,9 @@
+{
+  "crawl_status": "INVALID_OR_UNAVAILABLE_PRODUCT_URL",
+  "actual_laptop_page": "NO",
+  "challenge_detected": "NO",
+  "blocking_vendor": "None",
+  "failure_reason": "PRODUCT_DELISTED_OR_HTTP_404",
+  "detected_title": null,
+  "detected_keywords": []
+}

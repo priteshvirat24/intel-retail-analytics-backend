@@ -1,0 +1,19 @@
+{
+  "retailer": "Terg",
+  "country": "Poland",
+  "product_url": "https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-hp-victus-15-fa2090nw-15-6-ips-144hz-core-7-240h-24gb-ram-512gb-ssd-geforce-rtx5060-dlss-4-windows-11-home",
+  "product_title": "Laptop HP Victus 15-FA2090NW 15.6\" IPS 144Hz Core 7-240H 24GB RAM 512GB SSD GeForce RTX5060 DLSS 4 Windows 11 Home",
+  "brand": "HP",
+  "model_or_sku": "2110696",
+  "price": 4899.99,
+  "currency": "PLN",
+  "specs": {
+    "screen_size": "15.6\"",
+    "ram": "24GB",
+    "storage": "512GB SSD",
+    "os": "Windows 11"
+  },
+  "validation_score": 1.0,
+  "source_strategy": "Bright Data Web Unlocker (flags: country-pl)",
+  "timestamp": "2026-08-25T09:10:05.808520+00:00"
+}

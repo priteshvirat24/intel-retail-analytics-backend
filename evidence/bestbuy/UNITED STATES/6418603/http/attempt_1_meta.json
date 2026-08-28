@@ -1,0 +1,34 @@
+{
+  "attempt_number": 1,
+  "strategy": "HTTP",
+  "status_code": 404,
+  "response_time_ms": 3503.41,
+  "browser_seconds": 0.0,
+  "bytes_received": 287219,
+  "success": false,
+  "evidence_path": "evidence/bestbuy/UNITED STATES/6418603/http/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "ACCESS",
+    "specific_reason": "CAPTCHA_CHALLENGE",
+    "stage": "CONTENT_AVAILABILITY",
+    "failure_reason_human": "Crawl halted by automated challenge (Akamai Bot Manager).",
+    "http_status": 404,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "HTTP",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": "Akamai Bot Manager",
+    "timestamp": "2026-08-23T16:06:21.934923+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "page_title_excerpt": "<!doctype html><!-- cba=26.18.0 - instance: unknown et: \"0790d2e723e0a97ec9cd014f9e6f7b0c6-gzip\" --><html lang=\"en-us\"><head><link rel=\"preconnect\" href=\"https://pisces.bbystatic.com\" crossorigin=\"ano",
+      "vendor": "Akamai Bot Manager"
+    }
+  },
+  "timestamp": "2026-08-23T16:06:21.934997+00:00"
+}

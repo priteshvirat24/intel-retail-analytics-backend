@@ -1,0 +1,18 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.unieuro.it/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 4255.0,
+    "bytes": 321757,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.unieuro.it/ricerca?q=notebook",
+    "status_code": 200,
+    "latency_ms": 5857.1,
+    "bytes": 321758,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

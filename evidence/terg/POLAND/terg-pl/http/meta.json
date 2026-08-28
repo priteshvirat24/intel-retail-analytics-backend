@@ -1,0 +1,16 @@
+{
+  "target_id": "terg-pl",
+  "strategy": "HTTP",
+  "laptop_url": "https://www.mediaexpert.pl/product/sku_0011",
+  "status_code": 403,
+  "latency_ms": 1164.8,
+  "bytes": 536902,
+  "endpoint_reachable": true,
+  "product_page_detected": false,
+  "product_content_detected": false,
+  "crawlable": false,
+  "failure_reason": "CLOUDFLARE_WAF_CHALLENGE",
+  "detected_title": null,
+  "keywords": [],
+  "anti_bot_vendor": "Cloudflare WAF"
+}

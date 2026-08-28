@@ -1,0 +1,14 @@
+{
+  "category": "NETWORK",
+  "specific_reason": "UNKNOWN_FAILURE",
+  "stage": "CONTENT_AVAILABILITY",
+  "failure_reason_human": "Crawl failed with unexpected error: Unknown error",
+  "http_status": 400,
+  "exception_type": null,
+  "retry_count": 1,
+  "last_error": "",
+  "timestamp": "2026-08-23T08:30:49.244991+00:00",
+  "is_recoverable": false,
+  "recommended_escalation": null,
+  "details": {}
+}

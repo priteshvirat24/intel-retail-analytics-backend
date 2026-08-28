@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.officeworks.com.au/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 5852.1,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.officeworks.com.au/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 5306.3,
+    "html_bytes": 72
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.officeworks.com.au/laptops",
+    "status_code": 200,
+    "latency_ms": 6306.7,
+    "html_bytes": 1184602
+  }
+]

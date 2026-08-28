@@ -1,0 +1,42 @@
+{
+  "run_id": "run_20260823_160127_matrix",
+  "timestamp": "2026-08-23T16:04:00.392204+00:00",
+  "target_count": 2,
+  "sku_limit": 10,
+  "population_count": 20,
+  "targets": [
+    "amazon-de",
+    "boulanger-fr"
+  ],
+  "strategies_enabled": [
+    "HTTP",
+    "PLAYWRIGHT",
+    "FIRECRAWL"
+  ],
+  "firecrawl_version": "v2.11.0",
+  "firecrawl_commit": "ca0be9b7d91eb9b48d3430f5678211f0d47e1d90",
+  "firecrawl_base_url": "http://localhost:3008",
+  "results_summary": {
+    "HTTP": {
+      "attempts": 20,
+      "reached": 20,
+      "content_ok": 2,
+      "validated": 0,
+      "avg_latency_ms": 1014.86
+    },
+    "PLAYWRIGHT": {
+      "attempts": 20,
+      "reached": 20,
+      "content_ok": 2,
+      "validated": 0,
+      "avg_latency_ms": 3763.29
+    },
+    "FIRECRAWL": {
+      "attempts": 20,
+      "reached": 20,
+      "content_ok": 1,
+      "validated": 0,
+      "avg_latency_ms": 2419.27
+    }
+  }
+}

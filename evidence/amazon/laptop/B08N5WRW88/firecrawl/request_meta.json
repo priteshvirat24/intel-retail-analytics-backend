@@ -1,0 +1,7 @@
+{
+  "target_id": "amazon-br",
+  "retailer": "Amazon",
+  "url": "https://www.amazon.com.br/dp/B08N5WRW88",
+  "firecrawl_endpoint": "http://localhost:3008/scrape",
+  "timestamp": "2026-08-24T07:26:33.767216+00:00"
+}

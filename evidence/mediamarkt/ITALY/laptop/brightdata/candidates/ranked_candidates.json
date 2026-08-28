@@ -1,0 +1,2537 @@
+[
+  {
+    "url": "https://ricondizionati.mediaworld.it/product/innoliving-condizionatore-portatile-innoliving-condizionatore-port.-198461.html",
+    "score": 0.95,
+    "anchor": "Verified Candidate Seed"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/notebook-200101.html",
+    "score": 0.8,
+    "anchor": "notebook"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/notebook-convertibili-2-in-1-200102.html",
+    "score": 0.8,
+    "anchor": "notebook convertibili 2 in 1"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/notebook-gaming-301101.html",
+    "score": 0.8,
+    "anchor": "notebook gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/chromebook-200103.html",
+    "score": 0.8,
+    "anchor": "chromebook"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/portatili-touchscreen-200107.html",
+    "score": 0.8,
+    "anchor": "portatili touchscreen"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/portatili-senza-sistema-operativo-200108.html",
+    "score": 0.8,
+    "anchor": "portatili senza sistema operativo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pos-portatili-201801.html",
+    "score": 0.8,
+    "anchor": "pos portatili"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/radio-portatili-400907.html",
+    "score": 0.8,
+    "anchor": "radio portatili"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/condizionatori-portatili-600903.html",
+    "score": 0.8,
+    "anchor": "condizionatori portatili"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/stufe-alogene-601002.html",
+    "score": 0.8,
+    "anchor": "stufe alogene"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pulitori-a-vapore-portatili-700620.html",
+    "score": 0.8,
+    "anchor": "pulitori a vapore portatili"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pannelli-solari-portatili-201405.html",
+    "score": 0.8,
+    "anchor": "pannelli solari portatili"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fornelli-portatili-800802.html",
+    "score": 0.8,
+    "anchor": "fornelli portatili"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/smartphone-100101.html",
+    "score": 0.5,
+    "anchor": "smartphone"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cellulari-100102.html",
+    "score": 0.5,
+    "anchor": "cellulari"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pellicole-smartphone-100104.html",
+    "score": 0.5,
+    "anchor": "pellicole smartphone"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/auricolari-e-vivavoce-100105.html",
+    "score": 0.5,
+    "anchor": "auricolari e vivavoce"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/schede-di-memoria-smartphone-100106.html",
+    "score": 0.5,
+    "anchor": "schede di memoria smartphone"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/power-bank-100107.html",
+    "score": 0.5,
+    "anchor": "power bank"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/caricabatterie-100108.html",
+    "score": 0.5,
+    "anchor": "caricabatterie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/casse-bluetooth-100109.html",
+    "score": 0.5,
+    "anchor": "casse bluetooth"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/altri-accessori-smartphone-100110.html",
+    "score": 0.5,
+    "anchor": "altri accessori smartphone"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/caricabatterie-iphone-100203.html",
+    "score": 0.5,
+    "anchor": "caricabatterie iphone"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-iphone-100204.html",
+    "score": 0.5,
+    "anchor": "accessori iphone"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/smartwatch-100401.html",
+    "score": 0.5,
+    "anchor": "smartwatch"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sportwatch-100402.html",
+    "score": 0.5,
+    "anchor": "sportwatch"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/smartband-100404.html",
+    "score": 0.5,
+    "anchor": "smartband"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/smart-ring-100405.html",
+    "score": 0.5,
+    "anchor": "smart ring"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ai-glasses-100406.html",
+    "score": 0.5,
+    "anchor": "ai glasses"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-indossabili-100403.html",
+    "score": 0.5,
+    "anchor": "accessori indossabili"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-apple-watch-100502.html",
+    "score": 0.5,
+    "anchor": "accessori apple watch"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/telefoni-cordless-100301.html",
+    "score": 0.5,
+    "anchor": "telefoni cordless"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/telefoni-con-filo-100302.html",
+    "score": 0.5,
+    "anchor": "telefoni con filo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-telefonia-fissa-100303.html",
+    "score": 0.5,
+    "anchor": "accessori telefonia fissa"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/all-in-one-200105.html",
+    "score": 0.5,
+    "anchor": "all-in-one"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pc-desktop-200104.html",
+    "score": 0.5,
+    "anchor": "pc desktop"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pc-desktop-gaming-301102.html",
+    "score": 0.5,
+    "anchor": "pc desktop gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/mini-pc-desktop-200106.html",
+    "score": 0.5,
+    "anchor": "mini pc desktop"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-mac-200207.html",
+    "score": 0.5,
+    "anchor": "accessori mac"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-tablet-200703.html",
+    "score": 0.5,
+    "anchor": "accessori tablet"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/caricabatterie-ipad-200803.html",
+    "score": 0.5,
+    "anchor": "caricabatterie ipad"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-ipad-200804.html",
+    "score": 0.5,
+    "anchor": "accessori ipad"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/processori-200301.html",
+    "score": 0.5,
+    "anchor": "processori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/schede-video-200302.html",
+    "score": 0.5,
+    "anchor": "schede video"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/schede-madri-200303.html",
+    "score": 0.5,
+    "anchor": "schede madri"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/memorie-ram-200304.html",
+    "score": 0.5,
+    "anchor": "memorie ram"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/hard-disk-e-ssd-interni-200502.html",
+    "score": 0.5,
+    "anchor": "hard disk e ssd interni"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ventole-e-sistemi-di-raffreddamento-200308.html",
+    "score": 0.5,
+    "anchor": "ventole e sistemi di raffreddamento"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/alimentatori-interni-200309.html",
+    "score": 0.5,
+    "anchor": "alimentatori interni"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/alimentatori-200306.html",
+    "score": 0.5,
+    "anchor": "alimentatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/connettivita-200404.html",
+    "score": 0.5,
+    "anchor": "connettivit\u00e0"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/web-cam-200405.html",
+    "score": 0.5,
+    "anchor": "web cam"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tastiere-200406.html",
+    "score": 0.5,
+    "anchor": "tastiere"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/casse-pc-200408.html",
+    "score": 0.5,
+    "anchor": "casse pc"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/masterizzatori-200409.html",
+    "score": 0.5,
+    "anchor": "masterizzatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tavolette-grafiche-200411.html",
+    "score": 0.5,
+    "anchor": "tavolette grafiche"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/borse-pc-e-custodie-200412.html",
+    "score": 0.5,
+    "anchor": "borse pc e custodie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/zaini-200413.html",
+    "score": 0.5,
+    "anchor": "zaini"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cavi-e-adattatori-200414.html",
+    "score": 0.5,
+    "anchor": "cavi e adattatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/altri-accessori-periferiche-pc-200415.html",
+    "score": 0.5,
+    "anchor": "altri accessori periferiche pc"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/registratori-di-cassa-201802.html",
+    "score": 0.5,
+    "anchor": "registratori di cassa"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-per-pos-201803.html",
+    "score": 0.5,
+    "anchor": "accessori per pos"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/hard-disk-e-ssd-esterni-200501.html",
+    "score": 0.5,
+    "anchor": "hard disk e ssd esterni"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/nas-storage-200503.html",
+    "score": 0.5,
+    "anchor": "nas storage"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/chiavette-usb-200504.html",
+    "score": 0.5,
+    "anchor": "chiavette usb"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-hard-disk-200505.html",
+    "score": 0.5,
+    "anchor": "accessori hard disk"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/kindle-200901.html",
+    "score": 0.5,
+    "anchor": "kindle"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/kobo-200902.html",
+    "score": 0.5,
+    "anchor": "kobo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-ebook-200904.html",
+    "score": 0.5,
+    "anchor": "accessori ebook"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/software-201001.html",
+    "score": 0.5,
+    "anchor": "software"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/stampanti-multifunzione-200602.html",
+    "score": 0.5,
+    "anchor": "stampanti multifunzione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/stampanti-laser-200609.html",
+    "score": 0.5,
+    "anchor": "stampanti laser"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/stampanti-3d-200601.html",
+    "score": 0.5,
+    "anchor": "stampanti 3d"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/scanner-200604.html",
+    "score": 0.5,
+    "anchor": "scanner"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cartucce-e-toner-200605.html",
+    "score": 0.5,
+    "anchor": "cartucce e toner"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/carta-da-stampa-200606.html",
+    "score": 0.5,
+    "anchor": "carta da stampa"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/carta-fotografica-per-stampanti-500209.html",
+    "score": 0.5,
+    "anchor": "carta fotografica per stampanti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-di-stampa-200608.html",
+    "score": 0.5,
+    "anchor": "accessori di stampa"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/distruggi-documenti-201101.html",
+    "score": 0.5,
+    "anchor": "distruggi documenti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/plastificatrici-201102.html",
+    "score": 0.5,
+    "anchor": "plastificatrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/rilegatrici-e-taglierine-201103.html",
+    "score": 0.5,
+    "anchor": "rilegatrici e taglierine"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-ufficio-201105.html",
+    "score": 0.5,
+    "anchor": "accessori ufficio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/calcolatrici-201106.html",
+    "score": 0.5,
+    "anchor": "calcolatrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sedie-da-ufficio-201107.html",
+    "score": 0.5,
+    "anchor": "sedie da ufficio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/scrivanie-ufficio-201108.html",
+    "score": 0.5,
+    "anchor": "scrivanie ufficio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-ultra-hd-4k-400101.html",
+    "score": 0.5,
+    "anchor": "tv ultra hd 4k"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-led-400102.html",
+    "score": 0.5,
+    "anchor": "tv led"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-mini-led-400110.html",
+    "score": 0.5,
+    "anchor": "tv mini led"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-micro-led-rgb-400112.html",
+    "score": 0.5,
+    "anchor": "tv micro led rgb"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-oled-400103.html",
+    "score": 0.5,
+    "anchor": "tv oled"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-oled-evo-400108.html",
+    "score": 0.5,
+    "anchor": "tv oled evo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-8k-400104.html",
+    "score": 0.5,
+    "anchor": "tv 8k"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-qled-400105.html",
+    "score": 0.5,
+    "anchor": "tv qled"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-neo-qled-400111.html",
+    "score": 0.5,
+    "anchor": "tv neo qled"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-qned-400109.html",
+    "score": 0.5,
+    "anchor": "tv qned"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tv-ambilight-400107.html",
+    "score": 0.5,
+    "anchor": "tv ambilight"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/decoder-dvb-t2-400501.html",
+    "score": 0.5,
+    "anchor": "decoder dvb t2"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/decoder-satellitare-400502.html",
+    "score": 0.5,
+    "anchor": "decoder satellitare"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/moduli-cam-400504.html",
+    "score": 0.5,
+    "anchor": "moduli cam"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/supporti-tv-400201.html",
+    "score": 0.5,
+    "anchor": "supporti tv"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/mobili-tv-400202.html",
+    "score": 0.5,
+    "anchor": "mobili tv"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cavi-hdmi-400203.html",
+    "score": 0.5,
+    "anchor": "cavi hdmi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tastiere-smart-tv-400204.html",
+    "score": 0.5,
+    "anchor": "tastiere smart tv"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/telecomandi-400205.html",
+    "score": 0.5,
+    "anchor": "telecomandi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/antenne-tv-400206.html",
+    "score": 0.5,
+    "anchor": "antenne tv"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cavi-antenna-tv-400207.html",
+    "score": 0.5,
+    "anchor": "cavi antenna tv"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/altri-accessori-tv-400208.html",
+    "score": 0.5,
+    "anchor": "altri accessori tv"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/amazon-fire-tv-400302.html",
+    "score": 0.5,
+    "anchor": "amazon fire tv"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/google-chromecast-400303.html",
+    "score": 0.5,
+    "anchor": "google chromecast"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/android-tv-box-400306.html",
+    "score": 0.5,
+    "anchor": "android tv box"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/videoproiettori-400601.html",
+    "score": 0.5,
+    "anchor": "videoproiettori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/schermi-per-videoproiettori-400603.html",
+    "score": 0.5,
+    "anchor": "schermi per videoproiettori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lettori-blu-ray-400401.html",
+    "score": 0.5,
+    "anchor": "lettori blu-ray"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lettori-dvd-400402.html",
+    "score": 0.5,
+    "anchor": "lettori dvd"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/home-theatre-400701.html",
+    "score": 0.5,
+    "anchor": "home theatre"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/soundbar-400702.html",
+    "score": 0.5,
+    "anchor": "soundbar"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sintoamplificatori-400703.html",
+    "score": 0.5,
+    "anchor": "sintoamplificatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/diffusori-acustici-400704.html",
+    "score": 0.5,
+    "anchor": "diffusori acustici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/dvd-800102.html",
+    "score": 0.5,
+    "anchor": "dvd"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/blu-ray-800103.html",
+    "score": 0.5,
+    "anchor": "blu-ray"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavatrici-carica-frontale-600101.html",
+    "score": 0.5,
+    "anchor": "lavatrici carica frontale"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavatrici-slim-600102.html",
+    "score": 0.5,
+    "anchor": "lavatrici slim"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavatrici-carica-dall-alto-600103.html",
+    "score": 0.5,
+    "anchor": "lavatrici carica dall'alto"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavasciuga-600105.html",
+    "score": 0.5,
+    "anchor": "lavasciuga"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-lavatrici-600106.html",
+    "score": 0.5,
+    "anchor": "accessori lavatrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/asciugatrici-600201.html",
+    "score": 0.5,
+    "anchor": "asciugatrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-asciugatrici-600203.html",
+    "score": 0.5,
+    "anchor": "accessori asciugatrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/kit-di-congiunzione-600302.html",
+    "score": 0.5,
+    "anchor": "kit di congiunzione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/frigoriferi-combinati-600401.html",
+    "score": 0.5,
+    "anchor": "frigoriferi combinati"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/frigoriferi-doppia-porta-600407.html",
+    "score": 0.5,
+    "anchor": "frigoriferi doppia porta"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/frigoriferi-monoporta-600402.html",
+    "score": 0.5,
+    "anchor": "frigoriferi monoporta"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/frigoriferi-side-by-side-americano-600403.html",
+    "score": 0.5,
+    "anchor": "frigoriferi side by side americano"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/frigoriferi-multidoor-600408.html",
+    "score": 0.5,
+    "anchor": "frigoriferi multidoor"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cantinette-vino-600405.html",
+    "score": 0.5,
+    "anchor": "cantinette vino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-frigoriferi-600406.html",
+    "score": 0.5,
+    "anchor": "accessori frigoriferi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/congelatori-verticali-600501.html",
+    "score": 0.5,
+    "anchor": "congelatori verticali"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/congelatori-orizzontali-600502.html",
+    "score": 0.5,
+    "anchor": "congelatori orizzontali"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/microonde-600601.html",
+    "score": 0.5,
+    "anchor": "microonde"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cucine-600607.html",
+    "score": 0.5,
+    "anchor": "cucine"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-cottura-600608.html",
+    "score": 0.5,
+    "anchor": "accessori cottura"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavastoviglie-libera-installazione-600801.html",
+    "score": 0.5,
+    "anchor": "lavastoviglie libera installazione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-lavastoviglie-600803.html",
+    "score": 0.5,
+    "anchor": "accessori lavastoviglie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavastoviglie-da-incasso-600802.html",
+    "score": 0.5,
+    "anchor": "lavastoviglie da incasso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/forni-da-incasso-600603.html",
+    "score": 0.5,
+    "anchor": "forni da incasso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/piani-cottura-a-gas-600604.html",
+    "score": 0.5,
+    "anchor": "piani cottura a gas"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/piani-cottura-a-induzione-600605.html",
+    "score": 0.5,
+    "anchor": "piani cottura a induzione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/piani-cottura-elettrici-600606.html",
+    "score": 0.5,
+    "anchor": "piani cottura elettrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/microonde-da-incasso-600602.html",
+    "score": 0.5,
+    "anchor": "microonde da incasso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/frigoriferi-da-incasso-600404.html",
+    "score": 0.5,
+    "anchor": "frigoriferi da incasso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cantinette-vino-da-incasso-600706.html",
+    "score": 0.5,
+    "anchor": "cantinette vino da incasso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/congelatori-da-incasso-600503.html",
+    "score": 0.5,
+    "anchor": "congelatori da incasso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cappe-da-cucina-600701.html",
+    "score": 0.5,
+    "anchor": "cappe da cucina"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavelli-ad-una-vasca-600703.html",
+    "score": 0.5,
+    "anchor": "lavelli ad una vasca"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavelli-a-due-vasche-600704.html",
+    "score": 0.5,
+    "anchor": "lavelli a due vasche"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavatrici-da-incasso-600104.html",
+    "score": 0.5,
+    "anchor": "lavatrici da incasso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-complementi-cucina-600705.html",
+    "score": 0.5,
+    "anchor": "accessori complementi cucina"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchine-caffe-a-cialde-700309.html",
+    "score": 0.5,
+    "anchor": "macchine caff\u00e8 a cialde"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchine-caffe-a-capsule-700310.html",
+    "score": 0.5,
+    "anchor": "macchine caff\u00e8 a capsule"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchine-caffe-automatica-700311.html",
+    "score": 0.5,
+    "anchor": "macchine caff\u00e8 automatica"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchine-caffe-espresso-700301.html",
+    "score": 0.5,
+    "anchor": "macchine caff\u00e8 espresso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchine-caffe-americano-700302.html",
+    "score": 0.5,
+    "anchor": "macchine caff\u00e8 americano"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/moka-700303.html",
+    "score": 0.5,
+    "anchor": "moka"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/capsule-caffe-700304.html",
+    "score": 0.5,
+    "anchor": "capsule caff\u00e8"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/caffe-in-grani-e-macinato-700305.html",
+    "score": 0.5,
+    "anchor": "caff\u00e8 in grani e macinato"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macinacaffe-700306.html",
+    "score": 0.5,
+    "anchor": "macinacaff\u00e8"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cappuccinatori-e-montalatte-700308.html",
+    "score": 0.5,
+    "anchor": "cappuccinatori e montalatte"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-caffe-700307.html",
+    "score": 0.5,
+    "anchor": "accessori caff\u00e8"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fornetti-elettrici-700202.html",
+    "score": 0.5,
+    "anchor": "fornetti elettrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/forni-per-pizza-700211.html",
+    "score": 0.5,
+    "anchor": "forni per pizza"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/friggitrici-ad-aria-700212.html",
+    "score": 0.5,
+    "anchor": "friggitrici ad aria"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/friggitrici-700208.html",
+    "score": 0.5,
+    "anchor": "friggitrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/multicooker-700203.html",
+    "score": 0.5,
+    "anchor": "multicooker"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bistecchiere-e-grill-700205.html",
+    "score": 0.5,
+    "anchor": "bistecchiere e grill"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/barbecue-700210.html",
+    "score": 0.5,
+    "anchor": "barbecue"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchine-pane-700206.html",
+    "score": 0.5,
+    "anchor": "macchine del pane"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tostapane-700207.html",
+    "score": 0.5,
+    "anchor": "tostapane"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cottura-sottovuoto-700204.html",
+    "score": 0.5,
+    "anchor": "cottura sottovuoto"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cuociriso-700219.html",
+    "score": 0.5,
+    "anchor": "cuociriso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/vaporiere-700218.html",
+    "score": 0.5,
+    "anchor": "vaporiere"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/essiccatore-700215.html",
+    "score": 0.5,
+    "anchor": "essiccatore"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/affumicatore-700216.html",
+    "score": 0.5,
+    "anchor": "affumicatore"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/scaldavivande-elettrici-700220.html",
+    "score": 0.5,
+    "anchor": "scaldavivande elettrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/impastatrici-e-planetarie-700101.html",
+    "score": 0.5,
+    "anchor": "impastatrici e planetarie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-impastatrici-e-planetarie-700102.html",
+    "score": 0.5,
+    "anchor": "accessori impastatrici e planetarie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/robot-da-cucina-700103.html",
+    "score": 0.5,
+    "anchor": "robot da cucina"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/frullatori-700104.html",
+    "score": 0.5,
+    "anchor": "frullatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/frullatori-ad-immersione-700105.html",
+    "score": 0.5,
+    "anchor": "frullatori ad immersione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tritatutto-700106.html",
+    "score": 0.5,
+    "anchor": "tritatutto"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/grattugie-700114.html",
+    "score": 0.5,
+    "anchor": "grattugie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tritacarne-700115.html",
+    "score": 0.5,
+    "anchor": "tritacarne"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/affettatrici-700107.html",
+    "score": 0.5,
+    "anchor": "affettatrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/yogurtiere-e-gelatiere-700108.html",
+    "score": 0.5,
+    "anchor": "yogurtiere e gelatiere"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sbattitori-elettrici-700109.html",
+    "score": 0.5,
+    "anchor": "sbattitori elettrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/centrifughe-700110.html",
+    "score": 0.5,
+    "anchor": "centrifughe"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/estrattori-700117.html",
+    "score": 0.5,
+    "anchor": "estrattori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/spremiagrumi-700111.html",
+    "score": 0.5,
+    "anchor": "spremiagrumi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-pasticceria-700113.html",
+    "score": 0.5,
+    "anchor": "accessori pasticceria"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/set-fonduta-e-bourguignonne-701501.html",
+    "score": 0.5,
+    "anchor": "set fonduta e bourguignonne"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchina-zucchero-filato-700217.html",
+    "score": 0.5,
+    "anchor": "macchina zucchero filato"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/piastra-per-waffle-701502.html",
+    "score": 0.5,
+    "anchor": "piastra per waffle"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchina-pop-corn-701503.html",
+    "score": 0.5,
+    "anchor": "macchina pop corn"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/raclette-701504.html",
+    "score": 0.5,
+    "anchor": "raclette"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tritaghiaccio-701505.html",
+    "score": 0.5,
+    "anchor": "tritaghiaccio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/spillatrici-per-la-birra-701506.html",
+    "score": 0.5,
+    "anchor": "spillatrici per la birra"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/altri-party-maker-700209.html",
+    "score": 0.5,
+    "anchor": "altri party maker"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/gasatori-acqua-700401.html",
+    "score": 0.5,
+    "anchor": "gasatori acqua"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/concentrati-per-gasatori-700402.html",
+    "score": 0.5,
+    "anchor": "concentrati per gasatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/caraffe-e-sistemi-filtranti-700403.html",
+    "score": 0.5,
+    "anchor": "caraffe e sistemi filtranti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bollitori-700404.html",
+    "score": 0.5,
+    "anchor": "bollitori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bottiglie-700405.html",
+    "score": 0.5,
+    "anchor": "bottiglie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/porta-bottiglie-700406.html",
+    "score": 0.5,
+    "anchor": "porta bottiglie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pentole-e-padelle-700501.html",
+    "score": 0.5,
+    "anchor": "pentole e padelle"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bilance-da-cucina-700502.html",
+    "score": 0.5,
+    "anchor": "bilance da cucina"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sottovuoto-e-contenitori-700503.html",
+    "score": 0.5,
+    "anchor": "sottovuoto e contenitori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/altri-accessori-cucina-700504.html",
+    "score": 0.5,
+    "anchor": "altri accessori cucina"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/raccolta-differenziata-700505.html",
+    "score": 0.5,
+    "anchor": "raccolta differenziata"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sedie-gaming-301115.html",
+    "score": 0.5,
+    "anchor": "postazioni e sedie gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/scrivanie-gaming-301118.html",
+    "score": 0.5,
+    "anchor": "scrivanie gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-postazioni-301105.html",
+    "score": 0.5,
+    "anchor": "accessori postazioni"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tastiere-gaming-301107.html",
+    "score": 0.5,
+    "anchor": "tastiere gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/volanti-301109.html",
+    "score": 0.5,
+    "anchor": "volanti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/controller-301117.html",
+    "score": 0.5,
+    "anchor": "controller"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cuffie-gaming-301111.html",
+    "score": 0.5,
+    "anchor": "cuffie gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tappetini-gaming-301116.html",
+    "score": 0.5,
+    "anchor": "tappetini gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/speaker-pc-gaming-301110.html",
+    "score": 0.5,
+    "anchor": "speaker pc gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/network-gaming-301112.html",
+    "score": 0.5,
+    "anchor": "network gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/hard-disk-gaming-301113.html",
+    "score": 0.5,
+    "anchor": "hard disk gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/zaini-gaming-301114.html",
+    "score": 0.5,
+    "anchor": "zaini gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/giochi-pc-301104.html",
+    "score": 0.5,
+    "anchor": "giochi pc"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ps5-console-300101.html",
+    "score": 0.5,
+    "anchor": "ps5 console"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ps5-giochi-300104.html",
+    "score": 0.5,
+    "anchor": "ps5 giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ps5-prevendite-giochi-300102.html",
+    "score": 0.5,
+    "anchor": "ps5 prevendite giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ps5-controller-300106.html",
+    "score": 0.5,
+    "anchor": "ps5 controller"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ps4-console-300303.html",
+    "score": 0.5,
+    "anchor": "ps4 console"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ps4-giochi-300304.html",
+    "score": 0.5,
+    "anchor": "ps4 giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ps4-controller-300305.html",
+    "score": 0.5,
+    "anchor": "ps4 controller"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-ps3-300701.html",
+    "score": 0.5,
+    "anchor": "ps3 controller"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/playstation-cuffie-300105.html",
+    "score": 0.5,
+    "anchor": "playstation cuffie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/playstation-accessori-300103.html",
+    "score": 0.5,
+    "anchor": "playstation accessori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/visori-vr-301402.html",
+    "score": 0.5,
+    "anchor": "visori vr"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-vr-301401.html",
+    "score": 0.5,
+    "anchor": "accessori vr"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/xbox-series-x-console-300202.html",
+    "score": 0.5,
+    "anchor": "xbox series x console"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/xbox-series-s-console-300205.html",
+    "score": 0.5,
+    "anchor": "xbox series s console"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/xbox-giochi-300204.html",
+    "score": 0.5,
+    "anchor": "xbox giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/prevendite-xbox-series-300201.html",
+    "score": 0.5,
+    "anchor": "xbox prevendite giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/xbox-controller-300206.html",
+    "score": 0.5,
+    "anchor": "xbox controller"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/xbox-cuffie-300207.html",
+    "score": 0.5,
+    "anchor": "xbox cuffie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/xbox-one-giochi-300403.html",
+    "score": 0.5,
+    "anchor": "xbox one giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/xbox-accessori-300203.html",
+    "score": 0.5,
+    "anchor": "xbox accessori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/nintendo-switch-2-console-300508.html",
+    "score": 0.5,
+    "anchor": "nintendo switch 2 console"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/nintendo-switch-2-giochi-300509.html",
+    "score": 0.5,
+    "anchor": "nintendo switch 2 giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/nintendo-switch-2-accessori-300510.html",
+    "score": 0.5,
+    "anchor": "nintendo switch 2 accessori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/console-switch-300502.html",
+    "score": 0.5,
+    "anchor": "nintendo switch console"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/nintendo-switch-giochi-300504.html",
+    "score": 0.5,
+    "anchor": "nintendo switch giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/nintendo-prevendite-giochi-300501.html",
+    "score": 0.5,
+    "anchor": "nintendo prevendite giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/nintendo-switch-controller-300507.html",
+    "score": 0.5,
+    "anchor": "nintendo switch controller"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/nintendo-accessori-300503.html",
+    "score": 0.5,
+    "anchor": "nintendo accessori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/64-mini-301001.html",
+    "score": 0.5,
+    "anchor": "retro gaming"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cabinato-arcade-301001.html",
+    "score": 0.5,
+    "anchor": "cabinato arcade"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lettori-mp3-400902.html",
+    "score": 0.5,
+    "anchor": "lettori mp3"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/multiroom-400903.html",
+    "score": 0.5,
+    "anchor": "multiroom"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/digital-radio-400906.html",
+    "score": 0.5,
+    "anchor": "digital radio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sveglie-e-stazioni-meteo-400908.html",
+    "score": 0.5,
+    "anchor": "sveglie e stazioni meteo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-audio-400909.html",
+    "score": 0.5,
+    "anchor": "accessori audio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/mini-e-micro-hi-fi-400801.html",
+    "score": 0.5,
+    "anchor": "mini e micro hi-fi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/componenti-separati-400802.html",
+    "score": 0.5,
+    "anchor": "componenti separati"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/giradischi-400803.html",
+    "score": 0.5,
+    "anchor": "giradischi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cavi-audio-video-400804.html",
+    "score": 0.5,
+    "anchor": "cavi audio-video"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/microfoni-400805.html",
+    "score": 0.5,
+    "anchor": "microfoni"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lettori-cd-e-mixer-dj-400806.html",
+    "score": 0.5,
+    "anchor": "lettori cd e mixer dj"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/supporti-e-accessori-hi-fi-400807.html",
+    "score": 0.5,
+    "anchor": "supporti e accessori hi-fi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cuffie-wireless-401001.html",
+    "score": 0.5,
+    "anchor": "cuffie wireless"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cuffie-con-microfono-401002.html",
+    "score": 0.5,
+    "anchor": "cuffie con microfono"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cuffie-hi-fi-401003.html",
+    "score": 0.5,
+    "anchor": "cuffie hi-fi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cuffie-tv-401004.html",
+    "score": 0.5,
+    "anchor": "cuffie tv"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tutti-i-tipi-di-cuffie-401005.html",
+    "score": 0.5,
+    "anchor": "tutti i tipi di cuffie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/auricolari-401101.html",
+    "score": 0.5,
+    "anchor": "auricolari"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/auricolari-bluetooth-401102.html",
+    "score": 0.5,
+    "anchor": "auricolari bluetooth"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/auricolari-sport-401103.html",
+    "score": 0.5,
+    "anchor": "auricolari sport"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/auricolari-con-microfono-401104.html",
+    "score": 0.5,
+    "anchor": "auricolari con microfono"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cd-800202.html",
+    "score": 0.5,
+    "anchor": "cd"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/vinile-800204.html",
+    "score": 0.5,
+    "anchor": "vinile"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tastiere-musicali-800205.html",
+    "score": 0.5,
+    "anchor": "tastiere musicali"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-navigatori-401202.html",
+    "score": 0.5,
+    "anchor": "accessori navigatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/autoradio-401301.html",
+    "score": 0.5,
+    "anchor": "autoradio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/multimedia-doppio-din-401302.html",
+    "score": 0.5,
+    "anchor": "multimedia / doppio din"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/caricabatterie-per-auto-401305.html",
+    "score": 0.5,
+    "anchor": "caricabatterie per auto"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/supporti-per-auto-401306.html",
+    "score": 0.5,
+    "anchor": "supporti per auto"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-auto-401307.html",
+    "score": 0.5,
+    "anchor": "accessori auto"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fotocamere-reflex-500101.html",
+    "score": 0.5,
+    "anchor": "fotocamere reflex"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fotocamere-mirrorless-500102.html",
+    "score": 0.5,
+    "anchor": "fotocamere mirrorless"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fotocamere-compatte-500103.html",
+    "score": 0.5,
+    "anchor": "fotocamere compatte"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fotocamere-subacquee-500104.html",
+    "score": 0.5,
+    "anchor": "fotocamere subacquee"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fotocamere-bridge-500106.html",
+    "score": 0.5,
+    "anchor": "fotocamere bridge"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchine-fotografiche-istantanee-500105.html",
+    "score": 0.5,
+    "anchor": "macchine fotografiche istantanee"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fototrappole-500107.html",
+    "score": 0.5,
+    "anchor": "fototrappole"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ottica-fissa-reflex-500302.html",
+    "score": 0.5,
+    "anchor": "ottica fissa reflex"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/zoom-reflex-500303.html",
+    "score": 0.5,
+    "anchor": "zoom reflex"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/grandangolo-reflex-500304.html",
+    "score": 0.5,
+    "anchor": "grandangolo reflex"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ottica-fissa-mirrorless-500402.html",
+    "score": 0.5,
+    "anchor": "ottica fissa mirrorless"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/zoom-mirrorless-500403.html",
+    "score": 0.5,
+    "anchor": "zoom mirrorless"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/grandangolo-mirrorless-500404.html",
+    "score": 0.5,
+    "anchor": "grandangolo mirrorless"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/batterie-action-cam-500602.html",
+    "score": 0.5,
+    "anchor": "batterie action cam"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/supporti-action-cam-500603.html",
+    "score": 0.5,
+    "anchor": "supporti action cam"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/custodie-action-cam-500604.html",
+    "score": 0.5,
+    "anchor": "custodie action cam"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-action-cam-500605.html",
+    "score": 0.5,
+    "anchor": "accessori action cam"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/videocamere-digitali-500701.html",
+    "score": 0.5,
+    "anchor": "videocamere digitali"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/dash-cam-500702.html",
+    "score": 0.5,
+    "anchor": "dash cam"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-videocamere-500703.html",
+    "score": 0.5,
+    "anchor": "accessori videocamere"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-droni-800402.html",
+    "score": 0.5,
+    "anchor": "accessori droni"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/secure-digital-500501.html",
+    "score": 0.5,
+    "anchor": "secure digital"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/compact-flash-500502.html",
+    "score": 0.5,
+    "anchor": "compact flash"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/micro-sd-500503.html",
+    "score": 0.5,
+    "anchor": "micro sd"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lettori-schede-di-memoria-500504.html",
+    "score": 0.5,
+    "anchor": "lettori schede di memoria"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cornici-digitali-500201.html",
+    "score": 0.5,
+    "anchor": "cornici digitali"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/filtri-fotografici-500203.html",
+    "score": 0.5,
+    "anchor": "filtri fotografici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tappi-e-paraluce-500204.html",
+    "score": 0.5,
+    "anchor": "tappi e paraluce"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/treppiedi-e-selfie-stick-500205.html",
+    "score": 0.5,
+    "anchor": "treppiedi e selfie stick"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/batterie-500206.html",
+    "score": 0.5,
+    "anchor": "batterie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/borse-e-zaini-500207.html",
+    "score": 0.5,
+    "anchor": "borse e zaini"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/stampanti-a-sublimazione-500208.html",
+    "score": 0.5,
+    "anchor": "stampanti a sublimazione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/carta-fotografica-500209.html",
+    "score": 0.5,
+    "anchor": "carta fotografica"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/altri-accessori-fotografia-500210.html",
+    "score": 0.5,
+    "anchor": "altri accessori fotografia"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/condizionatori-fissi-mono-600901.html",
+    "score": 0.5,
+    "anchor": "condizionatori fissi mono"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/condizionatori-fissi-dual-600902.html",
+    "score": 0.5,
+    "anchor": "condizionatori fissi dual"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/condizionatori-fissi-trial-600909.html",
+    "score": 0.5,
+    "anchor": "condizionatori fissi trial"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ventilatori-600904.html",
+    "score": 0.5,
+    "anchor": "ventilatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/raffrescatori-evaporativi-600911.html",
+    "score": 0.5,
+    "anchor": "raffrescatori evaporativi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-climatizzazione-600908.html",
+    "score": 0.5,
+    "anchor": "accessori climatizzazione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/termoventilatori-601001.html",
+    "score": 0.5,
+    "anchor": "termoventilatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/camini-elettrici-601004.html",
+    "score": 0.5,
+    "anchor": "camini elettrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/termoconvettori-601005.html",
+    "score": 0.5,
+    "anchor": "termoconvettori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/radiatori-ad-olio-601006.html",
+    "score": 0.5,
+    "anchor": "radiatori ad olio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/deumidificatori-600905.html",
+    "score": 0.5,
+    "anchor": "deumidificatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/umidificatori-600906.html",
+    "score": 0.5,
+    "anchor": "umidificatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/purificatori-aria-600907.html",
+    "score": 0.5,
+    "anchor": "purificatori aria"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-purificatori-aria-701103.html",
+    "score": 0.5,
+    "anchor": "accessori purificatori d'aria"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/termofori-e-boule-701102.html",
+    "score": 0.5,
+    "anchor": "termofori e boule"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/termocoperte-701105.html",
+    "score": 0.5,
+    "anchor": "termocoperte"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/diffusori-di-aromi-701104.html",
+    "score": 0.5,
+    "anchor": "diffusori di aromi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/robot-aspirapolvere-700605.html",
+    "score": 0.5,
+    "anchor": "robot aspirapolvere"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/robot-lavapavimenti-701701.html",
+    "score": 0.5,
+    "anchor": "robot lavapavimenti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/scope-elettriche-senza-filo-700614.html",
+    "score": 0.5,
+    "anchor": "scope elettriche senza filo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/scope-elettriche-con-filo-700602.html",
+    "score": 0.5,
+    "anchor": "scope elettriche con filo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavapavimenti-700606.html",
+    "score": 0.5,
+    "anchor": "lavapavimenti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/aspirapolvere-con-sacco-700615.html",
+    "score": 0.5,
+    "anchor": "aspirapolvere con sacco"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/aspirapolvere-senza-sacco-700616.html",
+    "score": 0.5,
+    "anchor": "aspirapolvere senza sacco"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/aspirapolvere-ciclonico-700617.html",
+    "score": 0.5,
+    "anchor": "aspirapolvere ciclonico"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bidoni-aspiratutto-700604.html",
+    "score": 0.5,
+    "anchor": "bidoni aspiratutto"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/aspirabriciole-700601.html",
+    "score": 0.5,
+    "anchor": "aspirabriciole"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/scope-a-vapore-700618.html",
+    "score": 0.5,
+    "anchor": "scope a vapore"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pulitori-a-vapore-traino-700607.html",
+    "score": 0.5,
+    "anchor": "pulitori a vapore traino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavavetri-700608.html",
+    "score": 0.5,
+    "anchor": "lavavetri"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lavatappeti-e-smacchiatori-700621.html",
+    "score": 0.5,
+    "anchor": "lavatappeti e smacchiatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/idropulitrici-700609.html",
+    "score": 0.5,
+    "anchor": "idropulitrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-robot-700619.html",
+    "score": 0.5,
+    "anchor": "accessori robot"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-aspirazione-700611.html",
+    "score": 0.5,
+    "anchor": "accessori aspirazione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sacchetti-aspirapolvere-700610.html",
+    "score": 0.5,
+    "anchor": "sacchetti aspirapolvere"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/detergenti-700612.html",
+    "score": 0.5,
+    "anchor": "detergenti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ferri-da-stiro-con-caldaia-700701.html",
+    "score": 0.5,
+    "anchor": "ferri da stiro con caldaia"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ferri-da-stiro-a-vapore-700702.html",
+    "score": 0.5,
+    "anchor": "ferri da stiro a vapore"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ferri-da-stiro-verticali-700707.html",
+    "score": 0.5,
+    "anchor": "ferri da stiro verticali"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/pressa-da-stiro-700708.html",
+    "score": 0.5,
+    "anchor": "pressa da stiro"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/assi-da-stiro-700703.html",
+    "score": 0.5,
+    "anchor": "assi da stiro"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchine-da-cucire-700704.html",
+    "score": 0.5,
+    "anchor": "macchine da cucire"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-macchine-da-cucire-700710.html",
+    "score": 0.5,
+    "anchor": "accessori macchine da cucire"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/stendibiancheria-700705.html",
+    "score": 0.5,
+    "anchor": "stendibiancheria"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/levapelucchi-700711.html",
+    "score": 0.5,
+    "anchor": "levapelucchi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-stiro-700706.html",
+    "score": 0.5,
+    "anchor": "accessori stiro"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/epilatori-e-depilatori-700801.html",
+    "score": 0.5,
+    "anchor": "epilatori e depilatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/epilatori-a-luce-pulsata-700802.html",
+    "score": 0.5,
+    "anchor": "epilatori a luce pulsata"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/rasoi-elettrici-700803.html",
+    "score": 0.5,
+    "anchor": "rasoi elettrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/regolabarba-700804.html",
+    "score": 0.5,
+    "anchor": "regolabarba"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bilance-pesapersone-700805.html",
+    "score": 0.5,
+    "anchor": "bilance pesapersone"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/trattamento-viso-700807.html",
+    "score": 0.5,
+    "anchor": "trattamento viso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/manicure-e-pedicure-700808.html",
+    "score": 0.5,
+    "anchor": "manicure e pedicure"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/idromassaggiatori-piedi-700809.html",
+    "score": 0.5,
+    "anchor": "idromassaggiatori piedi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/massaggiatori-700810.html",
+    "score": 0.5,
+    "anchor": "massaggiatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/specchi-cosmetici-700811.html",
+    "score": 0.5,
+    "anchor": "specchi cosmetici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-cura-del-corpo-e-viso-700812.html",
+    "score": 0.5,
+    "anchor": "accessori cura del corpo e viso"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/phon-700901.html",
+    "score": 0.5,
+    "anchor": "phon"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/piastre-per-capelli-700902.html",
+    "score": 0.5,
+    "anchor": "piastre per capelli"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/arricciacapelli-700903.html",
+    "score": 0.5,
+    "anchor": "arricciacapelli"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/spazzole-modellanti-700904.html",
+    "score": 0.5,
+    "anchor": "spazzole modellanti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tagliacapelli-700905.html",
+    "score": 0.5,
+    "anchor": "tagliacapelli"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-cura-dei-capelli-700906.html",
+    "score": 0.5,
+    "anchor": "accessori cura dei capelli"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/spazzolini-elettrici-700806.html",
+    "score": 0.5,
+    "anchor": "spazzolini elettrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/idropulsori-701601.html",
+    "score": 0.5,
+    "anchor": "idropulsori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/testine-di-ricambio-701602.html",
+    "score": 0.5,
+    "anchor": "testine di ricambio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/termometri-701002.html",
+    "score": 0.5,
+    "anchor": "termometri"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/misuratori-di-pressione-701003.html",
+    "score": 0.5,
+    "anchor": "misuratori di pressione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/elettrostimolatori-701004.html",
+    "score": 0.5,
+    "anchor": "elettrostimolatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/aerosol-701005.html",
+    "score": 0.5,
+    "anchor": "aerosol"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/altri-dispositivi-medicali-701006.html",
+    "score": 0.5,
+    "anchor": "altri dispositivi medicali"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ciotole-e-dispenser-701302.html",
+    "score": 0.5,
+    "anchor": "dispenser cibo per cani e gatti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/fontanelle-per-cani-e-gatti-701303.html",
+    "score": 0.5,
+    "anchor": "fontanelle per cani e gatti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lettiere-autopulenti-701304.html",
+    "score": 0.5,
+    "anchor": "lettiere autopulenti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/igiene-e-cura-dell-animale-701305.html",
+    "score": 0.5,
+    "anchor": "igiene e cura dell'animale"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/piscina-per-cani-701306.html",
+    "score": 0.5,
+    "anchor": "piscina per cani"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tosatrici-701301.html",
+    "score": 0.5,
+    "anchor": "tosatrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/gps-cani-e-gatti-e-telecamere-701307.html",
+    "score": 0.5,
+    "anchor": "gps cani e gatti e telecamere"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/rimorchi-per-bici-701308.html",
+    "score": 0.5,
+    "anchor": "rimorchi per bici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/trasportini-e-passeggini-per-cani-e-gatti-701309.html",
+    "score": 0.5,
+    "anchor": "trasportini e passeggini per cani e gatti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tiragraffi-e-giochi-701310.html",
+    "score": 0.5,
+    "anchor": "tiragraffi e giochi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-per-animali-701311.html",
+    "score": 0.5,
+    "anchor": "accessori per animali"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tiralatte-701204.html",
+    "score": 0.5,
+    "anchor": "tiralatte"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-allattamento-701203.html",
+    "score": 0.5,
+    "anchor": "accessori allattamento"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-relax-e-sonno-701206.html",
+    "score": 0.5,
+    "anchor": "accessori relax e sonno"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-pappa-e-sterilizzatori-701202.html",
+    "score": 0.5,
+    "anchor": "accessori pappa e sterilizzatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/igiene-e-cura-neonato-701207.html",
+    "score": 0.5,
+    "anchor": "igiene e cura neonato"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/kit-allarme-smart-e-gateway-201201.html",
+    "score": 0.5,
+    "anchor": "kit allarme smart e gateway"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/telecamere-wifi-201202.html",
+    "score": 0.5,
+    "anchor": "telecamere wifi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sensori-porta-e-movimento-smart-201203.html",
+    "score": 0.5,
+    "anchor": "sensori porta e movimento smart"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/serrature-smart-201204.html",
+    "score": 0.5,
+    "anchor": "serrature smart"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/apple-homepod-201305.html",
+    "score": 0.5,
+    "anchor": "apple homepod"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/amazon-echo-201301.html",
+    "score": 0.5,
+    "anchor": "amazon echo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/google-nest-201302.html",
+    "score": 0.5,
+    "anchor": "google nest"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/qualita-aria-201304.html",
+    "score": 0.5,
+    "anchor": "qualit\u00e0 dell'aria e temperatura"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/presa-elettrica-wifi-201401.html",
+    "score": 0.5,
+    "anchor": "presa elettrica wifi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/termostato-smart-201403.html",
+    "score": 0.5,
+    "anchor": "termostato smart"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accumulatori-201404.html",
+    "score": 0.5,
+    "anchor": "accumulatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-201406.html",
+    "score": 0.5,
+    "anchor": "accessori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lampadari-800702.html",
+    "score": 0.5,
+    "anchor": "lampadari"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lampade-e-appliques-da-parete-201610.html",
+    "score": 0.5,
+    "anchor": "lampade e appliques da parete"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lampade-da-terra-201601.html",
+    "score": 0.5,
+    "anchor": "lampade da terra"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lampade-da-tavolo-201602.html",
+    "score": 0.5,
+    "anchor": "lampade da tavolo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/plafoniere-led-201604.html",
+    "score": 0.5,
+    "anchor": "plafoniere led"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/faretti-led-201605.html",
+    "score": 0.5,
+    "anchor": "faretti led"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lampade-per-piante-201606.html",
+    "score": 0.5,
+    "anchor": "lampade per piante"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/illuminazione-per-esterno-201607.html",
+    "score": 0.5,
+    "anchor": "illuminazione per esterno"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-illuminazione-201608.html",
+    "score": 0.5,
+    "anchor": "accessori illuminazione"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lampadine-led-201609.html",
+    "score": 0.5,
+    "anchor": "lampadine led"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/insegne-luminose-neon-led-201303.html",
+    "score": 0.5,
+    "anchor": "insegne luminose neon led"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/strisce-led-201701.html",
+    "score": 0.5,
+    "anchor": "strisce led"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tubi-led-flex-201702.html",
+    "score": 0.5,
+    "anchor": "tubi led flex"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/proiettore-luci-e-stelle-201703.html",
+    "score": 0.5,
+    "anchor": "proiettore luci e stelle"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tende-luminose-201704.html",
+    "score": 0.5,
+    "anchor": "tende luminose"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/luci-di-natale-201705.html",
+    "score": 0.5,
+    "anchor": "luci di natale"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/addobbi-natalizi-luminosi-201706.html",
+    "score": 0.5,
+    "anchor": "addobbi natalizi luminosi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/poltrone-201501.html",
+    "score": 0.5,
+    "anchor": "poltrone"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sedie-e-sgabelli-201502.html",
+    "score": 0.5,
+    "anchor": "sedie e sgabelli"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/monopattini-elettrici-800301.html",
+    "score": 0.5,
+    "anchor": "monopattini elettrici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bici-elettriche-800302.html",
+    "score": 0.5,
+    "anchor": "bici elettriche"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/hoverboard-800303.html",
+    "score": 0.5,
+    "anchor": "hoverboard"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-mobilita-elettrica-800305.html",
+    "score": 0.5,
+    "anchor": "accessori mobilit\u00e0 elettrica"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/wallbox-800306.html",
+    "score": 0.5,
+    "anchor": "wallbox"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cavi-di-ricarica-per-auto-801401.html",
+    "score": 0.5,
+    "anchor": "cavi di ricarica per auto"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-technic-801201.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae technic"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-star-wars-801202.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae star wars"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-friends-801203.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae friends"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-harry-potter-801204.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae harry potter"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-city-801205.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae city"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-botanicals-801223.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae botanicals"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-speed-champions-801217.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae speed champions"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-creator-801216.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae creator"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-disney-801218.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae disney"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-duplo-801208.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae duplo"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-ideas-801211.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae ideas"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-ninjago-801206.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae ninjago"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/lego-minecraft-801207.html",
+    "score": 0.5,
+    "anchor": "lego\u00ae minecraft"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/action-figure-800602.html",
+    "score": 0.5,
+    "anchor": "action figure"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/peluche-800606.html",
+    "score": 0.5,
+    "anchor": "peluche"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bambole-barbie-e-accessori-800609.html",
+    "score": 0.5,
+    "anchor": "bambole, barbie e accessori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/personaggi-sonori-800607.html",
+    "score": 0.5,
+    "anchor": "personaggi sonori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/macchinine-e-modellini-800608.html",
+    "score": 0.5,
+    "anchor": "macchinine e modellini"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/bici-per-bambini-800601.html",
+    "score": 0.5,
+    "anchor": "biciclette per bambini"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-bambini-800604.html",
+    "score": 0.5,
+    "anchor": "accessori bambini"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/carte-da-gioco-800603.html",
+    "score": 0.5,
+    "anchor": "carte da gioco"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/carte-da-gioco-lisciani-801302.html",
+    "score": 0.5,
+    "anchor": "carte da gioco lisciani"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/giochi-da-esterno-800605.html",
+    "score": 0.5,
+    "anchor": "giochi da esterno"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/giochi-elettronici-ed-educativi-801304.html",
+    "score": 0.5,
+    "anchor": "giochi educativi ed elettronici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/mobilita-bambini-801301.html",
+    "score": 0.5,
+    "anchor": "mobilit\u00e0 bambini"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/puzzle-801303.html",
+    "score": 0.5,
+    "anchor": "puzzle"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/binocoli-800803.html",
+    "score": 0.5,
+    "anchor": "binocoli"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/traduttore-800810.html",
+    "score": 0.5,
+    "anchor": "traduttore"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/walkie-talkie-800804.html",
+    "score": 0.5,
+    "anchor": "walkie talkie"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/zanzariere-800806.html",
+    "score": 0.5,
+    "anchor": "zanzariere"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-camping-800807.html",
+    "score": 0.5,
+    "anchor": "accessori camping"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/borse-termiche-800805.html",
+    "score": 0.5,
+    "anchor": "borse termiche"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/valigie-e-borse-da-viaggio-800813.html",
+    "score": 0.5,
+    "anchor": "valigie e borse da viaggio"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tavoli-da-esterno-800706.html",
+    "score": 0.5,
+    "anchor": "tavoli da esterno"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sedie-da-giardino-800707.html",
+    "score": 0.5,
+    "anchor": "sedie da giardino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sdraio-e-lettini-prendisole-800708.html",
+    "score": 0.5,
+    "anchor": "sdraio e lettini prendisole"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/divani-e-poltrone-da-giardino-800709.html",
+    "score": 0.5,
+    "anchor": "divani e poltrone da giardino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/panche-da-giardino-800710.html",
+    "score": 0.5,
+    "anchor": "panche da giardino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/dondoli-da-giardino-800711.html",
+    "score": 0.5,
+    "anchor": "dondoli da giardino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/gazebi-800712.html",
+    "score": 0.5,
+    "anchor": "gazebi"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/vele-e-tende-ombreggianti-800713.html",
+    "score": 0.5,
+    "anchor": "vele e tende ombreggianti"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ombrelloni-da-giardino-e-spiaggia-800714.html",
+    "score": 0.5,
+    "anchor": "ombrelloni da giardino e spiaggia"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/mobili-da-giardino-800811.html",
+    "score": 0.5,
+    "anchor": "mobili da giardino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/orto-e-giardino-800812.html",
+    "score": 0.5,
+    "anchor": "orto e giardino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/accessori-da-giardino-800715.html",
+    "score": 0.5,
+    "anchor": "accessori da giardino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/barbecue-800801.html",
+    "score": 0.5,
+    "anchor": "barbecue"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/barbecue-a-gas-700214.html",
+    "score": 0.5,
+    "anchor": "barbecue a gas"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/barbecue-elettrico-700213.html",
+    "score": 0.5,
+    "anchor": "barbecue elettrico"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/robot-da-piscina-800809.html",
+    "score": 0.5,
+    "anchor": "robot da piscina"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tagliaerba-a-batteria-800703.html",
+    "score": 0.5,
+    "anchor": "robot tagliaerba e accessori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tagliasiepi-a-batteria-800704.html",
+    "score": 0.5,
+    "anchor": "tagliasiepi a batteria"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/casette-e-armadi-da-giardino-800705.html",
+    "score": 0.5,
+    "anchor": "casette e armadi da giardino"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/tapis-roulant-801101.html",
+    "score": 0.5,
+    "anchor": "tapis roulant"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/cyclettes-801102.html",
+    "score": 0.5,
+    "anchor": "cyclettes"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/ellittiche-801103.html",
+    "score": 0.5,
+    "anchor": "ellittiche"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/vogatori-801104.html",
+    "score": 0.5,
+    "anchor": "vogatori"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/sport-acquatici-800304.html",
+    "score": 0.5,
+    "anchor": "sport acquatici"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/attrezzi-fitness-801105.html",
+    "score": 0.5,
+    "anchor": "attrezzi fitness"
+  },
+  {
+    "url": "https://www.mediaworld.it/it/category/energy-drink-801106.html",
+    "score": 0.5,
+    "anchor": "energy drink"
+  }
+]

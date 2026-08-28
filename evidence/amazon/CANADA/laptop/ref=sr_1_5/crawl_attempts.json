@@ -1,0 +1,35 @@
+{
+  "target_id": "amazon-ca",
+  "laptop_url": "https://www.amazon.ca/HP-Processor-Storage-Graphics-15-fd0016ca/dp/B0DVD5RQ86/ref=sr_1_5?dib=eyJ2IjoiMSJ9.0LvvhywwDS7khN3yY3pUbz01tn1lk0yNXd-eMpLu3-9mWvpaU6m-x3LPGGP4fdpaJOrhMF6jh8O2hQUODa41VtAfqT05YuwDolQ4S4KNOPRUAc_E_jyO63f2zR-dlDdJN6uoyB0h37r8Mh3RF9L-goNG5rLMbZ3eDc0kpTZbmkoRycVxVp-nVZByHZ3hdNAApKm3LIb2QBr1cMzZbF0lLburPPHCgFHWsM5CovUs8QHzNTNQm8xqgB9cuW0NEGHs85oFI1vUtWktkI8_5bFWVwBwJ1qcK8HACNNdoFiUOX8.rAbfAapj7BflULUiYIdIOb_gOxiK7k-biXjWUS3QJaI&dib_tag=se&keywords=laptop&qid=1787581921&sr=8-5",
+  "http": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 2754.0
+  },
+  "playwright": {
+    "reachable": false,
+    "status_code": 0,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "TRANSPORT_FAILURE",
+    "failure_vendor": null,
+    "latency_ms": 0.3
+  },
+  "firecrawl": {
+    "reachable": true,
+    "status_code": 200,
+    "is_valid_laptop": false,
+    "confidence_score": 0.0,
+    "failure_class": "WAF_BOT_CHALLENGE",
+    "failure_vendor": null,
+    "classification_code": "FIRECRAWL_RETAILER_BLOCK",
+    "latency_ms": 22655.7
+  },
+  "brightdata": "NO",
+  "adapter": "N/A",
+  "extracted_product": null
+}

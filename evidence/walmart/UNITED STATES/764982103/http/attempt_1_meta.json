@@ -1,0 +1,31 @@
+{
+  "attempt_number": 1,
+  "strategy": "HTTP",
+  "status_code": 0,
+  "response_time_ms": 7837.88,
+  "browser_seconds": 0.0,
+  "bytes_received": 0,
+  "success": false,
+  "evidence_path": "evidence/walmart/United States/764982103/http/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "NETWORK",
+    "specific_reason": "CONNECTION_TIMEOUT",
+    "stage": "URL_REACHABILITY",
+    "failure_reason_human": "Connection timed out: HTTP Timeout: ",
+    "http_status": 0,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "HTTP Timeout: ",
+    "source_strategy": "HTTP",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:08:01.230301+00:00",
+    "is_recoverable": true,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {}
+  },
+  "timestamp": "2026-08-23T16:08:01.230382+00:00"
+}

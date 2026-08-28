@@ -1,0 +1,17 @@
+{
+  "target_id": "thegioididong-vn",
+  "retailer": "Thegioididong",
+  "country": "Vietnam",
+  "domain": "thegioididong.com",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data SERP & Web Unlocker",
+  "url": "https://www.thegioididong.com/laptop-asus",
+  "title": "Máy tính, laptop ASUS (i3 - i9) góp 0%, đáp ứng mọi nhu ...",
+  "brand": "ASUS",
+  "specs": {
+    "type": "Laptop Computer"
+  },
+  "timestamp": "2026-08-25T14:22:54.061866+00:00",
+  "failure_reason": null
+}

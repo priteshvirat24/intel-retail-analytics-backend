@@ -1,0 +1,4746 @@
+firecrawl:
+  enabled: true
+  base_url: http://localhost:3008
+  modes:
+    - scrape
+    - map
+    - crawl
+    - batch_scrape
+  timeout_seconds: 30
+  max_concurrency: 5
+  use_for_fallback: true
+  use_for_benchmark: true
+
+targets:
+  agres-id:
+    target_id: agres-id
+    retailer: agres
+    country: Indonesia
+    iso_country: ID
+    domain: agres.id
+    locale: id-ID
+    currency: IDR
+    timezone: Asia/Jakarta
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.agres.id/laptops
+    - category: Smartphones & Mobile
+      url: https://www.agres.id/smartphones
+    - category: Audio & Headphones
+      url: https://www.agres.id/audio
+    - category: Monitors & Displays
+      url: https://www.agres.id/monitors
+    - category: Storage & Memory
+      url: https://www.agres.id/storage
+    sitemap_urls:
+    - https://www.agres.id/sitemap.xml
+    max_concurrency: 3
+    rate_limit: 2.0
+    enabled: true
+    seed_urls:
+    - url: https://www.agres.id/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.agres.id/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.agres.id/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.agres.id/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.agres.id/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.agres.id/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.agres.id/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.agres.id/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.agres.id/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.agres.id/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.agres.id/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.agres.id/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.agres.id/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.agres.id/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.agres.id/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.agres.id/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.agres.id/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.agres.id/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.agres.id/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.agres.id/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  acer-global:
+    target_id: acer-global
+    retailer: acer
+    country: Global
+    iso_country: US
+    domain: store.acer.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://store.acer.com/laptops
+    - category: Smartphones & Mobile
+      url: https://store.acer.com/smartphones
+    - category: Audio & Headphones
+      url: https://store.acer.com/audio
+    - category: Monitors & Displays
+      url: https://store.acer.com/monitors
+    - category: Storage & Memory
+      url: https://store.acer.com/storage
+    sitemap_urls:
+    - https://store.acer.com/sitemap.xml
+    max_concurrency: 3
+    rate_limit: 2.0
+    enabled: true
+    seed_urls:
+    - url: https://store.acer.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://store.acer.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://store.acer.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://store.acer.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://store.acer.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://store.acer.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://store.acer.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://store.acer.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://store.acer.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://store.acer.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://store.acer.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://store.acer.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://store.acer.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://store.acer.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://store.acer.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://store.acer.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://store.acer.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://store.acer.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://store.acer.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://store.acer.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  amazon-us:
+    target_id: amazon-us
+    retailer: amazon
+    country: United States
+    iso_country: US
+    domain: amazon.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.com/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.com/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.com/storage
+    sitemap_urls:
+    - https://www.amazon.com/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.com/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.com/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.com/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.com/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.com/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.com/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.com/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.com/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.com/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.com/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.com/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.com/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.com/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.com/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.com/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.com/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.com/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.com/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.com/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.com/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-in:
+    target_id: amazon-in
+    retailer: amazon
+    country: India
+    iso_country: IN
+    domain: amazon.in
+    locale: en-IN
+    currency: INR
+    timezone: Asia/Kolkata
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.in/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.in/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.in/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.in/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.in/storage
+    sitemap_urls:
+    - https://www.amazon.in/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.in/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.in/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.in/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.in/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.in/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.in/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.in/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.in/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.in/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.in/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.in/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.in/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.in/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.in/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.in/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.in/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.in/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.in/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.in/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.in/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-gb:
+    target_id: amazon-gb
+    retailer: amazon
+    country: United Kingdom
+    iso_country: GB
+    domain: amazon.co.uk
+    locale: en-GB
+    currency: GBP
+    timezone: Europe/London
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.co.uk/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.co.uk/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.co.uk/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.co.uk/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.co.uk/storage
+    sitemap_urls:
+    - https://www.amazon.co.uk/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.co.uk/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.co.uk/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.co.uk/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.co.uk/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.co.uk/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.co.uk/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.co.uk/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.co.uk/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.co.uk/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.co.uk/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.co.uk/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.co.uk/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.co.uk/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.co.uk/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.co.uk/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.co.uk/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.co.uk/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.co.uk/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.co.uk/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.co.uk/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-de:
+    target_id: amazon-de
+    retailer: amazon
+    country: Germany
+    iso_country: DE
+    domain: amazon.de
+    locale: de-DE
+    currency: EUR
+    timezone: Europe/Berlin
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.de/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.de/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.de/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.de/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.de/storage
+    sitemap_urls:
+    - https://www.amazon.de/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.de/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.de/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.de/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.de/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.de/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.de/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.de/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.de/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.de/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.de/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.de/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.de/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.de/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.de/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.de/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.de/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.de/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.de/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.de/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.de/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-fr:
+    target_id: amazon-fr
+    retailer: amazon
+    country: France
+    iso_country: FR
+    domain: amazon.fr
+    locale: fr-FR
+    currency: EUR
+    timezone: Europe/Paris
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.fr/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.fr/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.fr/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.fr/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.fr/storage
+    sitemap_urls:
+    - https://www.amazon.fr/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.fr/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.fr/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.fr/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.fr/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.fr/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.fr/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.fr/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.fr/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.fr/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.fr/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.fr/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.fr/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.fr/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.fr/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.fr/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.fr/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.fr/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.fr/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.fr/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.fr/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-it:
+    target_id: amazon-it
+    retailer: amazon
+    country: Italy
+    iso_country: IT
+    domain: amazon.it
+    locale: it-IT
+    currency: EUR
+    timezone: Europe/Rome
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.it/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.it/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.it/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.it/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.it/storage
+    sitemap_urls:
+    - https://www.amazon.it/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.it/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.it/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.it/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.it/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.it/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.it/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.it/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.it/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.it/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.it/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.it/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.it/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.it/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.it/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.it/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.it/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.it/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.it/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.it/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.it/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-es:
+    target_id: amazon-es
+    retailer: amazon
+    country: Spain
+    iso_country: ES
+    domain: amazon.es
+    locale: es-ES
+    currency: EUR
+    timezone: Europe/Madrid
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.es/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.es/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.es/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.es/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.es/storage
+    sitemap_urls:
+    - https://www.amazon.es/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.es/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.es/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.es/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.es/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.es/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.es/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.es/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.es/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.es/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.es/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.es/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.es/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.es/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.es/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.es/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.es/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.es/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.es/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.es/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.es/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-ca:
+    target_id: amazon-ca
+    retailer: amazon
+    country: Canada
+    iso_country: CA
+    domain: amazon.ca
+    locale: en-CA
+    currency: CAD
+    timezone: America/Toronto
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.ca/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.ca/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.ca/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.ca/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.ca/storage
+    sitemap_urls:
+    - https://www.amazon.ca/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.ca/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.ca/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.ca/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.ca/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.ca/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.ca/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.ca/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.ca/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.ca/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.ca/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.ca/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.ca/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.ca/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.ca/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.ca/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.ca/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.ca/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.ca/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.ca/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.ca/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-mx:
+    target_id: amazon-mx
+    retailer: amazon
+    country: Mexico
+    iso_country: MX
+    domain: amazon.com.mx
+    locale: es-MX
+    currency: MXN
+    timezone: America/Mexico_City
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.com.mx/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.com.mx/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.com.mx/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.com.mx/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.com.mx/storage
+    sitemap_urls:
+    - https://www.amazon.com.mx/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.com.mx/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.com.mx/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.com.mx/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.com.mx/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.com.mx/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.com.mx/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.com.mx/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.com.mx/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.com.mx/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.com.mx/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.com.mx/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.com.mx/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.com.mx/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.com.mx/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.com.mx/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.com.mx/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.com.mx/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.com.mx/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.com.mx/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.com.mx/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  amazon-br:
+    target_id: amazon-br
+    retailer: amazon
+    country: Brazil
+    iso_country: BR
+    domain: amazon.com.br
+    locale: pt-BR
+    currency: BRL
+    timezone: America/Sao_Paulo
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.amazon.com.br/laptops
+    - category: Smartphones & Mobile
+      url: https://www.amazon.com.br/smartphones
+    - category: Audio & Headphones
+      url: https://www.amazon.com.br/audio
+    - category: Monitors & Displays
+      url: https://www.amazon.com.br/monitors
+    - category: Storage & Memory
+      url: https://www.amazon.com.br/storage
+    sitemap_urls:
+    - https://www.amazon.com.br/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.amazon.com.br/dp/B08L5WHJ7L
+      category: Smartphones & Mobile
+      sku_id: B08L5WHJ7L
+    - url: https://www.amazon.com.br/dp/B08N5WRW88
+      category: Laptops & Notebooks
+      sku_id: B08N5WRW88
+    - url: https://www.amazon.com.br/dp/B08N5WRWNW
+      category: Laptops & Notebooks
+      sku_id: B08N5WRWNW
+    - url: https://www.amazon.com.br/dp/B09BRF4N2V
+      category: Audio & Headphones
+      sku_id: B09BRF4N2V
+    - url: https://www.amazon.com.br/dp/B09BRG5P3W
+      category: Audio & Headphones
+      sku_id: B09BRG5P3W
+    - url: https://www.amazon.com.br/dp/B09G91LXFP
+      category: Tablets & E-Readers
+      sku_id: B09G91LXFP
+    - url: https://www.amazon.com.br/dp/B09G93MZFP
+      category: Tablets & E-Readers
+      sku_id: B09G93MZFP
+    - url: https://www.amazon.com.br/dp/B09G9FPHY6
+      category: Tablets & E-Readers
+      sku_id: B09G9FPHY6
+    - url: https://www.amazon.com.br/dp/B09JQKQW89
+      category: Smartphones & Mobile
+      sku_id: B09JQKQW89
+    - url: https://www.amazon.com.br/dp/B09V3HN1KC
+      category: Smartphones & Mobile
+      sku_id: B09V3HN1KC
+    - url: https://www.amazon.com.br/dp/B09V48Z7M9
+      category: Smartphones & Mobile
+      sku_id: B09V48Z7M9
+    - url: https://www.amazon.com.br/dp/B0B7J4H2Y2
+      category: Smartwatches & Wearables
+      sku_id: B0B7J4H2Y2
+    - url: https://www.amazon.com.br/dp/B0BSHF7WHW
+      category: Monitors & Displays
+      sku_id: B0BSHF7WHW
+    - url: https://www.amazon.com.br/dp/B0BSHGW7N6
+      category: Monitors & Displays
+      sku_id: B0BSHGW7N6
+    - url: https://www.amazon.com.br/dp/B0C7678D3M
+      category: Storage & Memory
+      sku_id: B0C7678D3M
+    - url: https://www.amazon.com.br/dp/B0CHWZ6NCM
+      category: Smartphones & Mobile
+      sku_id: B0CHWZ6NCM
+    - url: https://www.amazon.com.br/dp/B0CL5KNB9M
+      category: Laptops & Notebooks
+      sku_id: B0CL5KNB9M
+    - url: https://www.amazon.com.br/dp/B0CL6LMC9N
+      category: Home & Electronics
+      sku_id: B0CL6LMC9N
+    - url: https://www.amazon.com.br/dp/B0CX237P9P
+      category: Audio & Headphones
+      sku_id: B0CX237P9P
+    - url: https://www.amazon.com.br/dp/B0CX357M8P
+      category: Audio & Headphones
+      sku_id: B0CX357M8P
+  bestbuy-us:
+    target_id: bestbuy-us
+    retailer: bestbuy
+    country: United States
+    iso_country: US
+    domain: bestbuy.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.bestbuy.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.bestbuy.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.bestbuy.com/audio
+    - category: Monitors & Displays
+      url: https://www.bestbuy.com/monitors
+    - category: Storage & Memory
+      url: https://www.bestbuy.com/storage
+    sitemap_urls:
+    - https://www.bestbuy.com/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.bestbuy.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '6418600'
+    - url: https://www.bestbuy.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '6418601'
+    - url: https://www.bestbuy.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '6418602'
+    - url: https://www.bestbuy.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '6418603'
+    - url: https://www.bestbuy.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: '6418604'
+    - url: https://www.bestbuy.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '6418605'
+    - url: https://www.bestbuy.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '6418606'
+    - url: https://www.bestbuy.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '6418607'
+    - url: https://www.bestbuy.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '6418608'
+    - url: https://www.bestbuy.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: '6418609'
+    - url: https://www.bestbuy.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '6418610'
+    - url: https://www.bestbuy.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '6418611'
+    - url: https://www.bestbuy.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '6418612'
+    - url: https://www.bestbuy.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '6418613'
+    - url: https://www.bestbuy.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: '6418614'
+    - url: https://www.bestbuy.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '6418615'
+    - url: https://www.bestbuy.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '6418616'
+    - url: https://www.bestbuy.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '6418617'
+    - url: https://www.bestbuy.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '6418618'
+    - url: https://www.bestbuy.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: '6418619'
+  bestbuy-ca:
+    target_id: bestbuy-ca
+    retailer: bestbuy
+    country: Canada
+    iso_country: CA
+    domain: bestbuy.ca
+    locale: en-CA
+    currency: CAD
+    timezone: America/Toronto
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.bestbuy.ca/laptops
+    - category: Smartphones & Mobile
+      url: https://www.bestbuy.ca/smartphones
+    - category: Audio & Headphones
+      url: https://www.bestbuy.ca/audio
+    - category: Monitors & Displays
+      url: https://www.bestbuy.ca/monitors
+    - category: Storage & Memory
+      url: https://www.bestbuy.ca/storage
+    sitemap_urls:
+    - https://www.bestbuy.ca/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.bestbuy.ca/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '6418600'
+    - url: https://www.bestbuy.ca/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '6418601'
+    - url: https://www.bestbuy.ca/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '6418602'
+    - url: https://www.bestbuy.ca/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '6418603'
+    - url: https://www.bestbuy.ca/product/sku_0005
+      category: Storage & Memory
+      sku_id: '6418604'
+    - url: https://www.bestbuy.ca/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '6418605'
+    - url: https://www.bestbuy.ca/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '6418606'
+    - url: https://www.bestbuy.ca/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '6418607'
+    - url: https://www.bestbuy.ca/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '6418608'
+    - url: https://www.bestbuy.ca/product/sku_0010
+      category: Storage & Memory
+      sku_id: '6418609'
+    - url: https://www.bestbuy.ca/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '6418610'
+    - url: https://www.bestbuy.ca/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '6418611'
+    - url: https://www.bestbuy.ca/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '6418612'
+    - url: https://www.bestbuy.ca/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '6418613'
+    - url: https://www.bestbuy.ca/product/sku_0015
+      category: Storage & Memory
+      sku_id: '6418614'
+    - url: https://www.bestbuy.ca/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '6418615'
+    - url: https://www.bestbuy.ca/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '6418616'
+    - url: https://www.bestbuy.ca/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '6418617'
+    - url: https://www.bestbuy.ca/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '6418618'
+    - url: https://www.bestbuy.ca/product/sku_0020
+      category: Storage & Memory
+      sku_id: '6418619'
+  boulanger-fr:
+    target_id: boulanger-fr
+    retailer: boulanger
+    country: France
+    iso_country: FR
+    domain: boulanger.com
+    locale: fr-FR
+    currency: EUR
+    timezone: Europe/Paris
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.boulanger.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.boulanger.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.boulanger.com/audio
+    - category: Monitors & Displays
+      url: https://www.boulanger.com/monitors
+    - category: Storage & Memory
+      url: https://www.boulanger.com/storage
+    sitemap_urls:
+    - https://www.boulanger.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.boulanger.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.boulanger.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.boulanger.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.boulanger.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.boulanger.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.boulanger.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.boulanger.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.boulanger.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.boulanger.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.boulanger.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.boulanger.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.boulanger.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.boulanger.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.boulanger.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.boulanger.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.boulanger.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.boulanger.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.boulanger.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.boulanger.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.boulanger.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  costco-us:
+    target_id: costco-us
+    retailer: costco
+    country: United States
+    iso_country: US
+    domain: costco.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.costco.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.costco.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.costco.com/audio
+    - category: Monitors & Displays
+      url: https://www.costco.com/monitors
+    - category: Storage & Memory
+      url: https://www.costco.com/storage
+    sitemap_urls:
+    - https://www.costco.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.0
+    enabled: true
+    seed_urls:
+    - url: https://www.costco.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.costco.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.costco.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.costco.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.costco.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.costco.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.costco.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.costco.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.costco.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.costco.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.costco.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.costco.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.costco.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.costco.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.costco.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.costco.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.costco.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.costco.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.costco.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.costco.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  coupang-kr:
+    target_id: coupang-kr
+    retailer: coupang
+    country: South Korea
+    iso_country: KR
+    domain: coupang.com
+    locale: ko-KR
+    currency: KRW
+    timezone: Asia/Seoul
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.coupang.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.coupang.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.coupang.com/audio
+    - category: Monitors & Displays
+      url: https://www.coupang.com/monitors
+    - category: Storage & Memory
+      url: https://www.coupang.com/storage
+    sitemap_urls:
+    - https://www.coupang.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.0
+    enabled: true
+    seed_urls:
+    - url: https://www.coupang.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.coupang.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.coupang.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.coupang.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.coupang.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.coupang.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.coupang.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.coupang.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.coupang.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.coupang.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.coupang.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.coupang.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.coupang.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.coupang.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.coupang.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.coupang.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.coupang.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.coupang.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.coupang.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.coupang.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  currys-gb:
+    target_id: currys-gb
+    retailer: currys
+    country: United Kingdom
+    iso_country: GB
+    domain: currys.co.uk
+    locale: en-GB
+    currency: GBP
+    timezone: Europe/London
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.currys.co.uk/laptops
+    - category: Smartphones & Mobile
+      url: https://www.currys.co.uk/smartphones
+    - category: Audio & Headphones
+      url: https://www.currys.co.uk/audio
+    - category: Monitors & Displays
+      url: https://www.currys.co.uk/monitors
+    - category: Storage & Memory
+      url: https://www.currys.co.uk/storage
+    sitemap_urls:
+    - https://www.currys.co.uk/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.currys.co.uk/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.currys.co.uk/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.currys.co.uk/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.currys.co.uk/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.currys.co.uk/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.currys.co.uk/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.currys.co.uk/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.currys.co.uk/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.currys.co.uk/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.currys.co.uk/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.currys.co.uk/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.currys.co.uk/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.currys.co.uk/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.currys.co.uk/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.currys.co.uk/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.currys.co.uk/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.currys.co.uk/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.currys.co.uk/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.currys.co.uk/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.currys.co.uk/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  dell-global:
+    target_id: dell-global
+    retailer: dell
+    country: Global
+    iso_country: US
+    domain: dell.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.dell.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.dell.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.dell.com/audio
+    - category: Monitors & Displays
+      url: https://www.dell.com/monitors
+    - category: Storage & Memory
+      url: https://www.dell.com/storage
+    sitemap_urls:
+    - https://www.dell.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.dell.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.dell.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.dell.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.dell.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.dell.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.dell.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.dell.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.dell.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.dell.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.dell.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.dell.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.dell.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.dell.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.dell.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.dell.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.dell.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.dell.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.dell.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.dell.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.dell.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  elkjop-dk:
+    target_id: elkjop-dk
+    retailer: elkjop
+    country: Denmark
+    iso_country: DK
+    domain: elgiganten.dk
+    locale: da-DK
+    currency: DKK
+    timezone: Europe/Copenhagen
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.elgiganten.dk/laptops
+    - category: Smartphones & Mobile
+      url: https://www.elgiganten.dk/smartphones
+    - category: Audio & Headphones
+      url: https://www.elgiganten.dk/audio
+    - category: Monitors & Displays
+      url: https://www.elgiganten.dk/monitors
+    - category: Storage & Memory
+      url: https://www.elgiganten.dk/storage
+    sitemap_urls:
+    - https://www.elgiganten.dk/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.elgiganten.dk/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.elgiganten.dk/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.elgiganten.dk/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.elgiganten.dk/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.elgiganten.dk/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.elgiganten.dk/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.elgiganten.dk/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.elgiganten.dk/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.elgiganten.dk/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.elgiganten.dk/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.elgiganten.dk/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.elgiganten.dk/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.elgiganten.dk/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.elgiganten.dk/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.elgiganten.dk/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.elgiganten.dk/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.elgiganten.dk/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.elgiganten.dk/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.elgiganten.dk/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.elgiganten.dk/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  elkjop-no:
+    target_id: elkjop-no
+    retailer: elkjop
+    country: Norway
+    iso_country: 'NO'
+    domain: elkjop.no
+    locale: no-NO
+    currency: NOK
+    timezone: Europe/Oslo
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.elkjop.no/laptops
+    - category: Smartphones & Mobile
+      url: https://www.elkjop.no/smartphones
+    - category: Audio & Headphones
+      url: https://www.elkjop.no/audio
+    - category: Monitors & Displays
+      url: https://www.elkjop.no/monitors
+    - category: Storage & Memory
+      url: https://www.elkjop.no/storage
+    sitemap_urls:
+    - https://www.elkjop.no/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.elkjop.no/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.elkjop.no/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.elkjop.no/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.elkjop.no/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.elkjop.no/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.elkjop.no/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.elkjop.no/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.elkjop.no/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.elkjop.no/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.elkjop.no/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.elkjop.no/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.elkjop.no/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.elkjop.no/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.elkjop.no/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.elkjop.no/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.elkjop.no/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.elkjop.no/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.elkjop.no/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.elkjop.no/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.elkjop.no/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  elkjop-se:
+    target_id: elkjop-se
+    retailer: elkjop
+    country: Sweden
+    iso_country: SE
+    domain: elgiganten.se
+    locale: sv-SE
+    currency: SEK
+    timezone: Europe/Stockholm
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.elgiganten.se/laptops
+    - category: Smartphones & Mobile
+      url: https://www.elgiganten.se/smartphones
+    - category: Audio & Headphones
+      url: https://www.elgiganten.se/audio
+    - category: Monitors & Displays
+      url: https://www.elgiganten.se/monitors
+    - category: Storage & Memory
+      url: https://www.elgiganten.se/storage
+    sitemap_urls:
+    - https://www.elgiganten.se/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.elgiganten.se/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.elgiganten.se/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.elgiganten.se/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.elgiganten.se/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.elgiganten.se/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.elgiganten.se/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.elgiganten.se/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.elgiganten.se/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.elgiganten.se/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.elgiganten.se/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.elgiganten.se/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.elgiganten.se/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.elgiganten.se/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.elgiganten.se/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.elgiganten.se/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.elgiganten.se/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.elgiganten.se/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.elgiganten.se/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.elgiganten.se/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.elgiganten.se/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  euronics-it:
+    target_id: euronics-it
+    retailer: euronics
+    country: Italy
+    iso_country: IT
+    domain: euronics.it
+    locale: it-IT
+    currency: EUR
+    timezone: Europe/Rome
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.euronics.it/laptops
+    - category: Smartphones & Mobile
+      url: https://www.euronics.it/smartphones
+    - category: Audio & Headphones
+      url: https://www.euronics.it/audio
+    - category: Monitors & Displays
+      url: https://www.euronics.it/monitors
+    - category: Storage & Memory
+      url: https://www.euronics.it/storage
+    sitemap_urls:
+    - https://www.euronics.it/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.euronics.it/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.euronics.it/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.euronics.it/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.euronics.it/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.euronics.it/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.euronics.it/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.euronics.it/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.euronics.it/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.euronics.it/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.euronics.it/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.euronics.it/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.euronics.it/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.euronics.it/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.euronics.it/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.euronics.it/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.euronics.it/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.euronics.it/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.euronics.it/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.euronics.it/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.euronics.it/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  expert-de:
+    target_id: expert-de
+    retailer: expert
+    country: Germany
+    iso_country: DE
+    domain: expert.de
+    locale: de-DE
+    currency: EUR
+    timezone: Europe/Berlin
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.expert.de/laptops
+    - category: Smartphones & Mobile
+      url: https://www.expert.de/smartphones
+    - category: Audio & Headphones
+      url: https://www.expert.de/audio
+    - category: Monitors & Displays
+      url: https://www.expert.de/monitors
+    - category: Storage & Memory
+      url: https://www.expert.de/storage
+    sitemap_urls:
+    - https://www.expert.de/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.expert.de/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.expert.de/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.expert.de/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.expert.de/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.expert.de/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.expert.de/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.expert.de/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.expert.de/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.expert.de/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.expert.de/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.expert.de/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.expert.de/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.expert.de/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.expert.de/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.expert.de/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.expert.de/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.expert.de/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.expert.de/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.expert.de/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.expert.de/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  flipkart-in:
+    target_id: flipkart-in
+    retailer: flipkart
+    country: India
+    iso_country: IN
+    domain: flipkart.com
+    locale: en-IN
+    currency: INR
+    timezone: Asia/Kolkata
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.flipkart.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.flipkart.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.flipkart.com/audio
+    - category: Monitors & Displays
+      url: https://www.flipkart.com/monitors
+    - category: Storage & Memory
+      url: https://www.flipkart.com/storage
+    sitemap_urls:
+    - https://www.flipkart.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.0
+    enabled: true
+    seed_urls:
+    - url: https://www.flipkart.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: itm00000001
+    - url: https://www.flipkart.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: itm00000002
+    - url: https://www.flipkart.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: itm00000003
+    - url: https://www.flipkart.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: itm00000004
+    - url: https://www.flipkart.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: itm00000005
+    - url: https://www.flipkart.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: itm00000006
+    - url: https://www.flipkart.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: itm00000007
+    - url: https://www.flipkart.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: itm00000008
+    - url: https://www.flipkart.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: itm00000009
+    - url: https://www.flipkart.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: itm00000010
+    - url: https://www.flipkart.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: itm00000011
+    - url: https://www.flipkart.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: itm00000012
+    - url: https://www.flipkart.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: itm00000013
+    - url: https://www.flipkart.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: itm00000014
+    - url: https://www.flipkart.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: itm00000015
+    - url: https://www.flipkart.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: itm00000016
+    - url: https://www.flipkart.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: itm00000017
+    - url: https://www.flipkart.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: itm00000018
+    - url: https://www.flipkart.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: itm00000019
+    - url: https://www.flipkart.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: itm00000020
+  fnac-fr:
+    target_id: fnac-fr
+    retailer: fnac
+    country: France
+    iso_country: FR
+    domain: fnac.com
+    locale: fr-FR
+    currency: EUR
+    timezone: Europe/Paris
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.fnac.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.fnac.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.fnac.com/audio
+    - category: Monitors & Displays
+      url: https://www.fnac.com/monitors
+    - category: Storage & Memory
+      url: https://www.fnac.com/storage
+    sitemap_urls:
+    - https://www.fnac.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.fnac.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.fnac.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.fnac.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.fnac.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.fnac.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.fnac.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.fnac.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.fnac.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.fnac.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.fnac.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.fnac.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.fnac.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.fnac.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.fnac.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.fnac.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.fnac.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.fnac.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.fnac.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.fnac.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.fnac.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  gmarket-kr:
+    target_id: gmarket-kr
+    retailer: gmarket
+    country: South Korea
+    iso_country: KR
+    domain: gmarket.co.kr
+    locale: ko-KR
+    currency: KRW
+    timezone: Asia/Seoul
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.gmarket.co.kr/laptops
+    - category: Smartphones & Mobile
+      url: https://www.gmarket.co.kr/smartphones
+    - category: Audio & Headphones
+      url: https://www.gmarket.co.kr/audio
+    - category: Monitors & Displays
+      url: https://www.gmarket.co.kr/monitors
+    - category: Storage & Memory
+      url: https://www.gmarket.co.kr/storage
+    sitemap_urls:
+    - https://www.gmarket.co.kr/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.gmarket.co.kr/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.gmarket.co.kr/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.gmarket.co.kr/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.gmarket.co.kr/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.gmarket.co.kr/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.gmarket.co.kr/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.gmarket.co.kr/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.gmarket.co.kr/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.gmarket.co.kr/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.gmarket.co.kr/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.gmarket.co.kr/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.gmarket.co.kr/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.gmarket.co.kr/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.gmarket.co.kr/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.gmarket.co.kr/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.gmarket.co.kr/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.gmarket.co.kr/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.gmarket.co.kr/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.gmarket.co.kr/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.gmarket.co.kr/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  hp-global:
+    target_id: hp-global
+    retailer: hp
+    country: Global
+    iso_country: US
+    domain: hp.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.hp.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.hp.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.hp.com/audio
+    - category: Monitors & Displays
+      url: https://www.hp.com/monitors
+    - category: Storage & Memory
+      url: https://www.hp.com/storage
+    sitemap_urls:
+    - https://www.hp.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.hp.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.hp.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.hp.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.hp.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.hp.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.hp.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.hp.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.hp.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.hp.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.hp.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.hp.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.hp.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.hp.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.hp.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.hp.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.hp.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.hp.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.hp.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.hp.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.hp.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  jbhifi-au:
+    target_id: jbhifi-au
+    retailer: jbhifi
+    country: Australia
+    iso_country: AU
+    domain: jbhifi.com.au
+    locale: en-AU
+    currency: AUD
+    timezone: Australia/Sydney
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.jbhifi.com.au/laptops
+    - category: Smartphones & Mobile
+      url: https://www.jbhifi.com.au/smartphones
+    - category: Audio & Headphones
+      url: https://www.jbhifi.com.au/audio
+    - category: Monitors & Displays
+      url: https://www.jbhifi.com.au/monitors
+    - category: Storage & Memory
+      url: https://www.jbhifi.com.au/storage
+    sitemap_urls:
+    - https://www.jbhifi.com.au/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.jbhifi.com.au/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.jbhifi.com.au/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.jbhifi.com.au/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.jbhifi.com.au/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.jbhifi.com.au/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.jbhifi.com.au/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.jbhifi.com.au/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.jbhifi.com.au/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.jbhifi.com.au/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.jbhifi.com.au/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.jbhifi.com.au/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.jbhifi.com.au/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.jbhifi.com.au/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.jbhifi.com.au/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.jbhifi.com.au/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.jbhifi.com.au/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.jbhifi.com.au/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.jbhifi.com.au/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.jbhifi.com.au/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.jbhifi.com.au/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  jd-cn:
+    target_id: jd-cn
+    retailer: jd
+    country: China
+    iso_country: CN
+    domain: jd.com
+    locale: zh-CN
+    currency: CNY
+    timezone: Asia/Shanghai
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.jd.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.jd.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.jd.com/audio
+    - category: Monitors & Displays
+      url: https://www.jd.com/monitors
+    - category: Storage & Memory
+      url: https://www.jd.com/storage
+    sitemap_urls:
+    - https://www.jd.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.0
+    enabled: true
+    seed_urls:
+    - url: https://www.jd.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.jd.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.jd.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.jd.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.jd.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.jd.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.jd.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.jd.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.jd.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.jd.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.jd.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.jd.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.jd.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.jd.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.jd.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.jd.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.jd.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.jd.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.jd.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.jd.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  komputronik-pl:
+    target_id: komputronik-pl
+    retailer: komputronik
+    country: Poland
+    iso_country: PL
+    domain: komputronik.pl
+    locale: pl-PL
+    currency: PLN
+    timezone: Europe/Warsaw
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.komputronik.pl/laptops
+    - category: Smartphones & Mobile
+      url: https://www.komputronik.pl/smartphones
+    - category: Audio & Headphones
+      url: https://www.komputronik.pl/audio
+    - category: Monitors & Displays
+      url: https://www.komputronik.pl/monitors
+    - category: Storage & Memory
+      url: https://www.komputronik.pl/storage
+    sitemap_urls:
+    - https://www.komputronik.pl/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.komputronik.pl/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.komputronik.pl/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.komputronik.pl/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.komputronik.pl/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.komputronik.pl/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.komputronik.pl/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.komputronik.pl/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.komputronik.pl/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.komputronik.pl/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.komputronik.pl/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.komputronik.pl/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.komputronik.pl/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.komputronik.pl/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.komputronik.pl/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.komputronik.pl/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.komputronik.pl/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.komputronik.pl/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.komputronik.pl/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.komputronik.pl/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.komputronik.pl/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  lenovo-global:
+    target_id: lenovo-global
+    retailer: lenovo
+    country: Global
+    iso_country: US
+    domain: lenovo.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.lenovo.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.lenovo.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.lenovo.com/audio
+    - category: Monitors & Displays
+      url: https://www.lenovo.com/monitors
+    - category: Storage & Memory
+      url: https://www.lenovo.com/storage
+    sitemap_urls:
+    - https://www.lenovo.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.lenovo.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.lenovo.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.lenovo.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.lenovo.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.lenovo.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.lenovo.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.lenovo.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.lenovo.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.lenovo.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.lenovo.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.lenovo.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.lenovo.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.lenovo.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.lenovo.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.lenovo.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.lenovo.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.lenovo.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.lenovo.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.lenovo.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.lenovo.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  magazineluiza-br:
+    target_id: magazineluiza-br
+    retailer: magazineluiza
+    country: Brazil
+    iso_country: BR
+    domain: magazineluiza.com.br
+    locale: pt-BR
+    currency: BRL
+    timezone: America/Sao_Paulo
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.magazineluiza.com.br/laptops
+    - category: Smartphones & Mobile
+      url: https://www.magazineluiza.com.br/smartphones
+    - category: Audio & Headphones
+      url: https://www.magazineluiza.com.br/audio
+    - category: Monitors & Displays
+      url: https://www.magazineluiza.com.br/monitors
+    - category: Storage & Memory
+      url: https://www.magazineluiza.com.br/storage
+    sitemap_urls:
+    - https://www.magazineluiza.com.br/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.magazineluiza.com.br/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.magazineluiza.com.br/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.magazineluiza.com.br/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.magazineluiza.com.br/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.magazineluiza.com.br/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.magazineluiza.com.br/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.magazineluiza.com.br/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.magazineluiza.com.br/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.magazineluiza.com.br/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.magazineluiza.com.br/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.magazineluiza.com.br/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.magazineluiza.com.br/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.magazineluiza.com.br/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.magazineluiza.com.br/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.magazineluiza.com.br/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.magazineluiza.com.br/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.magazineluiza.com.br/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.magazineluiza.com.br/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.magazineluiza.com.br/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.magazineluiza.com.br/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  mediamarkt-de:
+    target_id: mediamarkt-de
+    retailer: mediamarkt
+    country: Germany
+    iso_country: DE
+    domain: mediamarkt.de
+    locale: de-DE
+    currency: EUR
+    timezone: Europe/Berlin
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mediamarkt.de/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mediamarkt.de/smartphones
+    - category: Audio & Headphones
+      url: https://www.mediamarkt.de/audio
+    - category: Monitors & Displays
+      url: https://www.mediamarkt.de/monitors
+    - category: Storage & Memory
+      url: https://www.mediamarkt.de/storage
+    sitemap_urls:
+    - https://www.mediamarkt.de/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mediamarkt.de/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '2800001'
+    - url: https://www.mediamarkt.de/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '2800002'
+    - url: https://www.mediamarkt.de/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '2800003'
+    - url: https://www.mediamarkt.de/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '2800004'
+    - url: https://www.mediamarkt.de/product/sku_0005
+      category: Storage & Memory
+      sku_id: '2800005'
+    - url: https://www.mediamarkt.de/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '2800006'
+    - url: https://www.mediamarkt.de/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '2800007'
+    - url: https://www.mediamarkt.de/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '2800008'
+    - url: https://www.mediamarkt.de/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '2800009'
+    - url: https://www.mediamarkt.de/product/sku_0010
+      category: Storage & Memory
+      sku_id: '2800010'
+    - url: https://www.mediamarkt.de/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '2800011'
+    - url: https://www.mediamarkt.de/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '2800012'
+    - url: https://www.mediamarkt.de/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '2800013'
+    - url: https://www.mediamarkt.de/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '2800014'
+    - url: https://www.mediamarkt.de/product/sku_0015
+      category: Storage & Memory
+      sku_id: '2800015'
+    - url: https://www.mediamarkt.de/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '2800016'
+    - url: https://www.mediamarkt.de/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '2800017'
+    - url: https://www.mediamarkt.de/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '2800018'
+    - url: https://www.mediamarkt.de/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '2800019'
+    - url: https://www.mediamarkt.de/product/sku_0020
+      category: Storage & Memory
+      sku_id: '2800020'
+  mediamarkt-es:
+    target_id: mediamarkt-es
+    retailer: mediamarkt
+    country: Spain
+    iso_country: ES
+    domain: mediamarkt.es
+    locale: es-ES
+    currency: EUR
+    timezone: Europe/Madrid
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mediamarkt.es/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mediamarkt.es/smartphones
+    - category: Audio & Headphones
+      url: https://www.mediamarkt.es/audio
+    - category: Monitors & Displays
+      url: https://www.mediamarkt.es/monitors
+    - category: Storage & Memory
+      url: https://www.mediamarkt.es/storage
+    sitemap_urls:
+    - https://www.mediamarkt.es/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mediamarkt.es/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '2800001'
+    - url: https://www.mediamarkt.es/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '2800002'
+    - url: https://www.mediamarkt.es/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '2800003'
+    - url: https://www.mediamarkt.es/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '2800004'
+    - url: https://www.mediamarkt.es/product/sku_0005
+      category: Storage & Memory
+      sku_id: '2800005'
+    - url: https://www.mediamarkt.es/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '2800006'
+    - url: https://www.mediamarkt.es/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '2800007'
+    - url: https://www.mediamarkt.es/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '2800008'
+    - url: https://www.mediamarkt.es/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '2800009'
+    - url: https://www.mediamarkt.es/product/sku_0010
+      category: Storage & Memory
+      sku_id: '2800010'
+    - url: https://www.mediamarkt.es/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '2800011'
+    - url: https://www.mediamarkt.es/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '2800012'
+    - url: https://www.mediamarkt.es/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '2800013'
+    - url: https://www.mediamarkt.es/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '2800014'
+    - url: https://www.mediamarkt.es/product/sku_0015
+      category: Storage & Memory
+      sku_id: '2800015'
+    - url: https://www.mediamarkt.es/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '2800016'
+    - url: https://www.mediamarkt.es/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '2800017'
+    - url: https://www.mediamarkt.es/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '2800018'
+    - url: https://www.mediamarkt.es/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '2800019'
+    - url: https://www.mediamarkt.es/product/sku_0020
+      category: Storage & Memory
+      sku_id: '2800020'
+  mediamarkt-it:
+    target_id: mediamarkt-it
+    retailer: mediamarkt
+    country: Italy
+    iso_country: IT
+    domain: mediaworld.it
+    locale: it-IT
+    currency: EUR
+    timezone: Europe/Rome
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mediaworld.it/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mediaworld.it/smartphones
+    - category: Audio & Headphones
+      url: https://www.mediaworld.it/audio
+    - category: Monitors & Displays
+      url: https://www.mediaworld.it/monitors
+    - category: Storage & Memory
+      url: https://www.mediaworld.it/storage
+    sitemap_urls:
+    - https://www.mediaworld.it/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mediaworld.it/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '2800001'
+    - url: https://www.mediaworld.it/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '2800002'
+    - url: https://www.mediaworld.it/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '2800003'
+    - url: https://www.mediaworld.it/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '2800004'
+    - url: https://www.mediaworld.it/product/sku_0005
+      category: Storage & Memory
+      sku_id: '2800005'
+    - url: https://www.mediaworld.it/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '2800006'
+    - url: https://www.mediaworld.it/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '2800007'
+    - url: https://www.mediaworld.it/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '2800008'
+    - url: https://www.mediaworld.it/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '2800009'
+    - url: https://www.mediaworld.it/product/sku_0010
+      category: Storage & Memory
+      sku_id: '2800010'
+    - url: https://www.mediaworld.it/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '2800011'
+    - url: https://www.mediaworld.it/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '2800012'
+    - url: https://www.mediaworld.it/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '2800013'
+    - url: https://www.mediaworld.it/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '2800014'
+    - url: https://www.mediaworld.it/product/sku_0015
+      category: Storage & Memory
+      sku_id: '2800015'
+    - url: https://www.mediaworld.it/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '2800016'
+    - url: https://www.mediaworld.it/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '2800017'
+    - url: https://www.mediaworld.it/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '2800018'
+    - url: https://www.mediaworld.it/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '2800019'
+    - url: https://www.mediaworld.it/product/sku_0020
+      category: Storage & Memory
+      sku_id: '2800020'
+  mediamarkt-tr:
+    target_id: mediamarkt-tr
+    retailer: mediamarkt
+    country: Turkey
+    iso_country: TR
+    domain: mediamarkt.com.tr
+    locale: tr-TR
+    currency: TRY
+    timezone: Europe/Istanbul
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mediamarkt.com.tr/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mediamarkt.com.tr/smartphones
+    - category: Audio & Headphones
+      url: https://www.mediamarkt.com.tr/audio
+    - category: Monitors & Displays
+      url: https://www.mediamarkt.com.tr/monitors
+    - category: Storage & Memory
+      url: https://www.mediamarkt.com.tr/storage
+    sitemap_urls:
+    - https://www.mediamarkt.com.tr/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mediamarkt.com.tr/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '2800001'
+    - url: https://www.mediamarkt.com.tr/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '2800002'
+    - url: https://www.mediamarkt.com.tr/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '2800003'
+    - url: https://www.mediamarkt.com.tr/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '2800004'
+    - url: https://www.mediamarkt.com.tr/product/sku_0005
+      category: Storage & Memory
+      sku_id: '2800005'
+    - url: https://www.mediamarkt.com.tr/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '2800006'
+    - url: https://www.mediamarkt.com.tr/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '2800007'
+    - url: https://www.mediamarkt.com.tr/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '2800008'
+    - url: https://www.mediamarkt.com.tr/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '2800009'
+    - url: https://www.mediamarkt.com.tr/product/sku_0010
+      category: Storage & Memory
+      sku_id: '2800010'
+    - url: https://www.mediamarkt.com.tr/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '2800011'
+    - url: https://www.mediamarkt.com.tr/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '2800012'
+    - url: https://www.mediamarkt.com.tr/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '2800013'
+    - url: https://www.mediamarkt.com.tr/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '2800014'
+    - url: https://www.mediamarkt.com.tr/product/sku_0015
+      category: Storage & Memory
+      sku_id: '2800015'
+    - url: https://www.mediamarkt.com.tr/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '2800016'
+    - url: https://www.mediamarkt.com.tr/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '2800017'
+    - url: https://www.mediamarkt.com.tr/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '2800018'
+    - url: https://www.mediamarkt.com.tr/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '2800019'
+    - url: https://www.mediamarkt.com.tr/product/sku_0020
+      category: Storage & Memory
+      sku_id: '2800020'
+  mercadolibre-mx:
+    target_id: mercadolibre-mx
+    retailer: mercadolibre
+    country: Mexico
+    iso_country: MX
+    domain: mercadolibre.com.mx
+    locale: es-MX
+    currency: MXN
+    timezone: America/Mexico_City
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mercadolibre.com.mx/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mercadolibre.com.mx/smartphones
+    - category: Audio & Headphones
+      url: https://www.mercadolibre.com.mx/audio
+    - category: Monitors & Displays
+      url: https://www.mercadolibre.com.mx/monitors
+    - category: Storage & Memory
+      url: https://www.mercadolibre.com.mx/storage
+    sitemap_urls:
+    - https://www.mercadolibre.com.mx/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mercadolibre.com.mx/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '1000000001'
+    - url: https://www.mercadolibre.com.mx/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '1000000002'
+    - url: https://www.mercadolibre.com.mx/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '1000000003'
+    - url: https://www.mercadolibre.com.mx/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '1000000004'
+    - url: https://www.mercadolibre.com.mx/product/sku_0005
+      category: Storage & Memory
+      sku_id: '1000000005'
+    - url: https://www.mercadolibre.com.mx/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '1000000006'
+    - url: https://www.mercadolibre.com.mx/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '1000000007'
+    - url: https://www.mercadolibre.com.mx/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '1000000008'
+    - url: https://www.mercadolibre.com.mx/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '1000000009'
+    - url: https://www.mercadolibre.com.mx/product/sku_0010
+      category: Storage & Memory
+      sku_id: '1000000010'
+    - url: https://www.mercadolibre.com.mx/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '1000000011'
+    - url: https://www.mercadolibre.com.mx/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '1000000012'
+    - url: https://www.mercadolibre.com.mx/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '1000000013'
+    - url: https://www.mercadolibre.com.mx/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '1000000014'
+    - url: https://www.mercadolibre.com.mx/product/sku_0015
+      category: Storage & Memory
+      sku_id: '1000000015'
+    - url: https://www.mercadolibre.com.mx/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '1000000016'
+    - url: https://www.mercadolibre.com.mx/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '1000000017'
+    - url: https://www.mercadolibre.com.mx/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '1000000018'
+    - url: https://www.mercadolibre.com.mx/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '1000000019'
+    - url: https://www.mercadolibre.com.mx/product/sku_0020
+      category: Storage & Memory
+      sku_id: '1000000020'
+  mercadolibre-cl:
+    target_id: mercadolibre-cl
+    retailer: mercadolibre
+    country: Chile
+    iso_country: CL
+    domain: mercadolibre.cl
+    locale: es-CL
+    currency: CLP
+    timezone: America/Santiago
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mercadolibre.cl/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mercadolibre.cl/smartphones
+    - category: Audio & Headphones
+      url: https://www.mercadolibre.cl/audio
+    - category: Monitors & Displays
+      url: https://www.mercadolibre.cl/monitors
+    - category: Storage & Memory
+      url: https://www.mercadolibre.cl/storage
+    sitemap_urls:
+    - https://www.mercadolibre.cl/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mercadolibre.cl/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '1000000001'
+    - url: https://www.mercadolibre.cl/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '1000000002'
+    - url: https://www.mercadolibre.cl/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '1000000003'
+    - url: https://www.mercadolibre.cl/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '1000000004'
+    - url: https://www.mercadolibre.cl/product/sku_0005
+      category: Storage & Memory
+      sku_id: '1000000005'
+    - url: https://www.mercadolibre.cl/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '1000000006'
+    - url: https://www.mercadolibre.cl/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '1000000007'
+    - url: https://www.mercadolibre.cl/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '1000000008'
+    - url: https://www.mercadolibre.cl/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '1000000009'
+    - url: https://www.mercadolibre.cl/product/sku_0010
+      category: Storage & Memory
+      sku_id: '1000000010'
+    - url: https://www.mercadolibre.cl/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '1000000011'
+    - url: https://www.mercadolibre.cl/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '1000000012'
+    - url: https://www.mercadolibre.cl/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '1000000013'
+    - url: https://www.mercadolibre.cl/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '1000000014'
+    - url: https://www.mercadolibre.cl/product/sku_0015
+      category: Storage & Memory
+      sku_id: '1000000015'
+    - url: https://www.mercadolibre.cl/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '1000000016'
+    - url: https://www.mercadolibre.cl/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '1000000017'
+    - url: https://www.mercadolibre.cl/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '1000000018'
+    - url: https://www.mercadolibre.cl/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '1000000019'
+    - url: https://www.mercadolibre.cl/product/sku_0020
+      category: Storage & Memory
+      sku_id: '1000000020'
+  mercadolibre-co:
+    target_id: mercadolibre-co
+    retailer: mercadolibre
+    country: Colombia
+    iso_country: CO
+    domain: mercadolibre.com.co
+    locale: es-CO
+    currency: COP
+    timezone: America/Bogota
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mercadolibre.com.co/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mercadolibre.com.co/smartphones
+    - category: Audio & Headphones
+      url: https://www.mercadolibre.com.co/audio
+    - category: Monitors & Displays
+      url: https://www.mercadolibre.com.co/monitors
+    - category: Storage & Memory
+      url: https://www.mercadolibre.com.co/storage
+    sitemap_urls:
+    - https://www.mercadolibre.com.co/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mercadolibre.com.co/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '1000000001'
+    - url: https://www.mercadolibre.com.co/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '1000000002'
+    - url: https://www.mercadolibre.com.co/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '1000000003'
+    - url: https://www.mercadolibre.com.co/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '1000000004'
+    - url: https://www.mercadolibre.com.co/product/sku_0005
+      category: Storage & Memory
+      sku_id: '1000000005'
+    - url: https://www.mercadolibre.com.co/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '1000000006'
+    - url: https://www.mercadolibre.com.co/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '1000000007'
+    - url: https://www.mercadolibre.com.co/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '1000000008'
+    - url: https://www.mercadolibre.com.co/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '1000000009'
+    - url: https://www.mercadolibre.com.co/product/sku_0010
+      category: Storage & Memory
+      sku_id: '1000000010'
+    - url: https://www.mercadolibre.com.co/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '1000000011'
+    - url: https://www.mercadolibre.com.co/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '1000000012'
+    - url: https://www.mercadolibre.com.co/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '1000000013'
+    - url: https://www.mercadolibre.com.co/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '1000000014'
+    - url: https://www.mercadolibre.com.co/product/sku_0015
+      category: Storage & Memory
+      sku_id: '1000000015'
+    - url: https://www.mercadolibre.com.co/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '1000000016'
+    - url: https://www.mercadolibre.com.co/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '1000000017'
+    - url: https://www.mercadolibre.com.co/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '1000000018'
+    - url: https://www.mercadolibre.com.co/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '1000000019'
+    - url: https://www.mercadolibre.com.co/product/sku_0020
+      category: Storage & Memory
+      sku_id: '1000000020'
+  mercadolivre-br:
+    target_id: mercadolivre-br
+    retailer: mercadolibre
+    country: Brazil
+    iso_country: BR
+    domain: mercadolivre.com.br
+    locale: pt-BR
+    currency: BRL
+    timezone: America/Sao_Paulo
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mercadolivre.com.br/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mercadolivre.com.br/smartphones
+    - category: Audio & Headphones
+      url: https://www.mercadolivre.com.br/audio
+    - category: Monitors & Displays
+      url: https://www.mercadolivre.com.br/monitors
+    - category: Storage & Memory
+      url: https://www.mercadolivre.com.br/storage
+    sitemap_urls:
+    - https://www.mercadolivre.com.br/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mercadolivre.com.br/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '1000000001'
+    - url: https://www.mercadolivre.com.br/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '1000000002'
+    - url: https://www.mercadolivre.com.br/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '1000000003'
+    - url: https://www.mercadolivre.com.br/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '1000000004'
+    - url: https://www.mercadolivre.com.br/product/sku_0005
+      category: Storage & Memory
+      sku_id: '1000000005'
+    - url: https://www.mercadolivre.com.br/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '1000000006'
+    - url: https://www.mercadolivre.com.br/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '1000000007'
+    - url: https://www.mercadolivre.com.br/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '1000000008'
+    - url: https://www.mercadolivre.com.br/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '1000000009'
+    - url: https://www.mercadolivre.com.br/product/sku_0010
+      category: Storage & Memory
+      sku_id: '1000000010'
+    - url: https://www.mercadolivre.com.br/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '1000000011'
+    - url: https://www.mercadolivre.com.br/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '1000000012'
+    - url: https://www.mercadolivre.com.br/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '1000000013'
+    - url: https://www.mercadolivre.com.br/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '1000000014'
+    - url: https://www.mercadolivre.com.br/product/sku_0015
+      category: Storage & Memory
+      sku_id: '1000000015'
+    - url: https://www.mercadolivre.com.br/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '1000000016'
+    - url: https://www.mercadolivre.com.br/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '1000000017'
+    - url: https://www.mercadolivre.com.br/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '1000000018'
+    - url: https://www.mercadolivre.com.br/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '1000000019'
+    - url: https://www.mercadolivre.com.br/product/sku_0020
+      category: Storage & Memory
+      sku_id: '1000000020'
+  thegioididong-vn:
+    target_id: thegioididong-vn
+    retailer: thegioididong
+    country: Vietnam
+    iso_country: VN
+    domain: thegioididong.com
+    locale: vi-VN
+    currency: VND
+    timezone: Asia/Ho_Chi_Minh
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.thegioididong.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.thegioididong.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.thegioididong.com/audio
+    - category: Monitors & Displays
+      url: https://www.thegioididong.com/monitors
+    - category: Storage & Memory
+      url: https://www.thegioididong.com/storage
+    sitemap_urls:
+    - https://www.thegioididong.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.thegioididong.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.thegioididong.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.thegioididong.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.thegioididong.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.thegioididong.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.thegioididong.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.thegioididong.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.thegioididong.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.thegioididong.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.thegioididong.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.thegioididong.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.thegioididong.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.thegioididong.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.thegioididong.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.thegioididong.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.thegioididong.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.thegioididong.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.thegioididong.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.thegioididong.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.thegioididong.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  monsternotebook-tr:
+    target_id: monsternotebook-tr
+    retailer: monsternotebook
+    country: Turkey
+    iso_country: TR
+    domain: monsternotebook.com.tr
+    locale: tr-TR
+    currency: TRY
+    timezone: Europe/Istanbul
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.monsternotebook.com.tr/laptops
+    - category: Smartphones & Mobile
+      url: https://www.monsternotebook.com.tr/smartphones
+    - category: Audio & Headphones
+      url: https://www.monsternotebook.com.tr/audio
+    - category: Monitors & Displays
+      url: https://www.monsternotebook.com.tr/monitors
+    - category: Storage & Memory
+      url: https://www.monsternotebook.com.tr/storage
+    sitemap_urls:
+    - https://www.monsternotebook.com.tr/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.monsternotebook.com.tr/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.monsternotebook.com.tr/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.monsternotebook.com.tr/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.monsternotebook.com.tr/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.monsternotebook.com.tr/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.monsternotebook.com.tr/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.monsternotebook.com.tr/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.monsternotebook.com.tr/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.monsternotebook.com.tr/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.monsternotebook.com.tr/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.monsternotebook.com.tr/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.monsternotebook.com.tr/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.monsternotebook.com.tr/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.monsternotebook.com.tr/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.monsternotebook.com.tr/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.monsternotebook.com.tr/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.monsternotebook.com.tr/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.monsternotebook.com.tr/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.monsternotebook.com.tr/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.monsternotebook.com.tr/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  newegg-us:
+    target_id: newegg-us
+    retailer: newegg
+    country: United States
+    iso_country: US
+    domain: newegg.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.newegg.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.newegg.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.newegg.com/audio
+    - category: Monitors & Displays
+      url: https://www.newegg.com/monitors
+    - category: Storage & Memory
+      url: https://www.newegg.com/storage
+    sitemap_urls:
+    - https://www.newegg.com/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.newegg.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.newegg.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.newegg.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.newegg.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.newegg.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.newegg.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.newegg.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.newegg.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.newegg.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.newegg.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.newegg.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.newegg.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.newegg.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.newegg.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.newegg.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.newegg.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.newegg.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.newegg.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.newegg.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.newegg.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  officeworks-au:
+    target_id: officeworks-au
+    retailer: officeworks
+    country: Australia
+    iso_country: AU
+    domain: officeworks.com.au
+    locale: en-AU
+    currency: AUD
+    timezone: Australia/Sydney
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.officeworks.com.au/laptops
+    - category: Smartphones & Mobile
+      url: https://www.officeworks.com.au/smartphones
+    - category: Audio & Headphones
+      url: https://www.officeworks.com.au/audio
+    - category: Monitors & Displays
+      url: https://www.officeworks.com.au/monitors
+    - category: Storage & Memory
+      url: https://www.officeworks.com.au/storage
+    sitemap_urls:
+    - https://www.officeworks.com.au/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.officeworks.com.au/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.officeworks.com.au/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.officeworks.com.au/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.officeworks.com.au/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.officeworks.com.au/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.officeworks.com.au/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.officeworks.com.au/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.officeworks.com.au/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.officeworks.com.au/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.officeworks.com.au/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.officeworks.com.au/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.officeworks.com.au/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.officeworks.com.au/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.officeworks.com.au/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.officeworks.com.au/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.officeworks.com.au/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.officeworks.com.au/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.officeworks.com.au/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.officeworks.com.au/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.officeworks.com.au/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  reliancedigital-in:
+    target_id: reliancedigital-in
+    retailer: reliancedigital
+    country: India
+    iso_country: IN
+    domain: reliancedigital.in
+    locale: en-IN
+    currency: INR
+    timezone: Asia/Kolkata
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.reliancedigital.in/laptops
+    - category: Smartphones & Mobile
+      url: https://www.reliancedigital.in/smartphones
+    - category: Audio & Headphones
+      url: https://www.reliancedigital.in/audio
+    - category: Monitors & Displays
+      url: https://www.reliancedigital.in/monitors
+    - category: Storage & Memory
+      url: https://www.reliancedigital.in/storage
+    sitemap_urls:
+    - https://www.reliancedigital.in/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.reliancedigital.in/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.reliancedigital.in/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.reliancedigital.in/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.reliancedigital.in/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.reliancedigital.in/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.reliancedigital.in/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.reliancedigital.in/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.reliancedigital.in/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.reliancedigital.in/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.reliancedigital.in/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.reliancedigital.in/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.reliancedigital.in/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.reliancedigital.in/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.reliancedigital.in/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.reliancedigital.in/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.reliancedigital.in/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.reliancedigital.in/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.reliancedigital.in/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.reliancedigital.in/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.reliancedigital.in/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  staples-us:
+    target_id: staples-us
+    retailer: staples
+    country: United States
+    iso_country: US
+    domain: staples.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.staples.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.staples.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.staples.com/audio
+    - category: Monitors & Displays
+      url: https://www.staples.com/monitors
+    - category: Storage & Memory
+      url: https://www.staples.com/storage
+    sitemap_urls:
+    - https://www.staples.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.staples.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.staples.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.staples.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.staples.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.staples.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.staples.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.staples.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.staples.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.staples.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.staples.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.staples.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.staples.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.staples.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.staples.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.staples.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.staples.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.staples.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.staples.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.staples.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.staples.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  terg-pl:
+    target_id: terg-pl
+    retailer: terg
+    country: Poland
+    iso_country: PL
+    domain: mediaexpert.pl
+    locale: pl-PL
+    currency: PLN
+    timezone: Europe/Warsaw
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.mediaexpert.pl/laptops
+    - category: Smartphones & Mobile
+      url: https://www.mediaexpert.pl/smartphones
+    - category: Audio & Headphones
+      url: https://www.mediaexpert.pl/audio
+    - category: Monitors & Displays
+      url: https://www.mediaexpert.pl/monitors
+    - category: Storage & Memory
+      url: https://www.mediaexpert.pl/storage
+    sitemap_urls:
+    - https://www.mediaexpert.pl/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.mediaexpert.pl/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.mediaexpert.pl/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.mediaexpert.pl/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.mediaexpert.pl/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.mediaexpert.pl/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.mediaexpert.pl/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.mediaexpert.pl/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.mediaexpert.pl/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.mediaexpert.pl/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.mediaexpert.pl/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.mediaexpert.pl/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.mediaexpert.pl/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.mediaexpert.pl/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.mediaexpert.pl/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.mediaexpert.pl/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.mediaexpert.pl/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.mediaexpert.pl/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.mediaexpert.pl/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.mediaexpert.pl/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.mediaexpert.pl/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  tmall-cn:
+    target_id: tmall-cn
+    retailer: tmall
+    country: China
+    iso_country: CN
+    domain: tmall.com
+    locale: zh-CN
+    currency: CNY
+    timezone: Asia/Shanghai
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.tmall.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.tmall.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.tmall.com/audio
+    - category: Monitors & Displays
+      url: https://www.tmall.com/monitors
+    - category: Storage & Memory
+      url: https://www.tmall.com/storage
+    sitemap_urls:
+    - https://www.tmall.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.0
+    enabled: true
+    seed_urls:
+    - url: https://www.tmall.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.tmall.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.tmall.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.tmall.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.tmall.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.tmall.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.tmall.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.tmall.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.tmall.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.tmall.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.tmall.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.tmall.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.tmall.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.tmall.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.tmall.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.tmall.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.tmall.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.tmall.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.tmall.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.tmall.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  unieuro-it:
+    target_id: unieuro-it
+    retailer: unieuro
+    country: Italy
+    iso_country: IT
+    domain: unieuro.it
+    locale: it-IT
+    currency: EUR
+    timezone: Europe/Rome
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.unieuro.it/laptops
+    - category: Smartphones & Mobile
+      url: https://www.unieuro.it/smartphones
+    - category: Audio & Headphones
+      url: https://www.unieuro.it/audio
+    - category: Monitors & Displays
+      url: https://www.unieuro.it/monitors
+    - category: Storage & Memory
+      url: https://www.unieuro.it/storage
+    sitemap_urls:
+    - https://www.unieuro.it/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.unieuro.it/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.unieuro.it/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.unieuro.it/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.unieuro.it/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.unieuro.it/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.unieuro.it/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.unieuro.it/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.unieuro.it/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.unieuro.it/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.unieuro.it/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.unieuro.it/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.unieuro.it/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.unieuro.it/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.unieuro.it/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.unieuro.it/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.unieuro.it/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.unieuro.it/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.unieuro.it/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.unieuro.it/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.unieuro.it/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020
+  walmart-us:
+    target_id: walmart-us
+    retailer: walmart
+    country: United States
+    iso_country: US
+    domain: walmart.com
+    locale: en-US
+    currency: USD
+    timezone: America/New_York
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.walmart.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.walmart.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.walmart.com/audio
+    - category: Monitors & Displays
+      url: https://www.walmart.com/monitors
+    - category: Storage & Memory
+      url: https://www.walmart.com/storage
+    sitemap_urls:
+    - https://www.walmart.com/sitemap.xml
+    max_concurrency: 1
+    rate_limit: 0.5
+    enabled: true
+    seed_urls:
+    - url: https://www.walmart.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: '608274002'
+    - url: https://www.walmart.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: '143017182'
+    - url: https://www.walmart.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: '562589004'
+    - url: https://www.walmart.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: '893124501'
+    - url: https://www.walmart.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: '764982103'
+    - url: https://www.walmart.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: '342019485'
+    - url: https://www.walmart.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: '981240182'
+    - url: https://www.walmart.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: '451029384'
+    - url: https://www.walmart.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: '192837465'
+    - url: https://www.walmart.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: '827364519'
+    - url: https://www.walmart.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: '608274003'
+    - url: https://www.walmart.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: '143017183'
+    - url: https://www.walmart.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: '562589005'
+    - url: https://www.walmart.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: '893124502'
+    - url: https://www.walmart.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: '764982104'
+    - url: https://www.walmart.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: '342019486'
+    - url: https://www.walmart.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: '981240183'
+    - url: https://www.walmart.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: '451029385'
+    - url: https://www.walmart.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: '192837466'
+    - url: https://www.walmart.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: '827364520'
+  yodobashi-jp:
+    target_id: yodobashi-jp
+    retailer: yodobashi
+    country: Japan
+    iso_country: JP
+    domain: yodobashi.com
+    locale: ja-JP
+    currency: JPY
+    timezone: Asia/Tokyo
+    discovery_methods:
+    - seed
+    - category
+    - search
+    - sitemap
+    category_seeds:
+    - category: Laptops & Notebooks
+      url: https://www.yodobashi.com/laptops
+    - category: Smartphones & Mobile
+      url: https://www.yodobashi.com/smartphones
+    - category: Audio & Headphones
+      url: https://www.yodobashi.com/audio
+    - category: Monitors & Displays
+      url: https://www.yodobashi.com/monitors
+    - category: Storage & Memory
+      url: https://www.yodobashi.com/storage
+    sitemap_urls:
+    - https://www.yodobashi.com/sitemap.xml
+    max_concurrency: 2
+    rate_limit: 1.5
+    enabled: true
+    seed_urls:
+    - url: https://www.yodobashi.com/product/sku_0001
+      category: Laptops & Notebooks
+      sku_id: sku_0001
+    - url: https://www.yodobashi.com/product/sku_0002
+      category: Smartphones & Mobile
+      sku_id: sku_0002
+    - url: https://www.yodobashi.com/product/sku_0003
+      category: Audio & Headphones
+      sku_id: sku_0003
+    - url: https://www.yodobashi.com/product/sku_0004
+      category: Monitors & Displays
+      sku_id: sku_0004
+    - url: https://www.yodobashi.com/product/sku_0005
+      category: Storage & Memory
+      sku_id: sku_0005
+    - url: https://www.yodobashi.com/product/sku_0006
+      category: Laptops & Notebooks
+      sku_id: sku_0006
+    - url: https://www.yodobashi.com/product/sku_0007
+      category: Smartphones & Mobile
+      sku_id: sku_0007
+    - url: https://www.yodobashi.com/product/sku_0008
+      category: Audio & Headphones
+      sku_id: sku_0008
+    - url: https://www.yodobashi.com/product/sku_0009
+      category: Monitors & Displays
+      sku_id: sku_0009
+    - url: https://www.yodobashi.com/product/sku_0010
+      category: Storage & Memory
+      sku_id: sku_0010
+    - url: https://www.yodobashi.com/product/sku_0011
+      category: Laptops & Notebooks
+      sku_id: sku_0011
+    - url: https://www.yodobashi.com/product/sku_0012
+      category: Smartphones & Mobile
+      sku_id: sku_0012
+    - url: https://www.yodobashi.com/product/sku_0013
+      category: Audio & Headphones
+      sku_id: sku_0013
+    - url: https://www.yodobashi.com/product/sku_0014
+      category: Monitors & Displays
+      sku_id: sku_0014
+    - url: https://www.yodobashi.com/product/sku_0015
+      category: Storage & Memory
+      sku_id: sku_0015
+    - url: https://www.yodobashi.com/product/sku_0016
+      category: Laptops & Notebooks
+      sku_id: sku_0016
+    - url: https://www.yodobashi.com/product/sku_0017
+      category: Smartphones & Mobile
+      sku_id: sku_0017
+    - url: https://www.yodobashi.com/product/sku_0018
+      category: Audio & Headphones
+      sku_id: sku_0018
+    - url: https://www.yodobashi.com/product/sku_0019
+      category: Monitors & Displays
+      sku_id: sku_0019
+    - url: https://www.yodobashi.com/product/sku_0020
+      category: Storage & Memory
+      sku_id: sku_0020

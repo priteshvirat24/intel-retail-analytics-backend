@@ -1,0 +1,15 @@
+{
+  "attempt_number": 2,
+  "strategy": "PLAYWRIGHT",
+  "status_code": 429,
+  "response_time_ms": 5620.73,
+  "browser_seconds": 7.14,
+  "bytes_received": 33949,
+  "success": false,
+  "evidence_path": "evidence/elkjop/DENMARK/sku_0001/attempt_2_snapshot.html",
+  "screenshot_path": "evidence/elkjop/DENMARK/sku_0001/attempt_2_screenshot.png",
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": null,
+  "timestamp": "2026-08-23T08:34:50.600980+00:00"
+}

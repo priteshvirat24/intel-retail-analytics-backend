@@ -1,0 +1,9 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.yodobashi.com/category/19531/19532/",
+    "status_code": 200,
+    "latency_ms": 4352.0,
+    "html_bytes": 328769
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "target_id": "amazon-mx",
+  "retailer": "Amazon",
+  "country": "Mexico",
+  "country_iso": "mx",
+  "url": "https://www.amazon.com.mx/Hora-20000mAh-Incorporados-Compatible-USB-Negro/dp/B09NR5ML9Q/ref=sr_1_7?dib=eyJ2IjoiMSJ9.YVju2VL9Z36afz4wpJE9iNLMFGBV_63KB5uzwYKiwB2nOF8UO3DOLcvpb2pEbV54TeVLv4HWoKvM9A1fDhzSF2pUuk83UqVW7azCwHnkffzPhBqSVN9ZQJm5mHz9H_N4dYfvy7prM1vw3lm278KD0y_1o8Brae1n4mJHiuxcZr--_8G2FYLHGBLDWOZ50Z8d7guo8ZNT3IFXPhvSmq5liefqvRS4UukeBeo5xZQzMmmSVSe0OEieDUCBk9n8F2sMDrQsEE2mcQpDz9QJxN6mGTXdnM1pa-pvLw8RHV_FFiw.eo2trP8GYZEyxXFkE7atqJIXEXAsvciMlq9Jewga4F4&dib_tag=se&keywords=portatil&qid=1787585435&sr=8-7&ufe=app_do%3Aamzn1.fos.db4f1a57-87f1-43c5-9a39-0cdca6036b57",
+  "status_code": 200,
+  "response_time_ms": 11909.3,
+  "can_scrape": "YES",
+  "confidence_score": 0.85,
+  "product_name": "1 Hora Power Bank 20000mAh, Banco de Energ\u00eda Bater\u00eda Port\u00e1til con 4 Cables Incorporados USB, Tipo C, Micro USB Pila Portatil Compatible para IP, Samsung, Xiaomi, Negro",
+  "brand": "SAMSUNG",
+  "price": 317.0,
+  "currency": null,
+  "sku": "B09NR5ML9Q",
+  "reason": "CRAWL_SUCCESS: Successfully scraped & verified authentic laptop SKU (1 Hora Power Bank 20000mAh, Banco de Energ\u00eda Bater\u00eda Port\u00e1til con 4 Cables Incorporados USB, Tipo C, Micro USB Pila Portatil Compatible para IP, Samsung, Xiaomi, Negro | Brand: SAMSUNG | Price: 317.0 USD | SKU: B09NR5ML9Q)"
+}

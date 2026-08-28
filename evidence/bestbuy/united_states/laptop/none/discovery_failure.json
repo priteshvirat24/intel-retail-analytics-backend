@@ -1,0 +1,60 @@
+{
+  "target_id": "bestbuy-us",
+  "retailer": "Bestbuy",
+  "country": "United States",
+  "discovery_status": "BLOCKED",
+  "discovery_failure_reason": "DISCOVERY_BLOCKED (TIMEOUT)",
+  "domain_validation": {
+    "domain": "bestbuy.com",
+    "base_url": "https://www.bestbuy.com",
+    "http_status": 0,
+    "redirect_chain": [],
+    "final_url": "https://www.bestbuy.com",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": "TIMEOUT",
+    "latency_ms": 0.0
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.bestbuy.com/search?q=laptop",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.bestbuy.com/search?q=notebook",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.bestbuy.com/s?k=laptop",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.bestbuy.com/s?k=notebook",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.bestbuy.com/laptops",
+      "status": 0,
+      "error": "",
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.bestbuy.com",
+      "candidates_found": 0
+    }
+  ]
+}

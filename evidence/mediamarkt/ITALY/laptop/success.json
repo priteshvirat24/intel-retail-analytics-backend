@@ -1,0 +1,21 @@
+{
+  "retailer": "Mediamarkt",
+  "country": "Italy",
+  "product_url": "https://mediaworld.it/it/brand/apple/mac/macbook",
+  "title": "Apple MacBook",
+  "brand": "Apple",
+  "model": null,
+  "sku": null,
+  "price": null,
+  "currency": "EUR",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": null,
+  "storage": null,
+  "display": null,
+  "gpu": null,
+  "operating_system": null,
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:14:09.979732Z"
+}

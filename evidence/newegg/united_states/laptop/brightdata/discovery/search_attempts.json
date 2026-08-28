@@ -1,0 +1,23 @@
+[
+  {
+    "type": "discovery_search",
+    "url": "https://www.newegg.com/s?k=laptop",
+    "status_code": 0,
+    "latency_ms": 30424.8,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.newegg.com/search?q=laptop",
+    "status_code": 0,
+    "latency_ms": 33376.9,
+    "html_bytes": 0
+  },
+  {
+    "type": "discovery_search",
+    "url": "https://www.newegg.com/laptops",
+    "status_code": 0,
+    "latency_ms": 30776.2,
+    "html_bytes": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.flipkart.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 6827.8,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.flipkart.com/search?q=laptop",
+    "status_code": 200,
+    "latency_ms": 2689.8,
+    "bytes": 315,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.flipkart.com/laptops",
+    "status_code": 200,
+    "latency_ms": 5253.2,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

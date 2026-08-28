@@ -1,0 +1,60 @@
+{
+  "target_id": "elkjop-se",
+  "retailer": "Elkjop",
+  "country": "Sweden",
+  "discovery_status": "NOT_DISCOVERED",
+  "discovery_failure_reason": "NO_LAPTOP_URL_DISCOVERED",
+  "domain_validation": {
+    "domain": "elgiganten.se",
+    "base_url": "https://www.elgiganten.se",
+    "http_status": 429,
+    "redirect_chain": [],
+    "final_url": "https://www.elgiganten.se",
+    "robots_txt_found": false,
+    "sitemaps_found": [],
+    "waf_detected": null,
+    "latency_ms": 388.7
+  },
+  "discovery_attempts": [
+    {
+      "method": "retailer_search",
+      "url": "https://www.elgiganten.se/search?q=laptop",
+      "status": 429,
+      "latency_ms": 408.9,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.elgiganten.se/search?q=notebook",
+      "status": 429,
+      "latency_ms": 401.3,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.elgiganten.se/s?k=laptop",
+      "status": 429,
+      "latency_ms": 322.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "retailer_search",
+      "url": "https://www.elgiganten.se/s?k=notebook",
+      "status": 429,
+      "latency_ms": 315.7,
+      "candidates_found": 0
+    },
+    {
+      "method": "category_listing",
+      "url": "https://www.elgiganten.se/laptops",
+      "status": 429,
+      "latency_ms": 320.4,
+      "candidates_found": 0
+    },
+    {
+      "method": "firecrawl_map",
+      "url": "https://www.elgiganten.se",
+      "candidates_found": 0
+    }
+  ]
+}

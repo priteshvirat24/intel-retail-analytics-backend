@@ -1,0 +1,14 @@
+{
+  "category": "NETWORK",
+  "specific_reason": "HTTP_TIMEOUT",
+  "stage": "URL_REACHABILITY",
+  "failure_reason_human": "Network or rendering timeout during URL_REACHABILITY.",
+  "http_status": 0,
+  "exception_type": null,
+  "retry_count": 1,
+  "last_error": "Playwright navigation error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigating to \"https://www.unieuro.it/product/sku_0016\", waiting until \"domcontentloaded\"\n",
+  "timestamp": "2026-08-23T09:52:47.542888+00:00",
+  "is_recoverable": true,
+  "recommended_escalation": null,
+  "details": {}
+}

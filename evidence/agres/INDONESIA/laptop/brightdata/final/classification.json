@@ -1,0 +1,17 @@
+{
+  "product_class": "LAPTOP",
+  "is_genuine_laptop": true,
+  "confidence_score": 0.7,
+  "detected_brand": "ASUS",
+  "model_or_sku": "rog-strix",
+  "extracted_specs": {
+    "storage": "512GB "
+  },
+  "positive_signals": [
+    "Laptop family: 'rog'",
+    "Brand: 'ASUS'",
+    "Storage: 512GB "
+  ],
+  "negative_signals": [],
+  "rejection_reason": null
+}

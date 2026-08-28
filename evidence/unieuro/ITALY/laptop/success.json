@@ -1,0 +1,21 @@
+{
+  "retailer": "Unieuro",
+  "country": "Italy",
+  "product_url": "https://www.unieuro.it/online/Notebook/255-G8-pidHEW4K7Z9EA",
+  "title": "HP 255 G8 AMD Ryzen\u2122 7 5700U Computer portatile 39,6 cm (15.6\") Full HD 8 GB DDR4-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Grigio",
+  "brand": "HP",
+  "model": "ddr4-sdram",
+  "sku": "ddr4-sdram",
+  "price": null,
+  "currency": "EUR",
+  "availability": "InStock",
+  "cpu": null,
+  "ram": "8GB",
+  "storage": "512 GB SSD",
+  "display": "15.6\"",
+  "gpu": null,
+  "operating_system": "Windows 11",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "bright_data_product": "BRIGHTDATA_WEB_UNLOCKER",
+  "timestamp": "2026-08-25T11:23:36.354764Z"
+}

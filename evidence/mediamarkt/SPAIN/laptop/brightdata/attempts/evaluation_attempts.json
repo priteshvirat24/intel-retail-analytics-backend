@@ -1,0 +1,40 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.es/s?k=portatil",
+    "status_code": 200,
+    "latency_ms": 29009.5,
+    "bytes": 942365,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.es/search?q=portatil",
+    "status_code": 200,
+    "latency_ms": 11360.4,
+    "bytes": 651816,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.es/laptops",
+    "status_code": 200,
+    "latency_ms": 26002.8,
+    "bytes": 651087,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "candidate_index": 1,
+    "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15iph11-copilot-pc-153-wuxga-intelr-coretm-ultra-7-355-49-tops-16gb-ram-512gb-ssd-hd-graphics-w11h-1623675.html",
+    "status_code": 200,
+    "latency_ms": 13549.3,
+    "product_title": "Port\u00e1til - Lenovo IdeaPad Slim 3 15IPH11 Copilot+ PC, 15.3\" WUXGA, Intel\u00ae Core\u2122 Ultra 7 355, 49 TOPS, 16GB RAM, 512GB SSD, HD Graphics, W11H",
+    "brand": "LENOVO",
+    "price": 899.0,
+    "product_class": "LAPTOP",
+    "is_genuine_laptop": true,
+    "confidence_score": 1.0,
+    "rejection_reason": null,
+    "waf_detected": "Cloudflare Turnstile"
+  }
+]

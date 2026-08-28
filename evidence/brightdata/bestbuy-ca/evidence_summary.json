@@ -1,0 +1,22 @@
+{
+  "target_id": "bestbuy-ca",
+  "retailer": "Best Buy",
+  "country": "Canada",
+  "domain": "bestbuy.ca",
+  "can_scrape": "YES",
+  "strategy": "BRIGHTDATA_SDK_SCRAPE",
+  "method": "Search\u2192Direct",
+  "url": "https://www.bestbuy.ca/en-ca/shop/back-to-school/the-best-laptops-under-500-1",
+  "title": "ASUS  14\" Fhd Laptop - Intel Celeron N4500 - 4GB Ddr4 - 64GB SSD - Intel Uhd Graphics 600 - Windows 11 - Star In Black",
+  "brand": "ASUS",
+  "specs": {
+    "screen_size": "14\"",
+    "cpu": "Celeron N4500",
+    "gpu": "INTEL UHD GRAPHICS",
+    "ram": "4GB",
+    "storage": "64GB SSD",
+    "os": "Windows 11"
+  },
+  "timestamp": "2026-08-25T13:30:25.725716+00:00",
+  "failure_reason": null
+}

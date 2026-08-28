@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.mediamarkt.com.tr/arama?q=laptop",
+    "status_code": 200,
+    "latency_ms": 5237.0,
+    "bytes": 790731,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

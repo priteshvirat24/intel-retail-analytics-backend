@@ -1,0 +1,18 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.euronics.it/s?k=notebook",
+    "status_code": 200,
+    "latency_ms": 4023.8,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.euronics.it/ricerca?q=notebook",
+    "status_code": 200,
+    "latency_ms": 6038.1,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]

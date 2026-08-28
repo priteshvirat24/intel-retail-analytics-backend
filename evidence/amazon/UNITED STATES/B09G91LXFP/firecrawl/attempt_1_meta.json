@@ -1,0 +1,35 @@
+{
+  "attempt_number": 1,
+  "strategy": "FIRECRAWL",
+  "status_code": 200,
+  "response_time_ms": 7385.362151020672,
+  "browser_seconds": 7.68790248100413,
+  "bytes_received": 1507563,
+  "success": false,
+  "evidence_path": "evidence/amazon/UNITED STATES/B09G91LXFP/firecrawl/raw.html",
+  "screenshot_path": null,
+  "headers": {},
+  "error_message": null,
+  "failure_diagnosis": {
+    "category": "ACCESS",
+    "specific_reason": "BOT_PROTECTION",
+    "stage": "CONTENT_AVAILABILITY",
+    "failure_reason_human": "Request blocked by anti-bot protection (WAF/Edge Guard). HTTP 200.",
+    "http_status": 200,
+    "exception_type": null,
+    "retry_count": 0,
+    "last_error": "",
+    "source_strategy": "FIRECRAWL",
+    "provider_failure_reason": null,
+    "anti_bot_vendor": null,
+    "timestamp": "2026-08-23T16:06:00.885051+00:00",
+    "is_recoverable": false,
+    "recommended_escalation": "PLAYWRIGHT",
+    "details": {
+      "http_status": 200,
+      "blocked_detected": true,
+      "vendor": null
+    }
+  },
+  "timestamp": "2026-08-23T16:06:00.885202+00:00"
+}

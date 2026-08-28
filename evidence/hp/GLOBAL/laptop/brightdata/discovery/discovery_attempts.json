@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "discovery",
+    "url": "https://www.hp.com/s?k=laptop",
+    "status_code": 200,
+    "latency_ms": 7441.2,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.hp.com/search?q=laptop",
+    "status_code": 0,
+    "latency_ms": 45090.2,
+    "bytes": 0,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  },
+  {
+    "stage": "discovery",
+    "url": "https://www.hp.com/laptops",
+    "status_code": 200,
+    "latency_ms": 8056.7,
+    "bytes": 72,
+    "strategy": "BRIGHTDATA_WEB_UNLOCKER"
+  }
+]
