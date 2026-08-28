@@ -1,6 +1,6 @@
 import asyncio
 import time
-from typing import Dict
+from typing import Dict, Optional, Any
 
 
 class DomainRateLimiter:
@@ -68,3 +68,27 @@ class CrawlScheduler:
                 base_delay_sec=base_delay_sec
             )
         return self._limiters[domain]
+
+
+class FeedDeliveryScheduler:
+    """
+    Manages automated, cadence-based data feed exports and contractual sFTP distribution.
+    """
+
+    @classmethod
+    async def trigger_daily_feed_delivery(
+        cls,
+        products: Optional[list] = None,
+        sftp_config: Optional[Any] = None
+    ) -> Dict[str, Any]:
+        """
+        Executes daily Price & Promotion feed generation and automated sFTP push.
+        Runs synchronously or as an asynchronous task within orchestrator runs.
+        """
+        from app.delivery.daily_feed_job import DailyFeedJob
+        loop = asyncio.get_event_loop()
+        return await loop.run_in_executor(
+            None,
+            lambda: DailyFeedJob.run_daily_delivery(products=products, sftp_config=sftp_config)
+        )
+
