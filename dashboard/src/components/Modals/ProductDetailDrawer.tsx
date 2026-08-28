@@ -214,29 +214,47 @@ export const ProductDetailDrawer: React.FC = () => {
                 <Camera className="w-3.5 h-3.5 text-intel-navy" />
                 <span>Captured Visual Screenshot Evidence:</span>
               </span>
-              <span className="text-[10px] text-slate-400 font-mono">
-                {sku.product_screenshot ? `Timestamp: ${sku.date || '2026-08-27'}` : 'No visual asset captured'}
-              </span>
+              {sku.screenshot_available && (
+                <span className={`px-2 py-0.5 rounded text-[9px] font-bold font-mono ${
+                  sku.is_shared_capture
+                    ? 'bg-amber-100 text-amber-800 border border-amber-300'
+                    : 'bg-emerald-100 text-emerald-800 border border-emerald-300'
+                }`}>
+                  {sku.is_shared_capture
+                    ? 'STORE-LEVEL CAPTURE (Shared Storefront Proof)'
+                    : 'VERIFIED PER-SKU PDP'}
+                </span>
+              )}
             </div>
 
-            {sku.product_screenshot ? (
-              <div className="h-56 rounded-xl overflow-hidden bg-slate-100 border border-slate-200 flex items-center justify-center">
-                <img
-                  src={sku.product_screenshot}
-                  alt={sku.product_title}
-                  className="w-full h-full object-cover"
-                  onError={(e: any) => {
-                    e.target.style.display = 'none';
-                    e.target.parentElement.innerHTML = '<div class="p-6 text-center text-xs text-slate-500 font-medium">Screenshot unavailable</div>';
-                  }}
-                />
+            {sku.screenshot_available && sku.product_screenshot ? (
+              <div className="rounded-xl overflow-hidden bg-slate-100 border border-slate-200 space-y-2">
+                {sku.is_shared_capture && (
+                  <div className="p-2.5 bg-amber-50 border-b border-amber-200 text-amber-900 text-[10px] flex items-center gap-1.5 font-medium">
+                    <AlertTriangle className="w-3.5 h-3.5 text-amber-600 shrink-0" />
+                    <span><strong>Disclosure:</strong> This visual artifact is a store-level category/homepage capture, not an individual product PDP screenshot.</span>
+                  </div>
+                )}
+                <div className="h-56 overflow-hidden flex items-center justify-center">
+                  <img
+                    src={sku.product_screenshot}
+                    alt={sku.product_title}
+                    className="w-full h-full object-cover"
+                    onError={(e: any) => {
+                      e.target.style.display = 'none';
+                      if (e.target.parentElement) {
+                        e.target.parentElement.innerHTML = '<div class="p-6 text-center text-xs text-slate-500 font-medium">Screenshot unavailable</div>';
+                      }
+                    }}
+                  />
+                </div>
               </div>
             ) : (
               <div className="p-6 rounded-xl border border-dashed border-slate-300 bg-slate-50 text-center space-y-1">
                 <EyeOff className="w-5 h-5 text-slate-400 mx-auto" />
                 <div className="text-xs font-bold text-slate-700">Screenshot unavailable</div>
                 <p className="text-[10px] text-slate-500 max-w-xs mx-auto">
-                  Visual screenshot asset was not captured for this product. Traceability established via raw DOM text and HTTP lineage.
+                  Visual screenshot asset was not captured on disk for this product. Re-scrape attempt returned HTTP 404 due to synthetic catalog URL patterns.
                 </p>
               </div>
             )}

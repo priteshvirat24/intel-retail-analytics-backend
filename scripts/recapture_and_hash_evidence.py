@@ -314,8 +314,20 @@ def main():
 
         processed_skus.append(updated_sku)
 
+    # Two-pass check for shared captures
+    from collections import Counter
+    hash_counts = Counter(s.get("screenshot_sha256") for s in processed_skus if s.get("screenshot_sha256"))
+    for s in processed_skus:
+        sha = s.get("screenshot_sha256")
+        if sha:
+            s["is_shared_capture"] = bool(hash_counts[sha] > 1)
+            s["evidence_type"] = "STORE_LEVEL_SHARED_CAPTURE" if hash_counts[sha] > 1 else "VERIFIED_PER_SKU_PDP"
+        else:
+            s["is_shared_capture"] = False
+            s["evidence_type"] = "EVIDENCE_UNAVAILABLE"
+
     # 3. Update Dataset JSON
-    print("\n[STEP 3] Writing updated dataset with SHA-256 artifacts...")
+    print("\n[STEP 3] Writing updated dataset with SHA-256 artifacts and shared-capture flags...")
     dataset["live_skus"] = processed_skus
     with open(dataset_path, "w", encoding="utf-8") as f:
         json.dump(dataset, f, indent=2)
