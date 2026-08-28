@@ -105,32 +105,32 @@ export const AnalyticsEngine = {
     }
 
     const intelProducts = products.filter(
-      (p: any) => (p.processor || p.processor_brand || '').toLowerCase() === 'intel'
+      (p: any) => (p.processor || p.processor_brand || '').toLowerCase() === 'intel' || p.is_intel === true
     );
     const intelSkus = intelProducts.length;
 
     const intelSosPct = totalSkus > 0 ? Math.round((intelSkus / totalSkus) * 1000) / 10 : null;
 
-    // Overall & Sub-scores
-    const validOverallScores = products
+    // Overall & Sub-scores (explicitly scoped to Intel brand, including legitimate 0 scores)
+    const validOverallScores = intelProducts
       .map((p: any) => p.Overall ?? p.brand_compliance_score)
-      .filter((s: any) => typeof s === 'number' && !isNaN(s) && s > 0);
+      .filter((s: any) => typeof s === 'number' && !isNaN(s));
     const avgOverallScore =
       validOverallScores.length > 0
         ? Math.round(validOverallScores.reduce((a: number, b: number) => a + b, 0) / validOverallScores.length)
         : null;
 
-    const validListingScores = products
+    const validListingScores = intelProducts
       .map((p: any) => p.listing_s ?? p.s1_score)
-      .filter((s: any) => typeof s === 'number' && !isNaN(s) && s > 0);
+      .filter((s: any) => typeof s === 'number' && !isNaN(s));
     const avgListingScore =
       validListingScores.length > 0
         ? Math.round(validListingScores.reduce((a: number, b: number) => a + b, 0) / validListingScores.length)
         : null;
 
-    const validPdpScores = products
+    const validPdpScores = intelProducts
       .map((p: any) => p.details_p ?? p.p1_score)
-      .filter((s: any) => typeof s === 'number' && !isNaN(s) && s > 0);
+      .filter((s: any) => typeof s === 'number' && !isNaN(s));
     const avgPdpScore =
       validPdpScores.length > 0
         ? Math.round(validPdpScores.reduce((a: number, b: number) => a + b, 0) / validPdpScores.length)
@@ -245,8 +245,12 @@ export const AnalyticsEngine = {
    * Computes dynamic Scorecards S1, S2, P1..P5 component score averages.
    */
   computeScorecardMetrics(products: any[] = []): ScorecardComponentAverages {
-    const total = products.length;
-    if (total === 0) {
+    const intelProducts = products.filter(
+      (p: any) => (p.processor || p.processor_brand || '').toLowerCase() === 'intel' || p.is_intel === true
+    );
+    const totalIntel = intelProducts.length;
+
+    if (totalIntel === 0) {
       return {
         avgOverall: null,
         avgListingS: null,
@@ -263,9 +267,9 @@ export const AnalyticsEngine = {
     }
 
     const avgOf = (key: string) => {
-      const valid = products
+      const valid = intelProducts
         .map((p: any) => p[key])
-        .filter((v: any) => typeof v === 'number' && !isNaN(v) && v > 0);
+        .filter((v: any) => typeof v === 'number' && !isNaN(v));
       return valid.length > 0 ? Math.round(valid.reduce((a: number, b: number) => a + b, 0) / valid.length) : null;
     };
 
@@ -280,7 +284,7 @@ export const AnalyticsEngine = {
       avgP3: avgOf('p3'),
       avgP4: avgOf('p4'),
       avgP5: avgOf('p5'),
-      evaluatedCount: total,
+      evaluatedCount: totalIntel,
     };
   },
 
@@ -407,7 +411,7 @@ export const AnalyticsEngine = {
         oemPct: pct((p) => Boolean(p.oem && p.oem !== 'Unknown OEM')),
         productIdPct: pct((p) => Boolean(p.product_id && p.product_id !== 'null' && !String(p.product_id).startsWith('SKU-'))),
         screenshotPct: pct((p) => Boolean(p.product_screenshot && p.product_screenshot.length > 0)),
-        pdpEnrichmentPct: pct((p) => Boolean(p.p1 && p.p1 > 0)),
+        pdpEnrichmentPct: pct((p) => (p.p1 !== undefined && p.p1 !== null) || (p.details_p !== undefined && p.details_p !== null)),
         ramStoragePct: pct((p) => Boolean(p.ram && p.storage)),
       },
     };

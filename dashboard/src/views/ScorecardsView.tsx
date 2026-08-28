@@ -48,7 +48,7 @@ export const ScorecardsView: React.FC = () => {
   const [selectedAccount, setSelectedAccount] = useState<string | null>(null);
   const [activeEvidence, setActiveEvidence] = useState<EvidenceRecord | null>(null);
 
-  const displayAccounts = filteredScorecardAccounts || [];
+  const displayAccounts = [...(filteredScorecardAccounts || [])].sort((a: any, b: any) => (b.Overall_score || 0) - (a.Overall_score || 0));
   const displayProducts = filteredScorecardProducts || [];
 
   // Dynamic Score Distribution Bucketing from actual evaluated accounts
@@ -430,11 +430,22 @@ export const ScorecardsView: React.FC = () => {
                             {p.p5 !== undefined && p.p5 !== null ? p.p5 : 'N/A'}
                           </td>
                           <td className="py-2 px-2 text-center font-mono font-bold text-slate-900">
-                            <span className={`px-2 py-0.5 rounded text-[10px] font-bold ${
-                              (p.Overall || 0) >= 80 ? 'bg-emerald-100 text-emerald-800' : 'bg-amber-100 text-amber-800'
-                            }`}>
-                              {p.Overall ?? 'N/A'}/100
-                            </span>
+                            <div className="flex flex-col items-center gap-1">
+                              <span className={`px-2 py-0.5 rounded text-[10px] font-bold ${
+                                (p.Overall || 0) >= 80 ? 'bg-emerald-100 text-emerald-800' : 'bg-amber-100 text-amber-800'
+                              }`}>
+                                {p.Overall !== undefined && p.Overall !== null ? `${p.Overall}/100` : 'N/A'}
+                              </span>
+                              {p.details_p !== undefined && p.details_p !== null ? (
+                                <span className="px-1.5 py-0.5 rounded text-[8px] font-bold tracking-tight bg-blue-50 text-blue-700 border border-blue-200" title="Full 7-rule audit (Listing S1-S2 + PDP P1-P5 enriched)">
+                                  FULL PDP (7-Rule)
+                                </span>
+                              ) : (
+                                <span className="px-1.5 py-0.5 rounded text-[8px] font-bold tracking-tight bg-slate-100 text-slate-600 border border-slate-200" title="Listing-only 2-rule audit (S1 Title + S2 Badge)">
+                                  LISTING ONLY (2-Rule)
+                                </span>
+                              )}
+                            </div>
                           </td>
                           <td className="py-2 px-3 text-right">
                             <button

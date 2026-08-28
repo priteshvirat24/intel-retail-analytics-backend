@@ -62,36 +62,47 @@ export const RetailerAuditView: React.FC = () => {
           Channel Compliance Scorecards (85% Laptop / 15% Desktop Weighting)
         </h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
-          {retailers.map((r) => (
-            <div
-              key={r.id}
-              onClick={() => setSelectedRetailer(selectedRetailer === r.name ? 'ALL' : r.name)}
-              className={`ent-card ent-card-hover p-4 rounded-xl cursor-pointer ${
-                selectedRetailer === r.name ? 'ring-2 ring-intel-navy bg-blue-50/20' : ''
-              }`}
-            >
-              <div className="flex items-center justify-between mb-2">
-                <h4 className="text-sm font-bold text-slate-900">{r.name}</h4>
-                <span className="text-xs font-mono font-bold text-emerald-700">
-                  {r.brand_compliance_score}%
-                </span>
+          {retailers.map((r) => {
+            const rProducts = products.filter((p) => p.retailer === r.name);
+            const laptopCount = rProducts.filter((p) => p.form_factor === 'Laptop').length;
+            const desktopCount = rProducts.filter((p) => p.form_factor === 'Desktop').length;
+            const totalCount = rProducts.length > 0 ? rProducts.length : r.products_count;
+
+            return (
+              <div
+                key={r.id}
+                onClick={() => setSelectedRetailer(selectedRetailer === r.name ? 'ALL' : r.name)}
+                className={`ent-card ent-card-hover p-4 rounded-xl cursor-pointer ${
+                  selectedRetailer === r.name ? 'ring-2 ring-intel-navy bg-blue-50/20' : ''
+                }`}
+              >
+                <div className="flex items-center justify-between mb-2">
+                  <h4 className="text-sm font-bold text-slate-900">{r.name}</h4>
+                  <span className="text-xs font-mono font-bold text-emerald-700">
+                    {r.brand_compliance_score}%
+                  </span>
+                </div>
+                <div className="space-y-1 text-xs text-slate-600">
+                  <div className="flex justify-between">
+                    <span>Laptop Score (85% weight):</span>
+                    <span className="text-slate-900 font-mono font-semibold">
+                      {r.laptop_compliance_score}% {laptopCount > 0 ? <span className="text-[10px] text-slate-400 font-sans font-normal">(N={laptopCount})</span> : ''}
+                    </span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Desktop Score (15% weight):</span>
+                    <span className="text-slate-900 font-mono font-semibold">
+                      {r.desktop_compliance_score}% {desktopCount > 0 ? <span className="text-[10px] text-slate-400 font-sans font-normal">(N={desktopCount})</span> : ''}
+                    </span>
+                  </div>
+                  <div className="flex justify-between pt-1 border-t border-slate-100 text-[11px]">
+                    <span>Total Channel Sample:</span>
+                    <span className="text-slate-900 font-mono font-semibold">N={totalCount}</span>
+                  </div>
+                </div>
               </div>
-              <div className="space-y-1 text-xs text-slate-600">
-                <div className="flex justify-between">
-                  <span>Laptop Score (85%):</span>
-                  <span className="text-slate-900 font-mono font-semibold">{r.laptop_compliance_score}%</span>
-                </div>
-                <div className="flex justify-between">
-                  <span>Desktop Score (15%):</span>
-                  <span className="text-slate-900 font-mono font-semibold">{r.desktop_compliance_score}%</span>
-                </div>
-                <div className="flex justify-between pt-1 border-t border-slate-100 text-[11px]">
-                  <span>Compliance Grade:</span>
-                  <span className="text-intel-navy font-bold">{r.compliance_grade}</span>
-                </div>
-              </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </div>
 

@@ -35,19 +35,21 @@ export const RetailerExplorerView: React.FC = () => {
 
   const countries = Array.from(new Set(accounts.map((a: any) => a.country))).filter(Boolean).sort();
 
-  const filteredAccounts = accounts.filter((a: any) => {
-    const matchesSearch = !searchTerm ||
-      (a.account && a.account.toLowerCase().includes(searchTerm.toLowerCase())) ||
-      (a.country && a.country.toLowerCase().includes(searchTerm.toLowerCase()));
-    const matchesCountry = countryFilter === 'ALL' || a.country === countryFilter;
-    const matchesType = typeFilter === 'ALL' || (a.account_type && a.account_type.toLowerCase().includes(typeFilter.toLowerCase()));
-    return matchesSearch && matchesCountry && matchesType;
-  });
+  const filteredAccounts = [...accounts]
+    .filter((a: any) => {
+      const matchesSearch = !searchTerm ||
+        (a.account && a.account.toLowerCase().includes(searchTerm.toLowerCase())) ||
+        (a.country && a.country.toLowerCase().includes(searchTerm.toLowerCase()));
+      const matchesCountry = countryFilter === 'ALL' || a.country === countryFilter;
+      const matchesType = typeFilter === 'ALL' || (a.account_type && a.account_type.toLowerCase().includes(typeFilter.toLowerCase()));
+      return matchesSearch && matchesCountry && matchesType;
+    })
+    .sort((a: any, b: any) => (b.Overall_score || 0) - (a.Overall_score || 0));
 
   const selectedAccountData: any = accounts.find((a: any) => a.account === (activeAccount || accounts[0]?.account)) || accounts[0];
   const accountProducts = selectedAccountData ? products.filter((p: any) => (p.account || p.retailer) === selectedAccountData.account) : [];
   const intelCount = accountProducts.filter((p: any) => (p.processor || '').toLowerCase() === 'intel').length;
-  const intelSos = accountProducts.length > 0 ? Math.round((intelCount / accountProducts.length) * 100) : (selectedAccountData?.sos_pct || selectedAccountData?.sos_intel_pct || 0);
+  const intelSos = accountProducts.length > 0 ? Math.round((intelCount / accountProducts.length) * 1000) / 10 : (selectedAccountData?.sos_pct || selectedAccountData?.sos_intel_pct || 0);
 
   return (
     <div className="space-y-6 animate-in fade-in duration-200">
@@ -178,7 +180,9 @@ export const RetailerExplorerView: React.FC = () => {
                       </div>
                       <div className="p-2 rounded-lg bg-slate-50">
                         <div className="text-[9px] font-bold text-slate-400 uppercase">Intel SOS</div>
-                        <div className="text-sm font-black text-intel-blue font-mono">{sos}%</div>
+                        <div className="text-sm font-black text-intel-blue font-mono">
+                          {sos}% <span className="text-[9px] font-normal text-slate-400 font-sans">(N={accProds.length > 0 ? accProds.length : (a.products_count || 0)})</span>
+                        </div>
                       </div>
                       <div className="p-2 rounded-lg bg-slate-50">
                         <div className="text-[9px] font-bold text-slate-400 uppercase">Score</div>
@@ -280,7 +284,18 @@ export const RetailerExplorerView: React.FC = () => {
                             ${p.selling_price?.toLocaleString()}
                           </td>
                           <td className="py-2 px-2 text-center font-bold text-slate-900">
-                            {p.Overall !== undefined && p.Overall !== null ? `${p.Overall}/100` : 'N/A'}
+                            <div className="flex flex-col items-center gap-0.5">
+                              <span>{p.Overall !== undefined && p.Overall !== null ? `${p.Overall}/100` : 'N/A'}</span>
+                              {p.details_p !== undefined && p.details_p !== null ? (
+                                <span className="px-1 py-0.2 rounded text-[7px] font-bold bg-blue-50 text-blue-700 border border-blue-200">
+                                  FULL PDP (7-Rule)
+                                </span>
+                              ) : (
+                                <span className="px-1 py-0.2 rounded text-[7px] font-bold bg-slate-100 text-slate-600 border border-slate-200">
+                                  LISTING ONLY (2-Rule)
+                                </span>
+                              )}
+                            </div>
                           </td>
                           <td className="py-2 px-3 text-right">
                             <button

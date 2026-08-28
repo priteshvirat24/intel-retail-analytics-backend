@@ -311,33 +311,44 @@ export const ShareOfShelfView: React.FC = () => {
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-slate-100">
-                    {accounts.map((a: any, idx: number) => {
-                      const rProducts = products.filter((p: any) => (p.account || p.retailer) === a.account);
-                      const intelCount = rProducts.filter((p: any) => /intel/i.test(p.processor || '')).length;
-                      const amdCount = rProducts.filter((p: any) => /amd|ryzen/i.test(p.processor || '')).length;
-                      const appleCount = rProducts.filter((p: any) => /apple/i.test(p.processor || '')).length;
-                      const qualcommCount = rProducts.filter((p: any) => /qualcomm/i.test(p.processor || '')).length;
-                      const sos = rProducts.length > 0 ? Math.round((intelCount / rProducts.length) * 100) : a.sos_intel_pct;
-
-                      return (
+                    {[...accounts]
+                      .map((a: any) => {
+                        const rProducts = products.filter((p: any) => (p.account || p.retailer) === a.account);
+                        const rTotal = rProducts.length > 0 ? rProducts.length : (a.products_count || 0);
+                        const intelCount = rProducts.filter((p: any) => /intel/i.test(p.processor || '')).length;
+                        const amdCount = rProducts.filter((p: any) => /amd|ryzen/i.test(p.processor || '')).length;
+                        const appleCount = rProducts.filter((p: any) => /apple/i.test(p.processor || '')).length;
+                        const qualcommCount = rProducts.filter((p: any) => /qualcomm/i.test(p.processor || '')).length;
+                        const sosPct = rTotal > 0 ? Math.round((intelCount / rTotal) * 1000) / 10 : (a.sos_intel_pct || 0);
+                        return { ...a, rTotal, intelCount, amdCount, appleCount, qualcommCount, sosPct };
+                      })
+                      .sort((a, b) => b.sosPct - a.sosPct)
+                      .map((a: any, idx: number) => (
                         <tr key={a.account || idx} className="hover:bg-slate-50/80">
                           <td className="py-2 px-3 font-bold text-slate-900">{a.account}</td>
                           <td className="py-2 px-2 text-slate-600">{a.country}</td>
                           <td className="py-2 px-2 text-center font-mono font-bold text-slate-900">
-                            {rProducts.length > 0 ? rProducts.length : (a.products_count || 0)}
+                            {a.rTotal}
                           </td>
-                          <td className="py-2 px-2 text-center font-mono text-intel-blue font-bold">{intelCount}</td>
-                          <td className="py-2 px-2 text-center font-mono text-rose-600 font-semibold">{amdCount}</td>
-                          <td className="py-2 px-2 text-center font-mono text-slate-500">{appleCount}</td>
-                          <td className="py-2 px-2 text-center font-mono text-purple-600">{qualcommCount}</td>
+                          <td className="py-2 px-2 text-center font-mono text-intel-blue font-bold">
+                            {a.intelCount} <span className="text-[10px] text-slate-400 font-normal">({a.rTotal > 0 ? Math.round((a.intelCount / a.rTotal) * 100) : 0}%)</span>
+                          </td>
+                          <td className="py-2 px-2 text-center font-mono text-rose-600 font-semibold">
+                            {a.amdCount} <span className="text-[10px] text-slate-400 font-normal">({a.rTotal > 0 ? Math.round((a.amdCount / a.rTotal) * 100) : 0}%)</span>
+                          </td>
+                          <td className="py-2 px-2 text-center font-mono text-slate-500">
+                            {a.appleCount} <span className="text-[10px] text-slate-400 font-normal">({a.rTotal > 0 ? Math.round((a.appleCount / a.rTotal) * 100) : 0}%)</span>
+                          </td>
+                          <td className="py-2 px-2 text-center font-mono text-purple-600">
+                            {a.qualcommCount} <span className="text-[10px] text-slate-400 font-normal">({a.rTotal > 0 ? Math.round((a.qualcommCount / a.rTotal) * 100) : 0}%)</span>
+                          </td>
                           <td className="py-2 px-3 text-right font-mono font-black">
-                            <span className={(sos || 0) >= 70 ? 'text-emerald-600' : 'text-amber-600'}>
-                              {sos !== undefined ? `${sos}%` : 'N/A'}
+                            <span className={a.sosPct >= 70 ? 'text-emerald-600' : 'text-amber-600'}>
+                              {a.sosPct}% <span className="text-[10px] text-slate-400 font-normal font-sans">(N={a.rTotal})</span>
                             </span>
                           </td>
                         </tr>
-                      );
-                    })}
+                      ))}
                   </tbody>
                 </table>
               </div>

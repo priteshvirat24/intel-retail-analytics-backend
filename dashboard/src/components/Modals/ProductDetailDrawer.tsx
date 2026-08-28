@@ -142,10 +142,21 @@ export const ProductDetailDrawer: React.FC = () => {
 
             <div>
               <span className="text-[10px] uppercase font-bold text-slate-400 block font-sans">Overall Audit Score</span>
-              <strong className="text-slate-900 text-sm font-bold block">
-                {sku.Overall !== undefined && sku.Overall !== null ? `${sku.Overall} / 100` : 'N/A'}
-              </strong>
-              <span className={`text-[10px] font-bold ${
+              <div className="flex items-center gap-1.5 mt-0.5">
+                <strong className="text-slate-900 text-sm font-bold block">
+                  {sku.Overall !== undefined && sku.Overall !== null ? `${sku.Overall} / 100` : 'N/A'}
+                </strong>
+                {sku.details_p !== undefined && sku.details_p !== null ? (
+                  <span className="px-1.5 py-0.5 text-[9px] font-bold rounded bg-blue-50 text-blue-700 border border-blue-200">
+                    FULL PDP (7-Rule)
+                  </span>
+                ) : (
+                  <span className="px-1.5 py-0.5 text-[9px] font-bold rounded bg-slate-100 text-slate-600 border border-slate-200">
+                    LISTING ONLY (2-Rule)
+                  </span>
+                )}
+              </div>
+              <span className={`text-[10px] font-bold block mt-0.5 ${
                 evidenceMap.overall_status === 'VERIFIED'
                   ? 'text-emerald-600'
                   : evidenceMap.overall_status === 'PARTIALLY_VERIFIED'
