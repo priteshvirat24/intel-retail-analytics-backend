@@ -1,3 +1,19 @@
+/**
+ * =====================================================================================
+ * QUARANTINE WARNING — CONFIRMED 100% SYNTHETIC GENERATOR — DO NOT USE / DO NOT RE-RUN
+ * =====================================================================================
+ * Confirmed on: August 28, 2026
+ *
+ * This script algorithmically constructs 1,518 synthetic SKU records via modulo indexing
+ * loops over hardcoded OEM, CPU, and retailer arrays without performing any real HTTP
+ * extraction or web scraping. All generated product URLs (`/products/<slug>`) and evidence
+ * URLs are synthetic mocks.
+ *
+ * This file is preserved strictly for historical/audit reference.
+ * IT MUST NEVER BE RE-RUN TO POPULATE live_52_sku_dataset.json OR PRODUCTION DATASETS.
+ * =====================================================================================
+ */
+
 import fs from 'fs';
 import path from 'path';
 
