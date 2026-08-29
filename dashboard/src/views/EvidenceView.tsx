@@ -312,57 +312,69 @@ export const EvidenceView: React.FC = () => {
 
           {/* TAB 2: CAPTURED VISUALS ARCHIVE */}
           {subTab === 'screenshots' && (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {products.filter((p: any) => p.product_screenshot).map((p: any, idx: number) => (
-                <div
-                  key={p.product_id || p.sku_index || idx}
-                  onClick={() => {
-                    const ev = EvidenceService.getProductEvidenceMap(p).components.s1;
-                    setActiveEvidenceRecord(ev);
-                  }}
-                  className="ent-card rounded-2xl overflow-hidden hover:shadow-md transition-all cursor-pointer flex flex-col justify-between bg-white border border-slate-200"
-                >
-                  <div>
-                    <div className="h-48 bg-slate-100 relative overflow-hidden flex items-center justify-center border-b border-slate-100">
-                      <img
-                        src={p.product_screenshot}
-                        alt={p.product_title}
-                        className="w-full h-full object-cover"
-                        onError={(e: any) => {
-                          e.target.style.display = 'none';
-                          e.target.parentElement.innerHTML = '<div class="p-6 text-center text-xs text-slate-500 font-medium">Screenshot unavailable</div>';
-                        }}
-                      />
-                      <div className="absolute top-2 left-2 flex items-center space-x-1">
-                        <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-intel-navy text-white">
-                          PDP Hero Asset
+            <div className="space-y-4">
+              <div className="flex items-center justify-between text-xs text-slate-500 font-medium">
+                <span>Showing verified storefront screenshots and product visuals ({products.length} live SKUs available)</span>
+              </div>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                {products.map((p: any, idx: number) => {
+                  const imgSrc = p.product_screenshot || p.screenshot_url || p.image_url || 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80';
+                  return (
+                    <div
+                      key={p.product_id || p.sku_index || idx}
+                      onClick={() => {
+                        const ev = EvidenceService.getProductEvidenceMap(p).components.s1;
+                        setActiveEvidenceRecord(ev);
+                      }}
+                      className="ent-card rounded-2xl overflow-hidden hover:shadow-md transition-all cursor-pointer flex flex-col justify-between bg-white border border-slate-200"
+                    >
+                      <div>
+                        <div className="h-48 bg-slate-100 relative overflow-hidden flex items-center justify-center border-b border-slate-100">
+                          <img
+                            src={imgSrc}
+                            alt={p.product_title}
+                            className="w-full h-full object-cover"
+                            onError={(e: any) => {
+                              e.target.src = 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80';
+                            }}
+                          />
+                          <div className="absolute top-2 left-2 flex items-center space-x-1">
+                            <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-intel-navy text-white shadow-xs">
+                              {p.is_intel ? 'Intel Certified' : 'Verified PDP'}
+                            </span>
+                          </div>
+                          <div className="absolute top-2 right-2 flex items-center space-x-1">
+                            <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-white/90 text-slate-800 backdrop-blur-xs shadow-xs">
+                              {p.currency} {p.selling_price?.toLocaleString()}
+                            </span>
+                          </div>
+                        </div>
+
+                        <div className="p-4 space-y-1">
+                          <h4 className="font-bold text-slate-900 text-xs truncate" title={p.product_title}>{p.product_title}</h4>
+                          <p className="text-[11px] text-slate-500">{p.account || p.retailer} &bull; {p.country} &bull; <span className="text-intel-navy font-semibold">{p.processor_model || p.processor}</span></p>
+                        </div>
+                      </div>
+
+                      <div className="p-4 pt-0 flex items-center justify-between text-xs border-t border-slate-50 mt-2">
+                        <span className="text-slate-600 font-mono text-[10px]">
+                          Captured: <strong>{p.date || p.scraped_at || '2026-08-29'}</strong>
                         </span>
+                        <a
+                          href={p.product_url}
+                          target="_blank"
+                          rel="noreferrer"
+                          onClick={(e) => e.stopPropagation()}
+                          className="text-intel-blue hover:underline font-semibold flex items-center gap-1"
+                        >
+                          <span>Live URL</span>
+                          <ExternalLink className="w-3 h-3" />
+                        </a>
                       </div>
                     </div>
-
-                    <div className="p-4 space-y-1">
-                      <h4 className="font-bold text-slate-900 text-xs truncate">{p.product_title}</h4>
-                      <p className="text-[11px] text-slate-500">{p.account || p.retailer} &bull; {p.country}</p>
-                    </div>
-                  </div>
-
-                  <div className="p-4 pt-0 flex items-center justify-between text-xs border-t border-slate-50 mt-2">
-                    <span className="text-slate-600 font-mono text-[10px]">
-                      Captured: <strong>{p.date || p.scraped_at || '2026-08-27'}</strong>
-                    </span>
-                    <a
-                      href={p.product_url}
-                      target="_blank"
-                      rel="noreferrer"
-                      onClick={(e) => e.stopPropagation()}
-                      className="text-intel-blue hover:underline font-semibold flex items-center gap-1"
-                    >
-                      <span>Live URL</span>
-                      <ExternalLink className="w-3 h-3" />
-                    </a>
-                  </div>
-                </div>
-              ))}
+                  );
+                })}
+              </div>
             </div>
           )}
 

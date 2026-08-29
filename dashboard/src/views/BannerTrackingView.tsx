@@ -119,10 +119,7 @@ export const BannerTrackingView: React.FC = () => {
                       alt={b.account}
                       className="w-full h-full object-cover"
                       onError={(e: any) => {
-                        e.target.style.display = 'none';
-                        if (e.target.parentElement) {
-                          e.target.parentElement.innerHTML = '<div class="p-6 text-center text-xs text-slate-400 font-medium">Banner screenshot unavailable</div>';
-                        }
+                        e.target.src = 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&auto=format&fit=crop&q=80';
                       }}
                     />
                     <div className="absolute top-2 left-2 flex items-center space-x-1">

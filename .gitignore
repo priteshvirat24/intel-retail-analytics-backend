@@ -43,3 +43,7 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+.neon
+evidence/
+*.xlsx
+*.db

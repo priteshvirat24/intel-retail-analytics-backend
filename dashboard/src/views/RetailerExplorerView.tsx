@@ -47,8 +47,14 @@ export const RetailerExplorerView: React.FC = () => {
     .sort((a: any, b: any) => (b.Overall_score || 0) - (a.Overall_score || 0));
 
   const selectedAccountData: any = accounts.find((a: any) => a.account === (activeAccount || accounts[0]?.account)) || accounts[0];
-  const accountProducts = selectedAccountData ? products.filter((p: any) => (p.account || p.retailer) === selectedAccountData.account) : [];
-  const intelCount = accountProducts.filter((p: any) => (p.processor || '').toLowerCase() === 'intel').length;
+  const accountProducts = selectedAccountData ? products.filter((p: any) => {
+    if ((p.account || p.retailer) === selectedAccountData.account) return true;
+    if (p.retailer_id && selectedAccountData.retailer_id && p.retailer_id === selectedAccountData.retailer_id) return true;
+    const cleanP = (p.account || p.retailer || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+    const cleanR = (selectedAccountData.account || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+    return cleanP && cleanR && cleanP === cleanR;
+  }) : [];
+  const intelCount = accountProducts.filter((p: any) => (p.processor || '').toLowerCase() === 'intel' || p.is_intel).length;
   const intelSos = accountProducts.length > 0 ? Math.round((intelCount / accountProducts.length) * 1000) / 10 : (selectedAccountData?.sos_pct || selectedAccountData?.sos_intel_pct || 0);
 
   return (

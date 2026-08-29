@@ -240,14 +240,13 @@ export const ProductSkuView: React.FC = () => {
                         <td className="py-2.5 px-3 text-slate-600 max-w-[140px] truncate">{p.graphic_card}</td>
                         <td className="py-2.5 px-3">{p.ram}</td>
                         <td className="py-2.5 px-3">{p.storage}</td>
-                        <td className="py-2.5 px-3 text-slate-500">{p.storage_type}</td>
                         <td className="py-2.5 px-3">{p.screen_size || '—'}</td>
-                        <td className="py-2.5 px-3 font-sans">{p.form_factor}</td>
-                        <td className="py-2.5 px-3 text-right font-extrabold text-emerald-700">
-                          ${p.selling_price?.toLocaleString()}
+                        <td className="py-2.5 px-3 font-sans">{p.form_factor || 'Laptop'}</td>
+                        <td className="py-2.5 px-3 text-right font-semibold text-slate-800">
+                          {p.currency && p.currency !== 'USD' ? `${p.currency} ` : '$'}{p.selling_price?.toLocaleString()}
                         </td>
-                        <td className="py-2.5 px-3 text-right text-slate-800">
-                          ${p.usd_selling_price?.toLocaleString()}
+                        <td className="py-2.5 px-3 text-right font-extrabold text-emerald-700">
+                          ${p.usd_selling_price?.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                         </td>
                         <td className="py-2.5 px-3 text-center">
                           {p.Evo === 'Y' ? <span className="text-purple-700 font-bold">Y</span> : <span className="text-slate-300">N</span>}

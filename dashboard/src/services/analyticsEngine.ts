@@ -374,7 +374,13 @@ export const AnalyticsEngine = {
 
     accounts.forEach((acc: any) => {
       const accId = acc.account || acc.id || acc.name;
-      const count = products.filter((p: any) => (p.account || p.retailer) === accId).length;
+      const count = products.filter((p: any) => {
+        if ((p.account || p.retailer) === accId) return true;
+        if (p.retailer_id && acc.retailer_id && p.retailer_id === acc.retailer_id) return true;
+        const cleanP = (p.account || p.retailer || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+        const cleanA = (accId || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+        return cleanP && cleanA && cleanP === cleanA;
+      }).length || acc.products_count || 0;
       if (count >= config.target_skus_per_retailer) {
         completedAccounts += 1;
       } else if (count > 0) {
@@ -410,8 +416,8 @@ export const AnalyticsEngine = {
         processorPct: pct((p) => Boolean(p.processor && p.processor_model)),
         oemPct: pct((p) => Boolean(p.oem && p.oem !== 'Unknown OEM')),
         productIdPct: pct((p) => Boolean(p.product_id && p.product_id !== 'null' && !String(p.product_id).startsWith('SKU-'))),
-        screenshotPct: pct((p) => Boolean(p.product_screenshot && p.product_screenshot.length > 0)),
-        pdpEnrichmentPct: pct((p) => (p.p1 !== undefined && p.p1 !== null) || (p.details_p !== undefined && p.details_p !== null)),
+        screenshotPct: pct((p) => Boolean((p.product_screenshot && p.product_screenshot.length > 0) || p.screenshot_url || p.image_url || p.screenshot_available)),
+        pdpEnrichmentPct: pct((p) => (p.p1 !== undefined && p.p1 !== null) || (p.details_p !== undefined && p.details_p !== null) || p.pdp_enriched),
         ramStoragePct: pct((p) => Boolean(p.ram && p.storage)),
       },
     };

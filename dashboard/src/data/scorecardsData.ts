@@ -12,13 +12,14 @@ import {
 
 import liveDataRaw from './live_52_sku_dataset.json' with { type: 'json' };
 
-export const LIVE_52_SKU_DATASET = liveDataRaw.live_skus as any[];
-export const LIVE_RETAILER_COVERAGE = liveDataRaw.retailer_coverage as any[];
-export const LIVE_HEATMAP_DATA = liveDataRaw.heatmap as any[];
-export const LIVE_DATASET_SUMMARY = liveDataRaw.summary as any;
+const rawObj = liveDataRaw as any;
+export const LIVE_52_SKU_DATASET = (rawObj.live_skus || []) as any[];
+export const LIVE_RETAILER_COVERAGE = (rawObj.retailer_coverage || []) as any[];
+export const LIVE_HEATMAP_DATA = (rawObj.heatmap || []) as any[];
+export const LIVE_DATASET_SUMMARY = (rawObj.summary || rawObj.metadata || {}) as any;
+export const LIVE_ACCOUNTS_DATASET: ScorecardAccount[] = (rawObj.scorecard_accounts || []) as ScorecardAccount[];
 export const SCORECARD_PRODUCTS: ScorecardSKU[] = LIVE_52_SKU_DATASET;
-
-export const SCORECARD_ACCOUNTS: ScorecardAccount[] = [
+export const SCORECARD_ACCOUNTS: ScorecardAccount[] = LIVE_ACCOUNTS_DATASET.length > 0 ? LIVE_ACCOUNTS_DATASET : [
   {
     "account": "Best Buy - US",
     "country": "United States",

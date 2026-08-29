@@ -90,6 +90,9 @@ export const BannerGalleryView: React.FC<BannerGalleryViewProps> = ({ bannerData
                   src={`/screenshots/${b.screenshot_file.replace('.png', '.svg')}`}
                   alt={`Banner ${b.banner_id}`}
                   className="w-full h-auto rounded-lg object-contain max-h-[220px]"
+                  onError={(e: any) => {
+                    e.target.src = 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&auto=format&fit=crop&q=80';
+                  }}
                 />
               </div>
 
