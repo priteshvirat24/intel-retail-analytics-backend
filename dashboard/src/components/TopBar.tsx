@@ -8,9 +8,10 @@ import {
   ShieldAlert,
   Zap,
   SlidersHorizontal,
+  Database,
+  RefreshCw,
 } from 'lucide-react';
 import { useApp } from '../context/AppContext';
-import { SCORECARD_ACCOUNTS } from '../data/scorecardsData';
 
 export const TopBar: React.FC = () => {
   const {
@@ -25,10 +26,18 @@ export const TopBar: React.FC = () => {
     dateRange,
     costMetrics,
     setSettingsModalOpen,
+    scorecardAccounts,
+    overviewKpis,
+    isLoading,
+    isError,
+    errorMessage,
+    lastUpdated,
+    backendStatus,
+    refetchData,
   } = useApp();
 
   const countriesList = [
-    { code: 'ALL', name: '🌍 All Countries (52 Targets)' },
+    { code: 'ALL', name: `🌍 All Countries (${overviewKpis.totalAccounts} Targets)` },
     { code: 'United States', name: '🇺🇸 United States (US)' },
     { code: 'Canada', name: '🇨🇦 Canada (CA)' },
     { code: 'United Kingdom', name: '🇬🇧 United Kingdom (UK)' },
@@ -58,7 +67,7 @@ export const TopBar: React.FC = () => {
   const matchCountry = (accountCountry: string, filter: string) => {
     if (!filter || filter === 'ALL') return true;
     const f = filter.toLowerCase().trim();
-    const ac = accountCountry.toLowerCase().trim();
+    const ac = (accountCountry || '').toLowerCase().trim();
     if (ac === f) return true;
     if ((f === 'us' || f === 'usa') && (ac.includes('united states') || ac === 'us')) return true;
     if ((f === 'uk' || f === 'gb') && (ac.includes('united kingdom') || ac === 'uk' || ac === 'gb')) return true;
@@ -86,31 +95,40 @@ export const TopBar: React.FC = () => {
     return false;
   };
 
-  const filteredAccounts = SCORECARD_ACCOUNTS.filter((a) => matchCountry(a.country, selectedCountry));
+  const filteredAccounts = scorecardAccounts.filter((a) => matchCountry(a.country, selectedCountry));
 
   return (
     <div className="w-full sticky top-0 z-40 bg-white border-b border-slate-200 shadow-xs">
-      {/* ⚠️ Enterprise Status Banner */}
+      {/* ⚠️ Live Production Data Banner */}
       <div className="bg-slate-900 text-white px-4 py-1.5 text-xs flex flex-wrap items-center justify-between gap-2 border-b border-slate-800">
         <div className="flex items-center space-x-2.5">
           <span className="px-1.5 py-0.5 rounded bg-emerald-500/20 text-emerald-300 font-mono font-bold text-[10px] border border-emerald-500/40 uppercase tracking-wider flex items-center gap-1">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-            FULL 52-RETAILER MODE
+            LIVE PRODUCTION DATA
           </span>
-          <span className="font-semibold text-slate-200">
-            Active tracking &amp; competitive benchmarking across 52 global targets in 23 countries.
+          <span className="font-medium text-slate-200 flex items-center gap-2">
+            <span>Source: <strong className="text-intel-cyan font-semibold">Render Backend + Neon DB</strong></span>
+            <span className="text-slate-500">&bull;</span>
+            <span>Last Updated: <span className="font-mono text-slate-300">{lastUpdated ? new Date(lastUpdated).toLocaleString() : 'Live'}</span></span>
           </span>
         </div>
 
         <div className="flex items-center space-x-4 text-[11px] font-mono text-slate-300">
           <div className="flex items-center space-x-1.5">
-            <span className="w-2 h-2 rounded-full bg-emerald-400"></span>
-            <span>Cache Hit Rate: <strong className="text-white font-bold">{costMetrics.cache_hit_rate_pct}%</strong></span>
+            <Database className="w-3 h-3 text-emerald-400" />
+            <span>DB: <strong className="text-white font-bold">{backendStatus}</strong></span>
           </div>
           <div className="flex items-center space-x-1.5">
-            <Zap className="w-3 h-3 text-intel-cyan" />
-            <span>52/52 Targets Verified</span>
+            <span className="w-2 h-2 rounded-full bg-intel-blue"></span>
+            <span>Live SKUs: <strong className="text-white font-bold">{isLoading ? '...' : overviewKpis.totalSkus}</strong></span>
           </div>
+          <button
+            onClick={() => refetchData()}
+            title="Refresh Live Data"
+            className="p-1 rounded hover:bg-slate-800 text-slate-300 hover:text-white transition-colors"
+          >
+            <RefreshCw className={`w-3 h-3 ${isLoading ? 'animate-spin text-intel-cyan' : ''}`} />
+          </button>
         </div>
       </div>
 
@@ -126,7 +144,7 @@ export const TopBar: React.FC = () => {
               <div className="font-bold text-xs text-intel-navy leading-none">
                 Intel <span className="text-intel-blue">Intelligence</span>
               </div>
-              <div className="text-[10px] text-slate-600 font-medium">52 Retailers &bull; 23 Countries</div>
+              <div className="text-[10px] text-slate-600 font-medium">{overviewKpis.totalAccounts} Retailers &bull; {overviewKpis.totalCountries} Countries</div>
             </div>
           </div>
 
@@ -134,7 +152,7 @@ export const TopBar: React.FC = () => {
             <Search className="w-3.5 h-3.5 text-slate-600 absolute left-3 top-2.5" />
             <input
               type="text"
-              placeholder="Search SKU, processor, OEM, or retailer across 52 sites..."
+              placeholder={`Search SKU, processor, OEM, or retailer across ${overviewKpis.totalAccounts} sites...`}
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-slate-50 border border-slate-200 rounded-lg pl-8 pr-3 py-1.5 text-xs text-slate-900 placeholder-slate-600 focus:bg-white focus:outline-none focus:border-intel-blue transition-colors"
@@ -163,7 +181,7 @@ export const TopBar: React.FC = () => {
             </select>
           </div>
 
-          {/* Full 52 Retailers Selector */}
+          {/* Full Retailers Selector */}
           <div className="flex items-center space-x-1 bg-slate-50 border border-slate-200 rounded-lg px-2.5 py-1">
             <Store className="w-3.5 h-3.5 text-slate-600" />
             <select
@@ -173,7 +191,7 @@ export const TopBar: React.FC = () => {
             >
               <option value="ALL">
                 {selectedCountry === 'ALL'
-                  ? `All Retailers (52 Sites)`
+                  ? `All Retailers (${filteredAccounts.length} Sites)`
                   : `All ${selectedCountry} Sites (${filteredAccounts.length} Sites)`}
               </option>
               {filteredAccounts.map((a) => (

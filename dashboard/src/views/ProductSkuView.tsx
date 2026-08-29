@@ -26,7 +26,6 @@ import {
 } from 'recharts';
 import { useApp } from '../context/AppContext';
 import { ProductsSubTab, ScorecardSKU } from '../types/scorecards';
-import { SCORECARD_PRODUCTS } from '../data/scorecardsData';
 
 export const ProductSkuView: React.FC = () => {
   const { setSelectedSkuDetail, setLiveValidationTarget, pricingData, filteredScorecardProducts } = useApp() as any;
@@ -46,7 +45,7 @@ export const ProductSkuView: React.FC = () => {
     }
   };
 
-  const filteredProducts = (filteredScorecardProducts || SCORECARD_PRODUCTS).filter((p: ScorecardSKU) => {
+  const filteredProducts = (filteredScorecardProducts || []).filter((p: ScorecardSKU) => {
     if (!searchTerm) return true;
     const term = searchTerm.toLowerCase();
     return (
