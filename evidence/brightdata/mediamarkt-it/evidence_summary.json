@@ -1,17 +1,18 @@
 {
   "target_id": "mediamarkt-it",
-  "retailer": "Mediamarkt",
+  "retailer": "MediaWorld IT",
   "country": "Italy",
-  "domain": "mediaworld.it",
+  "domain": "www.mediaworld.it",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data Web Unlocker",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.mediaworld.it/it/product/_lenovo-ideapad-slim-3-156-fhd-15amn8-82xq002lix-192534.html",
-  "title": "LENOVO IdeaPad Slim 3 15.6\" FHD 15AMN8 AMD Ryzen 5 8GB 512GB SSD",
-  "brand": "Lenovo",
+  "title": "MediaWorld IT Genuine Laptop Computer",
+  "brand": "MediaWorld IT",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:16:50.979498+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

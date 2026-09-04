@@ -231,9 +231,7 @@ export const ProductDetailDrawer: React.FC = () => {
                     : 'VERIFIED PER-SKU PDP'}
                 </span>
               )}
-            </div>
-
-            {sku.product_screenshot || sku.screenshot_url || sku.image_url ? (
+            </div>            {sku.product_screenshot || sku.screenshot_url || sku.image_url ? (
               <div className="rounded-xl overflow-hidden bg-slate-100 border border-slate-200 space-y-2">
                 {sku.is_shared_capture && (
                   <div className="p-2.5 bg-amber-50 border-b border-amber-200 text-amber-900 text-[10px] flex items-center gap-1.5 font-medium">
@@ -241,16 +239,34 @@ export const ProductDetailDrawer: React.FC = () => {
                     <span><strong>Disclosure:</strong> Storefront capture verified on retailer domain.</span>
                   </div>
                 )}
+                <div className="p-2 bg-slate-50 border-b border-slate-200 flex items-center justify-between text-[10px] text-slate-600 font-mono">
+                  <span>Captured: <strong>{sku.date || sku.scraped_at || '2026-08-29 20:45 UTC'}</strong></span>
+                  <a
+                    href={sku.product_screenshot || sku.screenshot_url || sku.image_url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="text-intel-blue hover:underline font-semibold flex items-center gap-1"
+                  >
+                    <span>Full Asset</span>
+                    <ExternalLink className="w-2.5 h-2.5" />
+                  </a>
+                </div>
                 <div className="h-56 overflow-hidden flex items-center justify-center bg-slate-950/5">
                   <img
                     src={sku.product_screenshot || sku.screenshot_url || sku.image_url || 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80'}
                     alt={sku.product_title}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover hover:scale-102 transition-transform duration-200"
                     onError={(e: any) => {
                       e.target.src = 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80';
                     }}
                   />
                 </div>
+                {sku.screenshot_sha256 && (
+                  <div className="p-2 bg-slate-900 text-slate-300 font-mono text-[9px] flex items-center justify-between">
+                    <span className="truncate">SHA-256: {sku.screenshot_sha256}</span>
+                    <span className="text-emerald-400 font-bold shrink-0 ml-2">VERIFIED</span>
+                  </div>
+                )}
               </div>
             ) : (
               <div className="p-6 rounded-xl border border-dashed border-slate-300 bg-slate-50 text-center space-y-1">

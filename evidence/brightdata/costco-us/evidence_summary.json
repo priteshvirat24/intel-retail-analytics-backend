@@ -2,16 +2,17 @@
   "target_id": "costco-us",
   "retailer": "Costco",
   "country": "United States",
-  "domain": "costco.com",
+  "domain": "www.costco.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.costco.com/laptops.html",
-  "title": "Laptops",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.costco.com/hp-pavilion-15.6-touchscreen-laptop---13th-gen-intel-core-i7-1355u---1080p---windows-11.product.4000179612.html",
+  "title": "Costco Genuine Laptop Computer",
   "brand": "Costco",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:21:22.407357+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

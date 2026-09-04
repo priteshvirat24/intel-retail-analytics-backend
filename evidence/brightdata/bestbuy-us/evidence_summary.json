@@ -1,17 +1,18 @@
 {
   "target_id": "bestbuy-us",
-  "retailer": "Bestbuy",
+  "retailer": "Best Buy",
   "country": "United States",
-  "domain": "bestbuy.com",
+  "domain": "www.bestbuy.com",
   "can_scrape": "YES",
-  "strategy": "FIRECRAWL_RESCUE",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
-  "title": "Laptops & Notebook Computers",
-  "brand": "Bestbuy",
+  "strategy": "BRIGHTDATA_SDK_SCRAPE",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-fhd-laptop-amd-ryzen-5-7520u-with-8gb-memory-512gb-ssd-cloud-grey/6549067.p",
+  "title": "Best Buy Genuine Laptop Computer",
+  "brand": "Best Buy",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:21:28.848142+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

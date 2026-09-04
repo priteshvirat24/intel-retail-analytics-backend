@@ -2,19 +2,17 @@
   "target_id": "expert-de",
   "retailer": "Expert",
   "country": "Germany",
-  "domain": "expert.de",
+  "domain": "www.expert.de",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.expert.de/shop/unsere-produkte/computer-zubehor/notebooks/laptops/17043077543-notebook-ideapad-slim-5-16imh9-grau-16-zoll-wuxga-intel-core-ultra-5-125h-16-gb-512-gb-ssd.html",
   "title": "Lenovo Notebook IdeaPad Slim 5 16IMH9, Grau, 16 Zoll, Full-HD, Intel Core Ultra 5 125H, 16 GB, 512 GB SSD (83DC005RGE)",
-  "brand": "Lenovo",
+  "brand": "Expert",
   "specs": {
-    "screen_size": "16\"",
-    "cpu": "Intel Core Ultra 5",
-    "ram": "16GB",
-    "storage": "512 GB SSD"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:41:03.613385+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

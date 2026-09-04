@@ -20,7 +20,7 @@
   "actor_id": null,
   "actor_run_id": null,
   "dataset_id": null,
-  "execution_duration_sec": 0.0006764360005035996,
+  "execution_duration_sec": 0.0006420599529519677,
   "retry_count": 0,
   "pages_crawled": 0,
   "crawl_depth": 1,
@@ -37,5 +37,5 @@
   "evidence_html_path": null,
   "evidence_summary_path": null,
   "raw_response_text": null,
-  "timestamp": "2026-08-26T07:04:03.355214+00:00"
+  "timestamp": "2026-08-28T09:21:06.005629+00:00"
 }

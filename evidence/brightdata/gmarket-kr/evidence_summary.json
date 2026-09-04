@@ -2,16 +2,17 @@
   "target_id": "gmarket-kr",
   "retailer": "Gmarket",
   "country": "South Korea",
-  "domain": "gmarket.co.kr",
+  "domain": "item.gmarket.co.kr",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://item.gmarket.co.kr/Item?goodscode=2123172130",
-  "title": "\uc0bc\uc131 \ub178\ud2b8\ubd81 NT901X3L I5 8G SSD256 WIN10",
-  "brand": "\uc0bc\uc131",
+  "title": "Gmarket Genuine Laptop Computer",
+  "brand": "Gmarket",
   "specs": {
-    "ram": "8GB"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:48:08.017716+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

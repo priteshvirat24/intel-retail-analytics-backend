@@ -1,18 +1,18 @@
 {
   "target_id": "jbhifi-au",
-  "retailer": "Jbhifi",
+  "retailer": "JB Hi-Fi",
   "country": "Australia",
-  "domain": "jbhifi.com.au",
+  "domain": "www.jbhifi.com.au",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.jbhifi.com.au/products/hp-laptop-15-fc0816au-15-6-full-hd-laptop-ryzen-7512gb",
-  "title": "HP Laptop 15-fc0816AU 15.6\" Full HD Laptop (Ryzen 7) ...",
-  "brand": "HP",
+  "title": "HP Laptop 15-fc0816AU 15.6\" Full HD Laptop (Ryzen 7)[512GB]",
+  "brand": "JB Hi-Fi",
   "specs": {
-    "screen_size": "15.6\"",
-    "cpu": "Ryzen 7"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:22:30.049434+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

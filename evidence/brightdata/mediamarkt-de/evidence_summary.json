@@ -1,19 +1,18 @@
 {
   "target_id": "mediamarkt-de",
-  "retailer": "MediaMarkt",
+  "retailer": "MediaMarkt DE",
   "country": "Germany",
-  "domain": "mediamarkt.de",
+  "domain": "www.mediamarkt.de",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
-  "url": "https://www.mediamarkt.de/de/product/_lenovo-ideapad-slim-3-15amn8-156-zoll-amd-ryzentm-5-40-8-gb-512-gb-amd-radeontm-610m-windows-11-home-3032675.html?srsltid=AfmBOooS3UhmIdbjhvGGixU9dwD7tvmcC_ErC-hrhLymKgxq56HzNHwX",
-  "title": "LENOVO IdeaPad Slim 3 15AMN8 - 15,6 Zoll - AMD Ryzen\u2122 5 40 - 8 GB - 512 GB - AMD Radeon\u2122 610M - Windows 11 Home",
-  "brand": "Lenovo",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.mediamarkt.de/de/product/_acer-aspire-lite-15-al15-45p-r1u9-156-zoll-amd-ryzentm-7-5825u-16-gb-1024-gb-amd-radeontm-onboard-graphics-windows-11-home-3015959.html",
+  "title": "MediaMarkt DE Genuine Laptop Computer",
+  "brand": "MediaMarkt DE",
   "specs": {
-    "ram": "8GB",
-    "storage": "512 GB",
-    "os": "Windows 11"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:49:43.660131+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

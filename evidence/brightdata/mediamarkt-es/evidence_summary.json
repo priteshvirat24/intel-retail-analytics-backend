@@ -1,17 +1,18 @@
 {
   "target_id": "mediamarkt-es",
-  "retailer": "Mediamarkt",
+  "retailer": "MediaMarkt ES",
   "country": "Spain",
-  "domain": "mediamarkt.es",
+  "domain": "www.mediamarkt.es",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.mediamarkt.es/es/product/_funda-portatil-business-laptop-sleeve-neoprene-subblim-negro-134912416.html?srsltid=AfmBOorPF96hWJjp96Nph6cvwJ8uQUhIV8DMOF4pqTcPQZ2Cb7mXiXqU",
-  "title": "Funda portátil | SUBBLIM Business Laptop Sleeve Neoprene, 14 ...",
-  "brand": "Mediamarkt",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.mediamarkt.es/es/product/_portatil-asus-zenbook-a14-oled-ux3407qa-qd332w-copilot-pc-14-wuxga-snapdragonr-x-x1-26-100-32-gb-ram-512-gb-ssd-adrenotm-gpu-windows-11-1598613.html",
+  "title": "Port\u00e1til - ASUS Zenbook A14 OLED UX3407QA-QD332W Copilot+ PC, 14 \" WUXGA, Snapdragon\u00ae X X1-26-100 45 TOPS, 32 GB RAM, 512 GB SSD, Adreno\u2122 GPU, W11",
+  "brand": "MediaMarkt ES",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:23:07.401656+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

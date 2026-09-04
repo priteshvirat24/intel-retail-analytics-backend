@@ -2,16 +2,17 @@
   "target_id": "lenovo-global",
   "retailer": "Lenovo",
   "country": "Global",
-  "domain": "lenovo.com",
+  "domain": "www.lenovo.com",
   "can_scrape": "YES",
-  "strategy": "FIRECRAWL_RESCUE",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.lenovo.com/us/en/p/laptops/chromebooks/wmd00000289?srsltid=AfmBOorRL1yMJStEUgLQKMvm2cVabmW0g9mzmNnvA94iPnUBhNJDOX8S",
-  "title": "Lenovo Chromebooks--Ready When You Are",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-100/ideapad-1-gen-7-(15-inch-amd)/len101i0026",
+  "title": "Lenovo Genuine Laptop Computer",
   "brand": "Lenovo",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:21:57.440797+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

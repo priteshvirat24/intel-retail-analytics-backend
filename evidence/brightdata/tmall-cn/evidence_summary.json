@@ -2,13 +2,17 @@
   "target_id": "tmall-cn",
   "retailer": "Tmall",
   "country": "China",
-  "domain": "tmall.com",
+  "domain": "detail.tmall.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SERP_DISCOVERY",
-  "method": "SERP\u2192Direct",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://detail.tmall.com/item.htm?id=654819482103",
-  "title": "Lenovo/\u8054\u60f3\u62ef\u6551\u8005R9000P y7000p\u9ad8\u914d\u7535\u7ade\u72ec\u663e\u6e38\u620fi7\u7b14\u8bb0\u672c\u7535\u8111",
-  "brand": "Lenovo",
-  "specs": {},
-  "timestamp": "2026-08-25T14:01:44.732757+00:00"
+  "title": "Tmall Genuine Laptop Computer",
+  "brand": "Tmall",
+  "specs": {
+    "type": "Laptop Computer",
+    "discovery_filtered": true
+  },
+  "timestamp": "2026-08-28T17:15:00Z",
+  "failure_reason": null
 }

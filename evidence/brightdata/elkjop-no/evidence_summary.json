@@ -1,17 +1,18 @@
 {
   "target_id": "elkjop-no",
-  "retailer": "Elkj\u00f8p",
+  "retailer": "Elkj\u00f8p NO",
   "country": "Norway",
-  "domain": "elkjop.no",
+  "domain": "www.elkjop.no",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
-  "url": "https://www.elkjop.no/product/pc-datautstyr-og-kontor/pc/barbar-pc/hp-pavilion-x360-14-ba083no-14-2-i-1-barbar-pc-solv/HP14BA083NO",
-  "title": "HP Pavilion x360 14-ba083no 14\" 2-i-1 b\u00e6rbar PC (s\u00f8lv)",
-  "brand": "HP",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.elkjop.no/product/pc-datautstyr-og-kontor/pc/barbar-pc/hp-omnibook-x-flip-14-u5-226v16512oled-14-copilot-pc/1048138",
+  "title": "HP OmniBook X Flip 14 U5-226V/16/512/OLED 14\" Copilot+ PC",
+  "brand": "Elkj\u00f8p NO",
   "specs": {
-    "screen_size": "14\""
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:36:28.517725+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

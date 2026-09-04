@@ -1,18 +1,18 @@
 {
   "target_id": "mercadolibre-cl",
-  "retailer": "MercadoLibre",
+  "retailer": "MercadoLibre CL",
   "country": "Chile",
-  "domain": "mercadolibre.cl",
+  "domain": "articulo.mercadolibre.cl",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://articulo.mercadolibre.cl/MLC-4018655946-notebook-lenovo-chromebook-14m8911-14-wuxga-8-gb-64-gb-_JM",
-  "title": "Notebook Lenovo Chromebook 14m8911 14  Wuxga 8 Gb 64 Gb",
-  "brand": "Lenovo",
+  "title": "MercadoLibre CL Genuine Laptop Computer",
+  "brand": "MercadoLibre CL",
   "specs": {
-    "ram": "8GB",
-    "storage": "64 GB"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:51:05.491819+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

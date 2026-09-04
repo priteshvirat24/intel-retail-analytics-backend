@@ -1,17 +1,18 @@
 {
   "target_id": "mercadolivre-br",
-  "retailer": "Mercadolibre",
+  "retailer": "Mercado Livre BR",
   "country": "Brazil",
-  "domain": "mercadolivre.com.br",
+  "domain": "produto.mercadolivre.com.br",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://produto.mercadolivre.com.br/MLB-7154129204-notebook-with-economical-loose-leaf-folders-with-envelopes-_JM",
-  "title": "Notebook With Economical Loose-leaf Folders With Envelopes",
-  "brand": "Mercadolibre",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://produto.mercadolivre.com.br/MLB-3678291048-notebook-lenovo-ideapad-1-15amn7-amd-ryzen-5-8gb-256gb-ssd-156-linux-_JM",
+  "title": "Mercado Livre BR Genuine Laptop Computer",
+  "brand": "Mercado Livre BR",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:23:47.788735+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

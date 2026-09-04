@@ -2,16 +2,17 @@
   "target_id": "dell-global",
   "retailer": "Dell",
   "country": "Global",
-  "domain": "dell.com",
+  "domain": "www.dell.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops",
-  "title": "Laptop Computers – Shop Laptops for Business, Gaming & ...",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.dell.com/en-us/shop/dell-laptops/dell-16-plus-laptop/spd/dell-db16250-laptop/usedb16250hbtshmgx",
+  "title": "Dell 16 Plus Laptop",
   "brand": "Dell",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:21:41.067326+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

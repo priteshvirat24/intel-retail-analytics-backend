@@ -2,16 +2,17 @@
   "target_id": "unieuro-it",
   "retailer": "Unieuro",
   "country": "Italy",
-  "domain": "unieuro.it",
+  "domain": "www.unieuro.it",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.unieuro.it/online/Notebook/PB14250-pidDLLMRWT8?srsltid=AfmBOorfnznsL8aFEsV0S0nFEswbJ7DGqMG6QpvthhQ6cj6rodarfFLR",
-  "title": "DELL Pro 14 Plus PB14250 Intel Core Ultra 7 255U ...",
-  "brand": "Dell",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.unieuro.it/online/Notebook/PB14250-pidDLLMRWT8",
+  "title": "DELL Pro 14 Plus PB14250 Intel Core Ultra 7 255U Computer portatile 35,6 cm (14\") Full HD+ 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro Alluminio Italiano",
+  "brand": "Unieuro",
   "specs": {
-    "cpu": "Intel Core Ultra 7"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:23:00.585498+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

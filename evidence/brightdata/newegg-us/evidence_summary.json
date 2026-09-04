@@ -2,16 +2,17 @@
   "target_id": "newegg-us",
   "retailer": "Newegg",
   "country": "United States",
-  "domain": "newegg.com",
+  "domain": "www.newegg.com",
   "can_scrape": "YES",
-  "strategy": "FIRECRAWL_RESCUE",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.newegg.com/p/pl?d=laptop&srsltid=AfmBOoqvTC_UTpJUTivKkQsk_68n24QcQ2eEWVNjrDPJqlOqK68SCmgg",
-  "title": "Laptops and Notebooks Computers",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.newegg.com/asus-vivobook-16-2880x1800-oled-intel-core-ultra-7-255h-intel-arc-graphics-gpu-32-gb-memory-1-tb-pcie-g4-ssd-no-hdd-hdd-black/p/N82E16834236727",
+  "title": "ASUS Vivobook S 16\" 3K OLED Intel Core Ultra 7 255H - 32GB RAM - 1TB SSD Windows 11 Home (S5606CA-NS79)",
   "brand": "Newegg",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:21:36.043392+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

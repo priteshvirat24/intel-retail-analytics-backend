@@ -72,15 +72,20 @@ export function extractSkuScreenshot(sku: any): string | null {
 
 export function buildScreenshotObj(sku: any, pageType: EvidencePageType = 'PDP', timestamp: string = '2026-08-29T20:45:00Z') {
   const url = extractSkuScreenshot(sku);
+  const sha = sku?.screenshot_sha256 || sku?.provenance?.artifact_sha256 || null;
+  const isShared = sku?.is_shared_capture === true;
   return {
     screenshot: url ? {
       screenshotUrl: url,
       screenshotTimestamp: timestamp,
       screenshotPageType: pageType,
+      screenshotSha256: sha,
+      isSharedCapture: isShared,
     } : null,
     screenshotUrl: url,
     screenshot_url: url,
     screenshot_available: Boolean(url),
+    screenshot_sha256: sha,
   };
 }
 

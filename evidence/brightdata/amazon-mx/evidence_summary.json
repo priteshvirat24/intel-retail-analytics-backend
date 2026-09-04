@@ -2,16 +2,17 @@
   "target_id": "amazon-mx",
   "retailer": "Amazon",
   "country": "Mexico",
-  "domain": "amazon.com.mx",
+  "domain": "www.amazon.com.mx",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.amazon.com.mx/dp/B0H3MS5WSN?ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
-  "title": "NSUQOA Casual Versatile Simple Portable Shoulder Commuter ...",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.amazon.com.mx/dp/B0D6FCS1B4",
+  "title": "Amazon Genuine Laptop Computer",
   "brand": "Amazon",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:20:55.876695+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

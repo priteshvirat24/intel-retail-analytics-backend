@@ -2,17 +2,17 @@
   "target_id": "flipkart-in",
   "retailer": "Flipkart",
   "country": "India",
-  "domain": "flipkart.com",
+  "domain": "www.flipkart.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.flipkart.com/realme-p4-power-5g-transorange-256-gb/p/itm49784b322aad0",
-  "title": "realme P4 Power 5G (TransSilver, 256 GB) (8 GB RAM)",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.flipkart.com/asus-vivobook-15-2026-office-2024-m365-basic-i3-14th-gen-intel-core-3-gen-100u-8-gb-512-gb-ssd-windows-11-home-x1504vap-bq1322ws-thin-light-laptop/p/itm8e8288a414a80",
+  "title": "Flipkart Genuine Laptop Computer",
   "brand": "Flipkart",
   "specs": {
-    "ram": "8GB",
-    "storage": "256 GB"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:22:40.394940+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

@@ -135,7 +135,7 @@ export class EvidenceService {
     const scorecard_partially_verified_records = scorecardRecords.filter((r) => r.verificationStatus === 'PARTIALLY_VERIFIED').length;
     const scorecard_insufficient_records = scorecardRecords.filter((r) => r.verificationStatus === 'INSUFFICIENT_EVIDENCE').length;
 
-    const screenshotCount = products.filter((p) => Boolean(p.product_screenshot)).length;
+    const screenshotCount = products.filter((p: any) => Boolean(p.product_screenshot || p.screenshot_url || p.screenshot_path || p.screenshot_available)).length;
     const sourceUrlCount = products.filter((p) => Boolean(p.product_url && p.product_url.startsWith('http'))).length;
     const timestampCount = products.filter((p) => Boolean(p.date || p.scraped_at)).length;
     const provenanceCount = products.filter((p) => Boolean(p.extraction_method && p.source)).length;

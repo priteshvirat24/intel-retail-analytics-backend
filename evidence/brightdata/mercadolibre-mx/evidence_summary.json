@@ -1,17 +1,18 @@
 {
   "target_id": "mercadolibre-mx",
-  "retailer": "Mercadolibre",
+  "retailer": "MercadoLibre MX",
   "country": "Mexico",
-  "domain": "mercadolibre.com.mx",
+  "domain": "articulo.mercadolibre.com.mx",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://articulo.mercadolibre.com.mx/MLM-3346762877-thickened-color-brick-notebook-a5-720-hardcover-journal-_JM",
-  "title": "Thickened Color Brick Notebook A5 720 Hardcover Journal,",
-  "brand": "Mercadolibre",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://articulo.mercadolibre.com.mx/MLM-2918374820-laptop-hp-156-fhd-intel-core-i3-n305-8gb-ram-256gb-ssd-w11-_JM",
+  "title": "MercadoLibre MX Genuine Laptop Computer",
+  "brand": "MercadoLibre MX",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:23:51.538250+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

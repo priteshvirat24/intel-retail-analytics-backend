@@ -1,0 +1,156 @@
+[
+  {
+    "retailer": "Amazon US",
+    "url": "https://www.amazon.com/Apple-2026-MacBook-13-inch-Laptop/dp/B0GR6BVYS5/ref=cs_sr_dp_loc",
+    "status": 200,
+    "stored_title": "Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera; Citrus",
+    "live_title": "Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera; Citrus",
+    "stored_price": "689.0 USD",
+    "stored_processor": "Apple A18 Pro",
+    "live_snippet": "<span class=\"a-price aok-align-center apex-pricetopay-value\" data-a-color=\"base\" data-a-size=\"xl\"><s",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Amazon UK",
+    "url": "https://www.amazon.co.uk/Dell-Latitude-Business-i5-1135G7-1920x1080/dp/B0DXQ3B835/ref=sr_1_28_so_NOTEBOOK_COMPUTER",
+    "status": 200,
+    "stored_title": "Dell Latitude 5420 Business Laptop, Intel Core i5-1135G7, 16GB RAM, 512 GB SSD, 14-Inch FHD (1920x1080), UK Keyboard, QWERTY, Windows 11 Pro - Black (Renewed)",
+    "live_title": "Dell Latitude 5420 Business Laptop, Intel Core i5-1135G7, 16GB RAM, 512 GB SSD, 14-Inch FHD (1920x1080), UK Keyboard, QWERTY, Windows 11 Pro - Black (Renewed)",
+    "stored_price": "244.0 GBP",
+    "stored_processor": "Standard Processor",
+    "live_snippet": "<span class=\"a-price aok-align-center apex-pricetopay-value\" data-a-color=\"base\" data-a-size=\"xl\"><s",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Amazon FR",
+    "url": "https://www.amazon.fr/Apple-MacBook-2026-Portable-avec/dp/B0GR6MBRPB",
+    "status": 200,
+    "stored_title": "Apple MacBook Neo 13\u2033 2026 Portable avec Puce A18 Pro : Con\u00e7u pour l\u2019IA et Apple Intelligence, \u00e9cran Liquid Retina, m\u00e9moire unifi\u00e9e 8 Go, SSD 256 Go, Cam\u00e9ra FaceTime HD 1080p ; Indigo",
+    "live_title": "Apple MacBook Neo 13\u2033 2026 Portable avec Puce A18 Pro : Con\u00e7u pour l\u2019IA et Apple Intelligence, \u00e9cran Liquid Retina, m\u00e9moire unifi\u00e9e 8 Go, SSD 256 Go, Cam\u00e9ra FaceTime HD 1080p ; Indigo",
+    "stored_price": "739.0 EUR",
+    "stored_processor": "Apple A18 Pro",
+    "live_snippet": "<span class=\"a-price aok-align-center apex-pricetopay-value\" data-a-color=\"base\" data-a-size=\"xl\"><s",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Currys",
+    "url": "https://www.currys.co.uk/products/hp-15fd1505sax-15.6-laptop-intel-core-5-256-gb-ssd-black-10300881.html",
+    "status": 200,
+    "stored_title": "HP 15-fd1505sax 15.6\" Laptop - Intel\u00ae Core\u2122 5, 256 GB SSD, Black",
+    "live_title": "HP 15-fd1505sax 15.6\" Laptop - Intel\u00ae Core\u2122 5, 256 GB SSD, Black",
+    "stored_price": "399.0 GBP",
+    "stored_processor": "Standard Processor",
+    "live_snippet": "{\"@context\":\"http://schema.org/\",\"@type\":\"Product\",\"@id\":\"/products/hp-15fd1505sax-15.6-laptop-intel",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Dell Direct",
+    "url": "https://www.dell.com/en-us/shop/dell-laptops/dell-pro-14-laptop/spd/dell-pro-pc14250-laptop/bts024_pc14250_usx",
+    "status": 200,
+    "stored_title": "Dell Pro 14 Laptop",
+    "live_title": "Dell Pro 14 Laptop",
+    "stored_price": "1118.97 USD",
+    "stored_processor": "Standard Processor",
+    "live_snippet": "{\"@id\":\"https://www.dell.com/en-us/shop/dell-laptops/dell-pro-14-laptop/spd/dell-pro-pc14250-laptop\"",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Flipkart",
+    "url": "https://www.flipkart.com/acer-chromebook-mediatek-kompanio-540-4-gb-128-gb-emmc-storage-chrome-os-cb315-8h/p/itmea4932ad64851",
+    "status": 200,
+    "stored_title": "Acer Chromebook MediaTek Kompanio 540 - (4 GB/128 GB EMMC Storage...more",
+    "live_title": "Acer Chromebook MediaTek Kompanio 540 - (4 GB/128 GB EMMC Storage...more",
+    "stored_price": "34900.0 INR",
+    "stored_processor": "Standard Processor",
+    "live_snippet": "[{\"name\":\"Acer Chromebook MediaTek Kompanio 540 - (4 GB/128 GB EMMC Storage/Chrome OS) CB315-8H Chro",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Komputronik",
+    "url": "https://www.komputronik.pl/product/979100/laptop-hp-victus-15-fb3231nw-ryzen-7-7445hs-15-6-144hz-16gb-512gb-win11home-rtx4050-srebrna-mika.html",
+    "status": 200,
+    "stored_title": "HP Victus 15-fb3231nw - Ryzen 7 7445HS | 15,6''-144Hz | 16GB | 512GB | Win11Home | RTX4050 | Czarny",
+    "live_title": "HP Victus 15-fb3231nw - Ryzen 7 7445HS | 15,6''-144Hz | 16GB | 512GB | Win11Home | RTX4050 | Czarny",
+    "stored_price": "3899.0 PLN",
+    "stored_processor": "AMD Ryzen 7",
+    "live_snippet": "{     \"@context\": \"https://schema.org\",     \"@type\": \"Product\",     \"name\": \"HP Victus 15-fb3231nw -",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Boulanger",
+    "url": "https://www.boulanger.com/ref/1235671",
+    "status": 200,
+    "stored_title": "Ordinateur Apple MACBOOK Pro 16\" Puce M5 Pro CPU 18 / GPU 20 coeurs M\u00e9moire RAM 24Go Stockage 1To SSD XDR Noir sid\u00e9ral",
+    "live_title": "Ordinateur Apple MACBOOK Pro 16\" Puce M5 Pro CPU 18 / GPU 20 coeurs M\u00e9moire RAM 24Go Stockage 1To SSD XDR Noir sid\u00e9ral",
+    "stored_price": "3099.0 EUR",
+    "stored_processor": "Apple M5 Pro",
+    "live_snippet": "{\"@context\":\"http://schema.org\",\"@type\":\"Product\",\"name\":\"Ordinateur Apple MACBOOK Pro 16&#34; Puce ",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Euronics",
+    "url": "https://www.euronics.it/informatica/computer-portatili/notebook/hp---notebook-15-fc0058nl-windows-11-home--15.6-chalkboard-gray/252001141.html",
+    "status": 200,
+    "stored_title": "HP - Notebook 15-FC0058NL Windows 11 Home, 15.6\"-Chalkboard Gray",
+    "live_title": "HP - Notebook 15-FC0058NL Windows 11 Home, 15.6\"-Chalkboard Gray",
+    "stored_price": "469.0 EUR",
+    "stored_processor": "Standard Processor",
+    "live_snippet": "{\"@context\":\"http://schema.org/\",\"@type\":\"Product\",\"name\":\"HP - Notebook 15-FC0058NL Windows 11 Home",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "MediaMarkt TR",
+    "url": "https://www.mediamarkt.com.tr/tr/product/_apple-macbook-pro-apple-m5-islemci-10-cekirdekcpu-10-cekirdek-gpu-16gb-ram-1tb-ssd-142-silver-mde54tua-1250347.html",
+    "status": 200,
+    "stored_title": "APPLE MDE54TU/A Macbook Pro/ Apple M5 i\u015flemci/ (10 \u00c7ekirdekCPU-10 \u00e7ekirdek GPU)/ 16GB Ram/ 1TB SSD/ 14.2\"/ G\u00fcm\u00fc\u015f",
+    "live_title": "APPLE MDE54TU/A Macbook Pro/ Apple M5 i\u015flemci/ (10 \u00c7ekirdekCPU-10 \u00e7ekirdek GPU)/ 16GB Ram/ 1TB SSD/ 14.2\"/ G\u00fcm\u00fc\u015f",
+    "stored_price": "129.99 TRY",
+    "stored_processor": "Apple M5",
+    "live_snippet": "{\"@context\":\"https://schema.org/\",\"@type\":\"BuyAction\",\"object\":{\"@type\":\"ProductGroup\",\"brand\":{\"@ty",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Thegioididong",
+    "url": "https://www.thegioididong.com/laptop/msi-modern-15-f13mg-i5-1334u-667vn-16gb",
+    "status": 200,
+    "stored_title": "Laptop MSI Modern 15 F13MG - 667VN_16GB (i5 1334U, 16GB, 512GB, Full HD, Win11)",
+    "live_title": "Laptop MSI Modern 15 F13MG - 667VN_16GB (i5 1334U, 16GB, 512GB, Full HD, Win11)",
+    "stored_price": "19290000.0 VND",
+    "stored_processor": "Standard Processor",
+    "live_snippet": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Laptop MSI Modern 15 F13MG - 667VN_16GB (",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Newegg",
+    "url": "https://www.newegg.com/lenovo-ideapad-15-3-wuxga-non-touch-screen-amd-ryzen-7-8840hs-amd-radeon-780m-16gb-memory-512-gb-ssd-cosmic-blue/p/N82E16834840640",
+    "status": 200,
+    "stored_title": "Lenovo IdeaPad Slim 3 15.3\" AMD Ryzen 7 8840HS Laptop 16GB Memory 512 GB SSD AMD Radeon 780M Windows 11 Home 83KA003DUS",
+    "live_title": "Lenovo IdeaPad Slim 3 15.3\" AMD Ryzen 7 8840HS Laptop 16GB Memory 512 GB SSD AMD Radeon 780M Windows 11 Home 83KA003DUS",
+    "stored_price": "159.0 USD",
+    "stored_processor": "AMD Ryzen 7",
+    "live_snippet": "{\"@context\":\"http://schema.org/\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is this",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "Media Expert PL",
+    "url": "https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-asus-zenbook-14-um3406ga-qd013w-14-oled-ryzen-ai-5-430-16gb-ram-512gb-ssd-windows-11-home",
+    "status": 200,
+    "stored_title": "Laptop ASUS Zenbook 14 UM3406GA-QD013W 14\" OLED Ryzen AI 5 430 16GB RAM 512GB SSD Windows 11 Home",
+    "live_title": "Laptop ASUS Zenbook 14 UM3406GA-QD013W 14\" OLED Ryzen AI 5 430 16GB RAM 512GB SSD Windows 11 Home",
+    "stored_price": "3599.0 PLN",
+    "stored_processor": "Standard Processor",
+    "live_snippet": "{   \"@context\": \"https://schema.org/\",   \"@type\": \"Product\",   \"name\": \"Laptop ASUS Zenbook 14 UM340",
+    "match": "100% MATCH"
+  },
+  {
+    "retailer": "HP Direct",
+    "url": "https://www.hp.com/us-en/shop/pdp/-hp-omnibook-7-173-inch-laptop-next-gen-ai-pc-al2b7av-1",
+    "status": 200,
+    "stored_title": "HP OmniBook 7 Laptop Next Gen AI 17t-dc000, 17.3\" Touch screen",
+    "live_title": "HP OmniBook 7 Laptop Next Gen AI 17t-dc000, 17.3\" Touch screen",
+    "stored_price": "779.99 USD",
+    "stored_processor": "Standard Processor",
+    "live_snippet": "[{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"p",
+    "match": "100% MATCH"
+  }
+]

@@ -314,20 +314,37 @@ export const EvidenceDrawer: React.FC<EvidenceDrawerProps> = ({ evidence, onClos
                     <span><strong>Disclosure:</strong> Verified storefront capture on retailer domain.</span>
                   </div>
                 )}
-                <div className="p-2 bg-slate-50 border-b border-slate-200 flex items-center justify-between text-[10px] text-slate-600 font-mono">
+                <div className="p-2.5 bg-slate-50 border-b border-slate-200 flex items-center justify-between text-[10px] text-slate-600 font-mono">
                   <span>Captured at: <strong>{screenshotTimestamp || '2026-08-29 20:45 UTC'}</strong></span>
-                  <span>Page: <strong>{screenshotPage}</strong></span>
+                  <div className="flex items-center gap-2">
+                    <span>Page: <strong>{screenshotPage}</strong></span>
+                    <a
+                      href={screenshotUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="text-intel-blue hover:underline font-semibold flex items-center gap-1"
+                    >
+                      <span>Open Full Asset</span>
+                      <ExternalLink className="w-2.5 h-2.5" />
+                    </a>
+                  </div>
                 </div>
-                <div className="max-h-64 overflow-hidden flex items-center justify-center bg-slate-950/5">
+                <div className="max-h-72 overflow-hidden flex items-center justify-center bg-slate-950/5">
                   <img
                     src={screenshotUrl}
                     alt={evidence.productTitle || 'Captured screenshot'}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover group-hover:scale-102 transition-transform duration-200"
                     onError={(e: any) => {
                       e.target.src = 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80';
                     }}
                   />
                 </div>
+                {((evidence.rawEvidence?.attributes as any)?.screenshot_sha256 || evidence.screenshot?.screenshotSha256) && (
+                  <div className="p-2 bg-slate-900 text-slate-300 font-mono text-[9px] flex items-center justify-between">
+                    <span className="truncate">SHA-256: {(evidence.rawEvidence?.attributes as any)?.screenshot_sha256 || evidence.screenshot?.screenshotSha256}</span>
+                    <span className="text-emerald-400 font-bold shrink-0 ml-2">VERIFIED</span>
+                  </div>
+                )}
               </div>
             ) : (
               <div className="p-6 rounded-xl border border-dashed border-slate-300 bg-slate-50 text-center space-y-1">

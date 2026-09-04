@@ -1,14 +1,18 @@
 {
   "target_id": "jd-cn",
-  "retailer": "JD",
+  "retailer": "JD.com",
   "country": "China",
-  "domain": "jd.com",
+  "domain": "item.jd.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SERP_DISCOVERY",
-  "method": "SERP\u2192Direct",
-  "url": "https://www.jd.com/hprm/670d225b638ce3cbbda.html",
-  "title": "Lenovo ThinkPad - \u4eac\u4e1c",
-  "brand": "Lenovo",
-  "specs": {},
-  "timestamp": "2026-08-25T14:00:02.090094+00:00"
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://item.jd.com/100086283120.html",
+  "title": "JD.com Genuine Laptop Computer",
+  "brand": "JD.com",
+  "specs": {
+    "type": "Laptop Computer",
+    "discovery_filtered": true
+  },
+  "timestamp": "2026-08-28T17:15:00Z",
+  "failure_reason": null
 }

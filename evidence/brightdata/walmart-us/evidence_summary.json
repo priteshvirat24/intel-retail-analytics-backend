@@ -2,16 +2,17 @@
   "target_id": "walmart-us",
   "retailer": "Walmart",
   "country": "United States",
-  "domain": "walmart.com",
+  "domain": "www.walmart.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.walmart.com/ip/ASUS-ROG-Strix-G16-2025-16-Gaming-Laptop-Ryzen-9-TBD-16GB-RTX-50XX-1TB-SSD-G614FM-WS94/13567365941",
-  "title": "ASUS ROG Strix G16 (2025) Gaming Laptop, 16” WUXGA ...",
-  "brand": "ASUS",
+  "title": "ASUS ROG Strix G16 (2025) Gaming Laptop, 16\u201d WUXGA 165Hz/3ms, AMD Ryzen 9 9955HX, NVIDIA GeForce RTX 5060 8GB VRAM, 16GB DDR5-5600 RAM, 1TB PCIe Gen 4 SSD, Eclipse Gray",
+  "brand": "Walmart",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:21:09.823052+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

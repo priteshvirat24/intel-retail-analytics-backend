@@ -2,21 +2,17 @@
   "target_id": "reliancedigital-in",
   "retailer": "Reliance Digital",
   "country": "India",
-  "domain": "reliancedigital.in",
+  "domain": "www.reliancedigital.in",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.reliancedigital.in/product/hp-pavilion-eg3081tu-laptop-13th-gen-intel-core-i5-1340p16gb512gb-ssdamd-radeon-graphicswindows-11-homemsofhd-3962cm-156-inch-lk8efd",
   "title": "HP Pavilion EG3081TU Laptop (13th Gen Intel Core i5-1340P/16GB/512GB SSD/Intel Iris Xe Graphics/Windows 11 Home/MSO/FHD), 39.62cm (15.6 inch)",
-  "brand": "HP",
+  "brand": "Reliance Digital",
   "specs": {
-    "screen_size": "15.6\"",
-    "cpu": "Intel Core I5-1340P",
-    "gpu": "INTEL IRIS XE",
-    "ram": "16GB",
-    "storage": "512GB SSD",
-    "os": "Windows 11"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:50:18.142801+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

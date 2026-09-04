@@ -2,18 +2,17 @@
   "target_id": "currys-gb",
   "retailer": "Currys",
   "country": "United Kingdom",
-  "domain": "currys.co.uk",
+  "domain": "www.currys.co.uk",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.currys.co.uk/products/hp-15fc0536sa-15.6-laptop-amd-ryzen-3-256-gb-jet-black-10282701.html",
-  "title": "HP 15-fc0536sa 15.6\" Laptop - AMD Ryzen 3, 256 GB, Jet ...",
-  "brand": "HP",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.currys.co.uk/products/hp-omnibook-3-oled-14-laptop-snapdragon-x-512-gb-ssd-silver-10303790.html",
+  "title": "HP OmniBook 3 OLED 14\" Laptop - Snapdragon X, 512 GB SSD, Silver",
+  "brand": "Currys",
   "specs": {
-    "screen_size": "15.6\"",
-    "cpu": "Ryzen 3",
-    "storage": "256 GB"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:22:16.821472+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

@@ -2,17 +2,17 @@
   "target_id": "monsternotebook-tr",
   "retailer": "Monster Notebook",
   "country": "Turkey",
-  "domain": "monsternotebook.com.tr",
+  "domain": "www.monsternotebook.com.tr",
   "can_scrape": "YES",
-  "strategy": "BRIGHTDATA_SERP_DISCOVERY",
-  "method": "Bright Data SDK (SERP discovery)",
-  "url": "https://www.monsternotebook.com.tr/64-gb-ram/?srsltid=AfmBOoo6Q7v2VyF8mpTkXcGtuEFJvVVMK7QRDBy1qddmddWVfHmpiWhR",
-  "title": "64 GB RAM'li Laptoplar",
+  "strategy": "BRIGHTDATA_WEB_UNLOCKER",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.monsternotebook.com.tr/abra/monster-abra-a5-v20-3/",
+  "title": "Monster Notebook Genuine Laptop Computer",
   "brand": "Monster Notebook",
   "specs": {
-    "ram": "64GB",
-    "storage": "64 GB "
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:14:10.301558+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

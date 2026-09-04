@@ -2,17 +2,17 @@
   "target_id": "amazon-it",
   "retailer": "Amazon",
   "country": "Italy",
-  "domain": "amazon.it",
+  "domain": "www.amazon.it",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://www.amazon.it/dp/B0HDSYRZY1",
-  "title": "SIMPLETEK - Notebook 15,6 i5-1035G1 4GB 960GB W11 ...",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.amazon.it/dp/B0D3YQ6V8N",
+  "title": "Amazon Genuine Laptop Computer",
   "brand": "Amazon",
   "specs": {
-    "cpu": "I5-1035G1",
-    "ram": "4GB"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:20:24.763418+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

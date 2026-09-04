@@ -1,0 +1,690 @@
+sku_id|retailer|country|oem|model|processor|is_evo|evo_badge_detected|details_p|Overall|audit_depth|product_url
+SKU-US-0001|Best Buy - US|United States|HP|Spectre x360 16|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.com/products/hp-spectre-x360-16-intel-core-i7
+SKU-US-0002|Best Buy - US|United States|Lenovo|Yoga 7i 2-in-1|Intel Core 7|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.com/products/lenovo-yoga-7i-2-in-1-intel-core-7
+SKU-US-0005|Best Buy - US|United States|Samsung|Galaxy Book4 360|Intel Core Ultra 9|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.com/products/samsung-galaxy-book4-360-intel-core-ultra-9
+SKU-US-0009|Best Buy - US|United States|HP|Envy x360 15|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.com/products/hp-envy-x360-15-intel-core-ultra-5
+SKU-US-0010|Best Buy - US|United States|Lenovo|IdeaPad Slim 5|Intel Core i5|N|NO|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.com/products/lenovo-ideapad-slim-5-intel-core-i5
+SKU-US-0013|Best Buy - US|United States|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/samsung-galaxy-book4-ultra-intel-core-ultra-7
+SKU-US-0014|Best Buy - US|United States|MSI|Modern 14|Intel Core i7|N|NO||90|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/msi-modern-14-intel-core-i7
+SKU-US-0015|Best Buy - US|United States|Apple|"MacBook Air 15"" M3"|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/apple-macbook-air-15-m3-intel-core-7
+SKU-US-0019|Best Buy - US|United States|ASUS|TUF Gaming A15|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/asus-tuf-gaming-a15-intel-core-i9
+|Best Buy - US|United States|MSI|Raider GE78 HX|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/msi-raider-ge78-hx-intel-core-ultra-5
+SKU-US-0023|Best Buy - US|United States|Apple|"MacBook Air 15"" M3"|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/apple-macbook-air-15-m3-intel-core-i5
+SKU-US-0026|Best Buy - US|United States|Lenovo|ThinkBook 16 Gen 6|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/lenovo-thinkbook-16-gen-6-intel-core-ultra-7
+SKU-US-0027|Best Buy - US|United States|ASUS|ExpertBook B9|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/asus-expertbook-b9-intel-core-i7
+SKU-US-0028|Best Buy - US|United States|Acer|Swift Go 14 AI|Intel Core 7|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/acer-swift-go-14-ai-intel-core-7
+SKU-US-0031|Best Buy - US|United States|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/apple-macbook-air-15-m3-intel-core-ultra-9
+SKU-US-0032|Best Buy - US|United States|Dell|Alienware m16 R2|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.bestbuy.com/products/dell-alienware-m16-r2-intel-core-i9
+SKU-US-0003|Walmart - US|United States|Lenovo|IdeaPad Slim 5|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.walmart.com/products/lenovo-ideapad-slim-5-intel-core-ultra-5
+SKU-US-0004|Walmart - US|United States|ASUS|ROG Strix SCAR 18|Intel Core i5|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.walmart.com/products/asus-rog-strix-scar-18-intel-core-i5
+SKU-US-0007|Walmart - US|United States|MSI|Raider GE78 HX|Intel Core Ultra 7|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.walmart.com/products/msi-raider-ge78-hx-intel-core-ultra-7
+SKU-US-0008|Walmart - US|United States|Apple|"MacBook Pro 14"" M3"|Intel Core i7|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.walmart.com/products/apple-macbook-pro-14-m3-intel-core-i7
+SKU-US-0009|Walmart - US|United States|Dell|Inspiron 15 (3520)|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.walmart.com/products/dell-inspiron-15-3520--intel-core-7
+SKU-US-0013|Walmart - US|United States|Acer|Spin 5|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/acer-spin-5-intel-core-i9
+SKU-US-0016|Walmart - US|United States|Apple|"MacBook Pro 14"" M3"|Intel Core Ultra 5|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/apple-macbook-pro-14-m3-intel-core-ultra-5
+SKU-US-0017|Walmart - US|United States|Dell|Inspiron 16 Plus (7640)|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/dell-inspiron-16-plus-7640--intel-core-i5
+SKU-US-0020|Walmart - US|United States|ASUS|ExpertBook B9|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/asus-expertbook-b9-intel-core-ultra-7
+SKU-US-0021|Walmart - US|United States|Acer|Swift Go 14 AI|Intel Core i7|N|NO||90|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/acer-swift-go-14-ai-intel-core-i7
+|Walmart - US|United States|Samsung|Galaxy Book4 Ultra|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/samsung-galaxy-book4-ultra-intel-core-7
+SKU-US-0025|Walmart - US|United States|Dell|Alienware m16 R2|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/dell-alienware-m16-r2-intel-core-ultra-9
+SKU-US-0026|Walmart - US|United States|HP|Victus 15|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/hp-victus-15-intel-core-i9
+SKU-US-0029|Walmart - US|United States|Acer|Swift X 14|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.walmart.com/products/acer-swift-x-14-intel-core-ultra-5
+SKU-US-0001|Costco - US|United States|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.costco.com/products/apple-macbook-pro-16-m3-max-intel-core-ultra-7
+SKU-US-0002|Costco - US|United States|Dell|Inspiron 15 (3520)|Intel Core i7|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.costco.com/products/dell-inspiron-15-3520--intel-core-i7
+SKU-US-0003|Costco - US|United States|HP|Pavilion Plus 14|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.costco.com/products/hp-pavilion-plus-14-intel-core-7
+SKU-US-0007|Costco - US|United States|Samsung|Galaxy Book4 Ultra|Intel Core i9|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.costco.com/products/samsung-galaxy-book4-ultra-intel-core-i9
+SKU-US-0010|Costco - US|United States|Dell|Inspiron 16 Plus (7640)|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.costco.com/products/dell-inspiron-16-plus-7640--intel-core-ultra-5
+|Costco - US|United States|HP|OMEN 16 Transcend|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.costco.com/products/hp-omen-16-transcend-intel-core-i5
+SKU-US-0014|Costco - US|United States|Acer|Swift Go 14 AI|Intel Core Ultra 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.costco.com/products/acer-swift-go-14-ai-intel-core-ultra-7
+SKU-US-0015|Costco - US|United States|Samsung|Galaxy Book4 Pro|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.costco.com/products/samsung-galaxy-book4-pro-intel-core-i7
+SKU-US-0016|Costco - US|United States|MSI|Stealth 16 AI Studio|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.costco.com/products/msi-stealth-16-ai-studio-intel-core-7
+SKU-US-0019|Costco - US|United States|HP|Victus 15|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.costco.com/products/hp-victus-15-intel-core-ultra-9
+SKU-US-0020|Costco - US|United States|Lenovo|LOQ 15IRX9|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.costco.com/products/lenovo-loq-15irx9-intel-core-i9
+SKU-US-0023|Costco - US|United States|Samsung|Galaxy Book4 360|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.costco.com/products/samsung-galaxy-book4-360-intel-core-ultra-5
+SKU-US-0027|Costco - US|United States|HP|EliteBook 840 G10|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.costco.com/products/hp-elitebook-840-g10-intel-core-ultra-7
+SKU-US-0028|Costco - US|United States|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core i7|N|NO||40|LISTING_ONLY (2-Rule)|https://www.costco.com/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-i7
+SKU-US-0001|Amazon - US|United States|MSI|Stealth 16 AI Studio|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com/products/msi-stealth-16-ai-studio-intel-core-i9
+SKU-US-0004|Amazon - US|United States|HP|OMEN 16 Transcend|Intel Core Ultra 5|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com/products/hp-omen-16-transcend-intel-core-ultra-5
+SKU-US-0005|Amazon - US|United States|Lenovo|ThinkBook 16 Gen 6|Intel Core i5|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com/products/lenovo-thinkbook-16-gen-6-intel-core-i5
+SKU-US-0008|Amazon - US|United States|Samsung|Galaxy Book4 360|Intel Core Ultra 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com/products/samsung-galaxy-book4-360-intel-core-ultra-7
+SKU-US-0009|Amazon - US|United States|MSI|Modern 14|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com/products/msi-modern-14-intel-core-i7
+SKU-US-0010|Amazon - US|United States|Apple|"MacBook Air 13"" M3"|Intel Core 7|Y|YES|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com/products/apple-macbook-air-13-m3-intel-core-7
+SKU-US-0013|Amazon - US|United States|Lenovo|LOQ 15IRX9|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com/products/lenovo-loq-15irx9-intel-core-ultra-9
+SKU-US-0014|Amazon - US|United States|ASUS|Zenbook Duo (2024)|Intel Core i9|N|NO|90|90|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com/products/asus-zenbook-duo-2024--intel-core-i9
+SKU-US-0017|Amazon - US|United States|MSI|Raider GE78 HX|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com/products/msi-raider-ge78-hx-intel-core-ultra-5
+SKU-US-0021|Amazon - US|United States|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core Ultra 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.amazon.com/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-ultra-7
+|Amazon - US|United States|ASUS|Zenbook 14 OLED|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com/products/asus-zenbook-14-oled-intel-core-i7
+SKU-US-0023|Amazon - US|United States|Acer|Aspire 5|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com/products/acer-aspire-5-intel-core-7
+SKU-US-0026|Amazon - US|United States|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com/products/apple-macbook-air-13-m3-intel-core-ultra-9
+SKU-US-0027|Amazon - US|United States|Dell|G15 Gaming (5530)|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com/products/dell-g15-gaming-5530--intel-core-i9
+SKU-US-0031|Amazon - US|United States|Acer|Predator Helios 16|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com/products/acer-predator-helios-16-intel-core-i5
+SKU-US-0034|Amazon - US|United States|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com/products/apple-macbook-air-13-m3-intel-core-ultra-7
+SKU-US-0002|Newegg - US|United States|MSI|Raider GE78 HX|Intel Core Ultra 7|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.newegg.com/products/msi-raider-ge78-hx-intel-core-ultra-7
+SKU-US-0003|Newegg - US|United States|Apple|"MacBook Air 15"" M3"|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.newegg.com/products/apple-macbook-air-15-m3-intel-core-i7
+SKU-US-0004|Newegg - US|United States|Dell|Alienware m16 R2|Intel Core 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.newegg.com/products/dell-alienware-m16-r2-intel-core-7
+SKU-US-0007|Newegg - US|United States|ASUS|Zenbook Duo (2024)|Intel Core Ultra 9|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.newegg.com/products/asus-zenbook-duo-2024--intel-core-ultra-9
+SKU-US-0008|Newegg - US|United States|Acer|Swift X 14|Intel Core i9|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.newegg.com/products/acer-swift-x-14-intel-core-i9
+|Newegg - US|United States|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/apple-macbook-air-15-m3-intel-core-ultra-5
+SKU-US-0015|Newegg - US|United States|ASUS|Zenbook 14 OLED|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/asus-zenbook-14-oled-intel-core-ultra-7
+SKU-US-0016|Newegg - US|United States|Acer|Aspire 5|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/acer-aspire-5-intel-core-i7
+SKU-US-0017|Newegg - US|United States|Samsung|Galaxy Book4 360|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/samsung-galaxy-book4-360-intel-core-7
+SKU-US-0020|Newegg - US|United States|Dell|G15 Gaming (5530)|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/dell-g15-gaming-5530--intel-core-ultra-9
+SKU-US-0021|Newegg - US|United States|HP|Spectre x360 14|Intel Core i9|N|NO||90|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/hp-spectre-x360-14-intel-core-i9
+SKU-US-0025|Newegg - US|United States|Samsung|Galaxy Book4 Ultra|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/samsung-galaxy-book4-ultra-intel-core-i5
+SKU-US-0028|Newegg - US|United States|Dell|XPS 14 (9440)|Intel Core Ultra 7|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/dell-xps-14-9440--intel-core-ultra-7
+SKU-US-0029|Newegg - US|United States|HP|Spectre x360 16|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.newegg.com/products/hp-spectre-x360-16-intel-core-i7
+SKU-US-0001|Staples - US|United States|Acer|Swift X 14|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.staples.com/products/acer-swift-x-14-intel-core-ultra-9
+SKU-US-0002|Staples - US|United States|Samsung|Galaxy Book4 360|Intel Core i9|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.staples.com/products/samsung-galaxy-book4-360-intel-core-i9
+SKU-US-0005|Staples - US|United States|Dell|Latitude 5540|Intel Core Ultra 5|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.staples.com/products/dell-latitude-5540-intel-core-ultra-5
+SKU-US-0009|Staples - US|United States|Acer|Aspire 5|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.staples.com/products/acer-aspire-5-intel-core-ultra-7
+SKU-US-0010|Staples - US|United States|Samsung|Galaxy Book4 Ultra|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.staples.com/products/samsung-galaxy-book4-ultra-intel-core-i7
+|Staples - US|United States|MSI|Stealth 16 AI Studio|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.staples.com/products/msi-stealth-16-ai-studio-intel-core-7
+SKU-US-0014|Staples - US|United States|HP|Spectre x360 14|Intel Core Ultra 9|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.staples.com/products/hp-spectre-x360-14-intel-core-ultra-9
+SKU-US-0015|Staples - US|United States|Lenovo|"Yoga Pro 9i (16"")"|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.staples.com/products/lenovo-yoga-pro-9i-16--intel-core-i9
+SKU-US-0019|Staples - US|United States|MSI|Modern 14|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.staples.com/products/msi-modern-14-intel-core-i5
+|Staples - US|United States|HP|Spectre x360 16|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.staples.com/products/hp-spectre-x360-16-intel-core-ultra-7
+SKU-US-0023|Staples - US|United States|Lenovo|Yoga 7i 2-in-1|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.staples.com/products/lenovo-yoga-7i-2-in-1-intel-core-i7
+SKU-US-0003|Dell|United States|Samsung|Galaxy Book4 Pro|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.dell.com/products/samsung-galaxy-book4-pro-intel-core-ultra-7
+SKU-US-0004|Dell|United States|MSI|Modern 14|Intel Core i7|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.dell.com/products/msi-modern-14-intel-core-i7
+SKU-US-0005|Dell|United States|Apple|"MacBook Pro 16"" M3 Max"|Intel Core 7|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.dell.com/products/apple-macbook-pro-16-m3-max-intel-core-7
+SKU-US-0008|Dell|United States|Lenovo|"Yoga Pro 9i (16"")"|Intel Core Ultra 9|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.dell.com/products/lenovo-yoga-pro-9i-16--intel-core-ultra-9
+SKU-US-0009|Dell|United States|ASUS|Vivobook S 15 OLED|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.dell.com/products/asus-vivobook-s-15-oled-intel-core-i9
+SKU-US-0013|Dell|United States|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.dell.com/products/apple-macbook-pro-16-m3-max-intel-core-i5
+SKU-US-0016|Dell|United States|Lenovo|Yoga 7i 2-in-1|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.dell.com/products/lenovo-yoga-7i-2-in-1-intel-core-ultra-7
+SKU-US-0017|Dell|United States|ASUS|ROG Zephyrus G16|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.dell.com/products/asus-rog-zephyrus-g16-intel-core-i7
+SKU-US-0021|Dell|United States|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 9|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.dell.com/products/apple-macbook-pro-16-m3-max-intel-core-ultra-9
+|Dell|United States|Dell|XPS 16 (9640)|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.dell.com/products/dell-xps-16-9640--intel-core-i9
+SKU-US-0025|Dell|United States|ASUS|ROG Strix SCAR 18|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.dell.com/products/asus-rog-strix-scar-18-intel-core-ultra-5
+SKU-US-0026|Dell|United States|Acer|TravelMate P6|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.dell.com/products/acer-travelmate-p6-intel-core-i5
+SKU-US-0029|Dell|United States|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.dell.com/products/apple-macbook-pro-16-m3-max-intel-core-ultra-7
+SKU-US-0002|HP|United States|ASUS|Vivobook S 15 OLED|Intel Core Ultra 9|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.hp.com/products/asus-vivobook-s-15-oled-intel-core-ultra-9
+SKU-US-0003|HP|United States|Acer|Predator Helios 16|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.hp.com/products/acer-predator-helios-16-intel-core-i9
+SKU-US-0007|HP|United States|Dell|XPS 14 (9440)|Intel Core i5|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.hp.com/products/dell-xps-14-9440--intel-core-i5
+SKU-US-0010|HP|United States|ASUS|ROG Zephyrus G16|Intel Core Ultra 7|Y|YES|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.hp.com/products/asus-rog-zephyrus-g16-intel-core-ultra-7
+|HP|United States|Acer|Nitro 16|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.hp.com/products/acer-nitro-16-intel-core-i7
+SKU-US-0015|HP|United States|Dell|XPS 16 (9640)|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.hp.com/products/dell-xps-16-9640--intel-core-ultra-9
+SKU-US-0016|HP|United States|HP|Envy x360 15|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.hp.com/products/hp-envy-x360-15-intel-core-i9
+SKU-US-0019|HP|United States|Acer|TravelMate P6|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.hp.com/products/acer-travelmate-p6-intel-core-ultra-5
+SKU-US-0020|HP|United States|Samsung|Galaxy Book4 360|Intel Core i5|N|NO||50|LISTING_ONLY (2-Rule)|https://www.hp.com/products/samsung-galaxy-book4-360-intel-core-i5
+SKU-US-0023|HP|United States|Dell|Inspiron 15 (3520)|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.hp.com/products/dell-inspiron-15-3520--intel-core-ultra-7
+SKU-US-0025|HP|United States|Lenovo|Legion Pro 7i|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.hp.com/products/lenovo-legion-pro-7i-intel-core-7
+SKU-US-0028|HP|United States|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 9|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.hp.com/products/samsung-galaxy-book4-ultra-intel-core-ultra-9
+SKU-US-0029|HP|United States|MSI|Modern 14|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.hp.com/products/msi-modern-14-intel-core-i9
+SKU-US-0001|Lenovo|United States|HP|Spectre x360 16|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.lenovo.com/products/hp-spectre-x360-16-intel-core-i5
+SKU-US-0004|Lenovo|United States|Acer|Nitro 16|Intel Core Ultra 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.lenovo.com/products/acer-nitro-16-intel-core-ultra-7
+SKU-US-0005|Lenovo|United States|Samsung|Galaxy Book4 360|Intel Core i7|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.lenovo.com/products/samsung-galaxy-book4-360-intel-core-i7
+SKU-US-0009|Lenovo|United States|HP|Envy x360 15|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.lenovo.com/products/hp-envy-x360-15-intel-core-ultra-9
+SKU-US-0010|Lenovo|United States|Lenovo|IdeaPad Slim 5|Intel Core i9|N|NO|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.lenovo.com/products/lenovo-ideapad-slim-5-intel-core-i9
+SKU-US-0013|Lenovo|United States|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/samsung-galaxy-book4-ultra-intel-core-ultra-5
+SKU-US-0014|Lenovo|United States|MSI|Modern 14|Intel Core i5|N|NO||90|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/msi-modern-14-intel-core-i5
+SKU-US-0017|Lenovo|United States|HP|Pavilion Plus 14|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/hp-pavilion-plus-14-intel-core-ultra-7
+SKU-US-0019|Lenovo|United States|ASUS|TUF Gaming A15|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/asus-tuf-gaming-a15-intel-core-7
+|Lenovo|United States|MSI|Raider GE78 HX|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/msi-raider-ge78-hx-intel-core-ultra-9
+SKU-US-0023|Lenovo|United States|Apple|"MacBook Air 15"" M3"|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/apple-macbook-air-15-m3-intel-core-i9
+SKU-US-0026|Lenovo|United States|Lenovo|ThinkBook 16 Gen 6|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/lenovo-thinkbook-16-gen-6-intel-core-ultra-5
+SKU-US-0027|Lenovo|United States|ASUS|ExpertBook B9|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/asus-expertbook-b9-intel-core-i5
+SKU-US-0031|Lenovo|United States|Apple|"MacBook Air 15"" M3"|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.lenovo.com/products/apple-macbook-air-15-m3-intel-core-i7
+SKU-Global-0003|Acer|Global|Lenovo|IdeaPad Slim 5|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://store.acer.com/products/lenovo-ideapad-slim-5-intel-core-ultra-9
+SKU-Global-0004|Acer|Global|ASUS|ROG Strix SCAR 18|Intel Core i9|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://store.acer.com/products/asus-rog-strix-scar-18-intel-core-i9
+SKU-Global-0007|Acer|Global|MSI|Raider GE78 HX|Intel Core Ultra 5|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://store.acer.com/products/msi-raider-ge78-hx-intel-core-ultra-5
+SKU-Global-0008|Acer|Global|Apple|"MacBook Pro 14"" M3"|Intel Core i5|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://store.acer.com/products/apple-macbook-pro-14-m3-intel-core-i5
+|Acer|Global|Lenovo|Legion Pro 7i|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://store.acer.com/products/lenovo-legion-pro-7i-intel-core-ultra-7
+SKU-Global-0013|Acer|Global|Acer|Spin 5|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://store.acer.com/products/acer-spin-5-intel-core-7
+SKU-Global-0016|Acer|Global|Apple|"MacBook Pro 14"" M3"|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://store.acer.com/products/apple-macbook-pro-14-m3-intel-core-ultra-9
+SKU-Global-0017|Acer|Global|Dell|Inspiron 16 Plus (7640)|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://store.acer.com/products/dell-inspiron-16-plus-7640--intel-core-i9
+SKU-Global-0020|Acer|Global|ASUS|ExpertBook B9|Intel Core Ultra 5|Y|YES||50|LISTING_ONLY (2-Rule)|https://store.acer.com/products/asus-expertbook-b9-intel-core-ultra-5
+SKU-Global-0021|Acer|Global|Acer|Swift Go 14 AI|Intel Core i5|N|NO||90|LISTING_ONLY (2-Rule)|https://store.acer.com/products/acer-swift-go-14-ai-intel-core-i5
+SKU-Global-0025|Acer|Global|Dell|Alienware m16 R2|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://store.acer.com/products/dell-alienware-m16-r2-intel-core-i7
+SKU-Global-0026|Acer|Global|HP|Victus 15|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://store.acer.com/products/hp-victus-15-intel-core-7
+SKU-CA-0001|Best Buy - CA|Canada|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.ca/products/apple-macbook-pro-16-m3-max-intel-core-ultra-5
+SKU-CA-0002|Best Buy - CA|Canada|Dell|Inspiron 15 (3520)|Intel Core i5|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.ca/products/dell-inspiron-15-3520--intel-core-i5
+SKU-CA-0005|Best Buy - CA|Canada|ASUS|TUF Gaming A15|Intel Core Ultra 7|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.ca/products/asus-tuf-gaming-a15-intel-core-ultra-7
+SKU-CA-0007|Best Buy - CA|Canada|Samsung|Galaxy Book4 Ultra|Intel Core 7|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.ca/products/samsung-galaxy-book4-ultra-intel-core-7
+SKU-CA-0010|Best Buy - CA|Canada|Dell|Inspiron 16 Plus (7640)|Intel Core Ultra 9|Y|YES|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.bestbuy.ca/products/dell-inspiron-16-plus-7640--intel-core-ultra-9
+|Best Buy - CA|Canada|HP|OMEN 16 Transcend|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.ca/products/hp-omen-16-transcend-intel-core-i9
+SKU-CA-0014|Best Buy - CA|Canada|Acer|Swift Go 14 AI|Intel Core Ultra 5|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.bestbuy.ca/products/acer-swift-go-14-ai-intel-core-ultra-5
+SKU-CA-0015|Best Buy - CA|Canada|Samsung|Galaxy Book4 Pro|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.ca/products/samsung-galaxy-book4-pro-intel-core-i5
+SKU-CA-0019|Best Buy - CA|Canada|HP|Victus 15|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.ca/products/hp-victus-15-intel-core-i7
+SKU-CA-0020|Best Buy - CA|Canada|Lenovo|LOQ 15IRX9|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.bestbuy.ca/products/lenovo-loq-15irx9-intel-core-7
+SKU-CA-0023|Best Buy - CA|Canada|Samsung|Galaxy Book4 360|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.ca/products/samsung-galaxy-book4-360-intel-core-ultra-9
+SKU-CA-0027|Best Buy - CA|Canada|HP|EliteBook 840 G10|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.bestbuy.ca/products/hp-elitebook-840-g10-intel-core-ultra-5
+SKU-CA-0028|Best Buy - CA|Canada|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core i5|N|NO||40|LISTING_ONLY (2-Rule)|https://www.bestbuy.ca/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-i5
+SKU-CA-0001|Amazon - CA|Canada|MSI|Stealth 16 AI Studio|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.ca/products/msi-stealth-16-ai-studio-intel-core-7
+SKU-CA-0004|Amazon - CA|Canada|HP|OMEN 16 Transcend|Intel Core Ultra 9|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.ca/products/hp-omen-16-transcend-intel-core-ultra-9
+SKU-CA-0005|Amazon - CA|Canada|Lenovo|ThinkBook 16 Gen 6|Intel Core i9|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.ca/products/lenovo-thinkbook-16-gen-6-intel-core-i9
+SKU-CA-0008|Amazon - CA|Canada|Samsung|Galaxy Book4 360|Intel Core Ultra 5|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.ca/products/samsung-galaxy-book4-360-intel-core-ultra-5
+SKU-CA-0009|Amazon - CA|Canada|MSI|Modern 14|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.ca/products/msi-modern-14-intel-core-i5
+SKU-CA-0013|Amazon - CA|Canada|Lenovo|LOQ 15IRX9|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/lenovo-loq-15irx9-intel-core-i7
+SKU-CA-0014|Amazon - CA|Canada|ASUS|Zenbook Duo (2024)|Intel Core 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/asus-zenbook-duo-2024--intel-core-7
+SKU-CA-0017|Amazon - CA|Canada|MSI|Raider GE78 HX|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/msi-raider-ge78-hx-intel-core-ultra-9
+SKU-CA-0021|Amazon - CA|Canada|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core Ultra 5|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-ultra-5
+|Amazon - CA|Canada|ASUS|Zenbook 14 OLED|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/asus-zenbook-14-oled-intel-core-i5
+SKU-CA-0025|Amazon - CA|Canada|MSI|Prestige 16 AI Evo|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/msi-prestige-16-ai-evo-intel-core-ultra-7
+SKU-CA-0026|Amazon - CA|Canada|Apple|"MacBook Air 13"" M3"|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/apple-macbook-air-13-m3-intel-core-i7
+SKU-CA-0027|Amazon - CA|Canada|Dell|G15 Gaming (5530)|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/dell-g15-gaming-5530--intel-core-7
+SKU-CA-0031|Amazon - CA|Canada|Acer|Predator Helios 16|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.ca/products/acer-predator-helios-16-intel-core-i9
+SKU-UK-0002|Amazon - UK|United Kingdom|MSI|Raider GE78 HX|Intel Core Ultra 5|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.co.uk/products/msi-raider-ge78-hx-intel-core-ultra-5
+SKU-UK-0003|Amazon - UK|United Kingdom|Apple|"MacBook Air 15"" M3"|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.co.uk/products/apple-macbook-air-15-m3-intel-core-i5
+SKU-UK-0007|Amazon - UK|United Kingdom|ASUS|Zenbook Duo (2024)|Intel Core i7|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.co.uk/products/asus-zenbook-duo-2024--intel-core-i7
+SKU-UK-0008|Amazon - UK|United Kingdom|Acer|Swift X 14|Intel Core 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.co.uk/products/acer-swift-x-14-intel-core-7
+|Amazon - UK|United Kingdom|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.co.uk/products/apple-macbook-air-15-m3-intel-core-ultra-9
+SKU-UK-0015|Amazon - UK|United Kingdom|ASUS|Zenbook 14 OLED|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/asus-zenbook-14-oled-intel-core-ultra-5
+SKU-UK-0016|Amazon - UK|United Kingdom|Acer|Aspire 5|Intel Core i5|N|NO||50|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/acer-aspire-5-intel-core-i5
+SKU-UK-0019|Amazon - UK|United Kingdom|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/apple-macbook-air-15-m3-intel-core-ultra-7
+SKU-UK-0020|Amazon - UK|United Kingdom|Dell|G15 Gaming (5530)|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/dell-g15-gaming-5530--intel-core-i7
+SKU-UK-0021|Amazon - UK|United Kingdom|HP|Spectre x360 14|Intel Core 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/hp-spectre-x360-14-intel-core-7
+SKU-UK-0025|Amazon - UK|United Kingdom|Samsung|Galaxy Book4 Ultra|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/samsung-galaxy-book4-ultra-intel-core-i9
+SKU-UK-0028|Amazon - UK|United Kingdom|Dell|XPS 14 (9440)|Intel Core Ultra 5|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/dell-xps-14-9440--intel-core-ultra-5
+SKU-UK-0029|Amazon - UK|United Kingdom|HP|Spectre x360 16|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/hp-spectre-x360-16-intel-core-i5
+SKU-UK-0032|Amazon - UK|United Kingdom|Acer|Nitro 16|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/acer-nitro-16-intel-core-ultra-7
+|Amazon - UK|United Kingdom|Samsung|Galaxy Book4 Pro|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.co.uk/products/samsung-galaxy-book4-pro-intel-core-i7
+SKU-UK-0001|Currys - UK|United Kingdom|Acer|Swift X 14|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.currys.co.uk/products/acer-swift-x-14-intel-core-i7
+SKU-UK-0002|Currys - UK|United Kingdom|Samsung|Galaxy Book4 360|Intel Core 7|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.currys.co.uk/products/samsung-galaxy-book4-360-intel-core-7
+SKU-UK-0005|Currys - UK|United Kingdom|Dell|Latitude 5540|Intel Core Ultra 9|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.currys.co.uk/products/dell-latitude-5540-intel-core-ultra-9
+SKU-UK-0009|Currys - UK|United Kingdom|Acer|Aspire 5|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.currys.co.uk/products/acer-aspire-5-intel-core-ultra-5
+SKU-UK-0010|Currys - UK|United Kingdom|Samsung|Galaxy Book4 Ultra|Intel Core i5|N|NO|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.currys.co.uk/products/samsung-galaxy-book4-ultra-intel-core-i5
+SKU-UK-0013|Currys - UK|United Kingdom|Dell|G15 Gaming (5530)|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/dell-g15-gaming-5530--intel-core-ultra-7
+SKU-UK-0014|Currys - UK|United Kingdom|HP|Spectre x360 14|Intel Core i7|N|NO||90|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/hp-spectre-x360-14-intel-core-i7
+SKU-UK-0015|Currys - UK|United Kingdom|Lenovo|"Yoga Pro 9i (16"")"|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/lenovo-yoga-pro-9i-16--intel-core-7
+SKU-UK-0019|Currys - UK|United Kingdom|MSI|Modern 14|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/msi-modern-14-intel-core-i9
+|Currys - UK|United Kingdom|HP|Spectre x360 16|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/hp-spectre-x360-16-intel-core-ultra-5
+SKU-UK-0023|Currys - UK|United Kingdom|Lenovo|Yoga 7i 2-in-1|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/lenovo-yoga-7i-2-in-1-intel-core-i5
+SKU-UK-0026|Currys - UK|United Kingdom|Samsung|Galaxy Book4 360|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/samsung-galaxy-book4-360-intel-core-ultra-7
+SKU-UK-0027|Currys - UK|United Kingdom|MSI|Raider GE78 HX|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/msi-raider-ge78-hx-intel-core-i7
+SKU-UK-0028|Currys - UK|United Kingdom|Apple|"MacBook Pro 14"" M3"|Intel Core 7|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.currys.co.uk/products/apple-macbook-pro-14-m3-intel-core-7
+SKU-DE-0003|Amazon - DE|Germany|Samsung|Galaxy Book4 Pro|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.de/products/samsung-galaxy-book4-pro-intel-core-ultra-5
+SKU-DE-0004|Amazon - DE|Germany|MSI|Modern 14|Intel Core i5|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.de/products/msi-modern-14-intel-core-i5
+SKU-DE-0007|Amazon - DE|Germany|HP|Spectre x360 14|Intel Core Ultra 7|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.de/products/hp-spectre-x360-14-intel-core-ultra-7
+SKU-DE-0008|Amazon - DE|Germany|Lenovo|"Yoga Pro 9i (16"")"|Intel Core i7|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.de/products/lenovo-yoga-pro-9i-16--intel-core-i7
+SKU-DE-0009|Amazon - DE|Germany|ASUS|Vivobook S 15 OLED|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.de/products/asus-vivobook-s-15-oled-intel-core-7
+SKU-DE-0013|Amazon - DE|Germany|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.de/products/apple-macbook-pro-16-m3-max-intel-core-i9
+SKU-DE-0016|Amazon - DE|Germany|Lenovo|Yoga 7i 2-in-1|Intel Core Ultra 5|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.amazon.de/products/lenovo-yoga-7i-2-in-1-intel-core-ultra-5
+SKU-DE-0017|Amazon - DE|Germany|ASUS|ROG Zephyrus G16|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.de/products/asus-rog-zephyrus-g16-intel-core-i5
+SKU-DE-0020|Amazon - DE|Germany|MSI|Prestige 16 AI Evo|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.amazon.de/products/msi-prestige-16-ai-evo-intel-core-ultra-7
+SKU-DE-0021|Amazon - DE|Germany|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i7|N|NO||90|LISTING_ONLY (2-Rule)|https://www.amazon.de/products/apple-macbook-pro-16-m3-max-intel-core-i7
+|Amazon - DE|Germany|Dell|XPS 16 (9640)|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.de/products/dell-xps-16-9640--intel-core-7
+SKU-DE-0025|Amazon - DE|Germany|ASUS|ROG Strix SCAR 18|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.de/products/asus-rog-strix-scar-18-intel-core-ultra-9
+SKU-DE-0026|Amazon - DE|Germany|Acer|TravelMate P6|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.de/products/acer-travelmate-p6-intel-core-i9
+SKU-DE-0029|Amazon - DE|Germany|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.de/products/apple-macbook-pro-16-m3-max-intel-core-ultra-5
+SKU-DE-0001|MediaMarkt - DE|Germany|Lenovo|"Yoga Pro 9i (16"")"|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.de/products/lenovo-yoga-pro-9i-16--intel-core-ultra-7
+SKU-DE-0002|MediaMarkt - DE|Germany|ASUS|Vivobook S 15 OLED|Intel Core i7|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.de/products/asus-vivobook-s-15-oled-intel-core-i7
+SKU-DE-0003|MediaMarkt - DE|Germany|Acer|Predator Helios 16|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.de/products/acer-predator-helios-16-intel-core-7
+SKU-DE-0007|MediaMarkt - DE|Germany|Dell|XPS 14 (9440)|Intel Core i9|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.de/products/dell-xps-14-9440--intel-core-i9
+SKU-DE-0010|MediaMarkt - DE|Germany|ASUS|ROG Zephyrus G16|Intel Core Ultra 5|Y|YES|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.de/products/asus-rog-zephyrus-g16-intel-core-ultra-5
+|MediaMarkt - DE|Germany|Acer|Nitro 16|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/acer-nitro-16-intel-core-i5
+SKU-DE-0014|MediaMarkt - DE|Germany|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/apple-macbook-air-13-m3-intel-core-ultra-7
+SKU-DE-0015|MediaMarkt - DE|Germany|Dell|XPS 16 (9640)|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/dell-xps-16-9640--intel-core-i7
+SKU-DE-0016|MediaMarkt - DE|Germany|HP|Envy x360 15|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/hp-envy-x360-15-intel-core-7
+SKU-DE-0019|MediaMarkt - DE|Germany|Acer|TravelMate P6|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/acer-travelmate-p6-intel-core-ultra-9
+SKU-DE-0020|MediaMarkt - DE|Germany|Samsung|Galaxy Book4 360|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/samsung-galaxy-book4-360-intel-core-i9
+SKU-DE-0023|MediaMarkt - DE|Germany|Dell|Inspiron 15 (3520)|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/dell-inspiron-15-3520--intel-core-ultra-5
+SKU-DE-0027|MediaMarkt - DE|Germany|Acer|Spin 5|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/acer-spin-5-intel-core-ultra-7
+SKU-DE-0028|MediaMarkt - DE|Germany|Samsung|Galaxy Book4 Ultra|Intel Core i7|N|NO||40|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/samsung-galaxy-book4-ultra-intel-core-i7
+SKU-DE-0029|MediaMarkt - DE|Germany|MSI|Modern 14|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.de/products/msi-modern-14-intel-core-7
+SKU-DE-0001|Expert - DE|Germany|HP|Spectre x360 16|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.expert.de/products/hp-spectre-x360-16-intel-core-i9
+SKU-DE-0004|Expert - DE|Germany|Acer|Nitro 16|Intel Core Ultra 5|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.expert.de/products/acer-nitro-16-intel-core-ultra-5
+SKU-DE-0005|Expert - DE|Germany|Samsung|Galaxy Book4 360|Intel Core i5|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.expert.de/products/samsung-galaxy-book4-360-intel-core-i5
+SKU-DE-0008|Expert - DE|Germany|Dell|XPS 16 (9640)|Intel Core Ultra 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.expert.de/products/dell-xps-16-9640--intel-core-ultra-7
+SKU-DE-0009|Expert - DE|Germany|HP|Envy x360 15|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.expert.de/products/hp-envy-x360-15-intel-core-i7
+SKU-DE-0010|Expert - DE|Germany|Lenovo|IdeaPad Slim 5|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.expert.de/products/lenovo-ideapad-slim-5-intel-core-7
+SKU-DE-0013|Expert - DE|Germany|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.expert.de/products/samsung-galaxy-book4-ultra-intel-core-ultra-9
+SKU-DE-0014|Expert - DE|Germany|MSI|Modern 14|Intel Core i9|N|NO||90|LISTING_ONLY (2-Rule)|https://www.expert.de/products/msi-modern-14-intel-core-i9
+SKU-DE-0017|Expert - DE|Germany|HP|Pavilion Plus 14|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.expert.de/products/hp-pavilion-plus-14-intel-core-ultra-5
+SKU-DE-0021|Expert - DE|Germany|Samsung|Galaxy Book4 Pro|Intel Core Ultra 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.expert.de/products/samsung-galaxy-book4-pro-intel-core-ultra-7
+|Expert - DE|Germany|MSI|Raider GE78 HX|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.expert.de/products/msi-raider-ge78-hx-intel-core-i7
+SKU-DE-0023|Expert - DE|Germany|Apple|"MacBook Air 15"" M3"|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.expert.de/products/apple-macbook-air-15-m3-intel-core-7
+SKU-DE-0026|Expert - DE|Germany|Lenovo|ThinkBook 16 Gen 6|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.expert.de/products/lenovo-thinkbook-16-gen-6-intel-core-ultra-9
+SKU-DE-0027|Expert - DE|Germany|ASUS|ExpertBook B9|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.expert.de/products/asus-expertbook-b9-intel-core-i9
+SKU-FR-0002|Amazon - FR|France|HP|Envy x360 15|Intel Core Ultra 7|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.fr/products/hp-envy-x360-15-intel-core-ultra-7
+SKU-FR-0003|Amazon - FR|France|Lenovo|IdeaPad Slim 5|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.fr/products/lenovo-ideapad-slim-5-intel-core-i7
+SKU-FR-0004|Amazon - FR|France|ASUS|ROG Strix SCAR 18|Intel Core 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.fr/products/asus-rog-strix-scar-18-intel-core-7
+SKU-FR-0007|Amazon - FR|France|MSI|Raider GE78 HX|Intel Core Ultra 9|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.fr/products/msi-raider-ge78-hx-intel-core-ultra-9
+SKU-FR-0008|Amazon - FR|France|Apple|"MacBook Pro 14"" M3"|Intel Core i9|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.fr/products/apple-macbook-pro-14-m3-intel-core-i9
+|Amazon - FR|France|Lenovo|Legion Pro 7i|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.fr/products/lenovo-legion-pro-7i-intel-core-ultra-5
+SKU-FR-0015|Amazon - FR|France|MSI|Prestige 16 AI Evo|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.fr/products/msi-prestige-16-ai-evo-intel-core-ultra-7
+SKU-FR-0016|Amazon - FR|France|Apple|"MacBook Pro 14"" M3"|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.amazon.fr/products/apple-macbook-pro-14-m3-intel-core-i7
+SKU-FR-0017|Amazon - FR|France|Dell|Inspiron 16 Plus (7640)|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.fr/products/dell-inspiron-16-plus-7640--intel-core-7
+SKU-FR-0020|Amazon - FR|France|ASUS|ExpertBook B9|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.amazon.fr/products/asus-expertbook-b9-intel-core-ultra-9
+SKU-FR-0021|Amazon - FR|France|Acer|Swift Go 14 AI|Intel Core i9|N|NO||90|LISTING_ONLY (2-Rule)|https://www.amazon.fr/products/acer-swift-go-14-ai-intel-core-i9
+SKU-FR-0025|Amazon - FR|France|Dell|Alienware m16 R2|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.fr/products/dell-alienware-m16-r2-intel-core-i5
+SKU-FR-0028|Amazon - FR|France|ASUS|Zenbook Duo (2024)|Intel Core Ultra 7|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.amazon.fr/products/asus-zenbook-duo-2024--intel-core-ultra-7
+SKU-FR-0029|Amazon - FR|France|Acer|Swift X 14|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.fr/products/acer-swift-x-14-intel-core-i7
+SKU-FR-0001|Fnac - FR|France|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.fnac.com/products/apple-macbook-pro-16-m3-max-intel-core-ultra-9
+SKU-FR-0002|Fnac - FR|France|Dell|Inspiron 15 (3520)|Intel Core i9|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.fnac.com/products/dell-inspiron-15-3520--intel-core-i9
+SKU-FR-0005|Fnac - FR|France|ASUS|TUF Gaming A15|Intel Core Ultra 5|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.fnac.com/products/asus-tuf-gaming-a15-intel-core-ultra-5
+SKU-FR-0009|Fnac - FR|France|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.fnac.com/products/apple-macbook-pro-16-m3-max-intel-core-ultra-7
+SKU-FR-0010|Fnac - FR|France|Dell|Inspiron 16 Plus (7640)|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/dell-inspiron-16-plus-7640--intel-core-i7
+|Fnac - FR|France|HP|OMEN 16 Transcend|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/hp-omen-16-transcend-intel-core-7
+SKU-FR-0014|Fnac - FR|France|Acer|Swift Go 14 AI|Intel Core Ultra 9|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/acer-swift-go-14-ai-intel-core-ultra-9
+SKU-FR-0015|Fnac - FR|France|Samsung|Galaxy Book4 Pro|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/samsung-galaxy-book4-pro-intel-core-i9
+SKU-FR-0019|Fnac - FR|France|HP|Victus 15|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/hp-victus-15-intel-core-i5
+|Fnac - FR|France|Acer|Swift X 14|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/acer-swift-x-14-intel-core-ultra-7
+SKU-FR-0023|Fnac - FR|France|Samsung|Galaxy Book4 360|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/samsung-galaxy-book4-360-intel-core-i7
+SKU-FR-0027|Fnac - FR|France|HP|EliteBook 840 G10|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/hp-elitebook-840-g10-intel-core-ultra-9
+SKU-FR-0028|Fnac - FR|France|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core i9|N|NO||40|LISTING_ONLY (2-Rule)|https://www.fnac.com/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-i9
+SKU-FR-0003|Boulanger - FR|France|Dell|Inspiron 16 Plus (7640)|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.boulanger.com/products/dell-inspiron-16-plus-7640--intel-core-ultra-7
+SKU-FR-0004|Boulanger - FR|France|HP|OMEN 16 Transcend|Intel Core i7|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.boulanger.com/products/hp-omen-16-transcend-intel-core-i7
+SKU-FR-0005|Boulanger - FR|France|Lenovo|ThinkBook 16 Gen 6|Intel Core 7|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.boulanger.com/products/lenovo-thinkbook-16-gen-6-intel-core-7
+SKU-FR-0008|Boulanger - FR|France|Samsung|Galaxy Book4 360|Intel Core Ultra 9|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.boulanger.com/products/samsung-galaxy-book4-360-intel-core-ultra-9
+SKU-FR-0009|Boulanger - FR|France|MSI|Modern 14|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.boulanger.com/products/msi-modern-14-intel-core-i9
+SKU-FR-0013|Boulanger - FR|France|Lenovo|LOQ 15IRX9|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.boulanger.com/products/lenovo-loq-15irx9-intel-core-i5
+SKU-FR-0016|Boulanger - FR|France|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.boulanger.com/products/samsung-galaxy-book4-ultra-intel-core-ultra-7
+SKU-FR-0017|Boulanger - FR|France|MSI|Raider GE78 HX|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.boulanger.com/products/msi-raider-ge78-hx-intel-core-i7
+SKU-FR-0021|Boulanger - FR|France|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core Ultra 9|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.boulanger.com/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-ultra-9
+|Boulanger - FR|France|ASUS|Zenbook 14 OLED|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.boulanger.com/products/asus-zenbook-14-oled-intel-core-i9
+SKU-FR-0025|Boulanger - FR|France|MSI|Prestige 16 AI Evo|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.boulanger.com/products/msi-prestige-16-ai-evo-intel-core-ultra-5
+SKU-FR-0026|Boulanger - FR|France|Apple|"MacBook Air 13"" M3"|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.boulanger.com/products/apple-macbook-air-13-m3-intel-core-i5
+SKU-IT-0002|Amazon - IT|Italy|MSI|Raider GE78 HX|Intel Core Ultra 9|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.it/products/msi-raider-ge78-hx-intel-core-ultra-9
+SKU-IT-0003|Amazon - IT|Italy|Apple|"MacBook Air 15"" M3"|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.it/products/apple-macbook-air-15-m3-intel-core-i9
+SKU-IT-0007|Amazon - IT|Italy|ASUS|Zenbook Duo (2024)|Intel Core i5|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.it/products/asus-zenbook-duo-2024--intel-core-i5
+SKU-IT-0010|Amazon - IT|Italy|MSI|Prestige 16 AI Evo|Intel Core Ultra 7|Y|YES|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.it/products/msi-prestige-16-ai-evo-intel-core-ultra-7
+|Amazon - IT|Italy|Apple|"MacBook Air 15"" M3"|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.it/products/apple-macbook-air-15-m3-intel-core-i7
+SKU-IT-0015|Amazon - IT|Italy|ASUS|Zenbook 14 OLED|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.it/products/asus-zenbook-14-oled-intel-core-ultra-9
+SKU-IT-0016|Amazon - IT|Italy|Acer|Aspire 5|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.amazon.it/products/acer-aspire-5-intel-core-i9
+SKU-IT-0019|Amazon - IT|Italy|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.it/products/apple-macbook-air-15-m3-intel-core-ultra-5
+SKU-IT-0020|Amazon - IT|Italy|Dell|G15 Gaming (5530)|Intel Core i5|N|NO||50|LISTING_ONLY (2-Rule)|https://www.amazon.it/products/dell-g15-gaming-5530--intel-core-i5
+SKU-IT-0023|Amazon - IT|Italy|ASUS|Vivobook S 15 OLED|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.it/products/asus-vivobook-s-15-oled-intel-core-ultra-7
+SKU-IT-0025|Amazon - IT|Italy|Samsung|Galaxy Book4 Ultra|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.it/products/samsung-galaxy-book4-ultra-intel-core-7
+SKU-IT-0028|Amazon - IT|Italy|Dell|XPS 14 (9440)|Intel Core Ultra 9|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.amazon.it/products/dell-xps-14-9440--intel-core-ultra-9
+SKU-IT-0029|Amazon - IT|Italy|HP|Spectre x360 16|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.it/products/hp-spectre-x360-16-intel-core-i9
+SKU-IT-0001|MediaWorld - IT|Italy|Acer|Swift X 14|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediaworld.it/products/acer-swift-x-14-intel-core-i5
+SKU-IT-0004|MediaWorld - IT|Italy|Apple|"MacBook Pro 14"" M3"|Intel Core Ultra 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.mediaworld.it/products/apple-macbook-pro-14-m3-intel-core-ultra-7
+SKU-IT-0005|MediaWorld - IT|Italy|Dell|Latitude 5540|Intel Core i7|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.mediaworld.it/products/dell-latitude-5540-intel-core-i7
+SKU-IT-0009|MediaWorld - IT|Italy|Acer|Aspire 5|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediaworld.it/products/acer-aspire-5-intel-core-ultra-9
+SKU-IT-0010|MediaWorld - IT|Italy|Samsung|Galaxy Book4 Ultra|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/samsung-galaxy-book4-ultra-intel-core-i9
+SKU-IT-0013|MediaWorld - IT|Italy|Dell|G15 Gaming (5530)|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/dell-g15-gaming-5530--intel-core-ultra-5
+SKU-IT-0014|MediaWorld - IT|Italy|HP|Spectre x360 14|Intel Core i5|N|NO||90|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/hp-spectre-x360-14-intel-core-i5
+SKU-IT-0017|MediaWorld - IT|Italy|Acer|Predator Helios 16|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/acer-predator-helios-16-intel-core-ultra-7
+SKU-IT-0019|MediaWorld - IT|Italy|MSI|Modern 14|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/msi-modern-14-intel-core-7
+|MediaWorld - IT|Italy|HP|Spectre x360 16|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/hp-spectre-x360-16-intel-core-ultra-9
+SKU-IT-0023|MediaWorld - IT|Italy|Lenovo|Yoga 7i 2-in-1|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/lenovo-yoga-7i-2-in-1-intel-core-i9
+SKU-IT-0026|MediaWorld - IT|Italy|Samsung|Galaxy Book4 360|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/samsung-galaxy-book4-360-intel-core-ultra-5
+SKU-IT-0027|MediaWorld - IT|Italy|MSI|Raider GE78 HX|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediaworld.it/products/msi-raider-ge78-hx-intel-core-i5
+SKU-IT-0003|Unieuro - IT|Italy|Samsung|Galaxy Book4 Pro|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.unieuro.it/products/samsung-galaxy-book4-pro-intel-core-ultra-9
+SKU-IT-0004|Unieuro - IT|Italy|MSI|Modern 14|Intel Core i9|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.unieuro.it/products/msi-modern-14-intel-core-i9
+SKU-IT-0007|Unieuro - IT|Italy|HP|Spectre x360 14|Intel Core Ultra 5|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.unieuro.it/products/hp-spectre-x360-14-intel-core-ultra-5
+SKU-IT-0008|Unieuro - IT|Italy|Lenovo|"Yoga Pro 9i (16"")"|Intel Core i5|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.unieuro.it/products/lenovo-yoga-pro-9i-16--intel-core-i5
+|Unieuro - IT|Italy|Samsung|Galaxy Book4 360|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.unieuro.it/products/samsung-galaxy-book4-360-intel-core-ultra-7
+SKU-IT-0013|Unieuro - IT|Italy|Apple|"MacBook Pro 16"" M3 Max"|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.unieuro.it/products/apple-macbook-pro-16-m3-max-intel-core-7
+SKU-IT-0016|Unieuro - IT|Italy|Lenovo|Yoga 7i 2-in-1|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.unieuro.it/products/lenovo-yoga-7i-2-in-1-intel-core-ultra-9
+SKU-IT-0017|Unieuro - IT|Italy|ASUS|ROG Zephyrus G16|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.unieuro.it/products/asus-rog-zephyrus-g16-intel-core-i9
+SKU-IT-0020|Unieuro - IT|Italy|MSI|Prestige 16 AI Evo|Intel Core Ultra 5|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.unieuro.it/products/msi-prestige-16-ai-evo-intel-core-ultra-5
+SKU-IT-0021|Unieuro - IT|Italy|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i5|N|NO||90|LISTING_ONLY (2-Rule)|https://www.unieuro.it/products/apple-macbook-pro-16-m3-max-intel-core-i5
+SKU-IT-0025|Unieuro - IT|Italy|ASUS|ROG Strix SCAR 18|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.unieuro.it/products/asus-rog-strix-scar-18-intel-core-i7
+SKU-IT-0026|Unieuro - IT|Italy|Acer|TravelMate P6|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.unieuro.it/products/acer-travelmate-p6-intel-core-7
+SKU-IT-0001|Euronics - IT|Italy|Lenovo|"Yoga Pro 9i (16"")"|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.euronics.it/products/lenovo-yoga-pro-9i-16--intel-core-ultra-5
+SKU-IT-0002|Euronics - IT|Italy|ASUS|Vivobook S 15 OLED|Intel Core i5|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.euronics.it/products/asus-vivobook-s-15-oled-intel-core-i5
+SKU-IT-0005|Euronics - IT|Italy|MSI|Prestige 16 AI Evo|Intel Core Ultra 7|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.euronics.it/products/msi-prestige-16-ai-evo-intel-core-ultra-7
+SKU-IT-0007|Euronics - IT|Italy|Dell|XPS 14 (9440)|Intel Core 7|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.euronics.it/products/dell-xps-14-9440--intel-core-7
+SKU-IT-0010|Euronics - IT|Italy|ASUS|ROG Zephyrus G16|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.euronics.it/products/asus-rog-zephyrus-g16-intel-core-ultra-9
+|Euronics - IT|Italy|Acer|Nitro 16|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.euronics.it/products/acer-nitro-16-intel-core-i9
+SKU-IT-0014|Euronics - IT|Italy|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 5|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.euronics.it/products/apple-macbook-air-13-m3-intel-core-ultra-5
+SKU-IT-0015|Euronics - IT|Italy|Dell|XPS 16 (9640)|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.euronics.it/products/dell-xps-16-9640--intel-core-i5
+SKU-IT-0019|Euronics - IT|Italy|Acer|TravelMate P6|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.euronics.it/products/acer-travelmate-p6-intel-core-i7
+SKU-IT-0020|Euronics - IT|Italy|Samsung|Galaxy Book4 360|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.euronics.it/products/samsung-galaxy-book4-360-intel-core-7
+SKU-IT-0023|Euronics - IT|Italy|Dell|Inspiron 15 (3520)|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.euronics.it/products/dell-inspiron-15-3520--intel-core-ultra-9
+SKU-ES-0001|Amazon - ES|Spain|HP|Spectre x360 16|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.es/products/hp-spectre-x360-16-intel-core-7
+SKU-ES-0004|Amazon - ES|Spain|Acer|Nitro 16|Intel Core Ultra 9|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.es/products/acer-nitro-16-intel-core-ultra-9
+SKU-ES-0005|Amazon - ES|Spain|Samsung|Galaxy Book4 360|Intel Core i9|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.es/products/samsung-galaxy-book4-360-intel-core-i9
+SKU-ES-0008|Amazon - ES|Spain|Dell|XPS 16 (9640)|Intel Core Ultra 5|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.es/products/dell-xps-16-9640--intel-core-ultra-5
+SKU-ES-0009|Amazon - ES|Spain|HP|Envy x360 15|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.es/products/hp-envy-x360-15-intel-core-i5
+SKU-ES-0013|Amazon - ES|Spain|Samsung|Galaxy Book4 Ultra|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/samsung-galaxy-book4-ultra-intel-core-i7
+SKU-ES-0014|Amazon - ES|Spain|MSI|Modern 14|Intel Core 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/msi-modern-14-intel-core-7
+SKU-ES-0017|Amazon - ES|Spain|HP|Pavilion Plus 14|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/hp-pavilion-plus-14-intel-core-ultra-9
+SKU-ES-0021|Amazon - ES|Spain|Samsung|Galaxy Book4 Pro|Intel Core Ultra 5|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/samsung-galaxy-book4-pro-intel-core-ultra-5
+|Amazon - ES|Spain|MSI|Raider GE78 HX|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/msi-raider-ge78-hx-intel-core-i5
+SKU-ES-0025|Amazon - ES|Spain|HP|OMEN 16 Transcend|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/hp-omen-16-transcend-intel-core-ultra-7
+SKU-ES-0026|Amazon - ES|Spain|Lenovo|ThinkBook 16 Gen 6|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/lenovo-thinkbook-16-gen-6-intel-core-i7
+SKU-ES-0027|Amazon - ES|Spain|ASUS|ExpertBook B9|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/asus-expertbook-b9-intel-core-7
+SKU-ES-0031|Amazon - ES|Spain|Apple|"MacBook Air 15"" M3"|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.es/products/apple-macbook-air-15-m3-intel-core-i9
+SKU-ES-0002|MediaMarkt - ES|Spain|HP|Envy x360 15|Intel Core Ultra 5|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.es/products/hp-envy-x360-15-intel-core-ultra-5
+SKU-ES-0003|MediaMarkt - ES|Spain|Lenovo|IdeaPad Slim 5|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.es/products/lenovo-ideapad-slim-5-intel-core-i5
+SKU-ES-0007|MediaMarkt - ES|Spain|MSI|Raider GE78 HX|Intel Core i7|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.es/products/msi-raider-ge78-hx-intel-core-i7
+SKU-ES-0008|MediaMarkt - ES|Spain|Apple|"MacBook Pro 14"" M3"|Intel Core 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.es/products/apple-macbook-pro-14-m3-intel-core-7
+|MediaMarkt - ES|Spain|Lenovo|Legion Pro 7i|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/lenovo-legion-pro-7i-intel-core-ultra-9
+SKU-ES-0015|MediaMarkt - ES|Spain|MSI|Prestige 16 AI Evo|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/msi-prestige-16-ai-evo-intel-core-ultra-5
+SKU-ES-0016|MediaMarkt - ES|Spain|Apple|"MacBook Pro 14"" M3"|Intel Core i5|N|NO||50|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/apple-macbook-pro-14-m3-intel-core-i5
+SKU-ES-0019|MediaMarkt - ES|Spain|Lenovo|ThinkBook 16 Gen 6|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/lenovo-thinkbook-16-gen-6-intel-core-ultra-7
+SKU-ES-0020|MediaMarkt - ES|Spain|ASUS|ExpertBook B9|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/asus-expertbook-b9-intel-core-i7
+SKU-ES-0021|MediaMarkt - ES|Spain|Acer|Swift Go 14 AI|Intel Core 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/acer-swift-go-14-ai-intel-core-7
+SKU-ES-0025|MediaMarkt - ES|Spain|Dell|Alienware m16 R2|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/dell-alienware-m16-r2-intel-core-i9
+SKU-ES-0028|MediaMarkt - ES|Spain|ASUS|Zenbook Duo (2024)|Intel Core Ultra 5|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/asus-zenbook-duo-2024--intel-core-ultra-5
+SKU-ES-0029|MediaMarkt - ES|Spain|Acer|Swift X 14|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.es/products/acer-swift-x-14-intel-core-i5
+SKU-IN-0001|Amazon - IN|India|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.in/products/apple-macbook-pro-16-m3-max-intel-core-i7
+SKU-IN-0002|Amazon - IN|India|Dell|Inspiron 15 (3520)|Intel Core 7|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.in/products/dell-inspiron-15-3520--intel-core-7
+SKU-IN-0005|Amazon - IN|India|ASUS|TUF Gaming A15|Intel Core Ultra 9|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.in/products/asus-tuf-gaming-a15-intel-core-ultra-9
+SKU-IN-0009|Amazon - IN|India|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.in/products/apple-macbook-pro-16-m3-max-intel-core-ultra-5
+SKU-IN-0010|Amazon - IN|India|Dell|Inspiron 16 Plus (7640)|Intel Core i5|N|NO|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.in/products/dell-inspiron-16-plus-7640--intel-core-i5
+SKU-IN-0013|Amazon - IN|India|ASUS|ExpertBook B9|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.in/products/asus-expertbook-b9-intel-core-ultra-7
+SKU-IN-0014|Amazon - IN|India|Acer|Swift Go 14 AI|Intel Core i7|N|NO|90|90|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.in/products/acer-swift-go-14-ai-intel-core-i7
+SKU-IN-0015|Amazon - IN|India|Samsung|Galaxy Book4 Pro|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/samsung-galaxy-book4-pro-intel-core-7
+SKU-IN-0019|Amazon - IN|India|HP|Victus 15|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/hp-victus-15-intel-core-i9
+|Amazon - IN|India|Acer|Swift X 14|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/acer-swift-x-14-intel-core-ultra-5
+SKU-IN-0023|Amazon - IN|India|Samsung|Galaxy Book4 360|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/samsung-galaxy-book4-360-intel-core-i5
+SKU-IN-0026|Amazon - IN|India|Dell|Latitude 5540|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/dell-latitude-5540-intel-core-ultra-7
+SKU-IN-0027|Amazon - IN|India|HP|EliteBook 840 G10|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/hp-elitebook-840-g10-intel-core-i7
+SKU-IN-0028|Amazon - IN|India|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core 7|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-7
+SKU-IN-0031|Amazon - IN|India|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/samsung-galaxy-book4-ultra-intel-core-ultra-9
+SKU-IN-0032|Amazon - IN|India|MSI|Raider GE78 HX|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.amazon.in/products/msi-raider-ge78-hx-intel-core-i9
+SKU-IN-0003|Flipkart - IN|India|Dell|Inspiron 16 Plus (7640)|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.flipkart.com/products/dell-inspiron-16-plus-7640--intel-core-ultra-5
+SKU-IN-0004|Flipkart - IN|India|HP|OMEN 16 Transcend|Intel Core i5|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.flipkart.com/products/hp-omen-16-transcend-intel-core-i5
+SKU-IN-0007|Flipkart - IN|India|Acer|Swift Go 14 AI|Intel Core Ultra 7|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.flipkart.com/products/acer-swift-go-14-ai-intel-core-ultra-7
+SKU-IN-0008|Flipkart - IN|India|Samsung|Galaxy Book4 360|Intel Core i7|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.flipkart.com/products/samsung-galaxy-book4-360-intel-core-i7
+SKU-IN-0009|Flipkart - IN|India|MSI|Modern 14|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.flipkart.com/products/msi-modern-14-intel-core-7
+SKU-IN-0013|Flipkart - IN|India|Lenovo|LOQ 15IRX9|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.flipkart.com/products/lenovo-loq-15irx9-intel-core-i9
+SKU-IN-0016|Flipkart - IN|India|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 5|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.flipkart.com/products/samsung-galaxy-book4-ultra-intel-core-ultra-5
+SKU-IN-0017|Flipkart - IN|India|MSI|Raider GE78 HX|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.flipkart.com/products/msi-raider-ge78-hx-intel-core-i5
+SKU-IN-0020|Flipkart - IN|India|HP|EliteBook 840 G10|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.flipkart.com/products/hp-elitebook-840-g10-intel-core-ultra-7
+SKU-IN-0021|Flipkart - IN|India|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core i7|N|NO||90|LISTING_ONLY (2-Rule)|https://www.flipkart.com/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-i7
+|Flipkart - IN|India|ASUS|Zenbook 14 OLED|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.flipkart.com/products/asus-zenbook-14-oled-intel-core-7
+SKU-IN-0025|Flipkart - IN|India|MSI|Prestige 16 AI Evo|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.flipkart.com/products/msi-prestige-16-ai-evo-intel-core-ultra-9
+SKU-IN-0026|Flipkart - IN|India|Apple|"MacBook Air 13"" M3"|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.flipkart.com/products/apple-macbook-air-13-m3-intel-core-i9
+SKU-IN-0029|Flipkart - IN|India|Lenovo|"Yoga Pro 9i (16"")"|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.flipkart.com/products/lenovo-yoga-pro-9i-16--intel-core-ultra-5
+SKU-IN-0001|Reliance Digital - IN|India|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.reliancedigital.in/products/samsung-galaxy-book4-ultra-intel-core-ultra-7
+SKU-IN-0002|Reliance Digital - IN|India|MSI|Raider GE78 HX|Intel Core i7|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.reliancedigital.in/products/msi-raider-ge78-hx-intel-core-i7
+SKU-IN-0003|Reliance Digital - IN|India|Apple|"MacBook Air 15"" M3"|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.reliancedigital.in/products/apple-macbook-air-15-m3-intel-core-7
+SKU-IN-0007|Reliance Digital - IN|India|ASUS|Zenbook Duo (2024)|Intel Core i9|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.reliancedigital.in/products/asus-zenbook-duo-2024--intel-core-i9
+SKU-IN-0010|Reliance Digital - IN|India|MSI|Prestige 16 AI Evo|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/msi-prestige-16-ai-evo-intel-core-ultra-5
+|Reliance Digital - IN|India|Apple|"MacBook Air 15"" M3"|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/apple-macbook-air-15-m3-intel-core-i5
+SKU-IN-0014|Reliance Digital - IN|India|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core Ultra 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-ultra-7
+SKU-IN-0015|Reliance Digital - IN|India|ASUS|Zenbook 14 OLED|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/asus-zenbook-14-oled-intel-core-i7
+SKU-IN-0016|Reliance Digital - IN|India|Acer|Aspire 5|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/acer-aspire-5-intel-core-7
+SKU-IN-0019|Reliance Digital - IN|India|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/apple-macbook-air-15-m3-intel-core-ultra-9
+SKU-IN-0020|Reliance Digital - IN|India|Dell|G15 Gaming (5530)|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/dell-g15-gaming-5530--intel-core-i9
+SKU-IN-0023|Reliance Digital - IN|India|ASUS|Vivobook S 15 OLED|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/asus-vivobook-s-15-oled-intel-core-ultra-5
+SKU-IN-0027|Reliance Digital - IN|India|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/apple-macbook-air-15-m3-intel-core-ultra-7
+SKU-IN-0028|Reliance Digital - IN|India|Dell|XPS 14 (9440)|Intel Core i7|N|NO||40|LISTING_ONLY (2-Rule)|https://www.reliancedigital.in/products/dell-xps-14-9440--intel-core-i7
+SKU-JP-0001|Yodobashi - JP|Japan|Acer|Swift X 14|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.yodobashi.com/products/acer-swift-x-14-intel-core-i9
+SKU-JP-0004|Yodobashi - JP|Japan|Apple|"MacBook Pro 14"" M3"|Intel Core Ultra 5|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.yodobashi.com/products/apple-macbook-pro-14-m3-intel-core-ultra-5
+SKU-JP-0005|Yodobashi - JP|Japan|Dell|Latitude 5540|Intel Core i5|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.yodobashi.com/products/dell-latitude-5540-intel-core-i5
+SKU-JP-0008|Yodobashi - JP|Japan|ASUS|Zenbook 14 OLED|Intel Core Ultra 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.yodobashi.com/products/asus-zenbook-14-oled-intel-core-ultra-7
+SKU-JP-0009|Yodobashi - JP|Japan|Acer|Aspire 5|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.yodobashi.com/products/acer-aspire-5-intel-core-i7
+SKU-JP-0010|Yodobashi - JP|Japan|Samsung|Galaxy Book4 Ultra|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/samsung-galaxy-book4-ultra-intel-core-7
+SKU-JP-0013|Yodobashi - JP|Japan|Dell|G15 Gaming (5530)|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/dell-g15-gaming-5530--intel-core-ultra-9
+SKU-JP-0014|Yodobashi - JP|Japan|HP|Spectre x360 14|Intel Core i9|N|NO||90|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/hp-spectre-x360-14-intel-core-i9
+SKU-JP-0017|Yodobashi - JP|Japan|Acer|Predator Helios 16|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/acer-predator-helios-16-intel-core-ultra-5
+SKU-JP-0021|Yodobashi - JP|Japan|Dell|XPS 14 (9440)|Intel Core Ultra 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/dell-xps-14-9440--intel-core-ultra-7
+|Yodobashi - JP|Japan|HP|Spectre x360 16|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/hp-spectre-x360-16-intel-core-i7
+SKU-JP-0023|Yodobashi - JP|Japan|Lenovo|Yoga 7i 2-in-1|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/lenovo-yoga-7i-2-in-1-intel-core-7
+SKU-JP-0026|Yodobashi - JP|Japan|Samsung|Galaxy Book4 360|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/samsung-galaxy-book4-360-intel-core-ultra-9
+SKU-JP-0027|Yodobashi - JP|Japan|MSI|Raider GE78 HX|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.yodobashi.com/products/msi-raider-ge78-hx-intel-core-i9
+SKU-AU-0002|JB Hi-Fi - AU|Australia|Acer|Aspire 5|Intel Core Ultra 7|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.jbhifi.com.au/products/acer-aspire-5-intel-core-ultra-7
+SKU-AU-0003|JB Hi-Fi - AU|Australia|Samsung|Galaxy Book4 Pro|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.jbhifi.com.au/products/samsung-galaxy-book4-pro-intel-core-i7
+SKU-AU-0004|JB Hi-Fi - AU|Australia|MSI|Modern 14|Intel Core 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.jbhifi.com.au/products/msi-modern-14-intel-core-7
+SKU-AU-0007|JB Hi-Fi - AU|Australia|HP|Spectre x360 14|Intel Core Ultra 9|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.jbhifi.com.au/products/hp-spectre-x360-14-intel-core-ultra-9
+SKU-AU-0008|JB Hi-Fi - AU|Australia|Lenovo|"Yoga Pro 9i (16"")"|Intel Core i9|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.jbhifi.com.au/products/lenovo-yoga-pro-9i-16--intel-core-i9
+|JB Hi-Fi - AU|Australia|Samsung|Galaxy Book4 360|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.jbhifi.com.au/products/samsung-galaxy-book4-360-intel-core-ultra-5
+SKU-AU-0015|JB Hi-Fi - AU|Australia|HP|Spectre x360 16|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.jbhifi.com.au/products/hp-spectre-x360-16-intel-core-ultra-7
+SKU-AU-0016|JB Hi-Fi - AU|Australia|Lenovo|Yoga 7i 2-in-1|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.jbhifi.com.au/products/lenovo-yoga-7i-2-in-1-intel-core-i7
+SKU-AU-0017|JB Hi-Fi - AU|Australia|ASUS|ROG Zephyrus G16|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.jbhifi.com.au/products/asus-rog-zephyrus-g16-intel-core-7
+SKU-AU-0020|JB Hi-Fi - AU|Australia|MSI|Prestige 16 AI Evo|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.jbhifi.com.au/products/msi-prestige-16-ai-evo-intel-core-ultra-9
+SKU-AU-0021|JB Hi-Fi - AU|Australia|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i9|N|NO||90|LISTING_ONLY (2-Rule)|https://www.jbhifi.com.au/products/apple-macbook-pro-16-m3-max-intel-core-i9
+SKU-AU-0025|JB Hi-Fi - AU|Australia|ASUS|ROG Strix SCAR 18|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.jbhifi.com.au/products/asus-rog-strix-scar-18-intel-core-i5
+SKU-AU-0028|JB Hi-Fi - AU|Australia|MSI|Cyborg 15|Intel Core Ultra 7|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.jbhifi.com.au/products/msi-cyborg-15-intel-core-ultra-7
+SKU-AU-0029|JB Hi-Fi - AU|Australia|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.jbhifi.com.au/products/apple-macbook-pro-16-m3-max-intel-core-i7
+SKU-AU-0001|Officeworks - AU|Australia|Lenovo|"Yoga Pro 9i (16"")"|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.officeworks.com.au/products/lenovo-yoga-pro-9i-16--intel-core-ultra-9
+SKU-AU-0002|Officeworks - AU|Australia|ASUS|Vivobook S 15 OLED|Intel Core i9|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.officeworks.com.au/products/asus-vivobook-s-15-oled-intel-core-i9
+SKU-AU-0005|Officeworks - AU|Australia|MSI|Prestige 16 AI Evo|Intel Core Ultra 5|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.officeworks.com.au/products/msi-prestige-16-ai-evo-intel-core-ultra-5
+SKU-AU-0009|Officeworks - AU|Australia|Lenovo|Yoga 7i 2-in-1|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/lenovo-yoga-7i-2-in-1-intel-core-ultra-7
+SKU-AU-0010|Officeworks - AU|Australia|ASUS|ROG Zephyrus G16|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/asus-rog-zephyrus-g16-intel-core-i7
+|Officeworks - AU|Australia|Acer|Nitro 16|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/acer-nitro-16-intel-core-7
+SKU-AU-0014|Officeworks - AU|Australia|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 9|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/apple-macbook-air-13-m3-intel-core-ultra-9
+SKU-AU-0015|Officeworks - AU|Australia|Dell|XPS 16 (9640)|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/dell-xps-16-9640--intel-core-i9
+SKU-AU-0019|Officeworks - AU|Australia|Acer|TravelMate P6|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/acer-travelmate-p6-intel-core-i5
+|Officeworks - AU|Australia|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/apple-macbook-air-13-m3-intel-core-ultra-7
+SKU-AU-0023|Officeworks - AU|Australia|Dell|Inspiron 15 (3520)|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/dell-inspiron-15-3520--intel-core-i7
+SKU-AU-0027|Officeworks - AU|Australia|Acer|Spin 5|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.officeworks.com.au/products/acer-spin-5-intel-core-ultra-9
+SKU-BR-0003|Amazon - BR|Brazil|ASUS|ROG Zephyrus G16|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.br/products/asus-rog-zephyrus-g16-intel-core-ultra-7
+SKU-BR-0004|Amazon - BR|Brazil|Acer|Nitro 16|Intel Core i7|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.br/products/acer-nitro-16-intel-core-i7
+SKU-BR-0005|Amazon - BR|Brazil|Samsung|Galaxy Book4 360|Intel Core 7|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.br/products/samsung-galaxy-book4-360-intel-core-7
+SKU-BR-0008|Amazon - BR|Brazil|Dell|XPS 16 (9640)|Intel Core Ultra 9|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.br/products/dell-xps-16-9640--intel-core-ultra-9
+SKU-BR-0009|Amazon - BR|Brazil|HP|Envy x360 15|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.br/products/hp-envy-x360-15-intel-core-i9
+SKU-BR-0013|Amazon - BR|Brazil|Samsung|Galaxy Book4 Ultra|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/samsung-galaxy-book4-ultra-intel-core-i5
+SKU-BR-0016|Amazon - BR|Brazil|Dell|Inspiron 15 (3520)|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/dell-inspiron-15-3520--intel-core-ultra-7
+SKU-BR-0017|Amazon - BR|Brazil|HP|Pavilion Plus 14|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/hp-pavilion-plus-14-intel-core-i7
+SKU-BR-0021|Amazon - BR|Brazil|Samsung|Galaxy Book4 Pro|Intel Core Ultra 9|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/samsung-galaxy-book4-pro-intel-core-ultra-9
+|Amazon - BR|Brazil|MSI|Raider GE78 HX|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/msi-raider-ge78-hx-intel-core-i9
+SKU-BR-0025|Amazon - BR|Brazil|HP|OMEN 16 Transcend|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/hp-omen-16-transcend-intel-core-ultra-5
+SKU-BR-0026|Amazon - BR|Brazil|Lenovo|ThinkBook 16 Gen 6|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/lenovo-thinkbook-16-gen-6-intel-core-i5
+SKU-BR-0029|Amazon - BR|Brazil|Samsung|Galaxy Book4 360|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/samsung-galaxy-book4-360-intel-core-ultra-7
+SKU-BR-0031|Amazon - BR|Brazil|Apple|"MacBook Air 15"" M3"|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.br/products/apple-macbook-air-15-m3-intel-core-7
+SKU-BR-0002|Magazine Luiza - BR|Brazil|HP|Envy x360 15|Intel Core Ultra 9|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.magazineluiza.com.br/products/hp-envy-x360-15-intel-core-ultra-9
+SKU-BR-0003|Magazine Luiza - BR|Brazil|Lenovo|IdeaPad Slim 5|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.magazineluiza.com.br/products/lenovo-ideapad-slim-5-intel-core-i9
+SKU-BR-0007|Magazine Luiza - BR|Brazil|MSI|Raider GE78 HX|Intel Core i5|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.magazineluiza.com.br/products/msi-raider-ge78-hx-intel-core-i5
+SKU-BR-0010|Magazine Luiza - BR|Brazil|HP|Pavilion Plus 14|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/hp-pavilion-plus-14-intel-core-ultra-7
+|Magazine Luiza - BR|Brazil|Lenovo|Legion Pro 7i|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/lenovo-legion-pro-7i-intel-core-i7
+SKU-BR-0015|Magazine Luiza - BR|Brazil|MSI|Prestige 16 AI Evo|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/msi-prestige-16-ai-evo-intel-core-ultra-9
+SKU-BR-0016|Magazine Luiza - BR|Brazil|Apple|"MacBook Pro 14"" M3"|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/apple-macbook-pro-14-m3-intel-core-i9
+SKU-BR-0019|Magazine Luiza - BR|Brazil|Lenovo|ThinkBook 16 Gen 6|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/lenovo-thinkbook-16-gen-6-intel-core-ultra-5
+SKU-BR-0020|Magazine Luiza - BR|Brazil|ASUS|ExpertBook B9|Intel Core i5|N|NO||50|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/asus-expertbook-b9-intel-core-i5
+SKU-BR-0023|Magazine Luiza - BR|Brazil|MSI|Cyborg 15|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/msi-cyborg-15-intel-core-ultra-7
+SKU-BR-0025|Magazine Luiza - BR|Brazil|Dell|Alienware m16 R2|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/dell-alienware-m16-r2-intel-core-7
+SKU-BR-0028|Magazine Luiza - BR|Brazil|ASUS|Zenbook Duo (2024)|Intel Core Ultra 9|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.magazineluiza.com.br/products/asus-zenbook-duo-2024--intel-core-ultra-9
+SKU-BR-0001|Mercado Livre - BR|Brazil|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolivre.com.br/products/apple-macbook-pro-16-m3-max-intel-core-i5
+SKU-BR-0004|Mercado Livre - BR|Brazil|Lenovo|Legion Pro 7i|Intel Core Ultra 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolivre.com.br/products/lenovo-legion-pro-7i-intel-core-ultra-7
+SKU-BR-0005|Mercado Livre - BR|Brazil|ASUS|TUF Gaming A15|Intel Core i7|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolivre.com.br/products/asus-tuf-gaming-a15-intel-core-i7
+SKU-BR-0009|Mercado Livre - BR|Brazil|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolivre.com.br/products/apple-macbook-pro-16-m3-max-intel-core-ultra-9
+SKU-BR-0010|Mercado Livre - BR|Brazil|Dell|Inspiron 16 Plus (7640)|Intel Core i9|N|NO|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolivre.com.br/products/dell-inspiron-16-plus-7640--intel-core-i9
+SKU-BR-0013|Mercado Livre - BR|Brazil|ASUS|ExpertBook B9|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolivre.com.br/products/asus-expertbook-b9-intel-core-ultra-5
+SKU-BR-0014|Mercado Livre - BR|Brazil|Acer|Swift Go 14 AI|Intel Core i5|N|NO||90|LISTING_ONLY (2-Rule)|https://www.mercadolivre.com.br/products/acer-swift-go-14-ai-intel-core-i5
+SKU-BR-0017|Mercado Livre - BR|Brazil|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolivre.com.br/products/apple-macbook-pro-16-m3-max-intel-core-ultra-7
+SKU-BR-0019|Mercado Livre - BR|Brazil|HP|Victus 15|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolivre.com.br/products/hp-victus-15-intel-core-7
+|Mercado Livre - BR|Brazil|Acer|Swift X 14|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolivre.com.br/products/acer-swift-x-14-intel-core-ultra-9
+SKU-BR-0023|Mercado Livre - BR|Brazil|Samsung|Galaxy Book4 360|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolivre.com.br/products/samsung-galaxy-book4-360-intel-core-i9
+SKU-BR-0026|Mercado Livre - BR|Brazil|Dell|Latitude 5540|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolivre.com.br/products/dell-latitude-5540-intel-core-ultra-5
+SKU-BR-0027|Mercado Livre - BR|Brazil|HP|EliteBook 840 G10|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolivre.com.br/products/hp-elitebook-840-g10-intel-core-i5
+SKU-MX-0003|Amazon - MX|Mexico|Dell|Inspiron 16 Plus (7640)|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.mx/products/dell-inspiron-16-plus-7640--intel-core-ultra-9
+SKU-MX-0004|Amazon - MX|Mexico|HP|OMEN 16 Transcend|Intel Core i9|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.mx/products/hp-omen-16-transcend-intel-core-i9
+SKU-MX-0007|Amazon - MX|Mexico|Acer|Swift Go 14 AI|Intel Core Ultra 5|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.mx/products/acer-swift-go-14-ai-intel-core-ultra-5
+SKU-MX-0008|Amazon - MX|Mexico|Samsung|Galaxy Book4 360|Intel Core i5|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.mx/products/samsung-galaxy-book4-360-intel-core-i5
+|Amazon - MX|Mexico|Dell|Alienware m16 R2|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.amazon.com.mx/products/dell-alienware-m16-r2-intel-core-ultra-7
+SKU-MX-0013|Amazon - MX|Mexico|Lenovo|LOQ 15IRX9|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.mx/products/lenovo-loq-15irx9-intel-core-7
+SKU-MX-0016|Amazon - MX|Mexico|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.amazon.com.mx/products/samsung-galaxy-book4-ultra-intel-core-ultra-9
+SKU-MX-0017|Amazon - MX|Mexico|MSI|Raider GE78 HX|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.mx/products/msi-raider-ge78-hx-intel-core-i9
+SKU-MX-0020|Amazon - MX|Mexico|HP|EliteBook 840 G10|Intel Core Ultra 5|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.amazon.com.mx/products/hp-elitebook-840-g10-intel-core-ultra-5
+SKU-MX-0021|Amazon - MX|Mexico|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core i5|N|NO||90|LISTING_ONLY (2-Rule)|https://www.amazon.com.mx/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-i5
+SKU-MX-0025|Amazon - MX|Mexico|MSI|Prestige 16 AI Evo|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.mx/products/msi-prestige-16-ai-evo-intel-core-i7
+SKU-MX-0026|Amazon - MX|Mexico|Apple|"MacBook Air 13"" M3"|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.mx/products/apple-macbook-air-13-m3-intel-core-7
+SKU-MX-0029|Amazon - MX|Mexico|Lenovo|"Yoga Pro 9i (16"")"|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.amazon.com.mx/products/lenovo-yoga-pro-9i-16--intel-core-ultra-9
+SKU-MX-0001|Mercado Libre - MX|Mexico|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.com.mx/products/samsung-galaxy-book4-ultra-intel-core-ultra-5
+SKU-MX-0002|Mercado Libre - MX|Mexico|MSI|Raider GE78 HX|Intel Core i5|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.com.mx/products/msi-raider-ge78-hx-intel-core-i5
+SKU-MX-0005|Mercado Libre - MX|Mexico|HP|Victus 15|Intel Core Ultra 7|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.com.mx/products/hp-victus-15-intel-core-ultra-7
+SKU-MX-0007|Mercado Libre - MX|Mexico|ASUS|Zenbook Duo (2024)|Intel Core 7|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.com.mx/products/asus-zenbook-duo-2024--intel-core-7
+SKU-MX-0010|Mercado Libre - MX|Mexico|MSI|Prestige 16 AI Evo|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/msi-prestige-16-ai-evo-intel-core-ultra-9
+|Mercado Libre - MX|Mexico|Apple|"MacBook Air 15"" M3"|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/apple-macbook-air-15-m3-intel-core-i9
+SKU-MX-0014|Mercado Libre - MX|Mexico|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core Ultra 5|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-ultra-5
+SKU-MX-0015|Mercado Libre - MX|Mexico|ASUS|Zenbook 14 OLED|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/asus-zenbook-14-oled-intel-core-i5
+SKU-MX-0019|Mercado Libre - MX|Mexico|Apple|"MacBook Air 15"" M3"|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/apple-macbook-air-15-m3-intel-core-i7
+SKU-MX-0020|Mercado Libre - MX|Mexico|Dell|G15 Gaming (5530)|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/dell-g15-gaming-5530--intel-core-7
+SKU-MX-0023|Mercado Libre - MX|Mexico|ASUS|Vivobook S 15 OLED|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/asus-vivobook-s-15-oled-intel-core-ultra-9
+SKU-MX-0027|Mercado Libre - MX|Mexico|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/apple-macbook-air-15-m3-intel-core-ultra-5
+SKU-MX-0028|Mercado Libre - MX|Mexico|Dell|XPS 14 (9440)|Intel Core i5|N|NO||40|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.mx/products/dell-xps-14-9440--intel-core-i5
+SKU-CN-0001|JD - CN|China|Acer|Swift X 14|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.jd.com/products/acer-swift-x-14-intel-core-7
+SKU-CN-0004|JD - CN|China|Apple|"MacBook Pro 14"" M3"|Intel Core Ultra 9|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.jd.com/products/apple-macbook-pro-14-m3-intel-core-ultra-9
+SKU-CN-0005|JD - CN|China|Dell|Latitude 5540|Intel Core i9|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.jd.com/products/dell-latitude-5540-intel-core-i9
+SKU-CN-0008|JD - CN|China|ASUS|Zenbook 14 OLED|Intel Core Ultra 5|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.jd.com/products/asus-zenbook-14-oled-intel-core-ultra-5
+SKU-CN-0009|JD - CN|China|Acer|Aspire 5|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.jd.com/products/acer-aspire-5-intel-core-i5
+SKU-CN-0013|JD - CN|China|Dell|G15 Gaming (5530)|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.jd.com/products/dell-g15-gaming-5530--intel-core-i7
+SKU-CN-0014|JD - CN|China|HP|Spectre x360 14|Intel Core 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.jd.com/products/hp-spectre-x360-14-intel-core-7
+SKU-CN-0017|JD - CN|China|Acer|Predator Helios 16|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.jd.com/products/acer-predator-helios-16-intel-core-ultra-9
+SKU-CN-0021|JD - CN|China|Dell|XPS 14 (9440)|Intel Core Ultra 5|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.jd.com/products/dell-xps-14-9440--intel-core-ultra-5
+|JD - CN|China|HP|Spectre x360 16|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.jd.com/products/hp-spectre-x360-16-intel-core-i5
+SKU-CN-0025|JD - CN|China|Acer|Nitro 16|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.jd.com/products/acer-nitro-16-intel-core-ultra-7
+SKU-CN-0026|JD - CN|China|Samsung|Galaxy Book4 360|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.jd.com/products/samsung-galaxy-book4-360-intel-core-i7
+SKU-CN-0027|JD - CN|China|MSI|Raider GE78 HX|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.jd.com/products/msi-raider-ge78-hx-intel-core-7
+SKU-CN-0031|JD - CN|China|Lenovo|IdeaPad Slim 5|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.jd.com/products/lenovo-ideapad-slim-5-intel-core-i9
+SKU-CN-0002|Tmall - CN|China|Acer|Aspire 5|Intel Core Ultra 5|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.tmall.com/products/acer-aspire-5-intel-core-ultra-5
+SKU-CN-0003|Tmall - CN|China|Samsung|Galaxy Book4 Pro|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.tmall.com/products/samsung-galaxy-book4-pro-intel-core-i5
+SKU-CN-0007|Tmall - CN|China|HP|Spectre x360 14|Intel Core i7|N|NO||90|LISTING_ONLY (2-Rule)|https://www.tmall.com/products/hp-spectre-x360-14-intel-core-i7
+SKU-CN-0008|Tmall - CN|China|Lenovo|"Yoga Pro 9i (16"")"|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.tmall.com/products/lenovo-yoga-pro-9i-16--intel-core-7
+|Tmall - CN|China|Samsung|Galaxy Book4 360|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.tmall.com/products/samsung-galaxy-book4-360-intel-core-ultra-9
+SKU-CN-0015|Tmall - CN|China|HP|Spectre x360 16|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.tmall.com/products/hp-spectre-x360-16-intel-core-ultra-5
+SKU-CN-0016|Tmall - CN|China|Lenovo|Yoga 7i 2-in-1|Intel Core i5|N|NO||50|LISTING_ONLY (2-Rule)|https://www.tmall.com/products/lenovo-yoga-7i-2-in-1-intel-core-i5
+SKU-CN-0019|Tmall - CN|China|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.tmall.com/products/samsung-galaxy-book4-ultra-intel-core-ultra-7
+SKU-CN-0020|Tmall - CN|China|MSI|Prestige 16 AI Evo|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.tmall.com/products/msi-prestige-16-ai-evo-intel-core-i7
+SKU-CN-0021|Tmall - CN|China|Apple|"MacBook Pro 16"" M3 Max"|Intel Core 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.tmall.com/products/apple-macbook-pro-16-m3-max-intel-core-7
+SKU-KR-0001|Coupang - KR|South Korea|Lenovo|"Yoga Pro 9i (16"")"|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.coupang.com/products/lenovo-yoga-pro-9i-16--intel-core-i7
+SKU-KR-0002|Coupang - KR|South Korea|ASUS|Vivobook S 15 OLED|Intel Core 7|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.coupang.com/products/asus-vivobook-s-15-oled-intel-core-7
+SKU-KR-0005|Coupang - KR|South Korea|MSI|Prestige 16 AI Evo|Intel Core Ultra 9|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.coupang.com/products/msi-prestige-16-ai-evo-intel-core-ultra-9
+SKU-KR-0009|Coupang - KR|South Korea|Lenovo|Yoga 7i 2-in-1|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.coupang.com/products/lenovo-yoga-7i-2-in-1-intel-core-ultra-5
+SKU-KR-0010|Coupang - KR|South Korea|ASUS|ROG Zephyrus G16|Intel Core i5|N|NO|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.coupang.com/products/asus-rog-zephyrus-g16-intel-core-i5
+SKU-KR-0013|Coupang - KR|South Korea|MSI|Cyborg 15|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/msi-cyborg-15-intel-core-ultra-7
+SKU-KR-0014|Coupang - KR|South Korea|Apple|"MacBook Air 13"" M3"|Intel Core i7|N|NO||90|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/apple-macbook-air-13-m3-intel-core-i7
+SKU-KR-0015|Coupang - KR|South Korea|Dell|XPS 16 (9640)|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/dell-xps-16-9640--intel-core-7
+SKU-KR-0019|Coupang - KR|South Korea|Acer|TravelMate P6|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/acer-travelmate-p6-intel-core-i9
+|Coupang - KR|South Korea|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/apple-macbook-air-13-m3-intel-core-ultra-5
+SKU-KR-0023|Coupang - KR|South Korea|Dell|Inspiron 15 (3520)|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/dell-inspiron-15-3520--intel-core-i5
+SKU-KR-0026|Coupang - KR|South Korea|ASUS|TUF Gaming A15|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/asus-tuf-gaming-a15-intel-core-ultra-7
+SKU-KR-0027|Coupang - KR|South Korea|Acer|Spin 5|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/acer-spin-5-intel-core-i7
+SKU-KR-0028|Coupang - KR|South Korea|Samsung|Galaxy Book4 Ultra|Intel Core 7|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.coupang.com/products/samsung-galaxy-book4-ultra-intel-core-7
+SKU-KR-0003|Gmarket - KR|South Korea|ASUS|ROG Zephyrus G16|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.gmarket.co.kr/products/asus-rog-zephyrus-g16-intel-core-ultra-5
+SKU-KR-0004|Gmarket - KR|South Korea|Acer|Nitro 16|Intel Core i5|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.gmarket.co.kr/products/acer-nitro-16-intel-core-i5
+SKU-KR-0007|Gmarket - KR|South Korea|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 7|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.gmarket.co.kr/products/apple-macbook-air-15-m3-intel-core-ultra-7
+SKU-KR-0008|Gmarket - KR|South Korea|Dell|XPS 16 (9640)|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/dell-xps-16-9640--intel-core-i7
+SKU-KR-0009|Gmarket - KR|South Korea|HP|Envy x360 15|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/hp-envy-x360-15-intel-core-7
+SKU-KR-0013|Gmarket - KR|South Korea|Samsung|Galaxy Book4 Ultra|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/samsung-galaxy-book4-ultra-intel-core-i9
+SKU-KR-0016|Gmarket - KR|South Korea|Dell|Inspiron 15 (3520)|Intel Core Ultra 5|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/dell-inspiron-15-3520--intel-core-ultra-5
+SKU-KR-0017|Gmarket - KR|South Korea|HP|Pavilion Plus 14|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/hp-pavilion-plus-14-intel-core-i5
+SKU-KR-0020|Gmarket - KR|South Korea|Acer|Spin 5|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/acer-spin-5-intel-core-ultra-7
+SKU-KR-0021|Gmarket - KR|South Korea|Samsung|Galaxy Book4 Pro|Intel Core i7|N|NO||90|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/samsung-galaxy-book4-pro-intel-core-i7
+|Gmarket - KR|South Korea|MSI|Raider GE78 HX|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/msi-raider-ge78-hx-intel-core-7
+SKU-KR-0025|Gmarket - KR|South Korea|HP|OMEN 16 Transcend|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.gmarket.co.kr/products/hp-omen-16-transcend-intel-core-ultra-9
+SKU-PL-0001|Komputronik - PL|Poland|Dell|XPS 16 (9640)|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.komputronik.pl/products/dell-xps-16-9640--intel-core-ultra-7
+SKU-PL-0002|Komputronik - PL|Poland|HP|Envy x360 15|Intel Core i7|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.komputronik.pl/products/hp-envy-x360-15-intel-core-i7
+SKU-PL-0003|Komputronik - PL|Poland|Lenovo|IdeaPad Slim 5|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.komputronik.pl/products/lenovo-ideapad-slim-5-intel-core-7
+SKU-PL-0007|Komputronik - PL|Poland|MSI|Raider GE78 HX|Intel Core i9|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.komputronik.pl/products/msi-raider-ge78-hx-intel-core-i9
+SKU-PL-0010|Komputronik - PL|Poland|HP|Pavilion Plus 14|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/hp-pavilion-plus-14-intel-core-ultra-5
+|Komputronik - PL|Poland|Lenovo|Legion Pro 7i|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/lenovo-legion-pro-7i-intel-core-i5
+SKU-PL-0014|Komputronik - PL|Poland|Samsung|Galaxy Book4 360|Intel Core Ultra 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/samsung-galaxy-book4-360-intel-core-ultra-7
+SKU-PL-0015|Komputronik - PL|Poland|MSI|Prestige 16 AI Evo|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/msi-prestige-16-ai-evo-intel-core-i7
+SKU-PL-0016|Komputronik - PL|Poland|Apple|"MacBook Pro 14"" M3"|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/apple-macbook-pro-14-m3-intel-core-7
+SKU-PL-0019|Komputronik - PL|Poland|Lenovo|ThinkBook 16 Gen 6|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/lenovo-thinkbook-16-gen-6-intel-core-ultra-9
+SKU-PL-0020|Komputronik - PL|Poland|ASUS|ExpertBook B9|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/asus-expertbook-b9-intel-core-i9
+SKU-PL-0023|Komputronik - PL|Poland|MSI|Cyborg 15|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/msi-cyborg-15-intel-core-ultra-5
+SKU-PL-0027|Komputronik - PL|Poland|Lenovo|LOQ 15IRX9|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/lenovo-loq-15irx9-intel-core-ultra-7
+SKU-PL-0028|Komputronik - PL|Poland|ASUS|Zenbook Duo (2024)|Intel Core i7|N|NO||40|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/asus-zenbook-duo-2024--intel-core-i7
+SKU-PL-0029|Komputronik - PL|Poland|Acer|Swift X 14|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.komputronik.pl/products/acer-swift-x-14-intel-core-7
+SKU-PL-0001|TERG / MediaExpert - PL|Poland|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediaexpert.pl/products/apple-macbook-pro-16-m3-max-intel-core-i9
+SKU-PL-0004|TERG / MediaExpert - PL|Poland|Lenovo|Legion Pro 7i|Intel Core Ultra 5|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.mediaexpert.pl/products/lenovo-legion-pro-7i-intel-core-ultra-5
+SKU-PL-0005|TERG / MediaExpert - PL|Poland|ASUS|TUF Gaming A15|Intel Core i5|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.mediaexpert.pl/products/asus-tuf-gaming-a15-intel-core-i5
+SKU-PL-0008|TERG / MediaExpert - PL|Poland|MSI|Cyborg 15|Intel Core Ultra 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.mediaexpert.pl/products/msi-cyborg-15-intel-core-ultra-7
+SKU-PL-0009|TERG / MediaExpert - PL|Poland|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediaexpert.pl/products/apple-macbook-pro-16-m3-max-intel-core-i7
+SKU-PL-0010|TERG / MediaExpert - PL|Poland|Dell|Inspiron 16 Plus (7640)|Intel Core 7|Y|YES|87|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediaexpert.pl/products/dell-inspiron-16-plus-7640--intel-core-7
+SKU-PL-0013|TERG / MediaExpert - PL|Poland|ASUS|ExpertBook B9|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaexpert.pl/products/asus-expertbook-b9-intel-core-ultra-9
+SKU-PL-0014|TERG / MediaExpert - PL|Poland|Acer|Swift Go 14 AI|Intel Core i9|N|NO||90|LISTING_ONLY (2-Rule)|https://www.mediaexpert.pl/products/acer-swift-go-14-ai-intel-core-i9
+SKU-PL-0017|TERG / MediaExpert - PL|Poland|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaexpert.pl/products/apple-macbook-pro-16-m3-max-intel-core-ultra-5
+SKU-PL-0021|TERG / MediaExpert - PL|Poland|ASUS|Zenbook Duo (2024)|Intel Core Ultra 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.mediaexpert.pl/products/asus-zenbook-duo-2024--intel-core-ultra-7
+|TERG / MediaExpert - PL|Poland|Acer|Swift X 14|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediaexpert.pl/products/acer-swift-x-14-intel-core-i7
+SKU-PL-0023|TERG / MediaExpert - PL|Poland|Samsung|Galaxy Book4 360|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaexpert.pl/products/samsung-galaxy-book4-360-intel-core-7
+SKU-PL-0026|TERG / MediaExpert - PL|Poland|Dell|Latitude 5540|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediaexpert.pl/products/dell-latitude-5540-intel-core-ultra-9
+SKU-PL-0027|TERG / MediaExpert - PL|Poland|HP|EliteBook 840 G10|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediaexpert.pl/products/hp-elitebook-840-g10-intel-core-i9
+SKU-SE-0002|Elkjop - SE|Sweden|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 7|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.elgiganten.se/products/apple-macbook-air-13-m3-intel-core-ultra-7
+SKU-SE-0003|Elkjop - SE|Sweden|Dell|Inspiron 16 Plus (7640)|Intel Core i7|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.elgiganten.se/products/dell-inspiron-16-plus-7640--intel-core-i7
+SKU-SE-0004|Elkjop - SE|Sweden|HP|OMEN 16 Transcend|Intel Core 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.elgiganten.se/products/hp-omen-16-transcend-intel-core-7
+SKU-SE-0007|Elkjop - SE|Sweden|Acer|Swift Go 14 AI|Intel Core Ultra 9|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.elgiganten.se/products/acer-swift-go-14-ai-intel-core-ultra-9
+SKU-SE-0008|Elkjop - SE|Sweden|Samsung|Galaxy Book4 360|Intel Core i9|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.elgiganten.se/products/samsung-galaxy-book4-360-intel-core-i9
+|Elkjop - SE|Sweden|Dell|Alienware m16 R2|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.se/products/dell-alienware-m16-r2-intel-core-ultra-5
+SKU-SE-0015|Elkjop - SE|Sweden|Acer|Swift X 14|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.se/products/acer-swift-x-14-intel-core-ultra-7
+SKU-SE-0016|Elkjop - SE|Sweden|Samsung|Galaxy Book4 Ultra|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.elgiganten.se/products/samsung-galaxy-book4-ultra-intel-core-i7
+SKU-SE-0017|Elkjop - SE|Sweden|MSI|Raider GE78 HX|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.se/products/msi-raider-ge78-hx-intel-core-7
+SKU-SE-0020|Elkjop - SE|Sweden|HP|EliteBook 840 G10|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.elgiganten.se/products/hp-elitebook-840-g10-intel-core-ultra-9
+SKU-SE-0021|Elkjop - SE|Sweden|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core i9|N|NO||90|LISTING_ONLY (2-Rule)|https://www.elgiganten.se/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-i9
+SKU-SE-0025|Elkjop - SE|Sweden|MSI|Prestige 16 AI Evo|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.se/products/msi-prestige-16-ai-evo-intel-core-i5
+SKU-SE-0028|Elkjop - SE|Sweden|HP|Spectre x360 14|Intel Core Ultra 7|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.elgiganten.se/products/hp-spectre-x360-14-intel-core-ultra-7
+SKU-NO-0001|Elkjop - NO|Norway|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.elkjop.no/products/samsung-galaxy-book4-ultra-intel-core-ultra-9
+SKU-NO-0002|Elkjop - NO|Norway|MSI|Raider GE78 HX|Intel Core i9|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.elkjop.no/products/msi-raider-ge78-hx-intel-core-i9
+SKU-NO-0005|Elkjop - NO|Norway|HP|Victus 15|Intel Core Ultra 5|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.elkjop.no/products/hp-victus-15-intel-core-ultra-5
+SKU-NO-0009|Elkjop - NO|Norway|Samsung|Galaxy Book4 Pro|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/samsung-galaxy-book4-pro-intel-core-ultra-7
+SKU-NO-0010|Elkjop - NO|Norway|MSI|Prestige 16 AI Evo|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/msi-prestige-16-ai-evo-intel-core-i7
+|Elkjop - NO|Norway|Apple|"MacBook Air 15"" M3"|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/apple-macbook-air-15-m3-intel-core-7
+SKU-NO-0014|Elkjop - NO|Norway|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core Ultra 9|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-ultra-9
+SKU-NO-0015|Elkjop - NO|Norway|ASUS|Zenbook 14 OLED|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/asus-zenbook-14-oled-intel-core-i9
+SKU-NO-0019|Elkjop - NO|Norway|Apple|"MacBook Air 15"" M3"|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/apple-macbook-air-15-m3-intel-core-i5
+|Elkjop - NO|Norway|Lenovo|"Yoga Pro 9i (16"")"|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/lenovo-yoga-pro-9i-16--intel-core-ultra-7
+SKU-NO-0023|Elkjop - NO|Norway|ASUS|Vivobook S 15 OLED|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/asus-vivobook-s-15-oled-intel-core-i7
+SKU-NO-0027|Elkjop - NO|Norway|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/apple-macbook-air-15-m3-intel-core-ultra-9
+SKU-NO-0028|Elkjop - NO|Norway|Dell|XPS 14 (9440)|Intel Core i9|N|NO||40|LISTING_ONLY (2-Rule)|https://www.elkjop.no/products/dell-xps-14-9440--intel-core-i9
+SKU-DK-0003|Elgiganten - DK|Denmark|MSI|Cyborg 15|Intel Core Ultra 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.elgiganten.dk/products/msi-cyborg-15-intel-core-ultra-7
+SKU-DK-0004|Elgiganten - DK|Denmark|Apple|"MacBook Pro 14"" M3"|Intel Core i7|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.elgiganten.dk/products/apple-macbook-pro-14-m3-intel-core-i7
+SKU-DK-0005|Elgiganten - DK|Denmark|Dell|Latitude 5540|Intel Core 7|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.elgiganten.dk/products/dell-latitude-5540-intel-core-7
+SKU-DK-0008|Elgiganten - DK|Denmark|ASUS|Zenbook 14 OLED|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/asus-zenbook-14-oled-intel-core-ultra-9
+SKU-DK-0009|Elgiganten - DK|Denmark|Acer|Aspire 5|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/acer-aspire-5-intel-core-i9
+SKU-DK-0013|Elgiganten - DK|Denmark|Dell|G15 Gaming (5530)|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/dell-g15-gaming-5530--intel-core-i5
+SKU-DK-0016|Elgiganten - DK|Denmark|ASUS|Vivobook S 15 OLED|Intel Core Ultra 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/asus-vivobook-s-15-oled-intel-core-ultra-7
+SKU-DK-0017|Elgiganten - DK|Denmark|Acer|Predator Helios 16|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/acer-predator-helios-16-intel-core-i7
+SKU-DK-0021|Elgiganten - DK|Denmark|Dell|XPS 14 (9440)|Intel Core Ultra 9|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/dell-xps-14-9440--intel-core-ultra-9
+|Elgiganten - DK|Denmark|HP|Spectre x360 16|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/hp-spectre-x360-16-intel-core-i9
+SKU-DK-0025|Elgiganten - DK|Denmark|Acer|Nitro 16|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/acer-nitro-16-intel-core-ultra-5
+SKU-DK-0026|Elgiganten - DK|Denmark|Samsung|Galaxy Book4 360|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.elgiganten.dk/products/samsung-galaxy-book4-360-intel-core-i5
+SKU-TR-0002|MediaMarkt - TR|Turkey|Acer|Aspire 5|Intel Core Ultra 9|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.com.tr/products/acer-aspire-5-intel-core-ultra-9
+SKU-TR-0003|MediaMarkt - TR|Turkey|Samsung|Galaxy Book4 Pro|Intel Core i9|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.com.tr/products/samsung-galaxy-book4-pro-intel-core-i9
+SKU-TR-0007|MediaMarkt - TR|Turkey|HP|Spectre x360 14|Intel Core i5|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.mediamarkt.com.tr/products/hp-spectre-x360-14-intel-core-i5
+SKU-TR-0010|MediaMarkt - TR|Turkey|Acer|Predator Helios 16|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/acer-predator-helios-16-intel-core-ultra-7
+|MediaMarkt - TR|Turkey|Samsung|Galaxy Book4 360|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/samsung-galaxy-book4-360-intel-core-i7
+SKU-TR-0015|MediaMarkt - TR|Turkey|HP|Spectre x360 16|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/hp-spectre-x360-16-intel-core-ultra-9
+SKU-TR-0016|MediaMarkt - TR|Turkey|Lenovo|Yoga 7i 2-in-1|Intel Core i9|N|NO||50|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/lenovo-yoga-7i-2-in-1-intel-core-i9
+SKU-TR-0019|MediaMarkt - TR|Turkey|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/samsung-galaxy-book4-ultra-intel-core-ultra-5
+SKU-TR-0020|MediaMarkt - TR|Turkey|MSI|Prestige 16 AI Evo|Intel Core i5|N|NO||50|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/msi-prestige-16-ai-evo-intel-core-i5
+SKU-TR-0023|MediaMarkt - TR|Turkey|HP|Envy x360 15|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/hp-envy-x360-15-intel-core-ultra-7
+SKU-TR-0025|MediaMarkt - TR|Turkey|ASUS|ROG Strix SCAR 18|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/asus-rog-strix-scar-18-intel-core-7
+SKU-TR-0028|MediaMarkt - TR|Turkey|MSI|Cyborg 15|Intel Core Ultra 9|Y|YES||40|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/msi-cyborg-15-intel-core-ultra-9
+SKU-TR-0029|MediaMarkt - TR|Turkey|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mediamarkt.com.tr/products/apple-macbook-pro-16-m3-max-intel-core-i9
+SKU-TR-0001|Monster Notebook - TR|Turkey|Lenovo|"Yoga Pro 9i (16"")"|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.monsternotebook.com.tr/products/lenovo-yoga-pro-9i-16--intel-core-i5
+SKU-TR-0004|Monster Notebook - TR|Turkey|Samsung|Galaxy Book4 Ultra|Intel Core Ultra 7|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.monsternotebook.com.tr/products/samsung-galaxy-book4-ultra-intel-core-ultra-7
+SKU-TR-0005|Monster Notebook - TR|Turkey|MSI|Prestige 16 AI Evo|Intel Core i7|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.monsternotebook.com.tr/products/msi-prestige-16-ai-evo-intel-core-i7
+SKU-TR-0009|Monster Notebook - TR|Turkey|Lenovo|Yoga 7i 2-in-1|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/lenovo-yoga-7i-2-in-1-intel-core-ultra-9
+SKU-TR-0010|Monster Notebook - TR|Turkey|ASUS|ROG Zephyrus G16|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/asus-rog-zephyrus-g16-intel-core-i9
+SKU-TR-0013|Monster Notebook - TR|Turkey|MSI|Cyborg 15|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/msi-cyborg-15-intel-core-ultra-5
+SKU-TR-0014|Monster Notebook - TR|Turkey|Apple|"MacBook Air 13"" M3"|Intel Core i5|N|NO||90|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/apple-macbook-air-13-m3-intel-core-i5
+SKU-TR-0017|Monster Notebook - TR|Turkey|Lenovo|IdeaPad Slim 5|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/lenovo-ideapad-slim-5-intel-core-ultra-7
+SKU-TR-0019|Monster Notebook - TR|Turkey|Acer|TravelMate P6|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/acer-travelmate-p6-intel-core-7
+|Monster Notebook - TR|Turkey|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/apple-macbook-air-13-m3-intel-core-ultra-9
+SKU-TR-0023|Monster Notebook - TR|Turkey|Dell|Inspiron 15 (3520)|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/dell-inspiron-15-3520--intel-core-i9
+SKU-TR-0026|Monster Notebook - TR|Turkey|ASUS|TUF Gaming A15|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.monsternotebook.com.tr/products/asus-tuf-gaming-a15-intel-core-ultra-5
+SKU-VN-0003|The Gioi Di Dong - VN|Vietnam|ASUS|ROG Zephyrus G16|Intel Core Ultra 9|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.thegioididong.com/products/asus-rog-zephyrus-g16-intel-core-ultra-9
+SKU-VN-0004|The Gioi Di Dong - VN|Vietnam|Acer|Nitro 16|Intel Core i9|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.thegioididong.com/products/acer-nitro-16-intel-core-i9
+SKU-VN-0007|The Gioi Di Dong - VN|Vietnam|Apple|"MacBook Air 15"" M3"|Intel Core Ultra 5|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.thegioididong.com/products/apple-macbook-air-15-m3-intel-core-ultra-5
+SKU-VN-0008|The Gioi Di Dong - VN|Vietnam|Dell|XPS 16 (9640)|Intel Core i5|N|NO|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.thegioididong.com/products/dell-xps-16-9640--intel-core-i5
+|The Gioi Di Dong - VN|Vietnam|ASUS|ROG Strix SCAR 18|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.thegioididong.com/products/asus-rog-strix-scar-18-intel-core-ultra-7
+SKU-VN-0013|The Gioi Di Dong - VN|Vietnam|Samsung|Galaxy Book4 Ultra|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.thegioididong.com/products/samsung-galaxy-book4-ultra-intel-core-7
+SKU-VN-0016|The Gioi Di Dong - VN|Vietnam|Dell|Inspiron 15 (3520)|Intel Core Ultra 9|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.thegioididong.com/products/dell-inspiron-15-3520--intel-core-ultra-9
+SKU-VN-0017|The Gioi Di Dong - VN|Vietnam|HP|Pavilion Plus 14|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.thegioididong.com/products/hp-pavilion-plus-14-intel-core-i9
+SKU-VN-0020|The Gioi Di Dong - VN|Vietnam|Acer|Spin 5|Intel Core Ultra 5|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.thegioididong.com/products/acer-spin-5-intel-core-ultra-5
+SKU-VN-0021|The Gioi Di Dong - VN|Vietnam|Samsung|Galaxy Book4 Pro|Intel Core i5|N|NO||90|LISTING_ONLY (2-Rule)|https://www.thegioididong.com/products/samsung-galaxy-book4-pro-intel-core-i5
+SKU-VN-0025|The Gioi Di Dong - VN|Vietnam|HP|OMEN 16 Transcend|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.thegioididong.com/products/hp-omen-16-transcend-intel-core-i7
+SKU-VN-0026|The Gioi Di Dong - VN|Vietnam|Lenovo|ThinkBook 16 Gen 6|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.thegioididong.com/products/lenovo-thinkbook-16-gen-6-intel-core-7
+SKU-CL-0001|Mercado Libre - CL|Chile|Dell|XPS 16 (9640)|Intel Core Ultra 5|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.cl/products/dell-xps-16-9640--intel-core-ultra-5
+SKU-CL-0002|Mercado Libre - CL|Chile|HP|Envy x360 15|Intel Core i5|N|NO|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.cl/products/hp-envy-x360-15-intel-core-i5
+SKU-CL-0005|Mercado Libre - CL|Chile|Acer|TravelMate P6|Intel Core Ultra 7|Y|YES|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.cl/products/acer-travelmate-p6-intel-core-ultra-7
+SKU-CL-0007|Mercado Libre - CL|Chile|MSI|Raider GE78 HX|Intel Core 7|Y|YES|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.cl/products/msi-raider-ge78-hx-intel-core-7
+SKU-CL-0010|Mercado Libre - CL|Chile|HP|Pavilion Plus 14|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.cl/products/hp-pavilion-plus-14-intel-core-ultra-9
+|Mercado Libre - CL|Chile|Lenovo|Legion Pro 7i|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.cl/products/lenovo-legion-pro-7i-intel-core-i9
+SKU-CL-0014|Mercado Libre - CL|Chile|Samsung|Galaxy Book4 360|Intel Core Ultra 5|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.mercadolibre.cl/products/samsung-galaxy-book4-360-intel-core-ultra-5
+SKU-CL-0015|Mercado Libre - CL|Chile|MSI|Prestige 16 AI Evo|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.cl/products/msi-prestige-16-ai-evo-intel-core-i5
+SKU-CL-0019|Mercado Libre - CL|Chile|Lenovo|ThinkBook 16 Gen 6|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.cl/products/lenovo-thinkbook-16-gen-6-intel-core-i7
+SKU-CL-0020|Mercado Libre - CL|Chile|ASUS|ExpertBook B9|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.mercadolibre.cl/products/asus-expertbook-b9-intel-core-7
+SKU-CL-0023|Mercado Libre - CL|Chile|MSI|Cyborg 15|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.cl/products/msi-cyborg-15-intel-core-ultra-9
+SKU-CO-0001|Mercado Libre - CO|Colombia|Apple|"MacBook Pro 16"" M3 Max"|Intel Core 7|Y|YES|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.com.co/products/apple-macbook-pro-16-m3-max-intel-core-7
+SKU-CO-0004|Mercado Libre - CO|Colombia|Lenovo|Legion Pro 7i|Intel Core Ultra 9|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.com.co/products/lenovo-legion-pro-7i-intel-core-ultra-9
+SKU-CO-0005|Mercado Libre - CO|Colombia|ASUS|TUF Gaming A15|Intel Core i9|N|NO|83|90|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.com.co/products/asus-tuf-gaming-a15-intel-core-i9
+SKU-CO-0008|Mercado Libre - CO|Colombia|MSI|Cyborg 15|Intel Core Ultra 5|Y|YES|90|74|FULL_PDP_AUDIT (7-Rule)|https://www.mercadolibre.com.co/products/msi-cyborg-15-intel-core-ultra-5
+SKU-CO-0009|Mercado Libre - CO|Colombia|Apple|"MacBook Pro 16"" M3 Max"|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/apple-macbook-pro-16-m3-max-intel-core-i5
+SKU-CO-0013|Mercado Libre - CO|Colombia|ASUS|ExpertBook B9|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/asus-expertbook-b9-intel-core-i7
+SKU-CO-0014|Mercado Libre - CO|Colombia|Acer|Swift Go 14 AI|Intel Core 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/acer-swift-go-14-ai-intel-core-7
+SKU-CO-0017|Mercado Libre - CO|Colombia|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/apple-macbook-pro-16-m3-max-intel-core-ultra-9
+SKU-CO-0021|Mercado Libre - CO|Colombia|ASUS|Zenbook Duo (2024)|Intel Core Ultra 5|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/asus-zenbook-duo-2024--intel-core-ultra-5
+|Mercado Libre - CO|Colombia|Acer|Swift X 14|Intel Core i5|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/acer-swift-x-14-intel-core-i5
+SKU-CO-0025|Mercado Libre - CO|Colombia|Apple|"MacBook Pro 16"" M3 Max"|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/apple-macbook-pro-16-m3-max-intel-core-ultra-7
+SKU-CO-0026|Mercado Libre - CO|Colombia|Dell|Latitude 5540|Intel Core i7|N|NO||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/dell-latitude-5540-intel-core-i7
+SKU-CO-0027|Mercado Libre - CO|Colombia|HP|EliteBook 840 G10|Intel Core 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.mercadolibre.com.co/products/hp-elitebook-840-g10-intel-core-7
+SKU-ID-0002|Agres - ID|Indonesia|Apple|"MacBook Air 13"" M3"|Intel Core Ultra 5|Y|YES|90|94|FULL_PDP_AUDIT (7-Rule)|https://www.agres.id/products/apple-macbook-air-13-m3-intel-core-ultra-5
+SKU-ID-0003|Agres - ID|Indonesia|Dell|Inspiron 16 Plus (7640)|Intel Core i5|N|NO|86|92|FULL_PDP_AUDIT (7-Rule)|https://www.agres.id/products/dell-inspiron-16-plus-7640--intel-core-i5
+SKU-ID-0007|Agres - ID|Indonesia|Acer|Swift Go 14 AI|Intel Core i7|N|NO|86|88|FULL_PDP_AUDIT (7-Rule)|https://www.agres.id/products/acer-swift-go-14-ai-intel-core-i7
+SKU-ID-0008|Agres - ID|Indonesia|Samsung|Galaxy Book4 360|Intel Core 7|Y|YES||50|LISTING_ONLY (2-Rule)|https://www.agres.id/products/samsung-galaxy-book4-360-intel-core-7
+|Agres - ID|Indonesia|Dell|Alienware m16 R2|Intel Core Ultra 9|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.agres.id/products/dell-alienware-m16-r2-intel-core-ultra-9
+SKU-ID-0015|Agres - ID|Indonesia|Acer|Swift X 14|Intel Core Ultra 5|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.agres.id/products/acer-swift-x-14-intel-core-ultra-5
+SKU-ID-0016|Agres - ID|Indonesia|Samsung|Galaxy Book4 Ultra|Intel Core i5|N|NO||50|LISTING_ONLY (2-Rule)|https://www.agres.id/products/samsung-galaxy-book4-ultra-intel-core-i5
+SKU-ID-0019|Agres - ID|Indonesia|Dell|Latitude 5540|Intel Core Ultra 7|Y|YES||100|LISTING_ONLY (2-Rule)|https://www.agres.id/products/dell-latitude-5540-intel-core-ultra-7
+SKU-ID-0020|Agres - ID|Indonesia|HP|EliteBook 840 G10|Intel Core i7|N|NO||50|LISTING_ONLY (2-Rule)|https://www.agres.id/products/hp-elitebook-840-g10-intel-core-i7
+SKU-ID-0021|Agres - ID|Indonesia|Lenovo|ThinkPad X1 Carbon Gen 12|Intel Core 7|Y|YES||90|LISTING_ONLY (2-Rule)|https://www.agres.id/products/lenovo-thinkpad-x1-carbon-gen-12-intel-core-7
+SKU-ID-0025|Agres - ID|Indonesia|MSI|Prestige 16 AI Evo|Intel Core i9|N|NO||100|LISTING_ONLY (2-Rule)|https://www.agres.id/products/msi-prestige-16-ai-evo-intel-core-i9

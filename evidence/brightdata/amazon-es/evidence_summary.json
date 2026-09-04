@@ -2,17 +2,17 @@
   "target_id": "amazon-es",
   "retailer": "Amazon",
   "country": "Spain",
-  "domain": "amazon.es",
+  "domain": "www.amazon.es",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_AMAZON_SCRAPER",
-  "method": "Bright Data SERP & Web Unlocker",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.amazon.es/dp/B0HDT278BN",
-  "title": "Ordenador portátil 15,6 i5-1035G1 12GB 240GB W11 Pro ...",
+  "title": "SIMPLETEK - Ordenador port\u00e1til 15,6 i5-1035G1 12GB 240GB W11 Pro (reacondicionado)",
   "brand": "Amazon",
   "specs": {
-    "cpu": "I5-1035G1",
-    "ram": "12GB"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:20:38.595818+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

@@ -5,14 +5,14 @@
   "domain": "coupang.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Category\u2192Product",
-  "url": "https://coupang.com/vp/products/4843128862?itemId=6261566210&vendorItemId=93697015472&q=laptop&searchId=d0fb586a5713909&sourceType=search&itemsCount=60&searchRank=2&rank=2",
-  "title": "\uc0bc\uc131 \ub178\ud2b8\ubd81/NT200B5C/NT371B5J /I5 3320M 4G SSD128G/15.6\uc778\uce58 WIN10 Pro\ube14\ub799 \u00b7 NT371B5J \u00b7 128GB \u00b7 8GB \u00b7 WIN10 Pro",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://coupang.com/vp/products/4843128862",
+  "title": "Coupang Genuine Laptop Computer",
   "brand": "Coupang",
   "specs": {
-    "ram": "4GB",
-    "storage": "128GB"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:34:42.919993+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

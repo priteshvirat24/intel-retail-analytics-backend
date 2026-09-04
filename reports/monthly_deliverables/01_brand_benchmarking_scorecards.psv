@@ -1,0 +1,53 @@
+retailer|country|total_sample_n|intel_skus_n|laptop_score|laptop_sample_n|desktop_score|desktop_sample_n|brand_compliance_score|compliance_grade|listing_s_score|details_p_score
+Acer|Global|28|14|84.83|12|50|2|79.61|B (Compliant)|77.1|88
+Agres - ID|Indonesia|26|14|83.09|11|64.67|3|80.33|B (Compliant)|80.7|88
+Amazon - BR|Brazil|32|17|90.14|14|91.33|3|90.32|A (Exemplary)|87.6|87.5
+Amazon - CA|Canada|32|17|93|14|91.33|3|92.75|A (Exemplary)|90|87.5
+Amazon - DE|Germany|31|16|85.86|14|87|2|86.03|A (Exemplary)|83.1|87.7
+Amazon - ES|Spain|31|17|93|14|91.33|3|92.75|A (Exemplary)|90|87.5
+Amazon - FR|France|32|17|81.71|14|74.67|3|80.66|B (Compliant)|77.6|88.3
+Amazon - IN|India|33|18|89.5|16|97|2|90.62|A (Exemplary)|93.3|87.2
+Amazon - IT|Italy|30|16|84.46|13|64.67|3|81.49|B (Compliant)|83.1|87.5
+Amazon - MX|Mexico|30|16|85.38|13|66.67|3|82.58|B (Compliant)|80|87.6
+Amazon - UK|United Kingdom|33|18|81.33|15|72.67|3|80.03|B (Compliant)|78.9|88.3
+Amazon - US|United States|34|18|92.88|16|100|2|93.94|A (Exemplary)|93.3|87.2
+Best Buy - CA|Canada|30|16|87.38|13|81.33|3|86.48|A (Exemplary)|88.8|87
+Best Buy - US|United States|32|18|90|16|97|2|91.05|A (Exemplary)|93.3|87
+Boulanger - FR|France|28|14|89.17|12|75|2|87.04|A (Exemplary)|85|87.2
+Costco - US|United States|28|16|85.43|14|72|2|83.41|B (Compliant)|85.6|87.6
+Coupang - KR|South Korea|30|16|92.14|14|97|2|92.87|A (Exemplary)|95.6|87
+Currys - UK|United Kingdom|30|16|92.14|14|97|2|92.87|A (Exemplary)|95.6|87
+Dell|United States|30|16|88.77|13|91.33|3|89.15|A (Exemplary)|86.9|87.3
+Elgiganten - DK|Denmark|27|14|87.17|12|75|2|85.34|A (Exemplary)|85|86.3
+Elkjop - NO|Norway|28|16|92.77|13|81.33|3|91.05|A (Exemplary)|92.5|87.2
+Elkjop - SE|Sweden|28|15|80.92|13|50|2|76.28|B (Compliant)|74.7|88.4
+Euronics - IT|Italy|26|14|91.27|11|81.33|3|89.78|A (Exemplary)|91.4|87
+Expert - DE|Germany|27|15|93.57|14|100|1|94.54|A (Exemplary)|92|87.2
+Flipkart - IN|India|32|16|85.86|14|87|2|86.03|A (Exemplary)|83.1|87.7
+Fnac - FR|France|29|16|92.15|13|81.33|3|90.53|A (Exemplary)|92.5|87
+Gmarket - KR|South Korea|25|13|82.83|12|50|1|77.91|B (Compliant)|79.2|87.3
+HP|United States|30|16|84.46|13|72.67|3|82.69|B (Compliant)|83.1|87.9
+JB Hi-Fi - AU|Australia|31|17|81.71|14|66.67|3|79.46|B (Compliant)|77.6|88
+JD - CN|China|33|17|93|14|91.33|3|92.75|A (Exemplary)|90|87.5
+Komputronik - PL|Poland|29|17|86.4|15|72|2|84.24|B (Compliant)|86.5|87.6
+Lenovo|United States|31|17|95|14|98|3|95.45|A (Exemplary)|96.5|87
+Magazine Luiza - BR|Brazil|28|15|84.5|12|64.67|3|81.53|B (Compliant)|82|88
+MediaMarkt - DE|Germany|30|17|85.87|15|72|2|83.79|B (Compliant)|86.5|87.5
+MediaMarkt - ES|Spain|30|16|82.92|13|64.67|3|80.18|B (Compliant)|79.4|88.4
+MediaMarkt - TR|Turkey|29|16|85.69|13|64.67|3|82.54|B (Compliant)|83.1|88
+MediaWorld - IT|Italy|29|15|95.23|13|97|2|95.5|A (Exemplary)|96|87
+Mercado Libre - CL|Chile|26|14|91.27|11|81.33|3|89.78|A (Exemplary)|91.4|87
+Mercado Libre - CO|Colombia|27|15|93.08|13|75|2|90.37|A (Exemplary)|88.7|87.2
+Mercado Libre - MX|Mexico|28|16|88|13|81.33|3|87.0|A (Exemplary)|88.8|87
+Mercado Livre - BR|Brazil|29|15|94.62|13|97|2|94.97|A (Exemplary)|96|87
+Monster Notebook - TR|Turkey|26|14|95.5|12|97|2|95.72|A (Exemplary)|95.7|87.2
+Newegg - US|United States|30|17|82.29|14|66.67|3|79.94|B (Compliant)|77.6|88.4
+Officeworks - AU|Australia|27|15|97.17|12|81.33|3|94.79|A (Exemplary)|96|87.2
+Reliance Digital - IN|India|28|16|85.43|14|72|2|83.41|B (Compliant)|85.6|87.6
+Staples - US|United States|26|14|96.18|11|81.33|3|93.95|A (Exemplary)|95.7|87
+TERG / MediaExpert - PL|Poland|30|16|92.43|14|100|2|93.56|A (Exemplary)|92.5|87
+The Gioi Di Dong - VN|Vietnam|28|14|84.83|12|50|2|79.61|B (Compliant)|77.1|88
+Tmall - CN|China|24|13|81.6|10|64.67|3|79.06|B (Compliant)|79.2|88.7
+Unieuro - IT|Italy|27|14|84.83|12|50|2|79.61|B (Compliant)|77.1|88
+Walmart - US|United States|30|16|86.43|14|75|2|84.71|B (Compliant)|83.1|87.6
+Yodobashi - JP|Japan|30|16|93|14|100|2|94.05|A (Exemplary)|92.5|87

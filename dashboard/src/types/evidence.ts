@@ -143,6 +143,8 @@ export interface ScreenshotEvidence {
   screenshotTimestamp?: string | null;
   screenshotPageType?: EvidencePageType | null;
   storagePath?: string | null;
+  screenshotSha256?: string | null;
+  isSharedCapture?: boolean | null;
 }
 
 /**

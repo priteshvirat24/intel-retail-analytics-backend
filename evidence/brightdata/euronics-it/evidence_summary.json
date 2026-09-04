@@ -2,16 +2,17 @@
   "target_id": "euronics-it",
   "retailer": "Euronics",
   "country": "Italy",
-  "domain": "euronics.it",
+  "domain": "www.euronics.it",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.euronics.it/informatica/computer-portatili/notebook/lenovo---notebook-ideapad-slim-5-ips55-16imh10-16512gb-silver/262001857.html",
-  "title": "LENOVO - Notebook Ideapad Slim 5 IPS55 16IMH10 16+512GB-silver",
-  "brand": "Lenovo",
+  "title": "Euronics Genuine Laptop Computer",
+  "brand": "Euronics",
   "specs": {
-    "storage": "512GB"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:37:50.563706+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

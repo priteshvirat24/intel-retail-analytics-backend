@@ -2,17 +2,17 @@
   "target_id": "fnac-fr",
   "retailer": "Fnac",
   "country": "France",
-  "domain": "fnac.com",
+  "domain": "www.fnac.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.fnac.com/PC-Portable-Asus-Vivobook-18-M1807HA-DRFS8157W-18-OLED-144-Hz-AMD-Ryzen-7-16-Go-RAM-512-Go-SSD-Bleu/a22753760/w-4",
-  "title": "PC Portable Asus Vivobook 18 M1807HA-DRFS8157W 18\" OLED 144 Hz AMD Ryzen\u2122 7 16 Go RAM 512 Go SSD Bleu",
-  "brand": "ASUS",
+  "title": "Fnac Genuine Laptop Computer",
+  "brand": "Fnac",
   "specs": {
-    "ram": "16GB",
-    "storage": "512 GO SSD"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:44:42.626765+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

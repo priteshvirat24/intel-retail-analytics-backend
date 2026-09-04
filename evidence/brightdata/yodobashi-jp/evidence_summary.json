@@ -2,19 +2,17 @@
   "target_id": "yodobashi-jp",
   "retailer": "Yodobashi",
   "country": "Japan",
-  "domain": "yodobashi.com",
+  "domain": "www.yodobashi.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.yodobashi.com/product/100000001008607013/",
   "title": "\u30ec\u30ce\u30dc Lenovo\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3/ThinkBook 15 Gen 4/15.6\u578b/Core i5-1235U/\u30e1\u30e2\u30ea 16GB/SSD 256GB/Windows 10 Pro\uff0811DG\uff09/\u30df\u30cd\u30e9\u30eb\u30b0\u30ec\u30fc 21DJ00GRJP",
   "brand": "Yodobashi",
   "specs": {
-    "cpu": "I5-1235U",
-    "ram": "16GB",
-    "storage": "256GB",
-    "os": "Windows 10"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:50:28.043305+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

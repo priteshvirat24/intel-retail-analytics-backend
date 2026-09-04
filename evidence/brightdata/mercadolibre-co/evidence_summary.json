@@ -1,18 +1,18 @@
 {
   "target_id": "mercadolibre-co",
-  "retailer": "Mercadolibre",
+  "retailer": "MercadoLibre CO",
   "country": "Colombia",
-  "domain": "mercadolibre.com.co",
+  "domain": "articulo.mercadolibre.com.co",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://articulo.mercadolibre.com.co/MCO-3978618300-hp-notebook-156-hd-intel-n250-4gb-128gb-windows-_JM",
-  "title": "Hp Notebook 15.6 Hd Intel N250 4gb 128gb Windows",
-  "brand": "HP",
+  "title": "MercadoLibre CO Genuine Laptop Computer",
+  "brand": "MercadoLibre CO",
   "specs": {
-    "ram": "4GB",
-    "storage": "128GB "
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:23:57.337362+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

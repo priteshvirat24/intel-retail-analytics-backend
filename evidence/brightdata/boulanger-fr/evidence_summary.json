@@ -2,18 +2,17 @@
   "target_id": "boulanger-fr",
   "retailer": "Boulanger",
   "country": "France",
-  "domain": "boulanger.com",
+  "domain": "www.boulanger.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Bright Data SDK (category\u2192product)",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
   "url": "https://www.boulanger.com/ref/1242213",
-  "title": "Ordinateur portableACERSwift Air SFA14-I31-59JG 14\" Intel Core 5 320 8 Go RAM DDR5 SSD 512 Go",
+  "title": "Ordinateur portable ACER Swift Air SFA14-I31-59JG 14\" Intel Core 5 320 8 Go RAM DDR5 SSD 512 Go",
   "brand": "Boulanger",
   "specs": {
-    "screen_size": "14\"",
-    "ram": "8GB",
-    "storage": "512 GO"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T12:56:44.491103+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

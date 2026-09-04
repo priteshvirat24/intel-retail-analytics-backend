@@ -8,11 +8,11 @@ console.log('====================================================\n');
 
 // 1. Total SKU Dataset Verification
 console.log(`[TEST 1] Loaded dataset with ${LIVE_52_SKU_DATASET.length} SKUs across 52 retailers.`);
-if (LIVE_52_SKU_DATASET.length !== 1518) {
-  console.error(`❌ Expected 1518 SKUs, found ${LIVE_52_SKU_DATASET.length}`);
+if (LIVE_52_SKU_DATASET.length !== 1560) {
+  console.error(`❌ Expected 1560 SKUs, found ${LIVE_52_SKU_DATASET.length}`);
   process.exit(1);
 }
-console.log('✅ TEST 1: Real 1,518 SKU dataset successfully loaded.');
+console.log('✅ TEST 1: Real 1,560 SKU dataset successfully loaded.');
 
 // 2. Evidence ID Collision & Invariant Audit
 console.log('[TEST 2] Auditing Evidence ID uniqueness and 1:1 invariants...');
@@ -188,25 +188,25 @@ console.log('[TEST 9] Validating explicit denominator metrics and scorecard vs c
 const health = EvidenceService.getEvidenceCompleteness(LIVE_52_SKU_DATASET);
 
 console.log(`\n--- AUDITED METRIC DENOMINATORS ---`);
-console.log(`Scorecard Component Scope (S1..P5):  ${health.scorecard_component_records.toLocaleString()} (1,518 SKUs * 7)`);
-console.log(`Commercial Price Audit Scope (PRICE): ${health.commercial_price_records.toLocaleString()} (1,518 SKUs * 1)`);
-console.log(`Total Combined Evaluated Records:    ${health.total_score_records.toLocaleString()} (1,518 SKUs * 8)`);
+console.log(`Scorecard Component Scope (S1..P5):  ${health.scorecard_component_records.toLocaleString()} (1,560 SKUs * 7)`);
+console.log(`Commercial Price Audit Scope (PRICE): ${health.commercial_price_records.toLocaleString()} (1,560 SKUs * 1)`);
+console.log(`Total Combined Evaluated Records:    ${health.total_score_records.toLocaleString()} (1,560 SKUs * 8)`);
 console.log(`Scorecard Compliance Coverage:       ${health.scorecard_coverage_pct}%`);
 console.log(`Total Evaluation Coverage:           ${health.verification_coverage_pct}%`);
 console.log(`Source URL Provenance:               ${health.source_url_coverage_pct}%`);
 console.log(`Timestamp Lineage:                   ${health.timestamp_coverage_pct}%`);
 console.log(`Screenshot Visual Evidence:          ${health.screenshot_coverage_pct}%\n`);
 
-if (health.scorecard_component_records !== 1518 * 7) {
-  console.error(`❌ Scorecard component count mismatch: expected ${1518 * 7}, got ${health.scorecard_component_records}`);
+if (health.scorecard_component_records !== 1560 * 7) {
+  console.error(`❌ Scorecard component count mismatch: expected ${1560 * 7}, got ${health.scorecard_component_records}`);
   process.exit(1);
 }
-if (health.commercial_price_records !== 1518 * 1) {
-  console.error(`❌ Commercial price count mismatch: expected 1518, got ${health.commercial_price_records}`);
+if (health.commercial_price_records !== 1560 * 1) {
+  console.error(`❌ Commercial price count mismatch: expected 1560, got ${health.commercial_price_records}`);
   process.exit(1);
 }
-if (health.total_score_records !== 1518 * 8) {
-  console.error(`❌ Total score records mismatch: expected ${1518 * 8}, got ${health.total_score_records}`);
+if (health.total_score_records !== 1560 * 8) {
+  console.error(`❌ Total score records mismatch: expected ${1560 * 8}, got ${health.total_score_records}`);
   process.exit(1);
 }
 console.log('✅ TEST 9: Dynamic completeness & explicit denominator metrics verified mathematically.');

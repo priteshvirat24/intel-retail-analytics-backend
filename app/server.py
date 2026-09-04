@@ -167,7 +167,7 @@ async def get_overview(pool: Optional[asyncpg.Pool] = Depends(get_db_pool)):
             SELECT COUNT(*) FROM laptops_catalog WHERE screenshot_url IS NOT NULL OR screenshot_path IS NOT NULL
         """) or 0
 
-        last_update = await conn.fetchval("SELECT MAX(extraction_timestamp) FROM laptops_catalog")
+        last_updated_val = last_update.isoformat() if hasattr(last_update, "isoformat") else (str(last_update) if last_update else datetime.now(timezone.utc).isoformat())
 
     return {
         "total_accounts": total_retailers,
@@ -189,7 +189,7 @@ async def get_overview(pool: Optional[asyncpg.Pool] = Depends(get_db_pool)):
         "cache_hit_rate": 84.5,
         "crawl_success_rate": 100.0,
         "evidence_verification_coverage": round((evidence_count / total_skus) * 100, 1) if total_skus > 0 else 0.0,
-        "last_updated": last_update.isoformat() if last_update else datetime.now(timezone.utc).isoformat()
+        "last_updated": last_updated_val
     }
 
 # ==========================================
@@ -764,7 +764,8 @@ async def get_product_evidence_v1(product_id: str, pool: Optional[asyncpg.Pool] 
     p = dict(row)
     account_slug = p["account"].lower().replace(" ", "-")
     sku_key = f"{account_slug}-{p['product_id']}"
-    ts = p["extraction_timestamp"].isoformat() if p["extraction_timestamp"] else "2026-08-28T18:00:00Z"
+    raw_ts = p["extraction_timestamp"]
+    ts = raw_ts.isoformat() if hasattr(raw_ts, "isoformat") else (str(raw_ts) if raw_ts else "2026-08-28T18:00:00Z")
     method = p["extraction_method"] or "Bright Data"
     screenshot = p["screenshot_url"] or p["screenshot_path"]
 

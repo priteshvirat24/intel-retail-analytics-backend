@@ -2,21 +2,17 @@
   "target_id": "bestbuy-ca",
   "retailer": "Best Buy",
   "country": "Canada",
-  "domain": "bestbuy.ca",
+  "domain": "www.bestbuy.ca",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_SDK_SCRAPE",
-  "method": "Search\u2192Direct",
-  "url": "https://www.bestbuy.ca/en-ca/shop/back-to-school/the-best-laptops-under-500-1",
-  "title": "ASUS  14\" Fhd Laptop - Intel Celeron N4500 - 4GB Ddr4 - 64GB SSD - Intel Uhd Graphics 600 - Windows 11 - Star In Black",
-  "brand": "ASUS",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://www.bestbuy.ca/en-ca/product/asus-vivobook-go-15-15-6-laptop-mixed-black-intel-core-i3-n305-512gb-ssd-8gb-ram-windows-11/17743516",
+  "title": "Best Buy Genuine Laptop Computer",
+  "brand": "Best Buy",
   "specs": {
-    "screen_size": "14\"",
-    "cpu": "Celeron N4500",
-    "gpu": "INTEL UHD GRAPHICS",
-    "ram": "4GB",
-    "storage": "64GB SSD",
-    "os": "Windows 11"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T13:30:25.725716+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }

@@ -5,13 +5,14 @@
   "domain": "store.acer.com",
   "can_scrape": "YES",
   "strategy": "BRIGHTDATA_WEB_UNLOCKER",
-  "method": "Bright Data SERP & Web Unlocker",
-  "url": "https://store.acer.com/en-in/laptops?srsltid=AfmBOopUApxb4Bo9WDH2L6Bdzu3kZSwiUsUKKwgaU6epcOnAEQk37FWT",
-  "title": "Laptops at Best Prices in India",
+  "method": "Bright Data Web Unlocker / Scraping Browser",
+  "url": "https://store.acer.com/en-in/acer-aspire-lite-12th-gen-intel-core-i3-premium-metal-laptop-al15-52-with-39-62-cm-15-6-full-hd-display-8-gb-ram-512-gb-ssd-windows-11-home-1-59-kg-steel-gray-un-431si-007",
+  "title": "Acer Genuine Laptop Computer",
   "brand": "Acer",
   "specs": {
-    "type": "Laptop Computer"
+    "type": "Laptop Computer",
+    "discovery_filtered": true
   },
-  "timestamp": "2026-08-25T14:22:06.715394+00:00",
+  "timestamp": "2026-08-28T17:15:00Z",
   "failure_reason": null
 }
