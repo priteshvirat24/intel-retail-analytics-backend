@@ -39,7 +39,7 @@
       },
       "position": "HERO_CAROUSEL_SLIDE_1",
       "screenshot_file": "banner_bestbuy_intel_ultra.png",
-      "screenshot_svg_path": "poc_data/screenshots/banner_bestbuy_intel_ultra.svg"
+      "screenshot_svg_path": ""
     },
     {
       "banner_id": "ban_walmart_01",
@@ -60,7 +60,7 @@
       },
       "position": "DEPT_BANNER_ROW_1",
       "screenshot_file": "banner_walmart_intel_rollback.png",
-      "screenshot_svg_path": "poc_data/screenshots/banner_walmart_intel_rollback.svg"
+      "screenshot_svg_path": ""
     },
     {
       "banner_id": "ban_costco_01",
@@ -81,7 +81,7 @@
       },
       "position": "HOMEPAGE_OFFER_SLIDE_2",
       "screenshot_file": "banner_costco_xps_ultra.png",
-      "screenshot_svg_path": "poc_data/screenshots/banner_costco_xps_ultra.svg"
+      "screenshot_svg_path": ""
     },
     {
       "banner_id": "ban_amazon_01",
@@ -102,7 +102,7 @@
       },
       "position": "TOP_SPONSORED_STRIP",
       "screenshot_file": "banner_amazon_pc_store.png",
-      "screenshot_svg_path": "poc_data/screenshots/banner_amazon_pc_store.svg"
+      "screenshot_svg_path": ""
     },
     {
       "banner_id": "ban_dell_01",
@@ -123,7 +123,7 @@
       },
       "position": "HERO_BANNER_DELL_MAIN",
       "screenshot_file": "banner_dell_xps_ultra.png",
-      "screenshot_svg_path": "poc_data/screenshots/banner_dell_xps_ultra.svg"
+      "screenshot_svg_path": ""
     },
     {
       "banner_id": "ban_hp_01",
@@ -144,7 +144,7 @@
       },
       "position": "HOMEPAGE_FEATURE_SLIDE_1",
       "screenshot_file": "banner_hp_omen_envy.png",
-      "screenshot_svg_path": "poc_data/screenshots/banner_hp_omen_envy.svg"
+      "screenshot_svg_path": ""
     }
   ]
 }

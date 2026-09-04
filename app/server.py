@@ -13,6 +13,7 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI, HTTPException, Query, Depends, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
+import asyncio
 import asyncpg
 from pydantic import BaseModel, Field
 
@@ -36,16 +37,19 @@ async def lifespan(app: FastAPI):
     global db_pool
     logger.info("Initializing Neon PostgreSQL connection pool...")
     try:
-        db_pool = await asyncpg.create_pool(
-            dsn=DATABASE_URL,
-            min_size=2,
-            max_size=10,
-            command_timeout=30.0,
-            ssl="require" if "sslmode=require" in DATABASE_URL else None
+        db_pool = await asyncio.wait_for(
+            asyncpg.create_pool(
+                dsn=DATABASE_URL,
+                min_size=1,
+                max_size=10,
+                command_timeout=30.0,
+                ssl="require" if "sslmode=require" in DATABASE_URL else None
+            ),
+            timeout=5.0
         )
         logger.info("Neon PostgreSQL connection pool established successfully.")
     except Exception as e:
-        logger.error(f"Failed to connect to Neon PostgreSQL: {e}")
+        logger.warning(f"Could not connect to Neon PostgreSQL directly: {e}. Running in standalone mode.")
         db_pool = None
     yield
     if db_pool:

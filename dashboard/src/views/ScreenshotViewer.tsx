@@ -80,11 +80,11 @@ export const ScreenshotViewer: React.FC<ScreenshotViewerProps> = ({ screenshotIn
             >
               <div className="bg-slate-950 p-2 border-b border-slate-800 flex items-center justify-center min-h-[160px] relative overflow-hidden">
                 <img
-                  src={item.file ? (item.file.startsWith('/') ? item.file : `/evidence/screenshots/${item.file}`) : (item.screenshot_url || item.image_url || 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80')}
+                  src={item.file ? (item.file.startsWith('/') ? item.file : `/evidence/screenshots/${item.file}`) : (item.screenshot_url || '')}
                   alt={item.title}
                   className="w-full h-auto rounded-lg object-contain max-h-[180px] group-hover:scale-105 transition-transform duration-300"
                   onError={(e: any) => {
-                    e.target.src = 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80';
+                    e.currentTarget.style.display = 'none';
                   }}
                 />
                 <div className="absolute inset-0 bg-intel-blue/20 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">

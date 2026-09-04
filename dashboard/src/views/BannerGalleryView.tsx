@@ -84,16 +84,11 @@ export const BannerGalleryView: React.FC<BannerGalleryViewProps> = ({ bannerData
               key={b.banner_id}
               className="glass-panel rounded-2xl overflow-hidden border border-slate-800 hover:border-slate-700 transition-all flex flex-col justify-between shadow-xl"
             >
-              {/* Banner Render / Mock Image */}
-              <div className="bg-slate-950 p-2 border-b border-slate-800">
-                <img
-                  src={`/screenshots/${b.screenshot_file.replace('.png', '.svg')}`}
-                  alt={`Banner ${b.banner_id}`}
-                  className="w-full h-auto rounded-lg object-contain max-h-[220px]"
-                  onError={(e: any) => {
-                    e.target.src = 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&auto=format&fit=crop&q=80';
-                  }}
-                />
+              {/* Banner Render */}
+              <div className="bg-slate-950 p-6 border-b border-slate-800 flex flex-col items-center justify-center min-h-[160px] text-center space-y-2">
+                <div className="text-sm font-bold text-white tracking-wide">{b.headline || b.retailer}</div>
+                <div className="text-xs text-slate-400 max-w-sm">{b.subheadline || `Promotional Banner • ${b.brand}`}</div>
+                <span className="text-[10px] font-mono text-slate-500 bg-slate-900 px-2 py-0.5 rounded">ID: {b.banner_id}</span>
               </div>
 
               {/* Banner Details */}

@@ -113,15 +113,22 @@ export const BannerTrackingView: React.FC = () => {
                 className="ent-card rounded-2xl overflow-hidden hover:shadow-md transition-all cursor-pointer flex flex-col justify-between"
               >
                 <div>
-                  <div className="h-44 bg-slate-100 relative overflow-hidden flex items-center justify-center border-b border-slate-100">
-                    <img
-                      src={b.screenshot}
-                      alt={b.account}
-                      className="w-full h-full object-cover"
-                      onError={(e: any) => {
-                        e.target.src = 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&auto=format&fit=crop&q=80';
-                      }}
-                    />
+                  <div className="h-44 bg-slate-900 relative overflow-hidden flex items-center justify-center border-b border-slate-100">
+                    {b.screenshot ? (
+                      <img
+                        src={b.screenshot}
+                        alt={b.account}
+                        className="w-full h-full object-cover"
+                        onError={(e: any) => {
+                          e.currentTarget.style.display = 'none';
+                        }}
+                      />
+                    ) : (
+                      <div className="flex flex-col items-center justify-center text-slate-400 p-4 space-y-1">
+                        <Image className="w-8 h-8 text-intel-blue/60" />
+                        <span className="text-[11px] font-mono text-slate-400">{b.account} • {b.banner_brand}</span>
+                      </div>
+                    )}
                     <div className="absolute top-2 left-2 flex items-center space-x-1">
                       <span className={`px-2 py-0.5 rounded text-[10px] font-bold ${
                         isIntel ? 'bg-intel-blue text-white' : 'bg-slate-900 text-white'

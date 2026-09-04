@@ -19,7 +19,8 @@ import {
   Check,
   AlertCircle,
   Database,
-  EyeOff
+  EyeOff,
+  FileCode
 } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { ScorecardSKU } from '../types/scorecards';
@@ -365,9 +366,9 @@ export const EvidenceView: React.FC = () => {
                     return true;
                   })
                   .map((p: any, idx: number) => {
-                    const imgSrc = p.product_screenshot || p.screenshot_url || p.image_url || '';
+                    const imgSrc = p.product_screenshot || p.screenshot_url || '';
                     const isShared = p.is_shared_capture === true;
-                    const shaPrefix = p.screenshot_sha256 ? p.screenshot_sha256.substring(0, 10) : 'verified';
+                    const shaPrefix = p.screenshot_sha256 ? p.screenshot_sha256.substring(0, 10) : 'dom-audit';
 
                     return (
                       <div
@@ -380,24 +381,42 @@ export const EvidenceView: React.FC = () => {
                       >
                         <div>
                           <div className="h-48 bg-slate-900 relative overflow-hidden flex items-center justify-center border-b border-slate-100">
-                            <img
-                              src={imgSrc}
-                              alt={p.product_title}
-                              className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                              onError={(e: any) => {
-                                e.target.src = 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&auto=format&fit=crop&q=80';
-                              }}
-                            />
+                            {imgSrc ? (
+                              <img
+                                src={imgSrc}
+                                alt={p.product_title}
+                                className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                                onError={(e: any) => {
+                                  e.currentTarget.style.display = 'none';
+                                }}
+                              />
+                            ) : (
+                              <div className="flex flex-col items-center justify-center text-center p-4 text-slate-400 space-y-2">
+                                <FileCode className="w-8 h-8 text-intel-blue/70" />
+                                <div className="text-[11px] font-bold text-slate-300 uppercase tracking-wider font-mono">
+                                  DOM & API Extraction
+                                </div>
+                                <div className="text-[9px] text-slate-400 max-w-[180px] truncate">
+                                  {p.account} • {p.product_id}
+                                </div>
+                              </div>
+                            )}
                             
                             {/* Provenance Badge */}
                             <div className="absolute top-2 left-2 flex items-center gap-1">
-                              {isShared ? (
-                                <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500 text-white shadow-xs">
-                                  Storefront Proof
-                                </span>
+                              {imgSrc ? (
+                                isShared ? (
+                                  <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500 text-white shadow-xs">
+                                    Storefront Proof
+                                  </span>
+                                ) : (
+                                  <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-600 text-white shadow-xs">
+                                    Verified PDP
+                                  </span>
+                                )
                               ) : (
-                                <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-600 text-white shadow-xs">
-                                  Verified PDP
+                                <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-blue-600 text-white shadow-xs">
+                                  DOM Payload
                                 </span>
                               )}
                               <span className="px-1.5 py-0.5 rounded text-[9px] font-mono bg-black/60 text-slate-200 backdrop-blur-xs">

@@ -159,7 +159,7 @@
         "all_flags_pass": false
       },
       "compliance_score": 85.7,
-      "screenshot_pdp_path": "poc_data/screenshots/pdp_bb_dell_xps14_u7.svg"
+      "screenshot_pdp_path": ""
     },
     {
       "sku_id": "co_lenovo_slim7i_u7",
@@ -262,7 +262,7 @@
         "all_flags_pass": false
       },
       "compliance_score": 85.7,
-      "screenshot_pdp_path": "poc_data/screenshots/pdp_co_lenovo_slim7i_u7.svg"
+      "screenshot_pdp_path": ""
     },
     {
       "sku_id": "amz_acer_swift_u7",
@@ -364,7 +364,7 @@
         "all_flags_pass": false
       },
       "compliance_score": 85.7,
-      "screenshot_pdp_path": "poc_data/screenshots/pdp_amz_acer_swift_u7.svg"
+      "screenshot_pdp_path": ""
     },
     {
       "sku_id": "dell_xps16_u9",
@@ -465,7 +465,7 @@
         "all_flags_pass": false
       },
       "compliance_score": 85.7,
-      "screenshot_pdp_path": "poc_data/screenshots/pdp_dell_xps16_u9.svg"
+      "screenshot_pdp_path": ""
     },
     {
       "sku_id": "hp_spectre_x360_u7",
@@ -568,7 +568,7 @@
         "all_flags_pass": false
       },
       "compliance_score": 85.7,
-      "screenshot_pdp_path": "poc_data/screenshots/pdp_hp_spectre_x360_u7.svg"
+      "screenshot_pdp_path": ""
     }
   ]
 }

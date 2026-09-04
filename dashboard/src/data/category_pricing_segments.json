@@ -113,7 +113,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_bb_dell_xps14_u7.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "co_lenovo_slim7i_u7",
@@ -216,7 +216,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_co_lenovo_slim7i_u7.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "co_hp_envy_r7_ai",
@@ -304,7 +304,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 42.9,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_co_hp_envy_r7_ai.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "amz_acer_swift_u7",
@@ -406,7 +406,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_amz_acer_swift_u7.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "amz_surface_pro11_snap",
@@ -493,7 +493,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 42.9,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_amz_surface_pro11_snap.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "dell_xps16_u9",
@@ -594,7 +594,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_dell_xps16_u9.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "hp_spectre_x360_u7",
@@ -697,7 +697,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_hp_spectre_x360_u7.svg"
+          "screenshot_pdp_path": ""
         }
       ]
     },
@@ -800,7 +800,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 42.9,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_amz_apple_mba_m3.svg"
+          "screenshot_pdp_path": ""
         }
       ]
     },
@@ -916,7 +916,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_bb_asus_g16_u9.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "wm_lenovo_loq_i5",
@@ -1012,7 +1012,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_wm_lenovo_loq_i5.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "amz_cyberpower_i5",
@@ -1108,7 +1108,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_amz_cyberpower_i5.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "dell_alienware_r16_i9",
@@ -1204,7 +1204,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_dell_alienware_r16_i9.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "hp_omen_45l_i7",
@@ -1300,7 +1300,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_hp_omen_45l_i7.svg"
+          "screenshot_pdp_path": ""
         }
       ]
     },
@@ -1412,7 +1412,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_bb_hp_envy_desk_i7.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "wm_hp_pavilion_i5",
@@ -1508,7 +1508,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_wm_hp_pavilion_i5.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "wm_asus_vivo_r7",
@@ -1596,7 +1596,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 42.9,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_wm_asus_vivo_r7.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "co_dell_insp_desk_i5",
@@ -1692,7 +1692,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_co_dell_insp_desk_i5.svg"
+          "screenshot_pdp_path": ""
         },
         {
           "sku_id": "dell_latitude_5440_i5",
@@ -1789,7 +1789,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 85.7,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_dell_latitude_5440_i5.svg"
+          "screenshot_pdp_path": ""
         }
       ]
     },
@@ -1893,7 +1893,7 @@
             "all_flags_pass": false
           },
           "compliance_score": 42.9,
-          "screenshot_pdp_path": "poc_data/screenshots/pdp_bb_lenovo_slim3_r5.svg"
+          "screenshot_pdp_path": ""
         }
       ]
     }
